@@ -100,7 +100,7 @@ medi.df %>% dplyr::sample_n(1000) %>% DT::datatable()
 
 Here we try to calculated the unique number of medications, diseases, and indications for each resource:
 
-```{r}
+```{r, results='asis'}
 # Create a count table for each resource, hps subset, and general dataset.
 count.df <- 
   # unique medications
@@ -132,7 +132,7 @@ count.df <-
     hps_count.df)
 
 # Display the count table
-count.df %>% DT::datatable()
+count.df %>% knitr::kable()
 ```
 
 We compare our counts to the corresponding [table from the manuscript](http://dx.doi.org/10.1136/amiajnl-2012-001431#T1):
