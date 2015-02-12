@@ -1,0 +1,182 @@
+---
+title: "Parsing MEDI"
+author: "Daniel Himmelstein, Leo Brueggeman, Sergio Baranzini"
+date: "February 11, 2015"
+output:
+  html_document:
+    theme: cosmo
+    highlight: pygments
+bibliography: references.bib
+---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(
+  fig.width = 10,
+  fig.path = 'figures/',
+  warning = FALSE,
+  message = FALSE,
+  fig.retina = 2
+)
+```
+
+```{r, include=FALSE}
+# Set up citation management
+library(knitcitations)
+knitcitations::cleanbib()
+knitcitations::cite_options(citation_format = 'pandoc', cite.style = 'authoryear', hyperlink = 'to.bib', super = TRUE)
+```
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(magrittr)
+library(DT)
+
+options(stringsAsFactors = FALSE)
+
+write.delim <- function(x, file, sep='\t', quote = FALSE, row.names=FALSE, na = '', ...) {
+  write.table(x = x, file = file, sep=sep, quote=quote, row.names=row.names, na=na, ...)
+}
+```
+
+Here, we parse the MEDI resource `r knitcitations::citep('10.1136/amiajnl-2012-001431')`, which can be [downloaded here](http://knowledgemap.mc.vanderbilt.edu/research/content/MEDI). The resource is described (unless noted, blockquotes refer to material from the [MEDI publication](http://dx.doi.org/10.1136/amiajnl-2012-001431)):
+
+> We processed four public medication resources, RxNorm, Side Effect Resource (SIDER) 2, MedlinePlus, and Wikipedia, to create MEDI. We applied natural language processing and ontology relationships to extract indications for prescribable, single-ingredient medication concepts and all ingredient concepts as defined by RxNorm. Indications were coded as Unified Medical Language System (UMLS) concepts and International Classification of Diseases, 9th edition (ICD9) codes. A total of 689 extracted indications were randomly selected for manual review for accuracy using dual-physician review. We identified a subset of medication–indication pairs that optimizes recall while maintaining high precision.
+
+## High precision subset (HPS)
+<a name="parse-hps"></a>
+
+> The MEDI high-precision subset (MEDI-HPS) includes indications found within either RxNorm or at least two of the three other resources. MEDI-HPS contains 13,304 unique indication pairs regarding 2,136 medications. The mean±SD number of indications for each medication in MEDI-HPS is 6.22±6.09. The estimated precision of MEDI-HPS is 92%.
+
+```{r}
+# Read the HPS dataset
+hps.df <- file.path('download', 'MEDI_01212013_HPS_0.csv') %>%
+  read.csv(blank.lines.skip = TRUE, colClasses = 'character') %>%
+  dplyr::transmute(
+    rxnorm_id = RXCUI_IN,
+    drug_name = DRUG_DESC,
+    disease_icd9 = ICD9,
+    disease_name = INDICATION_DESCRIPTION,
+    on_label = as.integer(POSSIBLE_LABEL_USE)
+    )
+
+# Calculate HPS counts
+hps_count.df <- hps.df %>%
+  dplyr::distinct(rxnorm_id, disease_icd9) %>%
+  dplyr::summarize(
+    resource = 'hps',
+    medications = n_distinct(rxnorm_id),
+    diseases = n_distinct(disease_icd9),
+    indications = n())
+
+# Display the HPS
+hps.df %>% DT::datatable()
+```
+
+## All Indications
+
+> MEDI contains 3,112 medications and 63,343 medication–indication pairs. Wikipedia was the largest resource, with 2608 medications and 34,911 pairs. For each resource, estimated precision and recall, respectively, were 94% and 20% for RxNorm, 75% and 33% for MedlinePlus, 67% and 31% for SIDER 2, and 56% and 51% for Wikipedia.
+
+```{r}
+# Read the general dataset
+medi.df <- file.path('download', 'MEDI_01212013_UMLS.csv.gz') %>%
+  read.csv(blank.lines.skip = TRUE, colClasses = 'character') %>%
+  dplyr::transmute(
+    rxnorm_id = RXCUI_IN,
+    drug_name = DRUG_DESC,
+    disease_cui = UMLS_CUI,
+    disease_icd9 = ICD9,
+    disease_name = INDICATION_DESCRIPTION,
+    resource = MENTIONEDBYRESOURCES,
+    hps = as.integer(HIGHPRECISIONSUBSET),
+    on_label = as.integer(POSSIBLE_LABEL_USE)
+    )
+
+# Display 1000 rows of the general dataset
+medi.df %>% dplyr::sample_n(1000) %>% DT::datatable()
+```
+
+### Resource-specific counts <a name="resource-counts"></a>
+
+Here we try to calculated the unique number of medications, diseases, and indications for each resource:
+
+```{r}
+# Create a count table for each resource, hps subset, and general dataset.
+count.df <- 
+  # unique medications
+  medi.df %>%
+    dplyr::distinct(rxnorm_id, disease_icd9, resource) %>%
+    dplyr::group_by(resource) %>%
+    dplyr::summarize(medications = n_distinct(rxnorm_id)) %>%
+  dplyr::left_join(
+    # unique diseases
+    y = medi.df %>%
+      dplyr::distinct(rxnorm_id, disease_icd9, resource) %>%
+      dplyr::group_by(resource) %>%
+      dplyr::summarize(diseases = n_distinct(disease_icd9))) %>%
+  dplyr::left_join(
+    # unique indications
+    y = medi.df %>%
+      dplyr::distinct(rxnorm_id, disease_icd9, resource) %>%
+      dplyr::group_by(resource) %>%
+      dplyr::summarize(indications = n())) %>%
+  dplyr::bind_rows(
+    # union of all resources
+    medi.df %>%
+      dplyr::distinct(rxnorm_id, disease_icd9, resource) %>%
+      dplyr::summarize(
+        resource = 'all',
+        medications = n_distinct(rxnorm_id),
+        diseases = n_distinct(disease_icd9),
+        indications = n()), 
+    hps_count.df)
+
+# Display the count table
+count.df %>% DT::datatable()
+```
+
+We compare our counts to the corresponding [table from the manuscript](http://dx.doi.org/10.1136/amiajnl-2012-001431#T1):
+
+> **Table 2**: Number of unique medications, ICD9 codes, and indication pairs extracted from each resource
+>
+| Resource               | Medications (% of total) | ICD9 codes (% of total) | Indication pairs (% of total) |
+|------------------------|--------------------------|-------------------------|-------------------------------|
+| RxNorm                 | 1726 (56)                | 999 (33)                | 8040 (13)                     |
+| SIDER 2                | 1554 (50)                | 1703 (57)               | 17702 (28)                    |
+| MedlinePlus            | 1629 (52)                | 869 (29)                | 16581(26)                     |
+| Wikipedia              | 2608 (84)                | 2624 (87)               | 34911 (55)                    |
+| Union of all resources | 3112                     | 3009                    | 63343                         |
+
+Our analysis finds different resource-specific counts, but agrees with the combined counts.
+
+## Prevalence
+
+A [seperate analysis](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900157/) identified indication prevalence for the MEDI indications [@Wei_2013_AMIA]. MEDI appeared to have good medication coverage:
+
+> MEDI covered 97.3% of medications recorded in medical records. The "high precision subset" of MEDI covered 93.8% of recorded medications.
+
+```{r}
+# Read the prevalence information for each indication
+prev.df <- file.path('download', 'MEDI_wPrevalence_Published.csv.gz') %>%
+  read.csv(blank.lines.skip = TRUE, colClasses = 'character') %>%
+  dplyr::transmute(
+    rxnorm_id = RXCUI_IN,
+    drug_name = DRUG_DESC,
+    disease_icd9 = ICD9,
+    disease_name = ICD9_STR,
+    hps = as.integer(HSP),
+    prevalance = as.numeric(PREVALENCE)
+    )
+
+# collapse by indications (disease-drug pairs) and display 1000 rows
+prev.df %>%
+  dplyr::filter(! is.na(prevalance))  %>%
+  dplyr::group_by(disease_icd9, rxnorm_id)  %>%
+  dplyr::summarize(prevalance = mean(prevalance)) %>% 
+  dplyr::sample_n(1000) %>% DT::datatable()
+```
+
+# References
+```{r, include=FALSE}
+knitcitations::write.bibtex(file = 'references.bib', append = TRUE)
+```
