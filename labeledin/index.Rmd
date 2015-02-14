@@ -6,6 +6,10 @@ output:
   html_document:
     theme: cosmo
     highlight: pygments
+    includes:
+      in_header: ../include/in_header.html
+      before_body: ../include/before_body.html
+      after_body: ../include/after_body.html
 bibliography: references.bib
 ---
 

@@ -6,6 +6,10 @@ output:
   html_document:
     theme: cosmo
     highlight: pygments
+    includes:
+      in_header: ../include/in_header.html
+      before_body: ../include/before_body.html
+      after_body: ../include/after_body.html
 bibliography: references.bib
 ---
 
@@ -147,7 +151,9 @@ We compare our counts to the corresponding [table from the manuscript](http://dx
 | Wikipedia              | 2608 (84)                | 2624 (87)               | 34911 (55)                    |
 | Union of all resources | 3112                     | 3009                    | 63343                         |
 
-Our analysis finds different resource-specific counts, but agrees with the combined counts.
+Our analysis finds different resource-specific counts, but agrees with the combined counts. The high precision subset counts are very similar although different:
+
+> Thus, to optimize recall while maintaining reasonable precision, we defined the MEDI high-precision subset (MEDI-HPS) as the indications found within either at least two of the four resources or RxNorm. The current version of MEDI-HPS contains 13 304 unique indication pairs for 2136 medications. The mean number of indications for each medication is 6.22±6.09. The mode for each medication is 2, while the median is 4.
 
 ## Prevalence
 
