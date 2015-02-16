@@ -10,6 +10,7 @@ output:
       in_header: ../include/in_header.html
       before_body: ../include/before_body.html
       after_body: ../include/after_body.html
+csl: ../cite-styles/plos-mod.csl
 bibliography: references.bib
 ---
 

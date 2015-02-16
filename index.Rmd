@@ -1,0 +1,42 @@
+---
+title: "Indications"
+author: "Daniel Himmelstein, Leo Brueggeman, Sergio Baranzini"
+date: "February 16, 2015"
+output:
+  html_document:
+    theme: cosmo
+    highlight: pygments
+    includes:
+      in_header: include/in_header.html
+      before_body: include/before_body.html
+      after_body: include/after_body.html
+csl: cite-styles/plos-mod.csl
+bibliography: references.bib
+---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(
+  fig.width = 10,
+  fig.path = 'figures/',
+  warning = FALSE,
+  message = FALSE,
+  fig.retina = 2
+)
+```
+
+```{r, include=FALSE}
+# Set up citation management
+library(knitcitations)
+knitcitations::cleanbib()
+knitcitations::cite_options(citation_format = 'pandoc', cite.style = 'authoryear', hyperlink = 'to.bib', super = TRUE)
+```
+
+Here, we parse and analyze several indications resources:
+
++ [LabeledIn](labeledin) -- a manually curated resource `r knitcitations::citep('10.1016/j.jbi.2014.08.004')`.
++ [MEDI](medi) -- a resource that combines extracts indications from four resources RxNORM, MedlinePlus, SIDER 2, and Wikipedia `r knitcitations::citep('10.1136/amiajnl-2012-001431')`.
+
+# References
+```{r, include=FALSE}
+knitcitations::write.bibtex(file = 'references.bib')
+```
