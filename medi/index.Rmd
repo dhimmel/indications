@@ -1,7 +1,7 @@
 ---
 title: "Parsing MEDI"
 author: "Daniel Himmelstein, Leo Brueggeman, Sergio Baranzini"
-date: "February 11, 2015"
+date: "February 16, 2015"
 output:
   html_document:
     theme: cosmo
@@ -48,7 +48,7 @@ Here, we parse the MEDI resource `r knitcitations::citep('10.1136/amiajnl-2012-0
 
 > We processed four public medication resources, RxNorm, Side Effect Resource (SIDER) 2, MedlinePlus, and Wikipedia, to create MEDI. We applied natural language processing and ontology relationships to extract indications for prescribable, single-ingredient medication concepts and all ingredient concepts as defined by RxNorm. Indications were coded as Unified Medical Language System (UMLS) concepts and International Classification of Diseases, 9th edition (ICD9) codes. A total of 689 extracted indications were randomly selected for manual review for accuracy using dual-physician review. We identified a subset of medication–indication pairs that optimizes recall while maintaining high precision.
 
-## High precision subset (HPS)
+# High precision subset (HPS)
 <a name="parse-hps"></a>
 
 > The MEDI high-precision subset (MEDI-HPS) includes indications found within either RxNorm or at least two of the three other resources. MEDI-HPS contains 13,304 unique indication pairs regarding 2,136 medications. The mean±SD number of indications for each medication in MEDI-HPS is 6.22±6.09. The estimated precision of MEDI-HPS is 92%.
@@ -78,13 +78,13 @@ hps_count.df <- hps.df %>%
 hps.df %>% DT::datatable()
 ```
 
-## All Indications
+# All Indications
 
 > MEDI contains 3,112 medications and 63,343 medication–indication pairs. Wikipedia was the largest resource, with 2608 medications and 34,911 pairs. For each resource, estimated precision and recall, respectively, were 94% and 20% for RxNorm, 75% and 33% for MedlinePlus, 67% and 31% for SIDER 2, and 56% and 51% for Wikipedia.
 
 ```{r}
 # Read the general dataset
-medi.df <- file.path('download', 'MEDI_01212013_UMLS.csv.gz') %>%
+umls.df <- file.path('download', 'MEDI_01212013_UMLS.csv.gz') %>%
   read.csv(blank.lines.skip = TRUE, colClasses = 'character') %>%
   dplyr::transmute(
     rxnorm_id = RXCUI_IN,
@@ -98,10 +98,10 @@ medi.df <- file.path('download', 'MEDI_01212013_UMLS.csv.gz') %>%
     )
 
 # Display 1000 rows of the general dataset
-medi.df %>% dplyr::sample_n(1000) %>% DT::datatable()
+umls.df %>% dplyr::sample_n(1000) %>% DT::datatable()
 ```
 
-### Resource-specific counts <a name="resource-counts"></a>
+## Resource-specific counts <a name="resource-counts"></a>
 
 Here we try to calculated the unique number of medications, diseases, and indications for each resource:
 
@@ -109,25 +109,25 @@ Here we try to calculated the unique number of medications, diseases, and indica
 # Create a count table for each resource, hps subset, and general dataset.
 count.df <- 
   # unique medications
-  medi.df %>%
+  umls.df %>%
     dplyr::distinct(rxnorm_id, disease_icd9, resource) %>%
     dplyr::group_by(resource) %>%
     dplyr::summarize(medications = n_distinct(rxnorm_id)) %>%
   dplyr::left_join(
     # unique diseases
-    y = medi.df %>%
+    y = umls.df %>%
       dplyr::distinct(rxnorm_id, disease_icd9, resource) %>%
       dplyr::group_by(resource) %>%
       dplyr::summarize(diseases = n_distinct(disease_icd9))) %>%
   dplyr::left_join(
     # unique indications
-    y = medi.df %>%
+    y = umls.df %>%
       dplyr::distinct(rxnorm_id, disease_icd9, resource) %>%
       dplyr::group_by(resource) %>%
       dplyr::summarize(indications = n())) %>%
   dplyr::bind_rows(
     # union of all resources
-    medi.df %>%
+    umls.df %>%
       dplyr::distinct(rxnorm_id, disease_icd9, resource) %>%
       dplyr::summarize(
         resource = 'all',
@@ -156,7 +156,44 @@ Our analysis finds different resource-specific counts, but agrees with the combi
 
 > Thus, to optimize recall while maintaining reasonable precision, we defined the MEDI high-precision subset (MEDI-HPS) as the indications found within either at least two of the four resources or RxNorm. The current version of MEDI-HPS contains 13 304 unique indication pairs for 2136 medications. The mean number of indications for each medication is 6.22±6.09. The mode for each medication is 2, while the median is 4.
 
-## Prevalence
+## Indication-resource venn diagram <a name="resource-venn"></a>
+
+Next, we try to recreate the righthand panel of manuscript Figure 2, which shows the number of indications belonging to each combination of resources.
+
+> ![Weighted Venn diagram of the distribution of medications and indication pairs within the four resources.](http://jamia.oxfordjournals.org/content/jaminfo/20/5/954/F2.large.jpg)
+> **Figure 2**: Weighted Venn diagram of the distribution of 3112 medications (left) and 63 343 indication pairs (right) within the four resources. Each border color represents a resource. Different colored areas represent medications–indications that were found within different combinations of resources. The area sizes surrounded by border color(s) are proportional to the number of medications–indications that were found within the corresponding resource(s).
+
+Below, we construct a venn diagram of indication-resources. We find that all indications are only present in a single resource. This is either an error in our parsing or interpretation of `MEDI_01212013_UMLS.csv.gz`, or in the file itself.
+
+```{r}
+# collapse umls.df so each row is a single indication (rxnorm_id-disease_icd9 pair)
+medi.df <- umls.df %>%
+  dplyr::group_by(rxnorm_id, disease_icd9) %>%
+  dplyr::summarize(
+    drug_name = drug_name[1],
+    disease_cui = disease_cui[1],
+    disease_name = disease_name[1],
+    resource_1 = as.integer(any(resource == '1')),
+    resource_2 = as.integer(any(resource == '2')),
+    resource_3 = as.integer(any(resource == '3')),
+    resource_4 = as.integer(any(resource == '4')),
+    hps = as.integer(any(hps == 1)),
+    on_label = as.integer(any(on_label == 1))
+    ) %>%
+  dplyr::ungroup()
+
+# medi.df %$% xtabs(~ resource_1 + resource_2 + resource_3 + resource_4)
+
+# venn diagram with the number of indications from each resource combination.
+indication.venn <- medi.df %>%
+  dplyr::select(resource_1:resource_4) %>%
+  gplots::venn()
+
+# table with the number of indications from each resource combination.
+knitr::kable(indication.venn[, ])
+```
+
+# Prevalence
 
 A [seperate analysis](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900157/) identified indication prevalence for the MEDI indications [@Wei_2013_AMIA]. MEDI appeared to have good medication coverage:
 
