@@ -92,105 +92,16 @@ umls.df <- file.path('download', 'MEDI_01212013_UMLS.csv.gz') %>%
     disease_cui = UMLS_CUI,
     disease_icd9 = ICD9,
     disease_name = INDICATION_DESCRIPTION,
-    resource = MENTIONEDBYRESOURCES,
+    n_resources = MENTIONEDBYRESOURCES,
     hps = as.integer(HIGHPRECISIONSUBSET),
     on_label = as.integer(POSSIBLE_LABEL_USE)
     )
 
+umls.df %>% dplyr::distinct(rxnorm_id, disease_icd9) %>% nrow()
+umls.df %>% dplyr::distinct(rxnorm_id, disease_cui) %>% nrow()
+
 # Display 1000 rows of the general dataset
 umls.df %>% dplyr::sample_n(1000) %>% DT::datatable()
-```
-
-## Resource-specific counts <a name="resource-counts"></a>
-
-Here we try to calculated the unique number of medications, diseases, and indications for each resource:
-
-```{r, results='asis'}
-# Create a count table for each resource, hps subset, and general dataset.
-count.df <- 
-  # unique medications
-  umls.df %>%
-    dplyr::distinct(rxnorm_id, disease_icd9, resource) %>%
-    dplyr::group_by(resource) %>%
-    dplyr::summarize(medications = n_distinct(rxnorm_id)) %>%
-  dplyr::left_join(
-    # unique diseases
-    y = umls.df %>%
-      dplyr::distinct(rxnorm_id, disease_icd9, resource) %>%
-      dplyr::group_by(resource) %>%
-      dplyr::summarize(diseases = n_distinct(disease_icd9))) %>%
-  dplyr::left_join(
-    # unique indications
-    y = umls.df %>%
-      dplyr::distinct(rxnorm_id, disease_icd9, resource) %>%
-      dplyr::group_by(resource) %>%
-      dplyr::summarize(indications = n())) %>%
-  dplyr::bind_rows(
-    # union of all resources
-    umls.df %>%
-      dplyr::distinct(rxnorm_id, disease_icd9, resource) %>%
-      dplyr::summarize(
-        resource = 'all',
-        medications = n_distinct(rxnorm_id),
-        diseases = n_distinct(disease_icd9),
-        indications = n()), 
-    hps_count.df)
-
-# Display the count table
-count.df %>% knitr::kable()
-```
-
-We compare our counts to the corresponding [table from the manuscript](http://dx.doi.org/10.1136/amiajnl-2012-001431#T1):
-
-> **Table 2**: Number of unique medications, ICD9 codes, and indication pairs extracted from each resource
->
-| Resource               | Medications (% of total) | ICD9 codes (% of total) | Indication pairs (% of total) |
-|------------------------|--------------------------|-------------------------|-------------------------------|
-| RxNorm                 | 1726 (56)                | 999 (33)                | 8040 (13)                     |
-| SIDER 2                | 1554 (50)                | 1703 (57)               | 17702 (28)                    |
-| MedlinePlus            | 1629 (52)                | 869 (29)                | 16581(26)                     |
-| Wikipedia              | 2608 (84)                | 2624 (87)               | 34911 (55)                    |
-| Union of all resources | 3112                     | 3009                    | 63343                         |
-
-Our analysis finds different resource-specific counts, but agrees with the combined counts. The high precision subset counts are very similar although different:
-
-> Thus, to optimize recall while maintaining reasonable precision, we defined the MEDI high-precision subset (MEDI-HPS) as the indications found within either at least two of the four resources or RxNorm. The current version of MEDI-HPS contains 13 304 unique indication pairs for 2136 medications. The mean number of indications for each medication is 6.22±6.09. The mode for each medication is 2, while the median is 4.
-
-## Indication-resource venn diagram <a name="resource-venn"></a>
-
-Next, we try to recreate the righthand panel of manuscript Figure 2, which shows the number of indications belonging to each combination of resources.
-
-> ![Weighted Venn diagram of the distribution of medications and indication pairs within the four resources.](http://jamia.oxfordjournals.org/content/jaminfo/20/5/954/F2.large.jpg)
-> **Figure 2**: Weighted Venn diagram of the distribution of 3112 medications (left) and 63 343 indication pairs (right) within the four resources. Each border color represents a resource. Different colored areas represent medications–indications that were found within different combinations of resources. The area sizes surrounded by border color(s) are proportional to the number of medications–indications that were found within the corresponding resource(s).
-
-Below, we construct a venn diagram of indication-resources. We find that all indications are only present in a single resource. This is either an error in our parsing or interpretation of `MEDI_01212013_UMLS.csv.gz`, or in the file itself.
-
-```{r}
-# collapse umls.df so each row is a single indication (rxnorm_id-disease_icd9 pair)
-medi.df <- umls.df %>%
-  dplyr::group_by(rxnorm_id, disease_icd9) %>%
-  dplyr::summarize(
-    drug_name = drug_name[1],
-    disease_cui = disease_cui[1],
-    disease_name = disease_name[1],
-    resource_1 = as.integer(any(resource == '1')),
-    resource_2 = as.integer(any(resource == '2')),
-    resource_3 = as.integer(any(resource == '3')),
-    resource_4 = as.integer(any(resource == '4')),
-    hps = as.integer(any(hps == 1)),
-    on_label = as.integer(any(on_label == 1))
-    ) %>%
-  dplyr::ungroup()
-
-# medi.df %$% xtabs(~ resource_1 + resource_2 + resource_3 + resource_4)
-
-# venn diagram with the number of indications from each resource combination.
-indication.venn <- medi.df %>%
-  dplyr::select(resource_1:resource_4) %>%
-  gplots::venn()
-
-# table with the number of indications from each resource combination.
-knitr::kable(indication.venn[, ])
 ```
 
 # Prevalence
