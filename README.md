@@ -6,7 +6,9 @@ Here, we parse and compare several indications resources.
 
 See `./labeledin` for parsing the [data](http://ftp.ncbi.nlm.nih.gov/pub/lu/LabeledIn/) from:
 
-> Kharea R, Lib J, Lu Z (2014) **LabeledIn: Cataloging labeled indications for human drugs**. *Journal of Biomedical Informatics* [doi:10.1016/j.jbi.2014.08.004](http://dx.doi.org/10.1016/j.jbi.2014.08.004)
+> Khare R, Li J, Lu Z (2014) **LabeledIn: Cataloging labeled indications for human drugs**. *Journal of Biomedical Informatics* [doi:10.1016/j.jbi.2014.08.004](https://dx.doi.org/10.1016/j.jbi.2014.08.004)
+
+> Khare R, Burger JD, Aberdeen JS,Tresner-Kirsch DW, Corrales TJ, Hirchman L, Lu Z (2015) **Scaling drug indication curation through crowdsourcing**. *Database* [doi:10.1093/database/bav016](https://dx.doi.org/10.1093/database/bav016)
 
 Also see the [analysis notebook](http://git.dhimmel.com/indications/labeledin/) for visualization.
 
