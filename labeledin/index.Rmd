@@ -37,6 +37,7 @@ library(ggplot2)
 library(magrittr)
 library(stringr)
 library(DT)
+library(knitr)
 
 options(stringsAsFactors = FALSE)
 
@@ -45,36 +46,74 @@ write.delim <- function(x, file, sep='\t', quote = FALSE, row.names=FALSE, na = 
 }
 ```
 
-Here, we parse the LabeledIn resource `r knitcitations::citet('10.1016/j.jbi.2014.08.004')`, which can be [downloaded here](http://ftp.ncbi.nlm.nih.gov/pub/lu/LabeledIn/).
+Here, we parse the LabeledIn resource, which can be [downloaded here](http://ftp.ncbi.nlm.nih.gov/pub/lu/LabeledIn/). The resource contains two components: an expert curated set of indications `r knitcitations::citep('10.1016/j.jbi.2014.08.004')` and a crowdsourced set of indications `r knitcitations::citep('10.1093/database/bav016')`.
 
 ```{r}
-fieldnames <- c('study_drug_label_ID', 'DailyMed_SPL_ID', 'UMLS_CUIs', 'IN_RXCUI', 'SCDF_RXCUI', 'SCD_RXCUI', 'Other_SCDF_RXCUI', 'Other_SCD_RXCUI')
-results.df <- file.path('download', 'LabeledIn_Structured_Results.txt') %>%
-  read.table(sep = '|', quote = '', comment.char = '', colClasses = 'character', col.names = fieldnames, na.strings = '')
+read.litab <- function(path, fieldnames) {
+  # Function to read LabeledIn datatables
+  read.table(path, sep = '|', quote = '', comment.char = '', na.strings = '',
+             colClasses = 'character', col.names = fieldnames)
+}
 
-results.df %>% head %>% DT::datatable()
+# Read raw expert LabeledIn output
+eli.fields <- c('study_drug_label_ID', 'DailyMed_SPL_ID', 'UMLS_CUIs',
+               'IN_RXCUI', 'SCDF_RXCUI', 'SCD_RXCUI', 'Other_SCDF_RXCUI', 'Other_SCD_RXCUI')
+eli.df <- file.path('download', 'LabeledIn_Structured_Results.txt') %>%
+  read.litab(fieldnames = eli.fields)
+
+# Read raw crowdsourced LabeledIn output
+cli.df <- file.path('download', 'Crowdsourcing', 'Crowdsourced_Results.txt') %>%
+  read.litab(fieldnames = c(eli.fields, 'majority_vote'))
+
+#table(cli.df$majority_vote) %>% knitr::kable()
 ```
+
+Number of labels in:
+
++ Expert LabeledIn: `r nrow(eli.df)`
++ Crowdsourced LabeledIn: `r nrow(cli.df)`
 
 ```{r}
 expand_indications <- function(df) {
   data.frame(
-    rxnorm_id = df$IN_RXCUI,
-    disease_cui = stringr::str_extract_all(df$UMLS_CUIs, "C\\d+")[[1]])
+    rxnorm_id = df$rxnorm_id,
+    disease_cui = stringr::str_extract_all(df$disease_cuis, "C\\d+")[[1]],
+    label_id = df$label_id,
+    resource = df$resource)
 }
 
-indication.df <- results.df %>% 
-  dplyr::select(UMLS_CUIs, IN_RXCUI) %>%
-  dplyr::filter(! is.na(UMLS_CUIs)) %>% 
+combined.df <- eli.df %>% 
+  dplyr::mutate(resource = 'expert') %>% 
+  dplyr::bind_rows(
+  cli.df %>% 
+    dplyr::mutate(resource = 'crowd') %>%
+    dplyr::filter(majority_vote == 'yes') %>%
+    dplyr::select(-majority_vote))
+
+indication.df <- combined.df %>% 
+  dplyr::transmute(disease_cuis = UMLS_CUIs, rxnorm_id = IN_RXCUI, label_id = study_drug_label_ID, resource) %>%
+  dplyr::filter(! is.na(disease_cuis)) %>% 
   dplyr::rowwise() %>%
   dplyr::do(expand_indications(.)) %>%
   dplyr::ungroup() %>% 
   dplyr::group_by(rxnorm_id, disease_cui) %>%
-  dplyr::summarize(n_labels = n()) %>%
+  dplyr::summarize(
+    n_labels = n_distinct(label_id),
+    expert = as.integer(any('expert' %in% resource)),
+    crowd = as.integer(any('crowd' %in% resource))
+    ) %>%
   dplyr::ungroup() %>%
   dplyr::arrange(rxnorm_id, desc(n_labels), disease_cui)
 
+
 indication.df %>% DT::datatable()
 ```
+
+Numbers of indications per LabeledIn resource:
+
++ expert: `r sum(indication.df$expert)`
++ crowdsourced: `r sum(indication.df$crowd)`
++ intersect: `r sum(indication.df$crowd & indication.df$expert)`
 
 # RxNORM Ingredients
 [Download](http://data.bioontology.org/ontologies/RXNORM/download?download_format=csv) csv formatted RxNORM from [bioportal](http://bioportal.bioontology.org/ontologies/RXNORM) for the 2014AA UMLS release.
@@ -85,10 +124,10 @@ ingredient.df <- indication.df %>%
   dplyr::group_by(rxnorm_id) %>%
   dplyr::summarize(n_indications = n()) %>%
   dplyr::left_join(
-    y = results.df %>%
+    y = combined.df %>%
       dplyr::transmute(label_id = study_drug_label_ID, rxnorm_id = IN_RXCUI) %>%
       dplyr::group_by(rxnorm_id) %>%
-      dplyr::summarize(n_labels = n())
+      dplyr::summarize(n_labels = n_distinct(label_id))
     )
 
 ingredient.df <- file.path('download', 'RXNORM.csv.gz') %>%
@@ -150,8 +189,13 @@ disease.df <- file.path('data', 'mesh-umls-map.txt.gz') %>%
 disease.df %>% DT::datatable()
 ```
 
+# Indications with disease and ingredient names.
+
+Disease and ingredient names are provided for reference only. Many IDs failed to map because we used an indirect but convenient mapping strategy. If integrating this data into another resource, we suggest mapping by identifiers rather than names.
 
 ```{r}
+write.delim(indication.df, file.path('data', 'indications.tsv'))
+
 indication.df %>%
   dplyr::left_join(disease.df %>% dplyr::select(disease_cui, disease_mesh_name)) %>% 
   dplyr::left_join(ingredient.df %>% dplyr::select(rxnorm_id, rxnorm_name)) %>% 

@@ -1,0 +1,7 @@
+1. yes
+2. no-char-risk: Characteristics or risk factor of the indicated disease
+3. no-side-effect: Side Effect of the highlighted drug
+4. no-contra: Contraindication of the highlighted drug
+5. no-not-disease: Not a Disease Mention
+6. no-unrelated: Not related to the indicated disease
+7. uncertain
