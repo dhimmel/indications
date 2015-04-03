@@ -194,11 +194,12 @@ disease.df %>% DT::datatable()
 Disease and ingredient names are provided for reference only. Many IDs failed to map because we used an indirect but convenient mapping strategy. If integrating this data into another resource, we suggest mapping by identifiers rather than names.
 
 ```{r}
-write.delim(indication.df, file.path('data', 'indications.tsv'))
-
-indication.df %>%
+named.df <- indication.df %>%
   dplyr::left_join(disease.df %>% dplyr::select(disease_cui, disease_mesh_name)) %>% 
-  dplyr::left_join(ingredient.df %>% dplyr::select(rxnorm_id, rxnorm_name)) %>% 
+  dplyr::left_join(ingredient.df %>% dplyr::select(rxnorm_id, rxnorm_name))
+
+named.df %T>% 
+  write.delim(file.path('data', 'indications.tsv')) %>% 
   DT::datatable()
 ```
 
