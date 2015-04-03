@@ -65,7 +65,7 @@ eli.df <- file.path('download', 'LabeledIn_Structured_Results.txt') %>%
 cli.df <- file.path('download', 'Crowdsourcing', 'Crowdsourced_Results.txt') %>%
   read.litab(fieldnames = c(eli.fields, 'majority_vote'))
 
-#table(cli.df$majority_vote) %>% knitr::kable()
+table(cli.df$majority_vote) %>% as.data.frame() %>% knitr::kable(col.names = c('Majority Vote', 'Count'))
 ```
 
 Number of labels in:
