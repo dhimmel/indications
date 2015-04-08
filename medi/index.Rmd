@@ -1,7 +1,7 @@
 ---
 title: "Parsing MEDI"
 author: "Daniel Himmelstein, Leo Brueggeman, Sergio Baranzini"
-date: "February 16, 2015"
+date: "April 7, 2015"
 output:
   html_document:
     theme: cosmo
@@ -96,6 +96,8 @@ umls.df <- file.path('download', 'MEDI_01212013_UMLS.csv.gz') %>%
     hps = as.integer(HIGHPRECISIONSUBSET),
     on_label = as.integer(POSSIBLE_LABEL_USE)
     )
+
+write.delim(umls.df, file.path('data', 'medi-umls.tsv'))
 
 umls.df %>% dplyr::distinct(rxnorm_id, disease_icd9) %>% nrow()
 umls.df %>% dplyr::distinct(rxnorm_id, disease_cui) %>% nrow()
