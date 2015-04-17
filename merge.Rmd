@@ -1,0 +1,93 @@
+---
+title: "Merge Indications"
+output:
+  html_document:
+    theme: cosmo
+    highlight: pygments
+---
+
+```{r, message=FALSE}
+library(dplyr)
+library(DT)
+
+options(stringsAsFactors = FALSE)
+```
+
+
+#### Compound mappings
+
+```{r}
+# construct a rxnorm to drugbank mapping (through FDA-SRS UNII)
+rxnorm.df <- dplyr::inner_join(
+  file.path('data', 'rxcui-unii-map.tsv') %>%
+    read.delim(),
+  'http://git.dhimmel.com/drugbank/data/mapping/fdasrs.tsv' %>%
+    read.delim()
+)
+
+```
+
+#### Disease mappings
+
+```{r}
+# read disease ontology slim mappings
+domap.df <- 
+  'http://git.dhimmel.com/disease-ontology/data/xrefs-prop-slim.tsv' %>%
+   read.delim()
+
+# extract the DO to UMLS mapping
+umls.df <- domap.df %>%
+  dplyr::filter(resource == 'UMLS') %>%
+  dplyr::select(-resource) %>%
+  dplyr::rename(disease_cui = resource_id)
+
+# extract the DO to ICD9 mapping
+icd9.df <- domap.df %>%
+  dplyr::filter(resource == 'ICD9') %>%
+  dplyr::select(-resource) %>%
+  dplyr::rename(disease_icd9 = resource_id)
+```
+
+#### Read and map labeledin
+
+```{r}
+labin.df <-
+  # read labeledin data
+  file.path('labeledin', 'data', 'indications.tsv') %>%
+  read.delim() %>%
+  # remove combo drugs
+  dplyr::mutate(rxnorm_id = as.integer(rxnorm_id)) %>%
+  dplyr::filter(! is.na(rxnorm_id)) %>%
+  # map umls diseases to DO
+  dplyr::inner_join(umls.df) %>%
+  # map rxnorm compounds to drugbank
+  dplyr::inner_join(rxnorm.df)
+
+labin.df %>%
+  dplyr::select(doid_code, drugbank_id) %>%
+  dplyr::distinct() %>%
+  nrow()
+
+```
+
+#### Read and map MEDI
+
+```{r}
+medi.df <- 
+  file.path('medi', 'data', 'medi-umls.tsv') %>%
+  read.delim() %>%
+  dplyr::inner_join(rxnorm.df)
+
+medi.df <- dplyr::bind_rows(
+  medi_umls_do.df <- umls.df %>%
+    dplyr::inner_join(medi.df),
+  medi_icd9_do.df <- icd9.df %>%
+    dplyr::inner_join(medi.df)
+)
+
+```
+
+
+```{r}
+
+```
