@@ -46,6 +46,13 @@ icd9.df <- domap.df %>%
   dplyr::filter(resource == 'ICD9') %>%
   dplyr::select(-resource) %>%
   dplyr::rename(disease_icd9 = resource_id)
+
+# extract the DO to OMIM mapping
+omim.df <- domap.df %>%
+  dplyr::filter(resource == 'OMIM') %>%
+  dplyr::select(-resource) %>%
+  dplyr::rename(disease_omim = resource_id) %>%
+  dplyr::mutate(disease_omim = as.integer(disease_omim))
 ```
 
 #### Read and map labeledin
@@ -62,12 +69,6 @@ labin.df <-
   dplyr::inner_join(umls.df) %>%
   # map rxnorm compounds to drugbank
   dplyr::inner_join(rxnorm.df)
-
-labin.df %>%
-  dplyr::select(doid_code, drugbank_id) %>%
-  dplyr::distinct() %>%
-  nrow()
-
 ```
 
 #### Read and map MEDI
@@ -79,15 +80,76 @@ medi.df <-
   dplyr::inner_join(rxnorm.df)
 
 medi.df <- dplyr::bind_rows(
-  medi_umls_do.df <- umls.df %>%
+  umls.df %>%
     dplyr::inner_join(medi.df),
-  medi_icd9_do.df <- icd9.df %>%
+  icd9.df %>%
     dplyr::inner_join(medi.df)
 )
 
 ```
 
 
-```{r}
+#### Read and map PREDICT
 
+```{r}
+predict.df <- 
+  file.path('msb-predict', 'data', 'indications-umls.tsv') %>%
+  read.delim() %>%
+  dplyr::rename(disease_cui = umls_cui, disease_omim = omim_id)
+
+predict.df <- dplyr::bind_rows(
+  umls.df %>%
+    dplyr::inner_join(predict.df),
+  omim.df %>%
+    dplyr::inner_join(predict.df)
+)
 ```
+
+#### Join resources
+
+```{r}
+indication.df <- dplyr::bind_rows(
+  # LabeledIn
+  labin.df %>%
+    dplyr::select(doid_code, drugbank_id) %>%
+    dplyr::distinct() %>%
+    dplyr::mutate(resource = 'labeledin'),
+  # MEDI
+  medi.df %>%
+    dplyr::group_by(doid_code, drugbank_id) %>%
+    dplyr::summarize(
+      resource = ifelse(max(hps), 'medi_hps', 'medi_lps')
+    ) %>%
+    dplyr::ungroup(),
+  # PREDICT
+  predict.df %>%
+    dplyr::select(doid_code, drugbank_id) %>%
+    dplyr::distinct() %>%
+    dplyr::mutate(resource = 'predict')
+)
+
+path <- file.path('data', 'indications.tsv')
+write.table(indication.df, path, sep='\t', row.names=FALSE, quote=FALSE)
+
+indication.df %>% dplyr::select(doid_code, drugbank_id) %>% dplyr::distinct() %>% nrow
+```
+
+
+#### Join resources
+
+```{r}
+drugbank.df <- 'http://git.dhimmel.com/drugbank/data/drugbank.tsv' %>%
+  read.delim() %>%
+  dplyr::transmute(drugbank_id, drugbank_name = name)
+
+do.df <- 'http://git.dhimmel.com/disease-ontology/data/slim-terms.tsv' %>%
+  read.delim() %>%
+  dplyr::transmute(doid_code = doid, doid_name = name)
+
+indication.df <- indication.df %>%
+  dplyr::left_join(drugbank.df) %>%
+  dplyr::left_join(do.df)
+
+DT::datatable(indication.df %>% dplyr::filter(resource != 'medi_lps'))
+```
+

@@ -1,0 +1,44 @@
+---
+title: "Parsing PREDICT indications"
+output:
+  html_document:
+    theme: cosmo
+    highlight: pygments
+---
+
+
+```{r, message=FALSE}
+library(dplyr)
+library(DT)
+
+options(stringsAsFactors = FALSE)
+```
+
+Indications from [PREDICT](https://dx.doi.org/10.1038/msb.2011.26)
+
+```{r}
+# map.df from msb201126-s4.xls
+map.df <- file.path('data', 'omim-to-umls.tsv') %>%
+  read.delim(check.names=FALSE) %>%
+  dplyr::transmute(omim_id = `OMIM ID`,
+                   umls_cui = `UMLS concept ID`,
+                   umls_name = `UMLS concept name`)
+
+# indication.df from a processed version msb201126-s1.xls
+indication.df <- file.path('data', 'indications.tsv') %>%
+  read.delim()
+
+# add umls_ids to indications
+indication.df <- indication.df %>%
+  dplyr::left_join(map.df) %>%
+  dplyr::select(drugbank_id, drugbank_name, umls_cui, umls_name, omim_id, omim_name) %>%
+  dplyr::distinct(drugbank_id, umls_cui, omim_id)
+
+DT::datatable(indication.df)
+```
+
+```{r}
+indication.df %>%
+  write.table(file.path('data', 'indications-umls.tsv'),
+              sep='\t', row.names=FALSE, quote=FALSE)
+```

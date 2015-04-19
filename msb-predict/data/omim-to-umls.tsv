@@ -1,0 +1,618 @@
+OMIM ID	OMIM disease name	UMLS concept ID	UMLS concept name
+102100	Acromegaloid Changes, Cutis Verticis Gyrata, And Corneal Leukoma	C1868756	Corneal leukoma
+102100	Acromegaloid Changes, Cutis Verticis Gyrata, And Corneal Leukoma	C0263417	Cutis verticis gyrata
+102300	Restless Legs Syndrome, Susceptibility To, 1; Rls1	C0035258	Restless Legs Syndrome
+102300	Restless Legs Syndrome, Susceptibility To, 1; Rls1	C1876177	RLS1 (Ekbom Syndrome)
+102400	Acroosteolysis	C0917990	Acroosteolysis (Acro-Osteolysis)
+102500	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	C0917990	Acroosteolysis (Acro-Osteolysis)
+102500	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	C0029456	Osteoporosis
+102500	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	C1962963	Osteoporosis (Osteoporosis Adverse Event)
+102500	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	C1563292	Osteoporosis (Osteoporosis family history)
+103100	Adie Pupil	C0001519	Adie Pupil (Adie Syndrome)
+103100	Adie Pupil	C0040416	Adie's Pupil (Tonic Pupil)
+103780	Alcohol Dependence	C0001973	Alcohol Dependence (Alcoholic Intoxication, Chronic)
+104130	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	C0002170	Alopecia
+104130	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	C0085417	Epilepsy, Psychomotor (Epilepsy, Complex Partial)
+104130	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	C1306341	Mental subnormality (Mental handicap)
+104130	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	C0553735	Pyorrhea
+104130	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	C0034219	Pyorrhea (Alveolar pyorrhea)
+104300	Alzheimer Disease; Ad	C0002395	Alzheimer's Disease
+106400	Ankylosing Vertebral Hyperostosis With Tylosis	C0003090	Ankyloses (Ankylosis)
+106400	Ankylosing Vertebral Hyperostosis With Tylosis	C0022584	Tylosis (Diffuse palmoplantar keratoderma)
+106400	Ankylosing Vertebral Hyperostosis With Tylosis	C0870082	Tylosis (Hyperkeratosis)
+106400	Ankylosing Vertebral Hyperostosis With Tylosis	C1834057	Vertebral hyperostosis
+107320	Antiphospholipid Syndrome, Familial	C0085278	ANTIPHOSPHOLIPID SYNDROME, FAMILIAL (Antiphospholipid Syndrome)
+107550	Aortic Arch Interruption, Facial Palsy, And Retinal Coloboma	C0015469	Facial Palsy (Facial paralysis)
+107550	Aortic Arch Interruption, Facial Palsy, And Retinal Coloboma	C0240896	Retinal coloboma (Fundus coloboma)
+107650	Apnea, Obstructive Sleep	C0520679	Obstructive sleep apnoea (Sleep Apnea, Obstructive)
+109100	Autoimmune Disease	C0004364	Autoimmune disease
+109200	Alopecia, Androgenetic, 1; Aga1	C0162311	Androgenetic Alopecia
+109350	Gastroesophageal Reflux	C0017168	Gastroesophageal Reflux (Gastroesophageal reflux disease)
+109543	Leukemia, Chronic Lymphocytic, Susceptibility To, 2	C0023434	LEUKEMIA CHRONIC LYMPHOCYTIC (Chronic Lymphocytic Leukemia)
+109800	Bladder Cancer	C0005695	Bladder Cancer (Bladder Neoplasm)
+109800	Bladder Cancer	C0699885	Bladder Cancer (Carcinoma of bladder)
+109800	Bladder Cancer	C0005684	bladder cancer (Malignant neoplasm of urinary bladder)
+110100	Blepharophimosis, Ptosis, And Epicanthus Inversus; Bpes	C0005744	Blepharophimosis
+110100	Blepharophimosis, Ptosis, And Epicanthus Inversus; Bpes	C0220663	BPES
+110100	Blepharophimosis, Ptosis, And Epicanthus Inversus; Bpes	C1303003	Epicanthus inversus
+110100	Blepharophimosis, Ptosis, And Epicanthus Inversus; Bpes	C0033377	Ptosis
+110100	Blepharophimosis, Ptosis, And Epicanthus Inversus; Bpes	C0005745	Ptosis (Blepharoptosis)
+113610	Branchial Myoclonus With Spastic Paraparesis And Cerebellar Ataxia	C0007758	Cerebellar Ataxia
+113610	Branchial Myoclonus With Spastic Paraparesis And Cerebellar Ataxia	C0027066	Myoclonus
+113610	Branchial Myoclonus With Spastic Paraparesis And Cerebellar Ataxia	C0037771	Paraparesis, Spastic
+114480	Breast Cancer	C0678222	Breast Cancer (Breast Carcinoma)
+114480	Breast Cancer	C0006142	Breast Cancer (Malignant neoplasm of breast)
+114500	Colorectal Cancer; Crc	C1527249	Colorectal Cancer
+114500	Colorectal Cancer; Crc	C0009402	Colorectal cancer (Carcinoma of the Large Intestine)
+114500	Colorectal Cancer; Crc	C0009402	CRC (Carcinoma of the Large Intestine)
+114550	Hepatocellular Carcinoma	C0019204	Carcinoma, Hepatocellular (Primary carcinoma of the liver cells)
+114550	Hepatocellular Carcinoma	C1512411	Hepatocellular carcinoma (Hepatocellular Carcinoma of the Mouse)
+114580	Candidiasis, Familial, 1; Candf1	C0006840	Candidiasis
+115000	Cardiac Arrhythmia	C0003811	cardiac arrhythmia
+115000	Cardiac Arrhythmia	C1560249	CARDIAC ARRHYTHMIA
+115195	Cardiomyopathy, Familial Hypertrophic, 2; Cmh2	C0205700	CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC (Asymmetric Septal Hypertrophy)
+115195	Cardiomyopathy, Familial Hypertrophic, 2; Cmh2	C0949658	Cardiomyopathy, Hypertrophic, Familial
+115195	Cardiomyopathy, Familial Hypertrophic, 2; Cmh2	C1861864	CMH2 (CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 2)
+115300	Hypercarotenemia And Vitamin A Deficiency, Autosomal Dominant	C0154271	Hypercarotenaemia (Hypercarotinemia)
+115300	Hypercarotenemia And Vitamin A Deficiency, Autosomal Dominant	C0042842	Vitamin A Deficiency
+115645	Cataract, Aberrant Oral Frenula, And Growth Retardation	C0086543	Cataract
+115645	Cataract, Aberrant Oral Frenula, And Growth Retardation	C0151686	Growth retardation
+115645	Cataract, Aberrant Oral Frenula, And Growth Retardation	C1850258	Oral frenula
+119500	Popliteal Pterygium Syndrome; Pps	C0265259	Popliteal pterygium syndrome
+119500	Popliteal Pterygium Syndrome; Pps	C1456687	PPS
+119500	Popliteal Pterygium Syndrome; Pps	C0265259	PPS (Popliteal pterygium syndrome)
+121200	Epilepsy, Benign Neonatal, 1; Ebn1	C0270851	Benign neonatal epilepsy
+121200	Epilepsy, Benign Neonatal, 1; Ebn1	C0220669	Benign neonatal epilepsy (Familial benign neonatal epilepsy)
+121200	Epilepsy, Benign Neonatal, 1; Ebn1	C1852587	EBN1 (EPILEPSY, BENIGN NEONATAL, 1)
+121201	Epilepsy, Benign Neonatal, 2; Ebn2	C0270851	Benign neonatal epilepsy
+121201	Epilepsy, Benign Neonatal, 2; Ebn2	C0220669	Benign neonatal epilepsy (Familial benign neonatal epilepsy)
+121201	Epilepsy, Benign Neonatal, 2; Ebn2	C1852581	EBN2 (EPILEPSY, BENIGN NEONATAL, 2)
+125310	Cerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts	C0852949	Arteriopathy (Arteriopathic disease)
+125310	Cerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts	C0007785	Cerebral infarcts (Cerebral Infarction)
+125320	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	C0333463	Amyloid Plaques (Senile Plaques)
+125320	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	C0002395	DEMENTIA ALZHEIMER (Alzheimer's Disease)
+125320	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	C0242422	Parkinsonism (Parkinsonian Disorders)
+125600	Dermatosis Papulosa Nigra	C0011645	Dermatosis papulosa nigra
+125700	Diabetes Insipidus, Neurohypophyseal	C0687720	Diabetes Insipidus, Neurohypophyseal (Central Diabetes Insipidus)
+125850	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	C0342276	Maturity-onset diabetes of the young (Maturity onset diabetes mellitus in young)
+125850	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	C1852093	MODY1 (MATURITY-ONSET DIABETES OF THE YOUNG, TYPE I)
+125851	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	C0342276	Maturity-onset diabetes of the young (Maturity onset diabetes mellitus in young)
+125851	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	C1841962	MODY2 (MATURITY-ONSET DIABETES OF THE YOUNG, TYPE II)
+125852	Diabetes Mellitus, Insulin-Dependent, 2	C0011854	Diabetes Mellitus, Insulin-Dependent
+125853	Diabetes Mellitus, Noninsulin-Dependent; Niddm	C0011860	Diabetes Mellitus, Non-Insulin-Dependent
+125853	Diabetes Mellitus, Noninsulin-Dependent; Niddm	C0011860	NIDDM (Diabetes Mellitus, Non-Insulin-Dependent)
+126200	Multiple Sclerosis, Susceptibility To; Ms	C0026769	Multiple Sclerosis
+127350	Dyschondrosteosis And Nephritis	C0265309	Dyschondrosteosis (Leri-Weill dyschondrosteosis)
+127350	Dyschondrosteosis And Nephritis	C2237040	dyschondrosteosis (SHOX gene with dyschondrosteosis)
+127350	Dyschondrosteosis And Nephritis	C0027697	Nephritis
+127750	Dementia, Lewy Body; Dlb	C0752347	Dementia, Lewy Body (Lewy Body Disease)
+127750	Dementia, Lewy Body; Dlb	C0752347	DLB (Lewy Body Disease)
+128101	Dystonia 4, Torsion, Autosomal Dominant; Dyt4	C1851943	DYT4 (DYSTONIA MUSCULORUM DEFORMANS 4)
+128101	Dystonia 4, Torsion, Autosomal Dominant; Dyt4	C0013423	Torsion Dystonia (Dystonia Musculorum Deformans)
+131200	Endometriosis, Susceptibility To, 1	C0014175	Endometriosis (Endometriosis, site unspecified)
+131300	Camurati-Engelmann Disease	C0011989	Camurati-Engelmann Disease (Camurati-Engelmann Syndrome)
+131440	Myeloproliferative Disorder, Chronic, With Eosinophilia	C0027022	Disorder, Myeloproliferative (Myeloproliferative disease)
+131440	Myeloproliferative Disorder, Chronic, With Eosinophilia	C0014457	Eosinophilia
+131440	Myeloproliferative Disorder, Chronic, With Eosinophilia	C1306759	Eosinophilia (Eosinophilic disorder)
+132090	Epilepsy, Benign Occipital; Boe	C1851549	BOE (EPILEPSY, BENIGN OCCIPITAL)
+132090	Epilepsy, Benign Occipital; Boe	C1851549	EPILEPSY, BENIGN OCCIPITAL
+132100	Epilepsy, Photogenic	C0393720	Photogenic epilepsy (Reflex Epilepsy, Photosensitive)
+132300	Epilepsy, Reading	C0278193	Reading Epilepsy (Reflex Epilepsy, Reading)
+133239	Esophageal Cancer	C0152018	ESOPHAGEAL CANCER (Esophageal carcinoma)
+133239	Esophageal Cancer	C0014859	esophageal cancer (Esophageal Neoplasms)
+133239	Esophageal Cancer	C0546837	Esophageal Cancer (Malignant neoplasm of esophagus)
+133600	Exostoses Of Heel	C0877431	EXOSTOSES OF HEEL (Heel exostosis)
+133690	Exostoses With Anetodermia And Brachydactyly, Type E	C0221357	Brachydactyly NOS
+133690	Exostoses With Anetodermia And Brachydactyly, Type E	C1442903	Exostoses
+134430	Factor Vii And Factor Viii, Combined Deficiency Of	C0015503	Factor VII Deficiency
+134430	Factor Vii And Factor Viii, Combined Deficiency Of	C0019069	Factor VIII Deficiency (Hemophilia A)
+134500	Factor Viii Deficiency	C0019069	Factor VIII Deficiency (Hemophilia A)
+134510	Factor Viii And Factor Ix, Combined Deficiency Of; F8F9D	C0008533	Factor IX Deficiency (Hemophilia B)
+134510	Factor Viii And Factor Ix, Combined Deficiency Of; F8F9D	C0019069	Factor VIII Deficiency (Hemophilia A)
+134520	Factors Viii, Ix And Xi, Combined Deficiency Of	C0019069	Factor VIII Deficiency (Hemophilia A)
+134750	Felty Syndrome	C0015773	Felty's Syndrome
+135550	Fibromatosis, Gingival, With Progressive Deafness	C0016048	Fibromatosis
+135550	Fibromatosis, Gingival, With Progressive Deafness	C1837645	Progressive deafness
+136200	Flushing Of Ears And Somnolence	C0013144	Somnolence (Drowsiness)
+137215	Gastric Cancer	C0024623	Gastric Cancer (Malignant neoplasm of stomach)
+137215	Gastric Cancer	C0699791	Gastric Cancer (Stomach Carcinoma)
+137400	Geographic Tongue And Fissured Tongue	C0040412	Fissured tongue
+137400	Geographic Tongue And Fissured Tongue	C0017677	Tongue, Geographic (Glossitis, Benign Migratory)
+137580	Gilles De La Tourette Syndrome; Gts	C0040517	Gilles de la Tourette syndrome
+137580	Gilles De La Tourette Syndrome; Gts	C0040517	GTS (Gilles de la Tourette syndrome)
+137750	Glaucoma 1, Open Angle, A; Glc1A	C0017612	Glaucoma, Open-Angle
+137750	Glaucoma 1, Open Angle, A; Glc1A	C1842028	GLC1A (GLAUCOMA 1, OPEN ANGLE, A)
+137760	Glaucoma, Primary Open Angle; Poag	C0339573	POAG (Primary open angle glaucoma)
+137760	Glaucoma, Primary Open Angle; Poag	C0339573	Primary open angle glaucoma
+137800	Glioma Susceptibility 1; Glm1	C0555198	[M]Glioma NOS (Malignant Glioma)
+137800	Glioma Susceptibility 1; Glm1	C0017638	Glioma
+137800	Glioma Susceptibility 1; Glm1	C1846575	GLM1 (GLIOMA, FAMILIAL, 1)
+138800	Goiter, Multinodular 1; Mng1	C0018022	GOITER, MULTINODULAR 1 (Endemic goiter)
+138800	Goiter, Multinodular 1; Mng1	C0018022	MNG1 (Endemic goiter)
+140300	Hashimoto Thyroiditis	C0920350	Hashimoto Thyroiditis (Autoimmune thyroiditis)
+140300	Hashimoto Thyroiditis	C0677607	Hashimoto Thyroiditis (Hashimoto Disease)
+140600	Osteoarthritis Susceptibility 2; Os2	C0029408	Osteoarthritis (Degenerative polyarthritis)
+140850	Hemangiomas, Cavernous, Of Face And Supraumbilical Midline Raphe	C0018916	Hemangiomas (Hemangioma)
+143100	Huntington Disease; Hd	C0020179	Huntington Disease
+143465	Attention Deficit-Hyperactivity Disorder; Adhd	C1263846	ADHD (Attention deficit hyperactivity disorder)
+143465	Attention Deficit-Hyperactivity Disorder; Adhd	C1263846	Attention deficit hyperactivity disorder
+143500	Gilbert Syndrome	C0017551	Gilbert's syndrome (Gilbert Disease)
+143880	Hypercalcemia, Idiopathic, Of Infancy	C0020437	HYPERCALCAEMIA (Hypercalcemia)
+144010	Hypercholesterolemia, Autosomal Dominant, Type B	C1704417	HYPERCHOLESTEROLEMIA, AUTOSOMAL DOMINANT, TYPE B (Hyperlipoproteinemia Type IIb)
+144110	Hyperhidrosis Palmaris Et Plantaris	C0020458	Hyperhidrosis (Hyperhidrosis disorder)
+144650	Hyperlipoproteinemia, Type V	C0020481	Type V hyperlipoproteinaemia (Hyperlipoproteinemia Type V)
+144700	Renal Cell Carcinoma, Nonpapillary; Rcc	C0007134	Renal Cell Carcinoma
+145100	Hyperpigmentation Of Eyelids	C0155211	HYPERPIGMENTATION OF EYELIDS (Hyperpigmentation of eyelid)
+145200	Hyperpigmentation Of Fuldauer And Kuijpers	C0162834	Hyperpigmentation
+145200	Hyperpigmentation Of Fuldauer And Kuijpers	C1962962	Hyperpigmentation (Hyperpigmentation Adverse Event)
+145500	Hypertension, Essential	C0085580	Essential Hypertension
+145590	Hyperthermia, Cutaneous, With Headaches And Nausea	C0018681	Headaches (Headache)
+145590	Hyperthermia, Cutaneous, With Headaches And Nausea	C1704628	Hyperthermia
+145590	Hyperthermia, Cutaneous, With Headaches And Nausea	C0015967	Hyperthermia (Fever)
+145590	Hyperthermia, Cutaneous, With Headaches And Nausea	C0027497	Nausea
+145590	Hyperthermia, Cutaneous, With Headaches And Nausea	C1963179	Nausea (Nausea Adverse Event)
+145600	Malignant Hyperthermia, Susceptibility To, 1; Mhs1	C0024591	Malignant Hyperthermia (Malignant hyperpyrexia due to anesthesia)
+145600	Malignant Hyperthermia, Susceptibility To, 1; Mhs1	C0024591	MHS1 (Malignant hyperpyrexia due to anesthesia)
+146110	Hypogonadotropic Hypogonadism	C0271623	Hypogonadotrophic hypogonadism (Hypogonadotropic hypogonadism)
+146110	Hypogonadotropic Hypogonadism	C0022735	Hypogonadotropic Hypogonadism (Klinefelter's Syndrome)
+146255	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	C0020626	Hypoparathyroidism
+146255	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	C0022658	Renal disease (Kidney Diseases)
+146255	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	C0018784	Sensorineural deafness (Sensorineural Hearing Loss)
+146500	Multiple System Atrophy; Msa	C1838103	MSA
+146500	Multiple System Atrophy; Msa	C0393571	Multiple System Atrophy
+146850	Immune Suppression; Is	C1840264	IMMUNE SUPPRESSION
+146850	Immune Suppression; Is	C1373218	Immune Suppression (Decreased Immunologic Activity)
+147480	Cholestasis, Intrahepatic, Of Pregnancy; Icp	C0268318	Cholestasis of pregnancy
+147480	Cholestasis, Intrahepatic, Of Pregnancy; Icp	C0268318	ICP (Cholestasis of pregnancy)
+147530	Insensitivity To Pain With Hyperplastic Myelinopathy	C0020507	Hyperplastic (Hyperplasia)
+147530	Insensitivity To Pain With Hyperplastic Myelinopathy	C0596992	myelinopathy
+147530	Insensitivity To Pain With Hyperplastic Myelinopathy	C0030193	Pain
+147530	Insensitivity To Pain With Hyperplastic Myelinopathy	C2364139	Pain (Actual Pain)
+147530	Insensitivity To Pain With Hyperplastic Myelinopathy	C1962977	Pain NOS (Pain NOS Adverse Event)
+147540	Insect Stings, Hypersensitivity To	C0020517	Hypersensitivity
+147540	Insect Stings, Hypersensitivity To	C0520946	Hypersensitivity (Emotional hypersensitivity)
+148000	Kaposi Sarcoma	C0036220	KAPOSIS SARCOMA (Kaposi Sarcoma)
+148100	Keloids	C0022548	Keloids (Keloid)
+150600	Legg-Calve-Perthes Disease	C0023234	Legg-Calve-Perthes disease (Legg-Perthes Disease)
+150699	Leiomyoma, Uterine; Ul	C0042133	Uterine leiomyoma NOS (Uterine Fibroids)
+151400	Leukemia, Chronic Lymphocytic; Cll	C0023434	Chronic Lymphocytic Leukemia
+151400	Leukemia, Chronic Lymphocytic; Cll	C0023434	CLL (Chronic Lymphocytic Leukemia)
+151590	Lichen Sclerosus Et Atrophicus; Lsa	C0023652	Lichen Sclerosus et Atrophicus
+151590	Lichen Sclerosus Et Atrophicus; Lsa	C0023652	LSA (Lichen Sclerosus et Atrophicus)
+152700	Systemic Lupus Erythematosus; Sle	C0024141	Lupus Erythematosus, Systemic
+153880	Macular Edema, Cystoid	C0024440	Cystoid macular oedema (Macular Edema, Cystoid)
+154276	Malignant Hyperthermia, Susceptibility To, 3	C0024591	Malignant Hyperthermia (Malignant hyperpyrexia due to anesthesia)
+155100	May-Hegglin Anomaly; Mha	C0340978	May-Hegglin anomaly
+155600	Melanoma, Cutaneous Malignant; Cmm	C0151779	CMM (Cutaneous Melanoma)
+155600	Melanoma, Cutaneous Malignant; Cmm	C0151779	Cutaneous malignant melanoma (Cutaneous Melanoma)
+155601	Melanoma, Cutaneous Malignant, Susceptibility To, 2; Cmm2	C1835044	CMM2 (MELANOMA, CUTANEOUS MALIGNANT, 2)
+155601	Melanoma, Cutaneous Malignant, Susceptibility To, 2; Cmm2	C0151779	MELANOMA SKIN (Cutaneous Melanoma)
+156000	Meniere Disease	C0025281	Meniere Disease
+156190	Mental And Growth Retardation With Amblyopia	C0002418	Amblyopia
+156190	Mental And Growth Retardation With Amblyopia	C0151686	Growth retardation
+156190	Mental And Growth Retardation With Amblyopia	C0025362	Mental Retardation
+157300	Migraine With Or Without Aura, Susceptibility To, 1	C0338480	Migraine without Aura (Common Migraine)
+157700	Mitral Valve Prolapse, Familial; Mvp	C0340364	Familial mitral valve prolapse
+157700	Mitral Valve Prolapse, Familial; Mvp	C0026267	MITRAL VALVE PROLAPSE, FAMILIAL (Mitral Valve Prolapse)
+157950	Permanent Molars, Secondary Retention Of	C0080274	Retention (Urinary Retention)
+158280	Motion Sickness	C0026603	Motion Sickness
+160300	Myopathy, Distal, With Onset In Infancy	C0026848	Myopathy
+160300	Myopathy, Distal, With Onset In Infancy	C1864921	Onset in infancy
+160750	Myositis	C0027121	Myositis
+161900	Renal Failure, Progressive, With Hypertension	C1963138	Hypertension (Hypertension Adverse Event)
+161900	Renal Failure, Progressive, With Hypertension	C0020538	Hypertension (Hypertensive disease)
+161900	Renal Failure, Progressive, With Hypertension	C0035078	Renal Failure (Kidney Failure)
+161900	Renal Failure, Progressive, With Hypertension	C1963154	Renal failure (Renal Failure Adverse Event)
+161900	Renal Failure, Progressive, With Hypertension	C0020544	Renal hypertension
+164230	Obsessive-Compulsive Disorder; Ocd	C0028768	Obsessive-Compulsive Disorder
+164230	Obsessive-Compulsive Disorder; Ocd	C0028768	OCD (Obsessive-Compulsive Disorder)
+164230	Obsessive-Compulsive Disorder; Ocd	C0029421	OCD (Osteochondritis Dissecans)
+165150	Ophthalmoplegia, Progressive, With Scrotal Tongue And Mental Deficiency	C0917816	Mental deficiency
+165150	Ophthalmoplegia, Progressive, With Scrotal Tongue And Mental Deficiency	C0029089	Ophthalmoplegia
+165150	Ophthalmoplegia, Progressive, With Scrotal Tongue And Mental Deficiency	C0040412	Scrotal tongue (Fissured tongue)
+165199	Optic Atrophy, Hearing Loss, And Peripheral Neuropathy, Autosomal	C1384666	Hearing Loss (hearing impairment)
+165199	Optic Atrophy, Hearing Loss, And Peripheral Neuropathy, Autosomal	C2029884	hearing loss (hearing loss by exam)
+165199	Optic Atrophy, Hearing Loss, And Peripheral Neuropathy, Autosomal	C0029124	Optic Atrophy
+165199	Optic Atrophy, Hearing Loss, And Peripheral Neuropathy, Autosomal	C0031117	Peripheral Neuropathy
+165720	Osteoarthritis Susceptibility 1; Os1	C0029408	Osteoarthritis (Degenerative polyarthritis)
+166300	Osteolysis, Hereditary, Of Carpal Bones With Or Without Nephropathy	C0022658	Nephropathy (Kidney Diseases)
+166300	Osteolysis, Hereditary, Of Carpal Bones With Or Without Nephropathy	C0029435	Osteolysis
+166710	Osteoporosis	C0029456	Osteoporosis
+166710	Osteoporosis	C1962963	Osteoporosis (Osteoporosis Adverse Event)
+166710	Osteoporosis	C1563292	Osteoporosis (Osteoporosis family history)
+166760	Otitis Media, Susceptibility To	C0029882	Otitis Media
+167320	Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal	C1833334	Early-onset
+167320	Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal	C1833672	Inclusion body myopathy
+167320	Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal	C1368019	Paget's Disease
+167320	Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal	C0029401	Paget's disease NOS (Osteitis Deformans)
+167870	Panic Disorder 1; Pand1	C1868649	PAND1 (PANIC DISORDER 1)
+167870	Panic Disorder 1; Pand1	C1868649	PANIC DISORDER 1
+168100	Paralysis Agitans, Juvenile, Of Hunt	C0030567	Paralysis Agitans (Parkinson Disease)
+168600	Parkinson Disease; Pd	C0030567	Parkinson Disease
+168600	Parkinson Disease; Pd	C0030567	PD (Parkinson Disease)
+170900	Pernicious Anemia	C0002892	Anemia, Pernicious
+171300	Pheochromocytoma	C0031511	PHAEOCHROMOCYTOMA (Pheochromocytoma)
+171300	Pheochromocytoma	C1706920	pheochromocytoma (Benign pheochromocytoma of adrenal gland)
+173200	Pityriasis Rubra Pilaris	C0032027	Pityriasis Rubra Pilaris
+174800	Mccune-Albright Syndrome; Mas	C0242292	McCune-Albright Syndrome
+175100	Adenomatous Polyposis Of The Colon; Apc	C0032580	Adenomatous Polyposis of the Colon (Adenomatous Polyposis Coli)
+175505	Polyposis Of Gastric Fundus Without Polyposis Coli	C0236048	Gastric polyposis (Gastric polyp)
+175505	Polyposis Of Gastric Fundus Without Polyposis Coli	C0032580	Polyposis coli (Adenomatous Polyposis Coli)
+175510	Polyps, Multiple And Recurrent Inflammatory Fibroid, Gastrointestinal	C0023267	Fibroid (Fibroid Tumor)
+175510	Polyps, Multiple And Recurrent Inflammatory Fibroid, Gastrointestinal	C1559265	GASTROINTESTINAL
+175510	Polyps, Multiple And Recurrent Inflammatory Fibroid, Gastrointestinal	C0032584	polyps
+175510	Polyps, Multiple And Recurrent Inflammatory Fibroid, Gastrointestinal	C1265823	Recurrent inflammation
+176800	Pronation-Supination Of The Forearm, Impairment Of	C0684336	Impairment (Impaired health)
+176800	Pronation-Supination Of The Forearm, Impairment Of	C0239669	pronation of forearm
+176800	Pronation-Supination Of The Forearm, Impairment Of	C0239672	supination of forearm
+176807	Prostate Cancer	C0376358	Prostate Cancer (Malignant neoplasm of prostate)
+176807	Prostate Cancer	C0600139	Prostate Cancer (Prostate carcinoma)
+178600	Pulmonary Hypertension, Primary, 1; Pph1	C0152171	PPH1 (Primary pulmonary hypertension)
+178600	Pulmonary Hypertension, Primary, 1; Pph1	C0152171	Primary pulmonary hypertension
+179600	Raynaud Disease	C0034734	Raynaud Disease
+179800	Renal Tubular Acidosis, Distal, Autosomal Dominant	C0259810	Renal Tubular Acidosis, Distal, Autosomal Dominant (Distal renal tubular acidosis Type 1)
+179830	Renal Tubular Acidosis, Proximal	C0268435	Proximal Renal Tubular Acidosis (Renal Tubular Acidosis, Type II)
+181000	Sarcoidosis, Susceptibility To, 1; Ss1	C0036202	Sarcoidosis
+181460	Schistosoma Mansoni Infection, Susceptibility/Resistance To	C0036330	Schistosoma mansoni infection (Schistosoma mansonii infection)
+181500	Schizophrenia; Sczd	C0036341	Schizophrenia
+181500	Schizophrenia; Sczd	C0036341	SCZD (Schizophrenia)
+182000	Keratosis, Seborrheic	C0022603	Seborrheic keratosis
+182280	Small Cell Cancer Of The Lung	C0149925	SMALL CELL CANCER OF THE LUNG (Small cell carcinoma of lung)
+182830	Spastic Paraplegia, Optic Atrophy, And Dementia	C0497327	Dementia
+182830	Spastic Paraplegia, Optic Atrophy, And Dementia	C0029124	Optic Atrophy
+182830	Spastic Paraplegia, Optic Atrophy, And Dementia	C0037772	Spastic Paraplegia
+184700	Polycystic Ovary Syndrome 1; Pcos1	C0032460	PCOS1 (Polycystic Ovary Syndrome)
+184700	Polycystic Ovary Syndrome 1; Pcos1	C0032460	POLYCYSTIC OVARY SYNDROME 1 (Polycystic Ovary Syndrome)
+187950	Thrombocythemia, Essential	C0040028	Essential thrombocythaemia (Thrombocythemia, Essential)
+188030	Thrombocytopenic Purpura, Autoimmune; Aitp	C0043117	Purpura, Thrombocytopenic, Autoimmune (Purpura, Thrombocytopenic, Idiopathic)
+188050	Thrombosis, Susceptibility To	C0040053	Thrombosis
+188470	Thyroid Carcinoma, Follicular; Ftc	C0206682	Follicular thyroid carcinoma
+188470	Thyroid Carcinoma, Follicular; Ftc	C0206682	FTC (Follicular thyroid carcinoma)
+189600	Torticollis	C0040485	Torticollis
+189800	Preeclampsia/Eclampsia 1; Pee1	C0013537	Eclampsia
+189800	Preeclampsia/Eclampsia 1; Pee1	C0032914	PEE1 (Pre-Eclampsia)
+189800	Preeclampsia/Eclampsia 1; Pee1	C0032914	Preeclampsia (Pre-Eclampsia)
+190300	Tremor, Hereditary Essential, 1; Etm1	C1860861	ETM1 (TREMOR, HEREDITARY ESSENTIAL, 1)
+190300	Tremor, Hereditary Essential, 1; Etm1	C0393615	Hereditary essential tremor (Familial Tremor)
+190310	Tremor, Nystagmus, And Duodenal Ulcer	C0013295	Duodenal Ulcer
+190310	Tremor, Nystagmus, And Duodenal Ulcer	C0028738	Nystagmus
+190310	Tremor, Nystagmus, And Duodenal Ulcer	C1963184	NYSTAGMUS (Nystagmus Adverse Event)
+190310	Tremor, Nystagmus, And Duodenal Ulcer	C0040822	Tremor
+190310	Tremor, Nystagmus, And Duodenal Ulcer	C2364114	Tremor (Actual Tremor)
+190310	Tremor, Nystagmus, And Duodenal Ulcer	C1963252	Tremor (Tremor Adverse Event)
+190400	Trigeminal Neuralgia	C0040997	Trigeminal Neuralgia
+191390	Inflammatory Bowel Disease 11; Ibd11	C0021390	Inflammatory bowel disease (Inflammatory Bowel Diseases)
+191800	Urinary Bladder, Atony Of	C0403645	BLADDER ATONY (Atony of bladder NOS)
+192000	Uterine Anomalies	C0266383	UTERINE ANOMALIES (Congenital uterine anomaly)
+192200	Varicose Veins	C0042345	Varicose Veins (Varicosity)
+194070	Wilms Tumor 1; Wt1	C0027708	WILMS TUMOR 1 (Nephroblastoma)
+194070	Wilms Tumor 1; Wt1	C0027708	WT1 (Nephroblastoma)
+194200	Wolff-Parkinson-White Syndrome	C0043202	Wolff-Parkinson-White Syndrome
+194200	Wolff-Parkinson-White Syndrome	C1963282	Wolff-Parkinson-White Syndrome (Wolff-Parkinson-White Syndrome Adverse Event)
+200170	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	C0000889	Acanthosis Nigricans
+200170	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	C0026821	Cramps (Muscle Cramp)
+200170	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	C0020564	Enlargement (Hypertrophy)
+200170	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	C0026821	MUSCLE CRAMPS (Muscle Cramp)
+203700	Alpers Diffuse Degeneration Of Cerebral Gray Matter With Hepatic Cirrhosis	C0205710	Alpers (Alpers' Disease)
+203700	Alpers Diffuse Degeneration Of Cerebral Gray Matter With Hepatic Cirrhosis	C1265851	Diffuse degeneration
+203700	Alpers Diffuse Degeneration Of Cerebral Gray Matter With Hepatic Cirrhosis	C0023890	Hepatic Cirrhosis (Liver Cirrhosis)
+205700	Anemia, Autoimmune Hemolytic	C0002880	Autoimmune haemolytic anaemia (Autoimmune hemolytic anemia)
+206200	Iron-Refractory Iron Deficiency Anemia; Irida	C0162316	Iron deficiency anaemia (Iron deficiency anemia)
+208085	Arthrogryposis, Renal Dysfunction, And Cholestasis 1; Arcs1	C0003886	Arthrogryposis
+208085	Arthrogryposis, Renal Dysfunction, And Cholestasis 1; Arcs1	C0008370	Cholestasis
+208085	Arthrogryposis, Renal Dysfunction, And Cholestasis 1; Arcs1	C1848822	Renal dysfunction
+208230	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	C0022408	Arthropathy
+208230	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	C0432215	PPAC (Progressive pseudorheumatoid dysplasia)
+208300	Ascites, Chylous	C0008732	Chylous Ascites
+208550	Asthma, Nasal Polyps, And Aspirin Intolerance	C0004059	ASPIRIN INTOLERANCE
+208550	Asthma, Nasal Polyps, And Aspirin Intolerance	C0004096	Asthma
+208550	Asthma, Nasal Polyps, And Aspirin Intolerance	C1869116	ASTHMA
+208550	Asthma, Nasal Polyps, And Aspirin Intolerance	C0027430	Nasal Polyps
+208700	Ataxia With Myoclonic Epilepsy And Presenile Dementia	C0004134	Ataxia
+208700	Ataxia With Myoclonic Epilepsy And Presenile Dementia	C0014544	Epilepsy
+208700	Ataxia With Myoclonic Epilepsy And Presenile Dementia	C0011265	Pre-senile dementia (Presenile dementia)
+208750	Ataxia, Deafness, And Cardiomyopathy	C0004134	Ataxia
+208750	Ataxia, Deafness, And Cardiomyopathy	C0878544	Cardiomyopathy (Cardiomyopathies)
+208750	Ataxia, Deafness, And Cardiomyopathy	C0011053	Deafness
+208750	Ataxia, Deafness, And Cardiomyopathy	C0581883	Deafness (Complete Hearing Loss)
+208920	Ataxia, Early-Onset, With Oculomotor Apraxia And Hypoalbuminemia;	C0004134	Ataxia
+208920	Ataxia, Early-Onset, With Oculomotor Apraxia And Hypoalbuminemia;	C0239981	Hypoalbuminaemia (Hypoalbuminemia)
+208920	Ataxia, Early-Onset, With Oculomotor Apraxia And Hypoalbuminemia;	C0271270	Oculomotor apraxia (Oculovestibuloauditory syndrome)
+210050	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	C0005136	Berry Aneurysm
+210050	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	C0270685	Cerebral calcification
+210050	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	C1623038	Cirrhosis
+210050	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	C0023890	Cirrhosis (Liver Cirrhosis)
+210050	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	C0034067	Pulmonary Emphysema
+211980	Lung Cancer	C0684249	Cancer, Lung (Carcinoma of lung)
+211980	Lung Cancer	C0242379	Lung Cancer (Malignant neoplasm of lung)
+212050	Candidiasis, Familial, 2; Candf2	C0006840	Candidiasis
+212110	Cardiomyopathy, Dilated, Autosomal Recessive	C0007193	CARDIOMYOPATHY, DILATED, AUTOSOMAL RECESSIVE (Cardiomyopathy, Dilated)
+212112	Cardiomyopathy, Congestive, With Hypergonadotropic Hypogonadism	C0878544	Cardiomyopathy (Cardiomyopathies)
+212112	Cardiomyopathy, Congestive, With Hypergonadotropic Hypogonadism	C0271623	Hypergonadotropic Hypogonadism (Hypogonadotropic hypogonadism)
+212112	Cardiomyopathy, Congestive, With Hypergonadotropic Hypogonadism	C0948896	Hypergonadotropic Hypogonadism (Primary hypogonadism)
+212130	Cardiomyopathy Associated With Myopathy And Sudden Death	C0878544	Cardiomyopathy (Cardiomyopathies)
+212130	Cardiomyopathy Associated With Myopathy And Sudden Death	C0026848	Myopathy
+212140	Carnitine Deficiency, Systemic Primary; Cdsp	C0342788	CARNITINE DEFICIENCY, SYSTEMIC PRIMARY (Renal carnitine transport defect)
+212140	Carnitine Deficiency, Systemic Primary; Cdsp	C0342788	CDSP (Renal carnitine transport defect)
+212350	Cataract And Cardiomyopathy	C0878544	Cardiomyopathy (Cardiomyopathies)
+212350	Cataract And Cardiomyopathy	C0086543	Cataract
+215140	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	C0175895	calcification
+215140	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	C0013604	Hydrops (Edema)
+215140	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	C1300226	MOTH-EATEN SKELETAL DYSPLASIA (Greenberg dysplasia)
+215470	Chorioretinal Dystrophy, Spinocerebellar Ataxia, And Hypogonadotropic	C1857627	Chorioretinal dystrophy
+215470	Chorioretinal Dystrophy, Spinocerebellar Ataxia, And Hypogonadotropic	C0020619	Hypogonadotropism (Hypogonadism)
+215470	Chorioretinal Dystrophy, Spinocerebellar Ataxia, And Hypogonadotropic	C0087012	Spinocerebellar ataxia (Spinocerebellar Ataxias)
+217150	Contractures, Congenital, Torticollis, And Malignant Hyperthermia	C0079352	Congenital torticollis
+217150	Contractures, Congenital, Torticollis, And Malignant Hyperthermia	C0009917	Contractures (Contracture)
+217150	Contractures, Congenital, Torticollis, And Malignant Hyperthermia	C0024591	Malignant Hyperthermia (Malignant hyperpyrexia due to anesthesia)
+217200	Convulsive Disorder, Familial, With Prenatal Or Early Onset	C0234972	Convulsive disorder
+218200	Cranial Nerves, Recurrent Paresis Of	C0030552	Paresis
+218800	Crigler-Najjar Syndrome	C0010324	Crigler-Najjar Syndrome
+220120	D-Glyceric Acidemia	C0268030	Acidaemia (Acidemia)
+223350	Dohle Bodies And Leukemia	C0023418	LEUKAEMIA (leukemia)
+225740	Encephalopathy, Axonal, With Necrotizing Myopathy, Cardiomyopathy,	C0878544	Cardiomyopathy (Cardiomyopathies)
+225740	Encephalopathy, Axonal, With Necrotizing Myopathy, Cardiomyopathy,	C0085584	Encephalopathy (Encephalopathies)
+225740	Encephalopathy, Axonal, With Necrotizing Myopathy, Cardiomyopathy,	C1963101	Encephalopathy (Encephalopathy Adverse Event)
+225740	Encephalopathy, Axonal, With Necrotizing Myopathy, Cardiomyopathy,	C0026848	Myopathy
+225755	Encephalopathy With Intracranial Calcification, Growth Hormone Deficiency,	C0085584	Encephalopathy (Encephalopathies)
+225755	Encephalopathy With Intracranial Calcification, Growth Hormone Deficiency,	C1963101	Encephalopathy (Encephalopathy Adverse Event)
+225755	Encephalopathy With Intracranial Calcification, Growth Hormone Deficiency,	C0013338	growth hormone deficiency (Pituitary dwarfism)
+225755	Encephalopathy With Intracranial Calcification, Growth Hormone Deficiency,	C0271561	Growth hormone deficiency (Somatotropin deficiency)
+225755	Encephalopathy With Intracranial Calcification, Growth Hormone Deficiency,	C0240041	INTRACRANIAL CALCIFICATION (Intracranial calcifications)
+226000	Endocardial Fibroelastosis; Efe	C0014117	EFE (Endocardial Fibroelastosis)
+226000	Endocardial Fibroelastosis; Efe	C0014117	Endocardial Fibroelastosis
+226150	Enterocolitis	C0014356	Enterocolitis
+227300	Factor V And Factor Viii, Combined Deficiency Of; F5F8D	C1856883	F5F8D
+227300	Factor V And Factor Viii, Combined Deficiency Of; F5F8D	C0019069	Factor VIII Deficiency (Hemophilia A)
+230450	Gamma-Glutamylcysteine Synthetase Deficiency, Hemolytic Anemia Due	C0002878	Anemia, Hemolytic
+230450	Gamma-Glutamylcysteine Synthetase Deficiency, Hemolytic Anemia Due	C0268523	Gamma-glutamylcysteine synthetase deficiency (Glutamate-cysteine ligase deficiency)
+230800	Gaucher Disease, Type I	C0017205	Gaucher's disease, type I (Gaucher Disease)
+230800	Gaucher Disease, Type I	C1961835	Gaucher's disease, type I (Gaucher Disease, Type 1)
+231090	Hydatidiform Mole	C0020217	Hydatidiform Mole
+231200	Bernard-Soulier Syndrome; Bss	C0005129	Bernard-Soulier Syndrome
+231200	Bernard-Soulier Syndrome; Bss	C0005129	BSS (Bernard-Soulier Syndrome)
+231900	Glutathione Synthetase Deficiency Of Erythrocytes, Hemolytic Anemia	C0002878	Anemia, Hemolytic
+231900	Glutathione Synthetase Deficiency Of Erythrocytes, Hemolytic Anemia	C0398746	GLUTATHIONE SYNTHETASE DEFICIENCY (Gluthathione synthetase deficiency)
+233810	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	C0013595	Eczema
+233810	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	C0151686	Growth retardation
+233810	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	C0576224	Small feet (Small foot)
+236000	Hodgkin Lymphoma	C0019829	Hodgkin Lymphoma (Hodgkins Disease)
+237450	Hyperbilirubinemia, Rotor Type	C1855980	HYPERBILIRUBINEMIA, ROTOR TYPE
+237500	Dubin-Johnson Syndrome; Djs	C0022350	DJS (Jaundice, Chronic Idiopathic)
+237500	Dubin-Johnson Syndrome; Djs	C0022350	Dubin-Johnson Syndrome (Jaundice, Chronic Idiopathic)
+238800	Hypermetabolism Due To Defect In Mitochondria	C1861101	DEFECT (THYROID HORMONE PLASMA MEMBRANE TRANSPORT DEFECT)
+238800	Hypermetabolism Due To Defect In Mitochondria	C0342952	Hypermetabolism
+238800	Hypermetabolism Due To Defect In Mitochondria	C1704207	Hypermetabolism (Hypercatabolism)
+239350	Hyperphosphatemia, Polyuria, And Seizures	C0085681	HYPERPHOSPHATAEMIA (Hyperphosphatemia)
+239350	Hyperphosphatemia, Polyuria, And Seizures	C0032617	Polyuria
+239350	Hyperphosphatemia, Polyuria, And Seizures	C0036572	Seizures
+240400	Hypoascorbemia	C0036474	HYPOASCORBEMIA (Scurvy)
+241100	Hypogonadism, Male	C0151721	Male hypogonadism (Testicular hypogonadism)
+241519	Hypophosphatemia, Renal, With Intracerebral Calcifications	C0175895	calcification
+241519	Hypophosphatemia, Renal, With Intracerebral Calcifications	C0085682	HYPOPHOSPHATAEMIA (Hypophosphatemia)
+243200	Intracranial Hypertension, Idiopathic	C0033845	Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)
+246300	Leprosy, Susceptibility To, 3; Lprs3	C0023343	Leprosy
+246300	Leprosy, Susceptibility To, 3; Lprs3	C1968668	LPRS3
+246400	Letterer-Siwe Disease	C0023381	Letterer-Siwe Disease
+246400	Letterer-Siwe Disease	C0019621	Letterer-Siwe Disease (Histiocytosis, Langerhans-Cell)
+246470	Leukemia, Acute Myelocytic, With Polyposis Coli And Colon Cancer	C0699790	Colon cancer (Colon Carcinoma)
+246470	Leukemia, Acute Myelocytic, With Polyposis Coli And Colon Cancer	C0007102	colon cancer (Malignant tumor of colon)
+246470	Leukemia, Acute Myelocytic, With Polyposis Coli And Colon Cancer	C0023418	LEUKAEMIA (leukemia)
+246470	Leukemia, Acute Myelocytic, With Polyposis Coli And Colon Cancer	C0032580	Polyposis coli (Adenomatous Polyposis Coli)
+247200	Miller-Dieker Lissencephaly Syndrome; Mdls	C0265219	Lissencephaly Syndrome, Miller-Dieker (Miller Dieker syndrome)
+247200	Miller-Dieker Lissencephaly Syndrome; Mdls	C0265219	MDLS (Miller Dieker syndrome)
+247640	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	C2063390	acute lymphoma
+247640	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	C1855472	LALL
+247640	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	C1961102	Leukemia, Lymphoblastic (Precursor Cell Lymphoblastic Leukemia Lymphoma)
+247640	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	C0023449	Lymphoblastic leukaemia (Acute lymphocytic leukemia)
+247640	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	C0023448	Lymphoblastic leukaemia NOS (Lymphoid leukemia)
+248190	Hypomagnesemia 5, Renal, With Ocular Involvement; Homg5	C0151723	HYPOMAGNESAEMIA (Hypomagnesemia)
+249100	Familial Mediterranean Fever; Fmf	C0031069	Familial Mediterranean Fever
+249100	Familial Mediterranean Fever; Fmf	C0031069	FMF (Familial Mediterranean Fever)
+250790	Methemoglobinemia Type Iv	C0025637	METHAEMOGLOBINAEMIA (Methemoglobinemia)
+252320	Motor Neuropathy, Peripheral, With Dysautonomia	C0013363	Dysautonomia
+252320	Motor Neuropathy, Peripheral, With Dysautonomia	C0235025	Motor neuropathy (Peripheral motor neuropathy)
+254200	Myasthenia Gravis; Mg	C0026896	Myasthenia Gravis
+254400	Mycosis Fungoides	C0026948	Mycosis Fungoides
+254450	Myelofibrosis	C0026987	Myelofibrosis
+254450	Myelofibrosis	C0001815	Myelofibrosis (Primary Myelofibrosis)
+254500	Myeloma, Multiple	C0026764	Multiple Myeloma
+254770	Epilepsy, Myoclonic Juvenile; Ejm	C0270853	EJM (Myoclonic Epilepsy, Juvenile)
+254770	Epilepsy, Myoclonic Juvenile; Ejm	C0014550	Epilepsy, Myoclonic (Epilepsies, Myoclonic)
+254800	Myoclonic Epilepsy Of Unverricht And Lundborg	C0014550	Epilepsy, Myoclonic (Epilepsies, Myoclonic)
+254800	Myoclonic Epilepsy Of Unverricht And Lundborg	C0751785	Unverricht (Unverricht-Lundborg Syndrome)
+255900	Myxedema	C0027145	MYXOEDEMA (Myxedema)
+256370	Nephrotic Syndrome, Early-Onset, With Diffuse Mesangial Sclerosis	C0268747	Diffuse mesangial sclerosis
+256370	Nephrotic Syndrome, Early-Onset, With Diffuse Mesangial Sclerosis	C1833334	Early-onset
+256370	Nephrotic Syndrome, Early-Onset, With Diffuse Mesangial Sclerosis	C0027726	Nephrotic Syndrome
+256700	Neuroblastoma, Susceptibility To	C0027819	Neuroblastoma
+256700	Neuroblastoma, Susceptibility To	C0700095	Neuroblastoma (Central neuroblastoma)
+258360	Onychotrichodysplasia And Neutropenia	C0027947	Neutropenia
+259050	Ossified Ear Cartilages With Mental Deficiency, Muscle Wasting, And	C0917816	Mental deficiency
+259050	Ossified Ear Cartilages With Mental Deficiency, Muscle Wasting, And	C0026846	Muscle wasting (Muscular Atrophy)
+259050	Ossified Ear Cartilages With Mental Deficiency, Muscle Wasting, And	C1833791	OSSIFIED EAR CARTILAGES
+259500	Osteogenic Sarcoma	C0029463	Sarcoma, Osteogenic (osteosarcoma)
+259660	Osteomalacia, Sclerosing, With Cerebral Calcification	C0270685	Cerebral calcification
+259660	Osteomalacia, Sclerosing, With Cerebral Calcification	C0702118	Hardening (Abnormally hard consistency)
+259660	Osteomalacia, Sclerosing, With Cerebral Calcification	C0029442	Osteomalacia
+260480	Pancreatitis, Sclerosing Cholangitis, And Sicca Complex	C0008313	Cholangitis, Sclerosing
+260480	Pancreatitis, Sclerosing Cholangitis, And Sicca Complex	C0030305	Pancreatitis
+260480	Pancreatitis, Sclerosing Cholangitis, And Sicca Complex	C1963198	Pancreatitis (Pancreatitis Adverse Event)
+260480	Pancreatitis, Sclerosing Cholangitis, And Sicca Complex	C0086981	SICCA (Sicca Syndrome)
+260570	Pelger-Huet-Like Anomaly And Episodic Fever With Abdominal Pain	C0000737	Abdominal Pain
+260570	Pelger-Huet-Like Anomaly And Episodic Fever With Abdominal Pain	C1855603	Episodic fever
+260570	Pelger-Huet-Like Anomaly And Episodic Fever With Abdominal Pain	C0030779	Pelger-Huet Anomaly
+260970	Peripheral Neuropathy, Ataxia, Focal Necrotizing Encephalopathy, And	C0004134	Ataxia
+260970	Peripheral Neuropathy, Ataxia, Focal Necrotizing Encephalopathy, And	C0085584	Encephalopathy (Encephalopathies)
+260970	Peripheral Neuropathy, Ataxia, Focal Necrotizing Encephalopathy, And	C1963101	Encephalopathy (Encephalopathy Adverse Event)
+260970	Peripheral Neuropathy, Ataxia, Focal Necrotizing Encephalopathy, And	C0031117	Peripheral Neuropathy
+261515	D-Bifunctional Protein Deficiency	C0033626	Protein Deficiency
+263300	Polycythemia Vera	C0032463	Polycythaemia vera (Polycythemia Vera)
+263800	Gitelman Syndrome	C0268450	Gitelman Syndrome
+264120	Prolactin Deficiency With Obesity And Enlarged Testes	C0028754	Obesity
+264120	Prolactin Deficiency With Obesity And Enlarged Testes	C1963185	Obesity (Obesity Adverse Event)
+264120	Prolactin Deficiency With Obesity And Enlarged Testes	C0271586	Prolactin deficiency (Isolated prolactin deficiency)
+266120	Uridine 5-Prime Monophosphate Hydrolase Deficiency, Hemolytic Anemia	C0002878	Anemia, Hemolytic
+266120	Uridine 5-Prime Monophosphate Hydrolase Deficiency, Hemolytic Anemia	C0340969	Uridine monophosphate hydrolase deficiency
+266600	Inflammatory Bowel Disease 1; Ibd1	C0678202	IBD1 (Regional enteritis)
+266600	Inflammatory Bowel Disease 1; Ibd1	C0678202	INFLAMMATORY BOWEL DISEASE 1 (Regional enteritis)
+267730	Reticulum Cell Sarcoma	C0024302	Reticulum-Cell Sarcoma (Reticulosarcoma)
+267740	Retinal Degeneration And Epilepsy	C0014544	Epilepsy
+267740	Retinal Degeneration And Epilepsy	C0035304	Retinal Degeneration
+268220	Rhabdomyosarcoma 2; Rms2	C0206655	RHABDOMYOSARCOMA 2 (Rhabdomyosarcoma, Alveolar)
+268220	Rhabdomyosarcoma 2; Rms2	C0206655	RMS2 (Rhabdomyosarcoma, Alveolar)
+268320	Rodrigues Blindness	C0456909	Blindness (Blind Vision)
+270960	Azoospermia Due To Perturbations Of Meiosis	C0232981	AZOOSPERMIA DUE TO PERTURBATIONS OF MEIOSIS (Spermatogenesis arrest)
+273300	Testicular Tumors	C0039590	TESTICULAR TUMORS (Testicular Neoplasms)
+273800	Thrombasthenia Of Glanzmann And Naegeli	C0235604	Glanzmann (Qualitative platelet deficiency)
+273800	Thrombasthenia Of Glanzmann And Naegeli	C0040015	Thrombasthenia
+275000	Graves Disease	C0018213	Grave's disease (Graves' Disease)
+276300	Mismatch Repair Cancer Syndrome	C0006826	Cancer (Malignant Neoplasms)
+276300	Mismatch Repair Cancer Syndrome	C0027651	Cancer (Neoplasm)
+276300	Mismatch Repair Cancer Syndrome	C1306459	Cancer (Primary malignant neoplasm)
+277350	Hypercarotenemia And Vitamin A Deficiency, Autosomal Recessive	C0154271	Hypercarotenaemia (Hypercarotinemia)
+277350	Hypercarotenemia And Vitamin A Deficiency, Autosomal Recessive	C0042842	Vitamin A Deficiency
+277440	Vitamin D-Dependent Rickets, Type 2A; Vddr2A	C0221468	Vitamin D-dependent rickets
+277460	Vitamin E, Familial Isolated Deficiency Of; Ved	C1848533	VED (AVED)
+277460	Vitamin E, Familial Isolated Deficiency Of; Ved	C0042875	Vitamin E Deficiency
+278200	Woolly Hair, Hypotrichosis, Everted Lower Lip, And Outstanding Ears	C1839760	Everted ears
+278200	Woolly Hair, Hypotrichosis, Everted Lower Lip, And Outstanding Ears	C0020678	Hypotrichosis
+278200	Woolly Hair, Hypotrichosis, Everted Lower Lip, And Outstanding Ears	C0343073	Woolly hair (Wooly hair)
+300125	Migraine, Familial Typical, Susceptibility To, 2	C0149931	Migraine (Migraine Disorders)
+300232	Spondyloepimetaphyseal Dysplasia, X-Linked, With Mental Deterioration	C0234985	Mental deterioration
+300232	Spondyloepimetaphyseal Dysplasia, X-Linked, With Mental Deterioration	C1863733	Spondyloepimetaphyseal dysplasia
+300491	Epilepsy, X-Linked, With Variable Learning Disabilities And Behavior	C0014544	Epilepsy
+300491	Epilepsy, X-Linked, With Variable Learning Disabilities And Behavior	C0751265	Learning Disabilities
+300494	Asperger Syndrome, X-Linked, Susceptibility To, 1	C0236792	Asperger Syndrome
+303110	Choroideremia With Deafness And Obesity	C0008525	Choroideraemia (Choroideremia)
+303110	Choroideremia With Deafness And Obesity	C0011053	Deafness
+303110	Choroideremia With Deafness And Obesity	C0581883	Deafness (Complete Hearing Loss)
+303110	Choroideremia With Deafness And Obesity	C0028754	Obesity
+303110	Choroideremia With Deafness And Obesity	C1963185	Obesity (Obesity Adverse Event)
+304790	Immunodysregulation, Polyendocrinopathy, And Enteropathy, X-Linked;	C0021831	Enteropathy (Intestinal Diseases)
+304900	Diabetes Insipidus, Neurohypophyseal Type	C0687720	DIABETES INSIPIDUS, NEUROHYPOPHYSEAL TYPE (Central Diabetes Insipidus)
+305300	Endocardial Fibroelastosis	C0014117	Endocardial Fibroelastosis
+308205	Ichthyosis Follicularis, Atrichia, And Photophobia Syndrome	C0795992	ichthyosis follicularis-atrichia syndrome
+308205	Ichthyosis Follicularis, Atrichia, And Photophobia Syndrome	C0085636	Photophobia
+308350	Epileptic Encephalopathy, Early Infantile, 1	C0270855	EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE (Early myoclonic encephalopathy)
+308600	Jaundice, Familial Obstructive, Of Infancy	C2203646	jaundice
+310468	Nephrolithiasis, X-Linked Recessive, With Renal Failure; Xrn	C0392525	Nephrolithiasis
+310468	Nephrolithiasis, X-Linked Recessive, With Renal Failure; Xrn	C0035078	Renal Failure (Kidney Failure)
+310468	Nephrolithiasis, X-Linked Recessive, With Renal Failure; Xrn	C1963154	Renal failure (Renal Failure Adverse Event)
+310468	Nephrolithiasis, X-Linked Recessive, With Renal Failure; Xrn	C1845977	X- linked recessive
+310468	Nephrolithiasis, X-Linked Recessive, With Renal Failure; Xrn	C1279481	X-linked recessive (X-Linked Combined Immunodeficiency Diseases)
+310468	Nephrolithiasis, X-Linked Recessive, With Renal Failure; Xrn	C0403720	XRN (X-linked recessive nephrolithiasis with renal failure)
+311360	Premature Ovarian Failure 1; Pof1	C0085215	POF1 (Ovarian Failure, Premature)
+311360	Premature Ovarian Failure 1; Pof1	C0085215	PREMATURE OVARIAN FAILURE 1 (Ovarian Failure, Premature)
+312910	Spastic Paraparesis And Deafness	C0011053	Deafness
+312910	Spastic Paraparesis And Deafness	C0581883	Deafness (Complete Hearing Loss)
+312910	Spastic Paraparesis And Deafness	C0037771	Paraparesis, Spastic
+540000	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like	C0001125	Acidosis, Lactic
+540000	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like	C1852373	Mitochondrial encephalopathy
+540000	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like	C0026848	Myopathy
+540000	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like	C0038454	Stroke (Cerebrovascular accident)
+600082	Prostatic Hyperplasia, Benign; Bph	C1704272	Benign Prostatic Hyperplasia
+600082	Prostatic Hyperplasia, Benign; Bph	C1704272	BPH (Benign Prostatic Hyperplasia)
+600082	Prostatic Hyperplasia, Benign; Bph	C0005001	BPH (Benign prostatic hypertrophy)
+600082	Prostatic Hyperplasia, Benign; Bph	C1527263	Hyperplasia, Benign Prostatic (Prostatic hypertrophy)
+600131	Epilepsy, Childhood Absence, Susceptibility To, 1; Eca1	C1838604	ECA1 (EPILEPSY, CHILDHOOD ABSENCE, 1)
+600131	Epilepsy, Childhood Absence, Susceptibility To, 1; Eca1	C0014544	Epilepsy
+600263	Helicobacter Pylori Infection, Susceptibility To	C0850666	Helicobacter pylori infection
+600351	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	C0013604	Edema
+600351	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	C0021831	Enteropathy (Intestinal Diseases)
+600351	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	C0398701	Immunoglobulin G2 deficiency
+600496	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	C0342276	Maturity-onset diabetes of the young (Maturity onset diabetes mellitus in young)
+600496	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	C1838100	MODY3 (MATURITY-ONSET DIABETES OF THE YOUNG, TYPE III)
+600631	Enuresis, Nocturnal, 1; Enur1	C0270327	ENUR1 (Bedwetting)
+600631	Enuresis, Nocturnal, 1; Enur1	C0270327	Nocturnal Enuresis (Bedwetting)
+600634	Pituitary Adenoma, Prolactin-Secreting	C0033375	Pituitary Adenoma, Prolactin-Secreting (Prolactinoma)
+600803	Gallbladder Disease 1; Gbd1	C0008325	GALLBLADDER DISEASE 1 (Cholecystitis)
+600803	Gallbladder Disease 1; Gbd1	C0008325	GBD1 (Cholecystitis)
+600807	Asthma, Susceptibility To	C0004096	Asthma
+600807	Asthma, Susceptibility To	C1869116	ASTHMA
+600808	Enuresis, Nocturnal, 2; Enur2	C1833268	ENUR2 (ENURESIS, NOCTURNAL, 2)
+600808	Enuresis, Nocturnal, 2; Enur2	C0270327	Nocturnal Enuresis (Bedwetting)
+601004	Portal Vein, Cavernous Transformation Of	C1510411	Transformation (metaplastic cell transformation)
+601042	Choreoathetosis/Spasticity, Episodic; Cse	C1851936	Choreoathetosis, episodic
+601042	Choreoathetosis/Spasticity, Episodic; Cse	C1832855	CSE (DYT9)
+601042	Choreoathetosis/Spasticity, Episodic; Cse	C0026838	Spasticity (Muscle Spasticity)
+601367	Stroke, Ischemic	C0948008	Ischaemic stroke NOS (Ischemic stroke)
+601518	Prostate Cancer, Hereditary, 1; Hpc1	C1333600	Hereditary Cancer (Hereditary Malignant Neoplasm)
+601518	Prostate Cancer, Hereditary, 1; Hpc1	C1832220	HPC1 (PROSTATE CANCER, HEREDITARY, 1)
+601518	Prostate Cancer, Hereditary, 1; Hpc1	C0376358	Prostate Cancer (Malignant neoplasm of prostate)
+601518	Prostate Cancer, Hereditary, 1; Hpc1	C0600139	Prostate Cancer (Prostate carcinoma)
+601608	Spastic Paraplegia And Evans Syndrome	C0272126	Evans (Evans syndrome)
+601608	Spastic Paraplegia And Evans Syndrome	C0037772	Spastic paraplegia syndrome (Spastic Paraplegia)
+601626	Leukemia, Acute Myeloid; Aml	C0023467	Acute myeloid leukaemia (Leukemia, Myelocytic, Acute)
+601626	Leukemia, Acute Myeloid; Aml	C0023467	AML (Leukemia, Myelocytic, Acute)
+601665	Obesity	C0028754	Obesity
+601665	Obesity	C1963185	Obesity (Obesity Adverse Event)
+601682	Glaucoma 1, Open Angle, C; Glc1C	C0017612	Glaucoma, Open-Angle
+601682	Glaucoma 1, Open Angle, C; Glc1C	C1866483	GLC1C (GLAUCOMA 1, OPEN ANGLE, C)
+602068	Leishmaniasis, Tegumentary, Susceptibility To	C0023281	Leishmaniasis
+602080	Paget Disease Of Bone; Pdb	C0029401	Paget's Disease of Bone (Osteitis Deformans)
+602080	Paget Disease Of Bone; Pdb	C0029401	PDB (Osteitis Deformans)
+602522	Bartter Syndrome, Type 4A	C0004775	BARTTERS SYNDROME (Bartter Disease)
+603165	Dermatitis, Atopic	C0011615	Dermatitis, Atopic
+604278	Renal Tubular Acidosis, Proximal, With Ocular Abnormalities And Mental	C0001126	Renal tubular acidosis
+604416	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	C0702166	Acne
+604416	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	C0001144	Acne (Acne Vulgaris)
+604416	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	C0085652	Pyoderma Gangrenosum
+604416	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	C1692886	Pyogenic arthritis NOS (Arthritis, Bacterial)
+604416	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	C0678108	Sterile (Sterility)
+604827	Epilepsy, Idiopathic Generalized, Susceptibility To, 7; Eig7	C0014544	Epilepsy
+605021	Myoclonic Epilepsy, Infantile	C0917800	Epilepsy, Myoclonic, Infantile
+605021	Myoclonic Epilepsy, Infantile	C0037769	Infantile myoclonic epilepsy (Infantile spasms)
+605055	Alzheimer Disease, Familial Early-Onset, With Coexisting Amyloid And	C0002395	Alzheimer's Disease
+605055	Alzheimer Disease, Familial Early-Onset, With Coexisting Amyloid And	C0011560	Amyloid (Amyloid deposition)
+605839	Leiomyomatosis And Renal Cell Cancer, Hereditary	C0206654	Leiomyomatosis
+605839	Leiomyomatosis And Renal Cell Cancer, Hereditary	C0007134	Renal cell cancer (Renal Cell Carcinoma)
+606703	Dyskinesia, Familial, With Facial Myokymia	C0013384	Dyscinesia (Dyskinetic syndrome)
+606703	Dyskinesia, Familial, With Facial Myokymia	C0270871	Facial Myokymia
+606798	Blepharospasm, Benign Essential	C0005747	Benign essential blepharospasm (Blepharospasm)
+606842	Cardioneuromyopathy With Hyaline Masses And Nemaline Rods	C0577559	Mass (Mass of body structure)
+607225	Spastic Paralysis, Infantile-Onset Ascending; Iahsp	C1846588	IAHSP
+607225	Spastic Paralysis, Infantile-Onset Ascending; Iahsp	C0023882	infantile spastic paralysis (Little's Disease)
+607459	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	C0013362	Dysarthria
+607459	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	C0751401	Ophthalmoparesis
+607459	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	C1843851	SANDO
+607459	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	C1843859	Sensory ataxic neuropathy
+607498	Migraine With Or Without Aura, Susceptibility To, 3	C0338480	Migraine without Aura (Common Migraine)
+607499	Bulimia Nervosa, Susceptibility To, 1; Buln1	C2267227	Bulimia Nervosa
+607499	Bulimia Nervosa, Susceptibility To, 1; Buln1	C1843776	BULN1
+607501	Migraine Without Aura, Susceptibility To, 4	C0338480	Migraine without Aura (Common Migraine)
+607508	Migraine With Or Without Aura, Susceptibility To, 5	C0338480	Migraine without Aura (Common Migraine)
+607516	Migraine With Or Without Aura, Susceptibility To, 6	C0338480	Migraine without Aura (Common Migraine)
+607554	Atrial Fibrillation, Familial, 3; Atfb3	C1837014	ATFB3 (ATRIAL FIBRILLATION, FAMILIAL, 3)
+607554	Atrial Fibrillation, Familial, 3; Atfb3	C0004238	Atrial Fibrillation
+607554	Atrial Fibrillation, Familial, 3; Atfb3	C1963067	Atrial fibrillation (Atrial Fibrillation Adverse Event)
+607554	Atrial Fibrillation, Familial, 3; Atfb3	C2108067	atrial fibrillation (continuous electrocardiogram atrial fibrillation)
+607554	Atrial Fibrillation, Familial, 3; Atfb3	C2041124	atrial fibrillation (electrocardiogram rhythm strip 3-lead atrial fibrillation)
+607628	Epilepsy, Idiopathic Generalized, Susceptibility To, 11; Eig11	C0014544	Epilepsy
+607631	Epilepsy, Juvenile Absence, Susceptibility To, 1; Eja1	C0014544	Epilepsy
+607681	Epilepsy, Childhood Absence, Susceptibility To, 2; Eca2	C1843244	ECA2 (EPILEPSY, CHILDHOOD ABSENCE, 2)
+607681	Epilepsy, Childhood Absence, Susceptibility To, 2; Eca2	C0014544	Epilepsy
+607682	Epilepsy, Idiopathic Generalized, Susceptibility To, 9; Eig9	C0014544	Epilepsy
+607685	Hypereosinophilic Syndrome, Idiopathic; Hes	C0206141	Idiopathic Hypereosinophilic Syndrome
+607850	Osteoarthritis Susceptibility 3; Os3	C0029408	Osteoarthritis (Degenerative polyarthritis)
+608033	Encephalopathy, Acute Necrotizing 1, Susceptibility To; Ane1	C0085584	Encephalopathy (Encephalopathies)
+608033	Encephalopathy, Acute Necrotizing 1, Susceptibility To; Ane1	C1963101	Encephalopathy (Encephalopathy Adverse Event)
+608088	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And	C1961131	Cough
+608088	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And	C0010200	Cough (Coughing)
+608088	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And	C0442874	Neuropathy
+608105	Epilepsy, Rolandic, With Paroxysmal Exercise-Induced Dystonia And	C0393588	Dystonia, Paroxysmal
+608105	Epilepsy, Rolandic, With Paroxysmal Exercise-Induced Dystonia And	C0014544	Epilepsy
+608105	Epilepsy, Rolandic, With Paroxysmal Exercise-Induced Dystonia And	C0239313	EXERCISE INDUCED (EXERTIONAL)
+608217	Epilepsy, Benign Neonatal, 3; Ebn3	C0270851	Benign neonatal epilepsy
+608217	Epilepsy, Benign Neonatal, 3; Ebn3	C0220669	Benign neonatal epilepsy (Familial benign neonatal epilepsy)
+608217	Epilepsy, Benign Neonatal, 3; Ebn3	C1842382	EBN3 (EPILEPSY, BENIGN NEONATAL, 3)
+608320	Coronary Artery Disease, Autosomal Dominant, 1; Adcad1	C1842247	ADCAD1 (CORONARY ARTERY DISEASE, AUTOSOMAL DOMINANT, 1)
+608320	Coronary Artery Disease, Autosomal Dominant, 1; Adcad1	C1956346	Coronary Artery Disease
+608320	Coronary Artery Disease, Autosomal Dominant, 1; Adcad1	C0010068	Coronary Artery Disease (Coronary heart disease)
+608583	Atrial Fibrillation, Familial, 1; Atfb1	C1843687	ATFB1 (ATRIAL FIBRILLATION, FAMILIAL, 1)
+608583	Atrial Fibrillation, Familial, 1; Atfb1	C0004238	Atrial Fibrillation
+608583	Atrial Fibrillation, Familial, 1; Atfb1	C1963067	Atrial fibrillation (Atrial Fibrillation Adverse Event)
+608583	Atrial Fibrillation, Familial, 1; Atfb1	C2108067	atrial fibrillation (continuous electrocardiogram atrial fibrillation)
+608583	Atrial Fibrillation, Familial, 1; Atfb1	C2041124	atrial fibrillation (electrocardiogram rhythm strip 3-lead atrial fibrillation)
+608622	Hypertension, Diastolic, Resistance To	C1963138	Hypertension (Hypertension Adverse Event)
+608622	Hypertension, Diastolic, Resistance To	C0020538	Hypertension (Hypertensive disease)

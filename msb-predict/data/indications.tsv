@@ -1,0 +1,1934 @@
+omim_id	drugbank_id	omim_name	drugbank_name
+607682	DB00909	Epilepsy, Idiopathic Generalized, Susceptibility To, 9; Eig9	Zonisamide
+607682	DB01202	Epilepsy, Idiopathic Generalized, Susceptibility To, 9; Eig9	Levetiracetam
+607682	DB00794	Epilepsy, Idiopathic Generalized, Susceptibility To, 9; Eig9	Primidone
+607682	DB00776	Epilepsy, Idiopathic Generalized, Susceptibility To, 9; Eig9	Oxcarbazepine
+607682	DB00996	Epilepsy, Idiopathic Generalized, Susceptibility To, 9; Eig9	Gabapentin
+109350	DB01129	Gastroesophageal Reflux	Rabeprazole
+109350	DB01020	Gastroesophageal Reflux	Isosorbide Mononitrate
+109350	DB00863	Gastroesophageal Reflux	Ranitidine
+109350	DB01233	Gastroesophageal Reflux	Metoclopramide
+109350	DB01019	Gastroesophageal Reflux	Bethanechol
+109350	DB00448	Gastroesophageal Reflux	Lansoprazole
+109350	DB00364	Gastroesophageal Reflux	Sucralfate
+109350	DB00736	Gastroesophageal Reflux	Esomeprazole
+109350	DB01378	Gastroesophageal Reflux	Magnesium
+109350	DB00338	Gastroesophageal Reflux	Omeprazole
+109350	DB00501	Gastroesophageal Reflux	Cimetidine
+109350	DB00213	Gastroesophageal Reflux	Pantoprazole
+109350	DB00927	Gastroesophageal Reflux	Famotidine
+109350	DB00883	Gastroesophageal Reflux	Isosorbide Dinitrate
+109350	DB00585	Gastroesophageal Reflux	Nizatidine
+145200	DB00755	Hyperpigmentation Of Fuldauer And Kuijpers	Tretinoin
+604416	DB00010	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Sermorelin
+604416	DB00755	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Tretinoin
+604416	DB00977	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Ethinyl Estradiol
+604416	DB00759	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Tetracycline
+604416	DB01395	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Drospirenone
+604416	DB00440	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Trimethoprim
+604416	DB00548	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Azelaic Acid
+604416	DB00957	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Norgestimate
+604416	DB00007	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Leuprolide
+604416	DB00421	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Spironolactone
+604416	DB00936	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Salicyclic acid
+604416	DB00210	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Adapalene
+604416	DB00199	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Erythromycin
+604416	DB00717	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Norethindrone
+604416	DB01017	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Minocycline
+604416	DB00982	Pyogenic Sterile Arthritis, Pyoderma Gangrenosum, And Acne	Isotretinoin
+102100	DB01068	Acromegaloid Changes, Cutis Verticis Gyrata, And Corneal Leukoma	Clonazepam
+102100	DB00949	Acromegaloid Changes, Cutis Verticis Gyrata, And Corneal Leukoma	Felbamate
+102100	DB00555	Acromegaloid Changes, Cutis Verticis Gyrata, And Corneal Leukoma	Lamotrigine
+608088	DB00318	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Codeine
+608088	DB01075	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Diphenhydramine
+608088	DB00852	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Pseudoephedrine
+608088	DB00514	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Dextromethorphan
+608088	DB00868	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Benzonatate
+608088	DB01069	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Promethazine
+608088	DB00388	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Phenylephrine
+608088	DB00956	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Hydrocodone
+608088	DB01551	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Dihydrocodeine
+608088	DB00316	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Acetaminophen
+608088	DB00397	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Phenylpropanolamine
+608088	DB00327	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Hydromorphone
+608088	DB00907	Neuropathy, Hereditary Sensory And Autonomic, Type I, With Cough And Gastroesophageal Reflux	Cocaine
+223350	DB01008	Dohle Bodies And Leukemia	Busulfan
+223350	DB00620	Dohle Bodies And Leukemia	Triamcinolone
+223350	DB01254	Dohle Bodies And Leukemia	Dasatinib
+223350	DB00635	Dohle Bodies And Leukemia	Prednisone
+223350	DB00987	Dohle Bodies And Leukemia	Cytarabine
+223350	DB00444	Dohle Bodies And Leukemia	Teniposide
+223350	DB00694	Dohle Bodies And Leukemia	Daunorubicin
+223350	DB00762	Dohle Bodies And Leukemia	Irinotecan
+223350	DB00541	Dohle Bodies And Leukemia	Vincristine
+223350	DB01177	Dohle Bodies And Leukemia	Idarubicin
+223350	DB01073	Dohle Bodies And Leukemia	Fludarabine
+223350	DB00563	Dohle Bodies And Leukemia	Methotrexate
+223350	DB01234	Dohle Bodies And Leukemia	Dexamethasone
+168600	DB01186	Parkinson Disease; Pd	Pergolide
+168600	DB00245	Parkinson Disease; Pd	Benzatropine
+168600	DB00413	Parkinson Disease; Pd	Pramipexole
+168600	DB00494	Parkinson Disease; Pd	Entacapone
+168600	DB00387	Parkinson Disease; Pd	Procyclidine
+168600	DB00323	Parkinson Disease; Pd	Tolcapone
+168600	DB00714	Parkinson Disease; Pd	Apomorphine
+168600	DB01367	Parkinson Disease; Pd	Rasagiline
+168600	DB00747	Parkinson Disease; Pd	Scopolamine
+168600	DB00190	Parkinson Disease; Pd	Carbidopa
+168600	DB00268	Parkinson Disease; Pd	Ropinirole
+103780	DB00215	Alcohol Dependence	Citalopram
+103780	DB00704	Alcohol Dependence	Naltrexone
+103780	DB00659	Alcohol Dependence	Acamprosate
+103780	DB00475	Alcohol Dependence	Chlordiazepoxide
+103780	DB00822	Alcohol Dependence	Disulfiram
+103780	DB00904	Alcohol Dependence	Ondansetron
+600496	DB01124	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Tolbutamide
+600496	DB01132	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Pioglitazone
+600496	DB00672	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Chlorpropamide
+600496	DB01016	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Glyburide
+600496	DB01067	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Glipizide
+600496	DB00331	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Metformin
+600496	DB01261	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Sitagliptin
+600496	DB00222	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Glimepiride
+600496	DB00731	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Nateglinide
+600496	DB00912	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Repaglinide
+600496	DB00839	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Tolazamide
+600496	DB01029	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Irbesartan
+600496	DB00284	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Acarbose
+600496	DB00412	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Rosiglitazone
+600496	DB00414	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Acetohexamide
+600496	DB00491	Maturity-Onset Diabetes Of The Young, Type 3; Mody3	Miglitol
+304900	DB00035	Diabetes Insipidus, Neurohypophyseal Type	Desmopressin
+304900	DB00067	Diabetes Insipidus, Neurohypophyseal Type	Vasopressin
+131440	DB00619	Myeloproliferative Disorder, Chronic, With Eosinophilia	Imatinib
+138800	DB00279	Goiter, Multinodular 1; Mng1	Liothyronine
+138800	DB00451	Goiter, Multinodular 1; Mng1	Levothyroxine
+208700	DB00909	Ataxia With Myoclonic Epilepsy And Presenile Dementia	Zonisamide
+208700	DB00794	Ataxia With Myoclonic Epilepsy And Presenile Dementia	Primidone
+208700	DB00776	Ataxia With Myoclonic Epilepsy And Presenile Dementia	Oxcarbazepine
+208700	DB00996	Ataxia With Myoclonic Epilepsy And Presenile Dementia	Gabapentin
+608105	DB00909	Epilepsy, Rolandic, With Paroxysmal Exercise-Induced Dystonia And	Zonisamide
+608105	DB01202	Epilepsy, Rolandic, With Paroxysmal Exercise-Induced Dystonia And	Levetiracetam
+608105	DB00794	Epilepsy, Rolandic, With Paroxysmal Exercise-Induced Dystonia And	Primidone
+608105	DB00776	Epilepsy, Rolandic, With Paroxysmal Exercise-Induced Dystonia And	Oxcarbazepine
+608105	DB00996	Epilepsy, Rolandic, With Paroxysmal Exercise-Induced Dystonia And	Gabapentin
+146850	DB00959	Immune Suppression; Is	Methylprednisolone
+146850	DB00860	Immune Suppression; Is	Prednisolone
+146850	DB00635	Immune Suppression; Is	Prednisone
+188050	DB00208	Thrombosis, Susceptibility To	Ticlopidine
+188050	DB01225	Thrombosis, Susceptibility To	Enoxaparin
+188050	DB00569	Thrombosis, Susceptibility To	Fondaparinux sodium
+188050	DB00806	Thrombosis, Susceptibility To	Pentoxifylline
+188050	DB00407	Thrombosis, Susceptibility To	Ardeparin
+188050	DB00278	Thrombosis, Susceptibility To	Argatroban
+311360	DB00977	Premature Ovarian Failure 1; Pof1	Ethinyl Estradiol
+311360	DB00783	Premature Ovarian Failure 1; Pof1	Estradiol
+311360	DB00286	Premature Ovarian Failure 1; Pof1	Conjugated Estrogens
+311360	DB00655	Premature Ovarian Failure 1; Pof1	Estrone
+137750	DB00449	Glaucoma 1, Open Angle, A; Glc1A	Dipivefrin
+137750	DB01214	Glaucoma 1, Open Angle, A; Glc1A	Metipranolol
+137750	DB00521	Glaucoma 1, Open Angle, A; Glc1A	Carteolol
+137750	DB00484	Glaucoma 1, Open Angle, A; Glc1A	Brimonidine
+137750	DB00373	Glaucoma 1, Open Angle, A; Glc1A	Timolol
+137750	DB00287	Glaucoma 1, Open Angle, A; Glc1A	Travoprost
+137750	DB00668	Glaucoma 1, Open Angle, A; Glc1A	Epinephrine
+137750	DB00905	Glaucoma 1, Open Angle, A; Glc1A	Bimatoprost
+137750	DB00654	Glaucoma 1, Open Angle, A; Glc1A	Latanoprost
+137750	DB00388	Glaucoma 1, Open Angle, A; Glc1A	Phenylephrine
+137750	DB00195	Glaucoma 1, Open Angle, A; Glc1A	Betaxolol
+137750	DB01210	Glaucoma 1, Open Angle, A; Glc1A	Levobunolol
+137750	DB01194	Glaucoma 1, Open Angle, A; Glc1A	Brinzolamide
+137750	DB00869	Glaucoma 1, Open Angle, A; Glc1A	Dorzolamide
+607685	DB00619	Hypereosinophilic Syndrome, Idiopathic; Hes	Imatinib
+600351	DB00804	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Dicyclomine
+600351	DB00860	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Prednisolone
+600351	DB00635	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Prednisone
+600351	DB00808	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Indapamide
+600351	DB00214	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Torasemide
+600351	DB00695	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Furosemide
+600351	DB00903	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Ethacrynic acid
+600351	DB01406	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Danazol
+600351	DB00819	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Acetazolamide
+600351	DB00421	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Spironolactone
+600351	DB00880	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Chlorothiazide
+600351	DB00436	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Bendroflumethiazide
+600351	DB00999	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Hydrochlorothiazide
+600351	DB00384	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Triamterene
+600351	DB01197	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Captopril
+600351	DB00887	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Bumetanide
+600351	DB01234	Enteropathy, Familial, With Villous Edema And Immunoglobulin G2 Deficiency	Dexamethasone
+233810	DB00993	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	Azathioprine
+233810	DB00337	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	Pimecrolimus
+233810	DB00635	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	Prednisone
+233810	DB00741	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	Hydrocortisone
+233810	DB00596	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	Halobetasol Propionate
+233810	DB00240	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	Alclometasone
+233810	DB00563	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	Methotrexate
+233810	DB01260	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	Desonide
+233810	DB00846	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	Flurandrenolide
+233810	DB00764	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	Mometasone
+233810	DB00547	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	Desoximetasone
+233810	DB01234	Growth Retardation, Small And Puffy Hands And Feet, And Eczema	Dexamethasone
+194200	DB00131	Wolff-Parkinson-White Syndrome	Adenosine monophosphate
+194200	DB00640	Wolff-Parkinson-White Syndrome	Adenosine
+115000	DB01064	Cardiac Arrhythmia	Isoproterenol
+115000	DB01228	Cardiac Arrhythmia	Encainide
+115000	DB00280	Cardiac Arrhythmia	Disopyramide
+115000	DB01035	Cardiac Arrhythmia	Procainamide
+115000	DB00252	Cardiac Arrhythmia	Phenytoin
+115000	DB00661	Cardiac Arrhythmia	Verapamil
+115000	DB00908	Cardiac Arrhythmia	Quinidine
+115000	DB01118	Cardiac Arrhythmia	Amiodarone
+115000	DB01113	Cardiac Arrhythmia	Papaverine
+115000	DB00204	Cardiac Arrhythmia	Dofetilide
+115000	DB00571	Cardiac Arrhythmia	Propranolol
+115000	DB00379	Cardiac Arrhythmia	Mexiletine
+175505	DB00482	Polyposis Of Gastric Fundus Without Polyposis Coli	Celecoxib
+210050	DB00332	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Ipratropium bromide
+210050	DB01222	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Budesonide
+210050	DB00695	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Furosemide
+210050	DB00903	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Ethacrynic acid
+210050	DB00871	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Terbutaline
+210050	DB01223	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Aminophylline
+210050	DB00471	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Montelukast
+210050	DB00880	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Chlorothiazide
+210050	DB00651	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Dyphylline
+210050	DB00983	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Formoterol
+210050	DB00384	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Triamterene
+210050	DB00221	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Isoetharine
+210050	DB00887	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Bumetanide
+210050	DB00816	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Orciprenaline
+210050	DB00277	Berry Aneurysm, Cirrhosis, Pulmonary Emphysema, And Cerebral Calcification	Theophylline
+246300	DB01045	Leprosy, Susceptibility To, 3; Lprs3	Rifampin
+246300	DB01041	Leprosy, Susceptibility To, 3; Lprs3	Thalidomide
+277440	DB00136	Vitamin D-Dependent Rickets, Type 2A; Vddr2A	Calcitriol
+277440	DB00153	Vitamin D-Dependent Rickets, Type 2A; Vddr2A	Ergocalciferol
+607631	DB00909	Epilepsy, Juvenile Absence, Susceptibility To, 1; Eja1	Zonisamide
+607631	DB01202	Epilepsy, Juvenile Absence, Susceptibility To, 1; Eja1	Levetiracetam
+607631	DB00794	Epilepsy, Juvenile Absence, Susceptibility To, 1; Eja1	Primidone
+607631	DB00776	Epilepsy, Juvenile Absence, Susceptibility To, 1; Eja1	Oxcarbazepine
+607631	DB00996	Epilepsy, Juvenile Absence, Susceptibility To, 1; Eja1	Gabapentin
+135550	DB00482	Fibromatosis, Gingival, With Progressive Deafness	Celecoxib
+115645	DB00963	Cataract, Aberrant Oral Frenula, And Growth Retardation	Bromfenac
+143500	DB01174	Gilbert Syndrome	Phenobarbital
+140300	DB00279	Hashimoto Thyroiditis	Liothyronine
+140300	DB00451	Hashimoto Thyroiditis	Levothyroxine
+125700	DB00035	Diabetes Insipidus, Neurohypophyseal	Desmopressin
+125700	DB00067	Diabetes Insipidus, Neurohypophyseal	Vasopressin
+125700	DB00999	Diabetes Insipidus, Neurohypophyseal	Hydrochlorothiazide
+605021	DB00273	Myoclonic Epilepsy, Infantile	Topiramate
+605021	DB01080	Myoclonic Epilepsy, Infantile	Vigabatrin
+146110	DB00644	Hypogonadotropic Hypogonadism	Gonadorelin
+166300	DB00282	Osteolysis, Hereditary, Of Carpal Bones With Or Without Nephropathy	Pamidronate
+166300	DB00695	Osteolysis, Hereditary, Of Carpal Bones With Or Without Nephropathy	Furosemide
+166300	DB00887	Osteolysis, Hereditary, Of Carpal Bones With Or Without Nephropathy	Bumetanide
+166300	DB00214	Osteolysis, Hereditary, Of Carpal Bones With Or Without Nephropathy	Torasemide
+166300	DB00988	Osteolysis, Hereditary, Of Carpal Bones With Or Without Nephropathy	Dopamine
+300125	DB00320	Migraine, Familial Typical, Susceptibility To, 2	Dihydroergotamine
+300125	DB00696	Migraine, Familial Typical, Susceptibility To, 2	Ergotamine
+300125	DB00434	Migraine, Familial Typical, Susceptibility To, 2	Cyproheptadine
+300125	DB00313	Migraine, Familial Typical, Susceptibility To, 2	Valproic Acid
+300125	DB00669	Migraine, Familial Typical, Susceptibility To, 2	Sumatriptan
+300125	DB00273	Migraine, Familial Typical, Susceptibility To, 2	Topiramate
+300125	DB00216	Migraine, Familial Typical, Susceptibility To, 2	Eletriptan
+300125	DB00571	Migraine, Familial Typical, Susceptibility To, 2	Propranolol
+300125	DB00373	Migraine, Familial Typical, Susceptibility To, 2	Timolol
+176800	DB00650	Pronation-Supination Of The Forearm, Impairment Of	Leucovorin
+176800	DB00331	Pronation-Supination Of The Forearm, Impairment Of	Metformin
+211980	DB00997	Lung Cancer	Doxorubicin
+145590	DB01399	Hyperthermia, Cutaneous, With Headaches And Nausea	Salsalate
+145590	DB00537	Hyperthermia, Cutaneous, With Headaches And Nausea	Ciprofloxacin
+145590	DB01176	Hyperthermia, Cutaneous, With Headaches And Nausea	Cyclizine
+145590	DB00201	Hyperthermia, Cutaneous, With Headaches And Nausea	Caffeine
+145590	DB00371	Hyperthermia, Cutaneous, With Headaches And Nausea	Meprobamate
+145590	DB00788	Hyperthermia, Cutaneous, With Headaches And Nausea	Naproxen
+145590	DB00508	Hyperthermia, Cutaneous, With Headaches And Nausea	Triflupromazine
+145590	DB00316	Hyperthermia, Cutaneous, With Headaches And Nausea	Acetaminophen
+145590	DB00366	Hyperthermia, Cutaneous, With Headaches And Nausea	Doxylamine
+145590	DB00945	Hyperthermia, Cutaneous, With Headaches And Nausea	Acetylsalicylic acid
+145590	DB00757	Hyperthermia, Cutaneous, With Headaches And Nausea	Dolasetron
+145590	DB00477	Hyperthermia, Cutaneous, With Headaches And Nausea	Chlorpromazine
+145590	DB00241	Hyperthermia, Cutaneous, With Headaches And Nausea	Butalbital
+145590	DB00852	Hyperthermia, Cutaneous, With Headaches And Nausea	Pseudoephedrine
+145590	DB00557	Hyperthermia, Cutaneous, With Headaches And Nausea	Hydroxyzine
+145590	DB00354	Hyperthermia, Cutaneous, With Headaches And Nausea	Buclizine
+145590	DB01009	Hyperthermia, Cutaneous, With Headaches And Nausea	Ketoprofen
+145590	DB01234	Hyperthermia, Cutaneous, With Headaches And Nausea	Dexamethasone
+145590	DB00320	Hyperthermia, Cutaneous, With Headaches And Nausea	Dihydroergotamine
+145590	DB00318	Hyperthermia, Cutaneous, With Headaches And Nausea	Codeine
+145590	DB00514	Hyperthermia, Cutaneous, With Headaches And Nausea	Dextromethorphan
+145590	DB00140	Hyperthermia, Cutaneous, With Headaches And Nausea	Riboflavin
+145590	DB00433	Hyperthermia, Cutaneous, With Headaches And Nausea	Prochlorperazine
+145590	DB00904	Hyperthermia, Cutaneous, With Headaches And Nausea	Ondansetron
+145590	DB00889	Hyperthermia, Cutaneous, With Headaches And Nausea	Granisetron
+145590	DB00767	Hyperthermia, Cutaneous, With Headaches And Nausea	Benzquinamide
+145590	DB01231	Hyperthermia, Cutaneous, With Headaches And Nausea	Diphenidol
+145590	DB00388	Hyperthermia, Cutaneous, With Headaches And Nausea	Phenylephrine
+145590	DB01050	Hyperthermia, Cutaneous, With Headaches And Nausea	Ibuprofen
+145590	DB01075	Hyperthermia, Cutaneous, With Headaches And Nausea	Diphenhydramine
+181000	DB00620	Sarcoidosis, Susceptibility To, 1; Ss1	Triamcinolone
+181000	DB00993	Sarcoidosis, Susceptibility To, 1; Ss1	Azathioprine
+181000	DB00635	Sarcoidosis, Susceptibility To, 1; Ss1	Prednisone
+181000	DB00608	Sarcoidosis, Susceptibility To, 1; Ss1	Chloroquine
+181000	DB01234	Sarcoidosis, Susceptibility To, 1; Ss1	Dexamethasone
+176807	DB01101	Prostate Cancer	Capecitabine
+176807	DB00014	Prostate Cancer	Goserelin
+176807	DB01128	Prostate Cancer	Bicalutamide
+176807	DB01204	Prostate Cancer	Mitoxantrone
+176807	DB00007	Prostate Cancer	Leuprolide
+176807	DB00499	Prostate Cancer	Flutamide
+176807	DB01196	Prostate Cancer	Estramustine
+176807	DB00783	Prostate Cancer	Estradiol
+176807	DB01248	Prostate Cancer	Docetaxel
+176807	DB00286	Prostate Cancer	Conjugated Estrogens
+113610	DB00536	Branchial Myoclonus With Spastic Paraparesis And Cerebellar Ataxia	Guanidine
+113610	DB00434	Branchial Myoclonus With Spastic Paraparesis And Cerebellar Ataxia	Cyproheptadine
+134750	DB00995	Felty Syndrome	Auranofin
+134520	DB00302	Factors Viii, Ix And Xi, Combined Deficiency Of	Tranexamic Acid
+267730	DB00290	Reticulum Cell Sarcoma	Bleomycin
+267730	DB00987	Reticulum Cell Sarcoma	Cytarabine
+267730	DB00444	Reticulum Cell Sarcoma	Teniposide
+267730	DB01204	Reticulum Cell Sarcoma	Mitoxantrone
+267730	DB00541	Reticulum Cell Sarcoma	Vincristine
+267730	DB00262	Reticulum Cell Sarcoma	Carmustine
+267730	DB01073	Reticulum Cell Sarcoma	Fludarabine
+267730	DB00563	Reticulum Cell Sarcoma	Methotrexate
+602068	DB01167	Leishmaniasis, Tegumentary, Susceptibility To	Itraconazole
+602068	DB00437	Leishmaniasis, Tegumentary, Susceptibility To	Allopurinol
+231090	DB00917	Hydatidiform Mole	Dinoprostone
+231090	DB00563	Hydatidiform Mole	Methotrexate
+270960	DB00882	Azoospermia Due To Perturbations Of Meiosis	Clomifene
+175510	DB00007	Polyps, Multiple And Recurrent Inflammatory Fibroid, Gastrointestinal	Leuprolide
+156190	DB00490	Mental And Growth Retardation With Amblyopia	Buspirone
+607850	DB00749	Osteoarthritis Susceptibility 3; Os3	Etodolac
+607850	DB00573	Osteoarthritis Susceptibility 3; Os3	Fenoprofen
+607850	DB00500	Osteoarthritis Susceptibility 3; Os3	Tolmetin
+607850	DB01068	Osteoarthritis Susceptibility 3; Os3	Clonazepam
+607850	DB01009	Osteoarthritis Susceptibility 3; Os3	Ketoprofen
+607850	DB00788	Osteoarthritis Susceptibility 3; Os3	Naproxen
+607850	DB00554	Osteoarthritis Susceptibility 3; Os3	Piroxicam
+607850	DB00991	Osteoarthritis Susceptibility 3; Os3	Oxaprozin
+607850	DB00712	Osteoarthritis Susceptibility 3; Os3	Flurbiprofen
+607850	DB00580	Osteoarthritis Susceptibility 3; Os3	Valdecoxib
+607850	DB00605	Osteoarthritis Susceptibility 3; Os3	Sulindac
+607850	DB00586	Osteoarthritis Susceptibility 3; Os3	Diclofenac
+607850	DB00122	Osteoarthritis Susceptibility 3; Os3	Choline
+607850	DB01296	Osteoarthritis Susceptibility 3; Os3	Glucosamine
+607850	DB01050	Osteoarthritis Susceptibility 3; Os3	Ibuprofen
+607850	DB00945	Osteoarthritis Susceptibility 3; Os3	Acetylsalicylic acid
+607850	DB00814	Osteoarthritis Susceptibility 3; Os3	Meloxicam
+607850	DB00861	Osteoarthritis Susceptibility 3; Os3	Diflunisal
+607850	DB00328	Osteoarthritis Susceptibility 3; Os3	Indomethacin
+607850	DB00482	Osteoarthritis Susceptibility 3; Os3	Celecoxib
+248190	DB00653	Hypomagnesemia 5, Renal, With Ocular Involvement; Homg5	Magnesium Sulfate
+300494	DB00734	Asperger Syndrome, X-Linked, Susceptibility To, 1	Risperidone
+300494	DB01255	Asperger Syndrome, X-Linked, Susceptibility To, 1	Lisdexamfetamine
+300494	DB00334	Asperger Syndrome, X-Linked, Susceptibility To, 1	Olanzapine
+601626	DB00987	Leukemia, Acute Myeloid; Aml	Cytarabine
+601626	DB00694	Leukemia, Acute Myeloid; Aml	Daunorubicin
+601626	DB01204	Leukemia, Acute Myeloid; Aml	Mitoxantrone
+601626	DB00541	Leukemia, Acute Myeloid; Aml	Vincristine
+601626	DB01177	Leukemia, Acute Myeloid; Aml	Idarubicin
+601626	DB00997	Leukemia, Acute Myeloid; Aml	Doxorubicin
+601626	DB00352	Leukemia, Acute Myeloid; Aml	Thioguanine
+601626	DB00563	Leukemia, Acute Myeloid; Aml	Methotrexate
+601626	DB00982	Leukemia, Acute Myeloid; Aml	Isotretinoin
+102500	DB00717	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Norethindrone
+102500	DB00783	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Estradiol
+102500	DB06285	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Teriparatide
+102500	DB00630	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Alendronate
+102500	DB00169	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Cholecalciferol
+102500	DB00399	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Zoledronate
+102500	DB00282	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Pamidronate
+102500	DB00603	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Medroxyprogesterone
+102500	DB00481	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Raloxifene
+102500	DB00999	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Hydrochlorothiazide
+102500	DB00710	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Ibandronate
+102500	DB00884	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Risedronate
+102500	DB00286	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Conjugated Estrogens
+102500	DB00977	Acroosteolysis With Osteoporosis And Changes In Skull And Mandible	Ethinyl Estradiol
+151400	DB01033	Leukemia, Chronic Lymphocytic; Cll	Mercaptopurine
+151400	DB01181	Leukemia, Chronic Lymphocytic; Cll	Ifosfamide
+151400	DB01073	Leukemia, Chronic Lymphocytic; Cll	Fludarabine
+151400	DB00242	Leukemia, Chronic Lymphocytic; Cll	Cladribine
+300491	DB00909	Epilepsy, X-Linked, With Variable Learning Disabilities And Behavior	Zonisamide
+300491	DB01202	Epilepsy, X-Linked, With Variable Learning Disabilities And Behavior	Levetiracetam
+300491	DB00794	Epilepsy, X-Linked, With Variable Learning Disabilities And Behavior	Primidone
+300491	DB00776	Epilepsy, X-Linked, With Variable Learning Disabilities And Behavior	Oxcarbazepine
+300491	DB00996	Epilepsy, X-Linked, With Variable Learning Disabilities And Behavior	Gabapentin
+151590	DB00620	Lichen Sclerosus Et Atrophicus; Lsa	Triamcinolone
+151590	DB00755	Lichen Sclerosus Et Atrophicus; Lsa	Tretinoin
+151590	DB00635	Lichen Sclerosus Et Atrophicus; Lsa	Prednisone
+151590	DB01013	Lichen Sclerosus Et Atrophicus; Lsa	Clobetasol
+151590	DB00443	Lichen Sclerosus Et Atrophicus; Lsa	Betamethasone
+151590	DB00563	Lichen Sclerosus Et Atrophicus; Lsa	Methotrexate
+303110	DB01105	Choroideremia With Deafness And Obesity	Sibutramine
+303110	DB01577	Choroideremia With Deafness And Obesity	Methamphetamine
+303110	DB01083	Choroideremia With Deafness And Obesity	Orlistat
+303110	DB01579	Choroideremia With Deafness And Obesity	Phendimetrazine
+303110	DB00865	Choroideremia With Deafness And Obesity	Benzphetamine
+303110	DB00191	Choroideremia With Deafness And Obesity	Phentermine
+303110	DB00397	Choroideremia With Deafness And Obesity	Phenylpropanolamine
+148000	DB01229	Kaposi Sarcoma	Paclitaxel
+148000	DB00523	Kaposi Sarcoma	Alitretinoin
+148000	DB00694	Kaposi Sarcoma	Daunorubicin
+148000	DB00570	Kaposi Sarcoma	Vinblastine
+249100	DB01394	Familial Mediterranean Fever; Fmf	Colchicine
+175100	DB00605	Adenomatous Polyposis Of The Colon; Apc	Sulindac
+175100	DB00482	Adenomatous Polyposis Of The Colon; Apc	Celecoxib
+119500	DB00915	Popliteal Pterygium Syndrome; Pps	Amantadine
+131200	DB00014	Endometriosis, Susceptibility To, 1	Goserelin
+131200	DB00977	Endometriosis, Susceptibility To, 1	Ethinyl Estradiol
+131200	DB00007	Endometriosis, Susceptibility To, 1	Leuprolide
+131200	DB00957	Endometriosis, Susceptibility To, 1	Norgestimate
+131200	DB01406	Endometriosis, Susceptibility To, 1	Danazol
+131200	DB00304	Endometriosis, Susceptibility To, 1	Desogestrel
+131200	DB00717	Endometriosis, Susceptibility To, 1	Norethindrone
+131200	DB00603	Endometriosis, Susceptibility To, 1	Medroxyprogesterone
+131200	DB00367	Endometriosis, Susceptibility To, 1	Levonorgestrel
+241100	DB01185	Hypogonadism, Male	Fluoxymesterone
+241100	DB00624	Hypogonadism, Male	Testosterone
+165199	DB00620	Optic Atrophy, Hearing Loss, And Peripheral Neuropathy, Autosomal	Triamcinolone
+165199	DB00252	Optic Atrophy, Hearing Loss, And Peripheral Neuropathy, Autosomal	Phenytoin
+165199	DB00996	Optic Atrophy, Hearing Loss, And Peripheral Neuropathy, Autosomal	Gabapentin
+165199	DB00564	Optic Atrophy, Hearing Loss, And Peripheral Neuropathy, Autosomal	Carbamazepine
+165199	DB00230	Optic Atrophy, Hearing Loss, And Peripheral Neuropathy, Autosomal	Pregabalin
+165199	DB00476	Optic Atrophy, Hearing Loss, And Peripheral Neuropathy, Autosomal	Duloxetine
+134430	DB00035	Factor Vii And Factor Viii, Combined Deficiency Of	Desmopressin
+134430	DB00302	Factor Vii And Factor Viii, Combined Deficiency Of	Tranexamic Acid
+607516	DB00216	Migraine With Or Without Aura, Susceptibility To, 6	Eletriptan
+143100	DB04844	Huntington Disease; Hd	Tetrabenazine
+143100	DB00181	Huntington Disease; Hd	Baclofen
+607499	DB00285	Bulimia Nervosa, Susceptibility To, 1; Buln1	Venlafaxine
+607499	DB00273	Bulimia Nervosa, Susceptibility To, 1; Buln1	Topiramate
+607499	DB00472	Bulimia Nervosa, Susceptibility To, 1; Buln1	Fluoxetine
+602522	DB01197	Bartter Syndrome, Type 4A	Captopril
+602522	DB00328	Bartter Syndrome, Type 4A	Indomethacin
+240400	DB00126	Hypoascorbemia	Vitamin C
+144110	DB00575	Hyperhidrosis Palmaris Et Plantaris	Clonidine
+144110	DB00424	Hyperhidrosis Palmaris Et Plantaris	Hyoscyamine
+144110	DB01062	Hyperhidrosis Palmaris Et Plantaris	Oxybutynin
+144110	DB01162	Hyperhidrosis Palmaris Et Plantaris	Terazosin
+144110	DB00321	Hyperhidrosis Palmaris Et Plantaris	Amitriptyline
+144110	DB00996	Hyperhidrosis Palmaris Et Plantaris	Gabapentin
+128101	DB00181	Dystonia 4, Torsion, Autosomal Dominant; Dyt4	Baclofen
+128101	DB00564	Dystonia 4, Torsion, Autosomal Dominant; Dyt4	Carbamazepine
+134510	DB00302	Factor Viii And Factor Ix, Combined Deficiency Of; F8F9D	Tranexamic Acid
+152700	DB00620	Systemic Lupus Erythematosus; Sle	Triamcinolone
+152700	DB00993	Systemic Lupus Erythematosus; Sle	Azathioprine
+152700	DB00635	Systemic Lupus Erythematosus; Sle	Prednisone
+152700	DB00091	Systemic Lupus Erythematosus; Sle	Cyclosporine
+152700	DB00945	Systemic Lupus Erythematosus; Sle	Acetylsalicylic acid
+152700	DB01234	Systemic Lupus Erythematosus; Sle	Dexamethasone
+267740	DB00909	Retinal Degeneration And Epilepsy	Zonisamide
+267740	DB00794	Retinal Degeneration And Epilepsy	Primidone
+267740	DB00776	Retinal Degeneration And Epilepsy	Oxcarbazepine
+267740	DB00996	Retinal Degeneration And Epilepsy	Gabapentin
+132300	DB00794	Epilepsy, Reading	Primidone
+114550	DB00398	Hepatocellular Carcinoma	Sorafenib
+109800	DB00385	Bladder Cancer	Valrubicin
+109800	DB00515	Bladder Cancer	Cisplatin
+109800	DB00305	Bladder Cancer	Mitomycin
+109800	DB00997	Bladder Cancer	Doxorubicin
+109800	DB00958	Bladder Cancer	Carboplatin
+109800	DB00563	Bladder Cancer	Methotrexate
+239350	DB01320	Hyperphosphatemia, Polyuria, And Seizures	Fosphenytoin
+239350	DB00165	Hyperphosphatemia, Polyuria, And Seizures	Pyridoxine
+239350	DB00819	Hyperphosphatemia, Polyuria, And Seizures	Acetazolamide
+239350	DB00653	Hyperphosphatemia, Polyuria, And Seizures	Magnesium Sulfate
+239350	DB00313	Hyperphosphatemia, Polyuria, And Seizures	Valproic Acid
+239350	DB00754	Hyperphosphatemia, Polyuria, And Seizures	Ethotoin
+239350	DB00909	Hyperphosphatemia, Polyuria, And Seizures	Zonisamide
+239350	DB00114	Hyperphosphatemia, Polyuria, And Seizures	Pyridoxal Phosphate
+239350	DB01351	Hyperphosphatemia, Polyuria, And Seizures	Amobarbital
+239350	DB00555	Hyperphosphatemia, Polyuria, And Seizures	Lamotrigine
+239350	DB01202	Hyperphosphatemia, Polyuria, And Seizures	Levetiracetam
+192000	DB00351	Uterine Anomalies	Megestrol
+192000	DB00977	Uterine Anomalies	Ethinyl Estradiol
+192000	DB00957	Uterine Anomalies	Norgestimate
+192000	DB00603	Uterine Anomalies	Medroxyprogesterone
+192000	DB00304	Uterine Anomalies	Desogestrel
+192000	DB00717	Uterine Anomalies	Norethindrone
+192000	DB00367	Uterine Anomalies	Levonorgestrel
+192000	DB00286	Uterine Anomalies	Conjugated Estrogens
+208230	DB00749	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Etodolac
+208230	DB00573	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Fenoprofen
+208230	DB00500	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Tolmetin
+208230	DB01068	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Clonazepam
+208230	DB01009	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Ketoprofen
+208230	DB00788	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Naproxen
+208230	DB00554	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Piroxicam
+208230	DB00991	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Oxaprozin
+208230	DB00712	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Flurbiprofen
+208230	DB00580	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Valdecoxib
+208230	DB00605	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Sulindac
+208230	DB00586	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Diclofenac
+208230	DB00122	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Choline
+208230	DB01296	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Glucosamine
+208230	DB01050	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Ibuprofen
+208230	DB00945	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Acetylsalicylic acid
+208230	DB00814	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Meloxicam
+208230	DB00861	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Diflunisal
+208230	DB00328	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Indomethacin
+208230	DB00482	Arthropathy, Progressive Pseudorheumatoid, Of Childhood; Ppac	Celecoxib
+606703	DB00434	Dyskinesia, Familial, With Facial Myokymia	Cyproheptadine
+606703	DB00163	Dyskinesia, Familial, With Facial Myokymia	Vitamin E
+226150	DB00424	Enterocolitis	Hyoscyamine
+226150	DB01174	Enterocolitis	Phenobarbital
+226150	DB00771	Enterocolitis	Clidinium
+226150	DB00747	Enterocolitis	Scopolamine
+226150	DB00475	Enterocolitis	Chlordiazepoxide
+226150	DB00572	Enterocolitis	Atropine
+106400	DB00544	Ankylosing Vertebral Hyperostosis With Tylosis	Fluorouracil
+106400	DB00179	Ankylosing Vertebral Hyperostosis With Tylosis	Masoprocol
+106400	DB00936	Ankylosing Vertebral Hyperostosis With Tylosis	Salicyclic acid
+106400	DB00992	Ankylosing Vertebral Hyperostosis With Tylosis	Methyl aminolevulinate
+106400	DB00586	Ankylosing Vertebral Hyperostosis With Tylosis	Diclofenac
+106400	DB00724	Ankylosing Vertebral Hyperostosis With Tylosis	Imiquimod
+261515	DB00160	D-Bifunctional Protein Deficiency	L-Alanine
+109100	DB00351	Autoimmune Disease	Megestrol
+109100	DB00635	Autoimmune Disease	Prednisone
+109100	DB00959	Autoimmune Disease	Methylprednisolone
+109100	DB01232	Autoimmune Disease	Saquinavir
+109100	DB00470	Autoimmune Disease	Dronabinol
+109100	DB01157	Autoimmune Disease	Trimetrexate
+109100	DB01072	Autoimmune Disease	Atazanavir
+250790	DB00126	Methemoglobinemia Type Iv	Vitamin C
+273300	DB01181	Testicular Tumors	Ifosfamide
+273300	DB00290	Testicular Tumors	Bleomycin
+273300	DB00515	Testicular Tumors	Cisplatin
+273300	DB00570	Testicular Tumors	Vinblastine
+273300	DB00773	Testicular Tumors	Etoposide
+273300	DB00563	Testicular Tumors	Methotrexate
+145100	DB00755	Hyperpigmentation Of Eyelids	Tretinoin
+600631	DB00035	Enuresis, Nocturnal, 1; Enur1	Desmopressin
+600631	DB00540	Enuresis, Nocturnal, 1; Enur1	Nortriptyline
+600631	DB00458	Enuresis, Nocturnal, 1; Enur1	Imipramine
+179600	DB01115	Raynaud Disease	Nifedipine
+179600	DB00270	Raynaud Disease	Isradipine
+179600	DB00457	Raynaud Disease	Prazosin
+179600	DB00343	Raynaud Disease	Diltiazem
+179600	DB00381	Raynaud Disease	Amlodipine
+179600	DB00401	Raynaud Disease	Nisoldipine
+179600	DB00727	Raynaud Disease	Nitroglycerin
+179600	DB01023	Raynaud Disease	Felodipine
+179600	DB01113	Raynaud Disease	Papaverine
+179600	DB00590	Raynaud Disease	Doxazosin
+179600	DB01197	Raynaud Disease	Captopril
+143880	DB00399	Hypercalcemia, Idiopathic, Of Infancy	Zoledronate
+143880	DB00282	Hypercalcemia, Idiopathic, Of Infancy	Pamidronate
+143880	DB00695	Hypercalcemia, Idiopathic, Of Infancy	Furosemide
+143880	DB00635	Hypercalcemia, Idiopathic, Of Infancy	Prednisone
+143880	DB00017	Hypercalcemia, Idiopathic, Of Infancy	Salmon Calcitonin
+125852	DB00104	Diabetes Mellitus, Insulin-Dependent, 2	Octreotide
+125851	DB01124	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Tolbutamide
+125851	DB01132	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Pioglitazone
+125851	DB00672	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Chlorpropamide
+125851	DB01016	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Glyburide
+125851	DB01067	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Glipizide
+125851	DB00331	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Metformin
+125851	DB01261	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Sitagliptin
+125851	DB00222	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Glimepiride
+125851	DB00731	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Nateglinide
+125851	DB00912	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Repaglinide
+125851	DB00839	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Tolazamide
+125851	DB01029	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Irbesartan
+125851	DB00284	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Acarbose
+125851	DB00412	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Rosiglitazone
+125851	DB00414	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Acetohexamide
+125851	DB00491	Maturity-Onset Diabetes Of The Young, Type 2; Mody2	Miglitol
+125850	DB01124	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Tolbutamide
+125850	DB01132	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Pioglitazone
+125850	DB00672	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Chlorpropamide
+125850	DB01016	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Glyburide
+125850	DB01067	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Glipizide
+125850	DB00331	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Metformin
+125850	DB01261	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Sitagliptin
+125850	DB00222	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Glimepiride
+125850	DB00731	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Nateglinide
+125850	DB00912	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Repaglinide
+125850	DB00839	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Tolazamide
+125850	DB01029	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Irbesartan
+125850	DB00284	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Acarbose
+125850	DB00412	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Rosiglitazone
+125850	DB00414	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Acetohexamide
+125850	DB00491	Maturity-Onset Diabetes Of The Young, Type 1; Mody1	Miglitol
+606798	DB00434	Blepharospasm, Benign Essential	Cyproheptadine
+247200	DB00928	Miller-Dieker Lissencephaly Syndrome; Mdls	Azacitidine
+247200	DB01262	Miller-Dieker Lissencephaly Syndrome; Mdls	Decitabine
+125600	DB00635	Dermatosis Papulosa Nigra	Prednisone
+125600	DB00936	Dermatosis Papulosa Nigra	Salicyclic acid
+125600	DB00741	Dermatosis Papulosa Nigra	Hydrocortisone
+125600	DB01013	Dermatosis Papulosa Nigra	Clobetasol
+125600	DB00443	Dermatosis Papulosa Nigra	Betamethasone
+125600	DB01188	Dermatosis Papulosa Nigra	Ciclopirox
+125600	DB01234	Dermatosis Papulosa Nigra	Dexamethasone
+254770	DB01068	Epilepsy, Myoclonic Juvenile; Ejm	Clonazepam
+254500	DB00515	Myeloma, Multiple	Cisplatin
+254500	DB01041	Myeloma, Multiple	Thalidomide
+254500	DB00282	Myeloma, Multiple	Pamidronate
+254500	DB00188	Myeloma, Multiple	Bortezomib
+254500	DB00480	Myeloma, Multiple	Lenalidomide
+254500	DB00541	Myeloma, Multiple	Vincristine
+254500	DB00262	Myeloma, Multiple	Carmustine
+254500	DB00399	Myeloma, Multiple	Zoledronate
+254500	DB00997	Myeloma, Multiple	Doxorubicin
+254500	DB01042	Myeloma, Multiple	Melphalan
+203700	DB00880	Alpers Diffuse Degeneration Of Cerebral Gray Matter With Hepatic Cirrhosis	Chlorothiazide
+203700	DB00384	Alpers Diffuse Degeneration Of Cerebral Gray Matter With Hepatic Cirrhosis	Triamterene
+203700	DB00903	Alpers Diffuse Degeneration Of Cerebral Gray Matter With Hepatic Cirrhosis	Ethacrynic acid
+203700	DB00887	Alpers Diffuse Degeneration Of Cerebral Gray Matter With Hepatic Cirrhosis	Bumetanide
+203700	DB00695	Alpers Diffuse Degeneration Of Cerebral Gray Matter With Hepatic Cirrhosis	Furosemide
+218200	DB00536	Cranial Nerves, Recurrent Paresis Of	Guanidine
+218200	DB00434	Cranial Nerves, Recurrent Paresis Of	Cyproheptadine
+600263	DB01129	Helicobacter Pylori Infection, Susceptibility To	Rabeprazole
+600263	DB01294	Helicobacter Pylori Infection, Susceptibility To	Bismuth Subsalicylate
+600263	DB00448	Helicobacter Pylori Infection, Susceptibility To	Lansoprazole
+600263	DB00759	Helicobacter Pylori Infection, Susceptibility To	Tetracycline
+600263	DB00736	Helicobacter Pylori Infection, Susceptibility To	Esomeprazole
+600263	DB00585	Helicobacter Pylori Infection, Susceptibility To	Nizatidine
+600263	DB00338	Helicobacter Pylori Infection, Susceptibility To	Omeprazole
+600263	DB00927	Helicobacter Pylori Infection, Susceptibility To	Famotidine
+600263	DB01165	Helicobacter Pylori Infection, Susceptibility To	Ofloxacin
+600263	DB00213	Helicobacter Pylori Infection, Susceptibility To	Pantoprazole
+164230	DB00715	Obsessive-Compulsive Disorder; Ocd	Paroxetine
+164230	DB01175	Obsessive-Compulsive Disorder; Ocd	Escitalopram
+164230	DB00472	Obsessive-Compulsive Disorder; Ocd	Fluoxetine
+164230	DB00215	Obsessive-Compulsive Disorder; Ocd	Citalopram
+164230	DB00176	Obsessive-Compulsive Disorder; Ocd	Fluvoxamine
+164230	DB01242	Obsessive-Compulsive Disorder; Ocd	Clomipramine
+164230	DB01224	Obsessive-Compulsive Disorder; Ocd	Quetiapine
+164230	DB01238	Obsessive-Compulsive Disorder; Ocd	Aripiprazole
+164230	DB01104	Obsessive-Compulsive Disorder; Ocd	Sertraline
+164230	DB00285	Obsessive-Compulsive Disorder; Ocd	Venlafaxine
+164230	DB00904	Obsessive-Compulsive Disorder; Ocd	Ondansetron
+164230	DB00334	Obsessive-Compulsive Disorder; Ocd	Olanzapine
+254200	DB01400	Myasthenia Gravis; Mg	Neostigmine
+254200	DB00993	Myasthenia Gravis; Mg	Azathioprine
+254200	DB00733	Myasthenia Gravis; Mg	Pralidoxime
+254200	DB00091	Myasthenia Gravis; Mg	Cyclosporine
+254200	DB01122	Myasthenia Gravis; Mg	Ambenonium
+254200	DB00545	Myasthenia Gravis; Mg	Pyridostigmine
+277460	DB00136	Vitamin E, Familial Isolated Deficiency Of; Ved	Calcitriol
+277460	DB00163	Vitamin E, Familial Isolated Deficiency Of; Ved	Vitamin E
+601367	DB01109	Stroke, Ischemic	Heparin
+601367	DB01219	Stroke, Ischemic	Dantrolene
+601367	DB00758	Stroke, Ischemic	Clopidogrel
+601367	DB00682	Stroke, Ischemic	Warfarin
+601367	DB00175	Stroke, Ischemic	Pravastatin
+601367	DB00975	Stroke, Ischemic	Dipyridamole
+601367	DB00806	Stroke, Ischemic	Pentoxifylline
+601367	DB00393	Stroke, Ischemic	Nimodipine
+601367	DB00945	Stroke, Ischemic	Acetylsalicylic acid
+167320	DB00017	Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal	Salmon Calcitonin
+167320	DB00630	Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal	Alendronate
+167320	DB00399	Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal	Zoledronate
+167320	DB00282	Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal	Pamidronate
+167320	DB01133	Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal	Tiludronate
+167320	DB00884	Inclusion Body Myopathy With Early-Onset Paget Disease And Frontotemporal	Risedronate
+256370	DB00808	Nephrotic Syndrome, Early-Onset, With Diffuse Mesangial Sclerosis	Indapamide
+256370	DB00695	Nephrotic Syndrome, Early-Onset, With Diffuse Mesangial Sclerosis	Furosemide
+256370	DB00903	Nephrotic Syndrome, Early-Onset, With Diffuse Mesangial Sclerosis	Ethacrynic acid
+256370	DB00880	Nephrotic Syndrome, Early-Onset, With Diffuse Mesangial Sclerosis	Chlorothiazide
+256370	DB00436	Nephrotic Syndrome, Early-Onset, With Diffuse Mesangial Sclerosis	Bendroflumethiazide
+256370	DB00887	Nephrotic Syndrome, Early-Onset, With Diffuse Mesangial Sclerosis	Bumetanide
+246400	DB00328	Letterer-Siwe Disease	Indomethacin
+220120	DB00125	D-Glyceric Acidemia	L-Arginine
+264120	DB01105	Prolactin Deficiency With Obesity And Enlarged Testes	Sibutramine
+264120	DB01579	Prolactin Deficiency With Obesity And Enlarged Testes	Phendimetrazine
+264120	DB00937	Prolactin Deficiency With Obesity And Enlarged Testes	Diethylpropion
+264120	DB01083	Prolactin Deficiency With Obesity And Enlarged Testes	Orlistat
+264120	DB01577	Prolactin Deficiency With Obesity And Enlarged Testes	Methamphetamine
+264120	DB00865	Prolactin Deficiency With Obesity And Enlarged Testes	Benzphetamine
+264120	DB00191	Prolactin Deficiency With Obesity And Enlarged Testes	Phentermine
+264120	DB00501	Prolactin Deficiency With Obesity And Enlarged Testes	Cimetidine
+264120	DB00397	Prolactin Deficiency With Obesity And Enlarged Testes	Phenylpropanolamine
+264120	DB00273	Prolactin Deficiency With Obesity And Enlarged Testes	Topiramate
+264120	DB01156	Prolactin Deficiency With Obesity And Enlarged Testes	Bupropion
+276300	DB01008	Mismatch Repair Cancer Syndrome	Busulfan
+276300	DB00959	Mismatch Repair Cancer Syndrome	Methylprednisolone
+276300	DB02546	Mismatch Repair Cancer Syndrome	Vorinostat
+276300	DB00563	Mismatch Repair Cancer Syndrome	Methotrexate
+276300	DB00755	Mismatch Repair Cancer Syndrome	Tretinoin
+276300	DB01005	Mismatch Repair Cancer Syndrome	Hydroxyurea
+276300	DB00242	Mismatch Repair Cancer Syndrome	Cladribine
+276300	DB01101	Mismatch Repair Cancer Syndrome	Capecitabine
+276300	DB01181	Mismatch Repair Cancer Syndrome	Ifosfamide
+276300	DB01254	Mismatch Repair Cancer Syndrome	Dasatinib
+276300	DB00860	Mismatch Repair Cancer Syndrome	Prednisolone
+276300	DB00544	Mismatch Repair Cancer Syndrome	Fluorouracil
+276300	DB01143	Mismatch Repair Cancer Syndrome	Amifostine
+276300	DB00958	Mismatch Repair Cancer Syndrome	Carboplatin
+276300	DB00773	Mismatch Repair Cancer Syndrome	Etoposide
+276300	DB01259	Mismatch Repair Cancer Syndrome	Lapatinib
+276300	DB00642	Mismatch Repair Cancer Syndrome	Pemetrexed
+276300	DB01248	Mismatch Repair Cancer Syndrome	Docetaxel
+276300	DB01234	Mismatch Repair Cancer Syndrome	Dexamethasone
+276300	DB00255	Mismatch Repair Cancer Syndrome	Diethylstilbestrol
+276300	DB00307	Mismatch Repair Cancer Syndrome	Bexarotene
+276300	DB00851	Mismatch Repair Cancer Syndrome	Dacarbazine
+276300	DB00541	Mismatch Repair Cancer Syndrome	Vincristine
+276300	DB00262	Mismatch Repair Cancer Syndrome	Carmustine
+276300	DB01030	Mismatch Repair Cancer Syndrome	Topotecan
+276300	DB00997	Mismatch Repair Cancer Syndrome	Doxorubicin
+276300	DB00762	Mismatch Repair Cancer Syndrome	Irinotecan
+276300	DB00853	Mismatch Repair Cancer Syndrome	Temozolomide
+276300	DB00635	Mismatch Repair Cancer Syndrome	Prednisone
+276300	DB01169	Mismatch Repair Cancer Syndrome	Arsenic trioxide
+276300	DB00552	Mismatch Repair Cancer Syndrome	Pentostatin
+276300	DB00515	Mismatch Repair Cancer Syndrome	Cisplatin
+276300	DB00282	Mismatch Repair Cancer Syndrome	Pamidronate
+276300	DB00987	Mismatch Repair Cancer Syndrome	Cytarabine
+276300	DB00694	Mismatch Repair Cancer Syndrome	Daunorubicin
+276300	DB00570	Mismatch Repair Cancer Syndrome	Vinblastine
+276300	DB00399	Mismatch Repair Cancer Syndrome	Zoledronate
+276300	DB01073	Mismatch Repair Cancer Syndrome	Fludarabine
+276300	DB00619	Mismatch Repair Cancer Syndrome	Imatinib
+276300	DB00445	Mismatch Repair Cancer Syndrome	Epirubicin
+276300	DB00848	Mismatch Repair Cancer Syndrome	Levamisole
+132090	DB00794	Epilepsy, Benign Occipital; Boe	Primidone
+608583	DB00489	Atrial Fibrillation, Familial, 1; Atfb1	Sotalol
+608583	DB01035	Atrial Fibrillation, Familial, 1; Atfb1	Procainamide
+608583	DB00343	Atrial Fibrillation, Familial, 1; Atfb1	Diltiazem
+608583	DB00908	Atrial Fibrillation, Familial, 1; Atfb1	Quinidine
+608583	DB00682	Atrial Fibrillation, Familial, 1; Atfb1	Warfarin
+608583	DB00308	Atrial Fibrillation, Familial, 1; Atfb1	Ibutilide
+608583	DB00661	Atrial Fibrillation, Familial, 1; Atfb1	Verapamil
+608583	DB00390	Atrial Fibrillation, Familial, 1; Atfb1	Digoxin
+608583	DB00264	Atrial Fibrillation, Familial, 1; Atfb1	Metoprolol
+608583	DB00204	Atrial Fibrillation, Familial, 1; Atfb1	Dofetilide
+115195	DB00661	Cardiomyopathy, Familial Hypertrophic, 2; Cmh2	Verapamil
+212112	DB00380	Cardiomyopathy, Congestive, With Hypergonadotropic Hypogonadism	Dexrazoxane
+273800	DB01148	Thrombasthenia Of Glanzmann And Naegeli	Flavoxate
+273800	DB01210	Thrombasthenia Of Glanzmann And Naegeli	Levobunolol
+273800	DB01225	Thrombasthenia Of Glanzmann And Naegeli	Enoxaparin
+273800	DB00692	Thrombasthenia Of Glanzmann And Naegeli	Phentolamine
+150600	DB00630	Legg-Calve-Perthes Disease	Alendronate
+150600	DB01050	Legg-Calve-Perthes Disease	Ibuprofen
+150600	DB00586	Legg-Calve-Perthes Disease	Diclofenac
+150600	DB00788	Legg-Calve-Perthes Disease	Naproxen
+150600	DB00945	Legg-Calve-Perthes Disease	Acetylsalicylic acid
+160750	DB00697	Myositis	Tizanidine
+160750	DB01173	Myositis	Orphenadrine
+160750	DB00924	Myositis	Cyclobenzaprine
+160300	DB00993	Myopathy, Distal, With Onset In Infancy	Azathioprine
+608320	DB01020	Coronary Artery Disease, Autosomal Dominant, 1; Adcad1	Isosorbide Mononitrate
+608320	DB00790	Coronary Artery Disease, Autosomal Dominant, 1; Adcad1	Perindopril
+608320	DB00381	Coronary Artery Disease, Autosomal Dominant, 1; Adcad1	Amlodipine
+608320	DB00227	Coronary Artery Disease, Autosomal Dominant, 1; Adcad1	Lovastatin
+608320	DB00775	Coronary Artery Disease, Autosomal Dominant, 1; Adcad1	Tirofiban
+608320	DB00883	Coronary Artery Disease, Autosomal Dominant, 1; Adcad1	Isosorbide Dinitrate
+608320	DB00722	Coronary Artery Disease, Autosomal Dominant, 1; Adcad1	Lisinopril
+259660	DB00153	Osteomalacia, Sclerosing, With Cerebral Calcification	Ergocalciferol
+191800	DB01019	Urinary Bladder, Atony Of	Bethanechol
+208750	DB00380	Ataxia, Deafness, And Cardiomyopathy	Dexrazoxane
+182280	DB00563	Small Cell Cancer Of The Lung	Methotrexate
+182280	DB00773	Small Cell Cancer Of The Lung	Etoposide
+182280	DB00444	Small Cell Cancer Of The Lung	Teniposide
+182280	DB01030	Small Cell Cancer Of The Lung	Topotecan
+182280	DB00515	Small Cell Cancer Of The Lung	Cisplatin
+148100	DB00620	Keloids	Triamcinolone
+104300	DB00843	Alzheimer Disease; Ad	Donepezil
+104300	DB00989	Alzheimer Disease; Ad	Rivastigmine
+104300	DB01043	Alzheimer Disease; Ad	Memantine
+104300	DB00674	Alzheimer Disease; Ad	Galantamine
+104300	DB00313	Alzheimer Disease; Ad	Valproic Acid
+104300	DB00163	Alzheimer Disease; Ad	Vitamin E
+104300	DB00382	Alzheimer Disease; Ad	Tacrine
+212350	DB00380	Cataract And Cardiomyopathy	Dexrazoxane
+212350	DB00963	Cataract And Cardiomyopathy	Bromfenac
+208085	DB01174	Arthrogryposis, Renal Dysfunction, And Cholestasis 1; Arcs1	Phenobarbital
+131300	DB00215	Camurati-Engelmann Disease	Citalopram
+131300	DB00715	Camurati-Engelmann Disease	Paroxetine
+131300	DB01104	Camurati-Engelmann Disease	Sertraline
+131300	DB00285	Camurati-Engelmann Disease	Venlafaxine
+131300	DB00472	Camurati-Engelmann Disease	Fluoxetine
+206200	DB00126	Iron-Refractory Iron Deficiency Anemia; Irida	Vitamin C
+206200	DB01677	Iron-Refractory Iron Deficiency Anemia; Irida	Fumarate
+259050	DB00490	Ossified Ear Cartilages With Mental Deficiency, Muscle Wasting, And	Buspirone
+607498	DB00216	Migraine With Or Without Aura, Susceptibility To, 3	Eletriptan
+308350	DB00273	Epileptic Encephalopathy, Early Infantile, 1	Topiramate
+308350	DB01080	Epileptic Encephalopathy, Early Infantile, 1	Vigabatrin
+153880	DB00712	Macular Edema, Cystoid	Flurbiprofen
+153880	DB01234	Macular Edema, Cystoid	Dexamethasone
+540000	DB01109	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like	Heparin
+540000	DB00806	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like	Pentoxifylline
+540000	DB01219	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like	Dantrolene
+540000	DB00682	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like	Warfarin
+540000	DB00758	Mitochondrial Myopathy, Encephalopathy, Lactic Acidosis, And Stroke-Like	Clopidogrel
+310468	DB00437	Nephrolithiasis, X-Linked Recessive, With Renal Failure; Xrn	Allopurinol
+310468	DB00706	Nephrolithiasis, X-Linked Recessive, With Renal Failure; Xrn	Tamsulosin
+310468	DB04272	Nephrolithiasis, X-Linked Recessive, With Renal Failure; Xrn	Citric Acid
+310468	DB00988	Nephrolithiasis, X-Linked Recessive, With Renal Failure; Xrn	Dopamine
+255900	DB00279	Myxedema	Liothyronine
+255900	DB00451	Myxedema	Levothyroxine
+227300	DB00302	Factor V And Factor Viii, Combined Deficiency Of; F5F8D	Tranexamic Acid
+154276	DB01219	Malignant Hyperthermia, Susceptibility To, 3	Dantrolene
+225740	DB00215	Encephalopathy, Axonal, With Necrotizing Myopathy, Cardiomyopathy,	Citalopram
+225740	DB00167	Encephalopathy, Axonal, With Necrotizing Myopathy, Cardiomyopathy,	L-Isoleucine
+225740	DB00734	Encephalopathy, Axonal, With Necrotizing Myopathy, Cardiomyopathy,	Risperidone
+225740	DB00380	Encephalopathy, Axonal, With Necrotizing Myopathy, Cardiomyopathy,	Dexrazoxane
+225740	DB00433	Encephalopathy, Axonal, With Necrotizing Myopathy, Cardiomyopathy,	Prochlorperazine
+278200	DB00324	Woolly Hair, Hypotrichosis, Everted Lower Lip, And Outstanding Ears	Fluorometholone
+275000	DB00763	Graves Disease	Methimazole
+275000	DB00279	Graves Disease	Liothyronine
+275000	DB00550	Graves Disease	Propylthiouracil
+275000	DB00451	Graves Disease	Levothyroxine
+607681	DB00909	Epilepsy, Childhood Absence, Susceptibility To, 2; Eca2	Zonisamide
+607681	DB01202	Epilepsy, Childhood Absence, Susceptibility To, 2; Eca2	Levetiracetam
+607681	DB00794	Epilepsy, Childhood Absence, Susceptibility To, 2; Eca2	Primidone
+607681	DB00776	Epilepsy, Childhood Absence, Susceptibility To, 2; Eca2	Oxcarbazepine
+607681	DB00996	Epilepsy, Childhood Absence, Susceptibility To, 2; Eca2	Gabapentin
+145500	DB00678	Hypertension, Essential	Losartan
+145500	DB01275	Hypertension, Essential	Hydralazine
+145500	DB00966	Hypertension, Essential	Telmisartan
+145500	DB01088	Hypertension, Essential	Iloprost
+145500	DB00381	Hypertension, Essential	Amlodipine
+145500	DB01258	Hypertension, Essential	Aliskiren
+145500	DB00657	Hypertension, Essential	Mecamylamine
+147480	DB00819	Cholestasis, Intrahepatic, Of Pregnancy; Icp	Acetazolamide
+304790	DB00804	Immunodysregulation, Polyendocrinopathy, And Enteropathy, X-Linked;	Dicyclomine
+304790	DB00860	Immunodysregulation, Polyendocrinopathy, And Enteropathy, X-Linked;	Prednisolone
+304790	DB00635	Immunodysregulation, Polyendocrinopathy, And Enteropathy, X-Linked;	Prednisone
+304790	DB00863	Immunodysregulation, Polyendocrinopathy, And Enteropathy, X-Linked;	Ranitidine
+304790	DB00585	Immunodysregulation, Polyendocrinopathy, And Enteropathy, X-Linked;	Nizatidine
+304790	DB00338	Immunodysregulation, Polyendocrinopathy, And Enteropathy, X-Linked;	Omeprazole
+304790	DB00501	Immunodysregulation, Polyendocrinopathy, And Enteropathy, X-Linked;	Cimetidine
+304790	DB00927	Immunodysregulation, Polyendocrinopathy, And Enteropathy, X-Linked;	Famotidine
+304790	DB00604	Immunodysregulation, Polyendocrinopathy, And Enteropathy, X-Linked;	Cisapride
+146255	DB00214	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Torasemide
+146255	DB00695	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Furosemide
+146255	DB00178	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Ramipril
+146255	DB00584	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Enalapril
+146255	DB01029	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Irbesartan
+146255	DB00881	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Quinapril
+146255	DB00153	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Ergocalciferol
+146255	DB00542	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Benazepril
+146255	DB01070	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Dihydrotachysterol
+146255	DB00492	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Fosinopril
+146255	DB00678	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Losartan
+146255	DB00519	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Trandolapril
+146255	DB00691	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Moexipril
+146255	DB00988	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Dopamine
+146255	DB00136	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Calcitriol
+146255	DB01197	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Captopril
+146255	DB00887	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Bumetanide
+146255	DB00790	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Perindopril
+146255	DB00722	Hypoparathyroidism, Sensorineural Deafness, And Renal Disease	Lisinopril
+200170	DB00424	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Hyoscyamine
+200170	DB00457	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Prazosin
+200170	DB00697	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Tizanidine
+200170	DB00346	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Alfuzosin
+200170	DB01173	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Orphenadrine
+200170	DB00924	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Cyclobenzaprine
+200170	DB00371	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Meprobamate
+200170	DB00661	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Verapamil
+200170	DB01162	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Terazosin
+200170	DB01216	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Finasteride
+200170	DB00468	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Quinine
+200170	DB00163	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Vitamin E
+200170	DB00590	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Doxazosin
+200170	DB00706	Acanthosis Nigricans With Muscle Cramps And Acral Enlargement	Tamsulosin
+254800	DB01068	Myoclonic Epilepsy Of Unverricht And Lundborg	Clonazepam
+158280	DB01069	Motion Sickness	Promethazine
+158280	DB01075	Motion Sickness	Diphenhydramine
+158280	DB00747	Motion Sickness	Scopolamine
+181500	DB00246	Schizophrenia; Sczd	Ziprasidone
+181500	DB01356	Schizophrenia; Sczd	Lithium
+181500	DB00477	Schizophrenia; Sczd	Chlorpromazine
+181500	DB00472	Schizophrenia; Sczd	Fluoxetine
+181500	DB01068	Schizophrenia; Sczd	Clonazepam
+181500	DB00734	Schizophrenia; Sczd	Risperidone
+181500	DB00564	Schizophrenia; Sczd	Carbamazepine
+181500	DB00555	Schizophrenia; Sczd	Lamotrigine
+181500	DB00623	Schizophrenia; Sczd	Fluphenazine
+181500	DB00434	Schizophrenia; Sczd	Cyproheptadine
+181500	DB00363	Schizophrenia; Sczd	Clozapine
+181500	DB01238	Schizophrenia; Sczd	Aripiprazole
+181500	DB00408	Schizophrenia; Sczd	Loxapine
+181500	DB00933	Schizophrenia; Sczd	Mesoridazine
+181500	DB00334	Schizophrenia; Sczd	Olanzapine
+181500	DB00502	Schizophrenia; Sczd	Haloperidol
+181500	DB01623	Schizophrenia; Sczd	Thiothixene
+181500	DB01063	Schizophrenia; Sczd	Acetophenazine
+181500	DB00313	Schizophrenia; Sczd	Valproic Acid
+181500	DB01224	Schizophrenia; Sczd	Quetiapine
+181500	DB00679	Schizophrenia; Sczd	Thioridazine
+181500	DB00831	Schizophrenia; Sczd	Trifluoperazine
+181500	DB01267	Schizophrenia; Sczd	Paliperidone
+150699	DB00007	Leiomyoma, Uterine; Ul	Leuprolide
+601665	DB01105	Obesity	Sibutramine
+601665	DB01579	Obesity	Phendimetrazine
+601665	DB00937	Obesity	Diethylpropion
+601665	DB01083	Obesity	Orlistat
+601665	DB01577	Obesity	Methamphetamine
+601665	DB00865	Obesity	Benzphetamine
+601665	DB00191	Obesity	Phentermine
+601665	DB00397	Obesity	Phenylpropanolamine
+266600	DB01033	Inflammatory Bowel Disease 1; Ibd1	Mercaptopurine
+266600	DB01014	Inflammatory Bowel Disease 1; Ibd1	Balsalazide
+266600	DB00993	Inflammatory Bowel Disease 1; Ibd1	Azathioprine
+266600	DB01222	Inflammatory Bowel Disease 1; Ibd1	Budesonide
+266600	DB00795	Inflammatory Bowel Disease 1; Ibd1	Sulfasalazine
+266600	DB00169	Inflammatory Bowel Disease 1; Ibd1	Cholecalciferol
+266600	DB00537	Inflammatory Bowel Disease 1; Ibd1	Ciprofloxacin
+266600	DB00244	Inflammatory Bowel Disease 1; Ibd1	Mesalazine
+190400	DB00181	Trigeminal Neuralgia	Baclofen
+190400	DB00697	Trigeminal Neuralgia	Tizanidine
+190400	DB00564	Trigeminal Neuralgia	Carbamazepine
+127750	DB00502	Dementia, Lewy Body; Dlb	Haloperidol
+259500	DB00563	Osteogenic Sarcoma	Methotrexate
+259500	DB00997	Osteogenic Sarcoma	Doxorubicin
+259500	DB00650	Osteogenic Sarcoma	Leucovorin
+259500	DB00515	Osteogenic Sarcoma	Cisplatin
+259500	DB00958	Osteogenic Sarcoma	Carboplatin
+607501	DB00216	Migraine Without Aura, Susceptibility To, 4	Eletriptan
+103100	DB00712	Adie Pupil	Flurbiprofen
+602080	DB00399	Paget Disease Of Bone; Pdb	Zoledronate
+602080	DB00017	Paget Disease Of Bone; Pdb	Salmon Calcitonin
+602080	DB00630	Paget Disease Of Bone; Pdb	Alendronate
+602080	DB01133	Paget Disease Of Bone; Pdb	Tiludronate
+602080	DB00884	Paget Disease Of Bone; Pdb	Risedronate
+600082	DB00457	Prostatic Hyperplasia, Benign; Bph	Prazosin
+600082	DB00346	Prostatic Hyperplasia, Benign; Bph	Alfuzosin
+600082	DB00007	Prostatic Hyperplasia, Benign; Bph	Leuprolide
+600082	DB01162	Prostatic Hyperplasia, Benign; Bph	Terazosin
+600082	DB01216	Prostatic Hyperplasia, Benign; Bph	Finasteride
+600082	DB00590	Prostatic Hyperplasia, Benign; Bph	Doxazosin
+600082	DB00706	Prostatic Hyperplasia, Benign; Bph	Tamsulosin
+174800	DB01217	Mccune-Albright Syndrome; Mas	Anastrozole
+174800	DB00675	Mccune-Albright Syndrome; Mas	Tamoxifen
+217200	DB01320	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Fosphenytoin
+217200	DB00829	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Diazepam
+217200	DB00794	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Primidone
+217200	DB00593	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Ethosuximide
+217200	DB00252	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Phenytoin
+217200	DB00165	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Pyridoxine
+217200	DB00909	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Zonisamide
+217200	DB01174	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Phenobarbital
+217200	DB00819	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Acetazolamide
+217200	DB00653	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Magnesium Sulfate
+217200	DB00313	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Valproic Acid
+217200	DB00754	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Ethotoin
+217200	DB00906	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Tiagabine
+217200	DB00776	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Oxcarbazepine
+217200	DB01351	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Amobarbital
+217200	DB00396	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Progesterone
+217200	DB00555	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Lamotrigine
+217200	DB01080	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Vigabatrin
+217200	DB00114	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Pyridoxal Phosphate
+217200	DB01202	Convulsive Disorder, Familial, With Prenatal Or Early Onset	Levetiracetam
+179800	DB04272	Renal Tubular Acidosis, Distal, Autosomal Dominant	Citric Acid
+600808	DB00035	Enuresis, Nocturnal, 2; Enur2	Desmopressin
+600808	DB00540	Enuresis, Nocturnal, 2; Enur2	Nortriptyline
+600808	DB00458	Enuresis, Nocturnal, 2; Enur2	Imipramine
+114500	DB01101	Colorectal Cancer; Crc	Capecitabine
+114500	DB00563	Colorectal Cancer; Crc	Methotrexate
+114500	DB00762	Colorectal Cancer; Crc	Irinotecan
+114500	DB00544	Colorectal Cancer; Crc	Fluorouracil
+114500	DB00650	Colorectal Cancer; Crc	Leucovorin
+189600	DB00186	Torticollis	Lorazepam
+189600	DB00181	Torticollis	Baclofen
+212110	DB01427	Cardiomyopathy, Dilated, Autosomal Recessive	Amrinone
+137800	DB00262	Glioma Susceptibility 1; Glm1	Carmustine
+114580	DB00620	Candidiasis, Familial, 1; Candf1	Triamcinolone
+114580	DB00257	Candidiasis, Familial, 1; Candf1	Clotrimazole
+114580	DB01110	Candidiasis, Familial, 1; Candf1	Miconazole
+114580	DB01099	Candidiasis, Familial, 1; Candf1	Flucytosine
+114580	DB01167	Candidiasis, Familial, 1; Candf1	Itraconazole
+114580	DB01188	Candidiasis, Familial, 1; Candf1	Ciclopirox
+218800	DB01174	Crigler-Najjar Syndrome	Phenobarbital
+226000	DB00380	Endocardial Fibroelastosis; Efe	Dexrazoxane
+256700	DB00851	Neuroblastoma, Susceptibility To	Dacarbazine
+256700	DB01042	Neuroblastoma, Susceptibility To	Melphalan
+256700	DB00515	Neuroblastoma, Susceptibility To	Cisplatin
+256700	DB00541	Neuroblastoma, Susceptibility To	Vincristine
+256700	DB00997	Neuroblastoma, Susceptibility To	Doxorubicin
+208550	DB01291	Asthma, Nasal Polyps, And Aspirin Intolerance	Pirbuterol
+208550	DB01410	Asthma, Nasal Polyps, And Aspirin Intolerance	Ciclesonide
+208550	DB00537	Asthma, Nasal Polyps, And Aspirin Intolerance	Ciprofloxacin
+208550	DB00620	Asthma, Nasal Polyps, And Aspirin Intolerance	Triamcinolone
+208550	DB00440	Asthma, Nasal Polyps, And Aspirin Intolerance	Trimethoprim
+208550	DB01137	Asthma, Nasal Polyps, And Aspirin Intolerance	Levofloxacin
+208550	DB00221	Asthma, Nasal Polyps, And Aspirin Intolerance	Isoetharine
+208550	DB00764	Asthma, Nasal Polyps, And Aspirin Intolerance	Mometasone
+208550	DB00716	Asthma, Nasal Polyps, And Aspirin Intolerance	Nedocromil
+208550	DB01003	Asthma, Nasal Polyps, And Aspirin Intolerance	Cromoglicic acid
+208550	DB00218	Asthma, Nasal Polyps, And Aspirin Intolerance	Moxifloxacin
+208550	DB00635	Asthma, Nasal Polyps, And Aspirin Intolerance	Prednisone
+208550	DB01222	Asthma, Nasal Polyps, And Aspirin Intolerance	Budesonide
+208550	DB00901	Asthma, Nasal Polyps, And Aspirin Intolerance	Bitolterol
+208550	DB00852	Asthma, Nasal Polyps, And Aspirin Intolerance	Pseudoephedrine
+208550	DB01001	Asthma, Nasal Polyps, And Aspirin Intolerance	Salbutamol
+208550	DB01364	Asthma, Nasal Polyps, And Aspirin Intolerance	Ephedrine
+208550	DB00816	Asthma, Nasal Polyps, And Aspirin Intolerance	Orciprenaline
+208550	DB01234	Asthma, Nasal Polyps, And Aspirin Intolerance	Dexamethasone
+208550	DB01064	Asthma, Nasal Polyps, And Aspirin Intolerance	Isoproterenol
+208550	DB00332	Asthma, Nasal Polyps, And Aspirin Intolerance	Ipratropium bromide
+208550	DB00180	Asthma, Nasal Polyps, And Aspirin Intolerance	Flunisolide
+208550	DB01223	Asthma, Nasal Polyps, And Aspirin Intolerance	Aminophylline
+208550	DB00651	Asthma, Nasal Polyps, And Aspirin Intolerance	Dyphylline
+208550	DB00938	Asthma, Nasal Polyps, And Aspirin Intolerance	Salmeterol
+208550	DB00744	Asthma, Nasal Polyps, And Aspirin Intolerance	Zileuton
+208550	DB00394	Asthma, Nasal Polyps, And Aspirin Intolerance	Beclometasone dipropionate
+208550	DB00277	Asthma, Nasal Polyps, And Aspirin Intolerance	Theophylline
+208550	DB00959	Asthma, Nasal Polyps, And Aspirin Intolerance	Methylprednisolone
+208550	DB00668	Asthma, Nasal Polyps, And Aspirin Intolerance	Epinephrine
+208550	DB00549	Asthma, Nasal Polyps, And Aspirin Intolerance	Zafirlukast
+208550	DB00471	Asthma, Nasal Polyps, And Aspirin Intolerance	Montelukast
+208550	DB00871	Asthma, Nasal Polyps, And Aspirin Intolerance	Terbutaline
+208550	DB00983	Asthma, Nasal Polyps, And Aspirin Intolerance	Formoterol
+208550	DB00535	Asthma, Nasal Polyps, And Aspirin Intolerance	Cefdinir
+208550	DB00588	Asthma, Nasal Polyps, And Aspirin Intolerance	Fluticasone Propionate
+230800	DB00419	Gaucher Disease, Type I	Miglustat
+260970	DB00215	Peripheral Neuropathy, Ataxia, Focal Necrotizing Encephalopathy, And	Citalopram
+260970	DB00167	Peripheral Neuropathy, Ataxia, Focal Necrotizing Encephalopathy, And	L-Isoleucine
+260970	DB00734	Peripheral Neuropathy, Ataxia, Focal Necrotizing Encephalopathy, And	Risperidone
+260970	DB00433	Peripheral Neuropathy, Ataxia, Focal Necrotizing Encephalopathy, And	Prochlorperazine
+231200	DB01148	Bernard-Soulier Syndrome; Bss	Flavoxate
+231200	DB01210	Bernard-Soulier Syndrome; Bss	Levobunolol
+231200	DB01225	Bernard-Soulier Syndrome; Bss	Enoxaparin
+231200	DB00692	Bernard-Soulier Syndrome; Bss	Phentolamine
+225755	DB00215	Encephalopathy With Intracranial Calcification, Growth Hormone Deficiency,	Citalopram
+225755	DB00167	Encephalopathy With Intracranial Calcification, Growth Hormone Deficiency,	L-Isoleucine
+225755	DB00734	Encephalopathy With Intracranial Calcification, Growth Hormone Deficiency,	Risperidone
+225755	DB00433	Encephalopathy With Intracranial Calcification, Growth Hormone Deficiency,	Prochlorperazine
+188470	DB00398	Thyroid Carcinoma, Follicular; Ftc	Sorafenib
+188470	DB00997	Thyroid Carcinoma, Follicular; Ftc	Doxorubicin
+260570	DB01113	Pelger-Huet-Like Anomaly And Episodic Fever With Abdominal Pain	Papaverine
+260570	DB00424	Pelger-Huet-Like Anomaly And Episodic Fever With Abdominal Pain	Hyoscyamine
+260570	DB00969	Pelger-Huet-Like Anomaly And Episodic Fever With Abdominal Pain	Alosetron
+205700	DB00635	Anemia, Autoimmune Hemolytic	Prednisone
+236000	DB01181	Hodgkin Lymphoma	Ifosfamide
+236000	DB00290	Hodgkin Lymphoma	Bleomycin
+236000	DB00515	Hodgkin Lymphoma	Cisplatin
+236000	DB00773	Hodgkin Lymphoma	Etoposide
+236000	DB00987	Hodgkin Lymphoma	Cytarabine
+236000	DB00851	Hodgkin Lymphoma	Dacarbazine
+236000	DB00444	Hodgkin Lymphoma	Teniposide
+236000	DB01204	Hodgkin Lymphoma	Mitoxantrone
+236000	DB00428	Hodgkin Lymphoma	Streptozocin
+236000	DB00262	Hodgkin Lymphoma	Carmustine
+236000	DB00361	Hodgkin Lymphoma	Vinorelbine
+236000	DB00997	Hodgkin Lymphoma	Doxorubicin
+236000	DB01073	Hodgkin Lymphoma	Fludarabine
+236000	DB00570	Hodgkin Lymphoma	Vinblastine
+236000	DB00563	Hodgkin Lymphoma	Methotrexate
+236000	DB00541	Hodgkin Lymphoma	Vincristine
+134500	DB00302	Factor Viii Deficiency	Tranexamic Acid
+212050	DB01167	Candidiasis, Familial, 2; Candf2	Itraconazole
+212050	DB01099	Candidiasis, Familial, 2; Candf2	Flucytosine
+212050	DB00257	Candidiasis, Familial, 2; Candf2	Clotrimazole
+212050	DB01110	Candidiasis, Familial, 2; Candf2	Miconazole
+133690	DB00605	Exostoses With Anetodermia And Brachydactyly, Type E	Sulindac
+133690	DB00814	Exostoses With Anetodermia And Brachydactyly, Type E	Meloxicam
+133690	DB00328	Exostoses With Anetodermia And Brachydactyly, Type E	Indomethacin
+133690	DB00788	Exostoses With Anetodermia And Brachydactyly, Type E	Naproxen
+603165	DB00864	Dermatitis, Atopic	Tacrolimus
+603165	DB00337	Dermatitis, Atopic	Pimecrolimus
+603165	DB01142	Dermatitis, Atopic	Doxepin
+603165	DB00443	Dermatitis, Atopic	Betamethasone
+603165	DB00591	Dermatitis, Atopic	Fluocinolone Acetonide
+263300	DB01008	Polycythemia Vera	Busulfan
+263300	DB01005	Polycythemia Vera	Hydroxyurea
+161900	DB00214	Renal Failure, Progressive, With Hypertension	Torasemide
+161900	DB00325	Renal Failure, Progressive, With Hypertension	Nitroprusside
+161900	DB04861	Renal Failure, Progressive, With Hypertension	Nebivolol
+161900	DB00457	Renal Failure, Progressive, With Hypertension	Prazosin
+161900	DB01275	Renal Failure, Progressive, With Hypertension	Hydralazine
+161900	DB00519	Renal Failure, Progressive, With Hypertension	Trandolapril
+161900	DB00903	Renal Failure, Progressive, With Hypertension	Ethacrynic acid
+161900	DB00966	Renal Failure, Progressive, With Hypertension	Telmisartan
+161900	DB00876	Renal Failure, Progressive, With Hypertension	Eprosartan
+161900	DB01088	Renal Failure, Progressive, With Hypertension	Iloprost
+161900	DB00492	Renal Failure, Progressive, With Hypertension	Fosinopril
+161900	DB00960	Renal Failure, Progressive, With Hypertension	Pindolol
+161900	DB00206	Renal Failure, Progressive, With Hypertension	Reserpine
+161900	DB01023	Renal Failure, Progressive, With Hypertension	Felodipine
+161900	DB00598	Renal Failure, Progressive, With Hypertension	Labetalol
+161900	DB00310	Renal Failure, Progressive, With Hypertension	Chlorthalidone
+161900	DB01018	Renal Failure, Progressive, With Hypertension	Guanfacine
+161900	DB00887	Renal Failure, Progressive, With Hypertension	Bumetanide
+161900	DB01194	Renal Failure, Progressive, With Hypertension	Brinzolamide
+161900	DB00449	Renal Failure, Progressive, With Hypertension	Dipivefrin
+161900	DB00654	Renal Failure, Progressive, With Hypertension	Latanoprost
+161900	DB00521	Renal Failure, Progressive, With Hypertension	Carteolol
+161900	DB00484	Renal Failure, Progressive, With Hypertension	Brimonidine
+161900	DB00968	Renal Failure, Progressive, With Hypertension	Methyldopa
+161900	DB00187	Renal Failure, Progressive, With Hypertension	Esmolol
+161900	DB01359	Renal Failure, Progressive, With Hypertension	Penbutolol
+161900	DB00343	Renal Failure, Progressive, With Hypertension	Diltiazem
+161900	DB01210	Renal Failure, Progressive, With Hypertension	Levobunolol
+161900	DB00542	Renal Failure, Progressive, With Hypertension	Benazepril
+161900	DB01162	Renal Failure, Progressive, With Hypertension	Terazosin
+161900	DB00796	Renal Failure, Progressive, With Hypertension	Candesartan
+161900	DB00381	Renal Failure, Progressive, With Hypertension	Amlodipine
+161900	DB00880	Renal Failure, Progressive, With Hypertension	Chlorothiazide
+161900	DB01240	Renal Failure, Progressive, With Hypertension	Epoprostenol
+161900	DB00622	Renal Failure, Progressive, With Hypertension	Nicardipine
+161900	DB01136	Renal Failure, Progressive, With Hypertension	Carvedilol
+161900	DB00226	Renal Failure, Progressive, With Hypertension	Guanadrel Sulfate
+161900	DB01115	Renal Failure, Progressive, With Hypertension	Nifedipine
+161900	DB00350	Renal Failure, Progressive, With Hypertension	Minoxidil
+161900	DB00800	Renal Failure, Progressive, With Hypertension	Fenoldopam
+161900	DB00524	Renal Failure, Progressive, With Hypertension	Metolazone
+161900	DB00177	Renal Failure, Progressive, With Hypertension	Valsartan
+161900	DB00275	Renal Failure, Progressive, With Hypertension	Olmesartan
+161900	DB00594	Renal Failure, Progressive, With Hypertension	Amiloride
+161900	DB01085	Renal Failure, Progressive, With Hypertension	Pilocarpine
+161900	DB01244	Renal Failure, Progressive, With Hypertension	Bepridil
+161900	DB01203	Renal Failure, Progressive, With Hypertension	Nadolol
+161900	DB01029	Renal Failure, Progressive, With Hypertension	Irbesartan
+161900	DB00905	Renal Failure, Progressive, With Hypertension	Bimatoprost
+161900	DB00203	Renal Failure, Progressive, With Hypertension	Sildenafil
+161900	DB00678	Renal Failure, Progressive, With Hypertension	Losartan
+161900	DB00364	Renal Failure, Progressive, With Hypertension	Sucralfate
+161900	DB00436	Renal Failure, Progressive, With Hypertension	Bendroflumethiazide
+161900	DB00657	Renal Failure, Progressive, With Hypertension	Mecamylamine
+161900	DB00999	Renal Failure, Progressive, With Hypertension	Hydrochlorothiazide
+161900	DB00881	Renal Failure, Progressive, With Hypertension	Quinapril
+161900	DB00287	Renal Failure, Progressive, With Hypertension	Travoprost
+161900	DB00264	Renal Failure, Progressive, With Hypertension	Metoprolol
+161900	DB00421	Renal Failure, Progressive, With Hypertension	Spironolactone
+161900	DB00373	Renal Failure, Progressive, With Hypertension	Timolol
+161900	DB00575	Renal Failure, Progressive, With Hypertension	Clonidine
+161900	DB00722	Renal Failure, Progressive, With Hypertension	Lisinopril
+161900	DB00270	Renal Failure, Progressive, With Hypertension	Isradipine
+161900	DB00195	Renal Failure, Progressive, With Hypertension	Betaxolol
+161900	DB00692	Renal Failure, Progressive, With Hypertension	Phentolamine
+161900	DB00820	Renal Failure, Progressive, With Hypertension	Tadalafil
+161900	DB00808	Renal Failure, Progressive, With Hypertension	Indapamide
+161900	DB01189	Renal Failure, Progressive, With Hypertension	Desflurane
+161900	DB00695	Renal Failure, Progressive, With Hypertension	Furosemide
+161900	DB00178	Renal Failure, Progressive, With Hypertension	Ramipril
+161900	DB00401	Renal Failure, Progressive, With Hypertension	Nisoldipine
+161900	DB00374	Renal Failure, Progressive, With Hypertension	Treprostinil
+161900	DB00661	Renal Failure, Progressive, With Hypertension	Verapamil
+161900	DB00559	Renal Failure, Progressive, With Hypertension	Bosentan
+161900	DB01258	Renal Failure, Progressive, With Hypertension	Aliskiren
+161900	DB00883	Renal Failure, Progressive, With Hypertension	Isosorbide Dinitrate
+161900	DB01170	Renal Failure, Progressive, With Hypertension	Guanethidine
+161900	DB00988	Renal Failure, Progressive, With Hypertension	Dopamine
+161900	DB01193	Renal Failure, Progressive, With Hypertension	Acebutolol
+161900	DB00691	Renal Failure, Progressive, With Hypertension	Moexipril
+161900	DB00590	Renal Failure, Progressive, With Hypertension	Doxazosin
+161900	DB01197	Renal Failure, Progressive, With Hypertension	Captopril
+161900	DB00571	Renal Failure, Progressive, With Hypertension	Propranolol
+161900	DB00869	Renal Failure, Progressive, With Hypertension	Dorzolamide
+143465	DB00575	Attention Deficit-Hyperactivity Disorder; Adhd	Clonidine
+143465	DB01255	Attention Deficit-Hyperactivity Disorder; Adhd	Lisdexamfetamine
+143465	DB01576	Attention Deficit-Hyperactivity Disorder; Adhd	Dextroamphetamine
+143465	DB00289	Attention Deficit-Hyperactivity Disorder; Adhd	Atomoxetine
+143465	DB00458	Attention Deficit-Hyperactivity Disorder; Adhd	Imipramine
+143465	DB01577	Attention Deficit-Hyperactivity Disorder; Adhd	Methamphetamine
+143465	DB01151	Attention Deficit-Hyperactivity Disorder; Adhd	Desipramine
+143465	DB00745	Attention Deficit-Hyperactivity Disorder; Adhd	Modafinil
+143465	DB00285	Attention Deficit-Hyperactivity Disorder; Adhd	Venlafaxine
+143465	DB00540	Attention Deficit-Hyperactivity Disorder; Adhd	Nortriptyline
+143465	DB01018	Attention Deficit-Hyperactivity Disorder; Adhd	Guanfacine
+143465	DB00182	Attention Deficit-Hyperactivity Disorder; Adhd	Amphetamine
+143465	DB00422	Attention Deficit-Hyperactivity Disorder; Adhd	Methylphenidate
+143465	DB01156	Attention Deficit-Hyperactivity Disorder; Adhd	Bupropion
+192200	DB00464	Varicose Veins	Sodium Tetradecyl Sulfate
+109543	DB01033	Leukemia, Chronic Lymphocytic, Susceptibility To, 2	Mercaptopurine
+109543	DB01181	Leukemia, Chronic Lymphocytic, Susceptibility To, 2	Ifosfamide
+109543	DB00290	Leukemia, Chronic Lymphocytic, Susceptibility To, 2	Bleomycin
+109543	DB00987	Leukemia, Chronic Lymphocytic, Susceptibility To, 2	Cytarabine
+109543	DB00444	Leukemia, Chronic Lymphocytic, Susceptibility To, 2	Teniposide
+109543	DB01204	Leukemia, Chronic Lymphocytic, Susceptibility To, 2	Mitoxantrone
+109543	DB00541	Leukemia, Chronic Lymphocytic, Susceptibility To, 2	Vincristine
+109543	DB00262	Leukemia, Chronic Lymphocytic, Susceptibility To, 2	Carmustine
+109543	DB01073	Leukemia, Chronic Lymphocytic, Susceptibility To, 2	Fludarabine
+109543	DB00563	Leukemia, Chronic Lymphocytic, Susceptibility To, 2	Methotrexate
+109543	DB00242	Leukemia, Chronic Lymphocytic, Susceptibility To, 2	Cladribine
+305300	DB00380	Endocardial Fibroelastosis	Dexrazoxane
+140850	DB00571	Hemangiomas, Cavernous, Of Face And Supraumbilical Midline Raphe	Propranolol
+607508	DB00216	Migraine With Or Without Aura, Susceptibility To, 5	Eletriptan
+252320	DB00715	Motor Neuropathy, Peripheral, With Dysautonomia	Paroxetine
+252320	DB00472	Motor Neuropathy, Peripheral, With Dysautonomia	Fluoxetine
+252320	DB01104	Motor Neuropathy, Peripheral, With Dysautonomia	Sertraline
+252320	DB00186	Motor Neuropathy, Peripheral, With Dysautonomia	Lorazepam
+252320	DB00545	Motor Neuropathy, Peripheral, With Dysautonomia	Pyridostigmine
+252320	DB00404	Motor Neuropathy, Peripheral, With Dysautonomia	Alprazolam
+252320	DB00687	Motor Neuropathy, Peripheral, With Dysautonomia	Fludrocortisone
+252320	DB00788	Motor Neuropathy, Peripheral, With Dysautonomia	Naproxen
+252320	DB00211	Motor Neuropathy, Peripheral, With Dysautonomia	Midodrine
+252320	DB01050	Motor Neuropathy, Peripheral, With Dysautonomia	Ibuprofen
+252320	DB00321	Motor Neuropathy, Peripheral, With Dysautonomia	Amitriptyline
+252320	DB00540	Motor Neuropathy, Peripheral, With Dysautonomia	Nortriptyline
+254450	DB01008	Myelofibrosis	Busulfan
+308205	DB00586	Ichthyosis Follicularis, Atrichia, And Photophobia Syndrome	Diclofenac
+308205	DB00465	Ichthyosis Follicularis, Atrichia, And Photophobia Syndrome	Ketorolac
+181460	DB01058	Schistosoma Mansoni Infection, Susceptibility/Resistance To	Praziquantel
+208300	DB00594	Ascites, Chylous	Amiloride
+208300	DB00214	Ascites, Chylous	Torasemide
+208300	DB00695	Ascites, Chylous	Furosemide
+208300	DB00903	Ascites, Chylous	Ethacrynic acid
+208300	DB00421	Ascites, Chylous	Spironolactone
+208300	DB00999	Ascites, Chylous	Hydrochlorothiazide
+208300	DB00384	Ascites, Chylous	Triamterene
+208300	DB00887	Ascites, Chylous	Bumetanide
+258360	DB01167	Onychotrichodysplasia And Neutropenia	Itraconazole
+258360	DB00928	Onychotrichodysplasia And Neutropenia	Azacitidine
+258360	DB00537	Onychotrichodysplasia And Neutropenia	Ciprofloxacin
+258360	DB00242	Onychotrichodysplasia And Neutropenia	Cladribine
+125320	DB00245	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Benzatropine
+125320	DB00843	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Donepezil
+125320	DB00989	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Rivastigmine
+125320	DB01043	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Memantine
+125320	DB00674	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Galantamine
+125320	DB00810	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Biperiden
+125320	DB00313	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Valproic Acid
+125320	DB00387	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Procyclidine
+125320	DB00268	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Ropinirole
+125320	DB00163	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Vitamin E
+125320	DB00413	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Pramipexole
+125320	DB00382	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Tacrine
+125320	DB00190	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Carbidopa
+125320	DB00747	Dementia/Parkinsonism With Non-Alzheimer Amyloid Plaques	Scopolamine
+137760	DB00449	Glaucoma, Primary Open Angle; Poag	Dipivefrin
+137760	DB01214	Glaucoma, Primary Open Angle; Poag	Metipranolol
+137760	DB00484	Glaucoma, Primary Open Angle; Poag	Brimonidine
+137760	DB00373	Glaucoma, Primary Open Angle; Poag	Timolol
+137760	DB00287	Glaucoma, Primary Open Angle; Poag	Travoprost
+137760	DB00668	Glaucoma, Primary Open Angle; Poag	Epinephrine
+137760	DB00905	Glaucoma, Primary Open Angle; Poag	Bimatoprost
+137760	DB00654	Glaucoma, Primary Open Angle; Poag	Latanoprost
+137760	DB00388	Glaucoma, Primary Open Angle; Poag	Phenylephrine
+137760	DB01194	Glaucoma, Primary Open Angle; Poag	Brinzolamide
+137760	DB00869	Glaucoma, Primary Open Angle; Poag	Dorzolamide
+166710	DB06285	Osteoporosis	Teriparatide
+166710	DB00017	Osteoporosis	Salmon Calcitonin
+166710	DB00630	Osteoporosis	Alendronate
+166710	DB00169	Osteoporosis	Cholecalciferol
+166710	DB00282	Osteoporosis	Pamidronate
+166710	DB00481	Osteoporosis	Raloxifene
+166710	DB00710	Osteoporosis	Ibandronate
+166710	DB00884	Osteoporosis	Risedronate
+132100	DB00794	Epilepsy, Photogenic	Primidone
+187950	DB01005	Thrombocythemia, Essential	Hydroxyurea
+607459	DB00749	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Etodolac
+607459	DB00573	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Fenoprofen
+607459	DB00500	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Tolmetin
+607459	DB01068	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Clonazepam
+607459	DB01009	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Ketoprofen
+607459	DB00788	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Naproxen
+607459	DB00554	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Piroxicam
+607459	DB00991	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Oxaprozin
+607459	DB00712	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Flurbiprofen
+607459	DB00580	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Valdecoxib
+607459	DB00605	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Sulindac
+607459	DB00586	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Diclofenac
+607459	DB00122	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Choline
+607459	DB01296	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Glucosamine
+607459	DB01050	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Ibuprofen
+607459	DB00945	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Acetylsalicylic acid
+607459	DB00814	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Meloxicam
+607459	DB00861	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Diflunisal
+607459	DB00328	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Indomethacin
+607459	DB00482	Sensory Ataxic Neuropathy, Dysarthria, And Ophthalmoparesis; Sando	Celecoxib
+308600	DB01174	Jaundice, Familial Obstructive, Of Infancy	Phenobarbital
+156000	DB01231	Meniere Disease	Diphenidol
+156000	DB00829	Meniere Disease	Diazepam
+107550	DB00747	Aortic Arch Interruption, Facial Palsy, And Retinal Coloboma	Scopolamine
+137400	DB00759	Geographic Tongue And Fissured Tongue	Tetracycline
+606842	DB06285	Cardioneuromyopathy With Hyaline Masses And Nemaline Rods	Teriparatide
+188030	DB00620	Thrombocytopenic Purpura, Autoimmune; Aitp	Triamcinolone
+188030	DB00993	Thrombocytopenic Purpura, Autoimmune; Aitp	Azathioprine
+188030	DB00635	Thrombocytopenic Purpura, Autoimmune; Aitp	Prednisone
+188030	DB00570	Thrombocytopenic Purpura, Autoimmune; Aitp	Vinblastine
+188030	DB01240	Thrombocytopenic Purpura, Autoimmune; Aitp	Epoprostenol
+188030	DB01234	Thrombocytopenic Purpura, Autoimmune; Aitp	Dexamethasone
+155100	DB01148	May-Hegglin Anomaly; Mha	Flavoxate
+155100	DB01210	May-Hegglin Anomaly; Mha	Levobunolol
+155100	DB01225	May-Hegglin Anomaly; Mha	Enoxaparin
+155100	DB00692	May-Hegglin Anomaly; Mha	Phentolamine
+107650	DB00745	Apnea, Obstructive Sleep	Modafinil
+604827	DB00909	Epilepsy, Idiopathic Generalized, Susceptibility To, 7; Eig7	Zonisamide
+604827	DB01202	Epilepsy, Idiopathic Generalized, Susceptibility To, 7; Eig7	Levetiracetam
+604827	DB00794	Epilepsy, Idiopathic Generalized, Susceptibility To, 7; Eig7	Primidone
+604827	DB00776	Epilepsy, Idiopathic Generalized, Susceptibility To, 7; Eig7	Oxcarbazepine
+604827	DB00996	Epilepsy, Idiopathic Generalized, Susceptibility To, 7; Eig7	Gabapentin
+605055	DB00843	Alzheimer Disease, Familial Early-Onset, With Coexisting Amyloid And	Donepezil
+605055	DB00989	Alzheimer Disease, Familial Early-Onset, With Coexisting Amyloid And	Rivastigmine
+605055	DB01043	Alzheimer Disease, Familial Early-Onset, With Coexisting Amyloid And	Memantine
+605055	DB00674	Alzheimer Disease, Familial Early-Onset, With Coexisting Amyloid And	Galantamine
+605055	DB00313	Alzheimer Disease, Familial Early-Onset, With Coexisting Amyloid And	Valproic Acid
+605055	DB00163	Alzheimer Disease, Familial Early-Onset, With Coexisting Amyloid And	Vitamin E
+605055	DB00382	Alzheimer Disease, Familial Early-Onset, With Coexisting Amyloid And	Tacrine
+260480	DB01241	Pancreatitis, Sclerosing Cholangitis, And Sicca Complex	Gemfibrozil
+165150	DB00490	Ophthalmoplegia, Progressive, With Scrotal Tongue And Mental Deficiency	Buspirone
+254400	DB00635	Mycosis Fungoides	Prednisone
+254400	DB00307	Mycosis Fungoides	Bexarotene
+254400	DB02546	Mycosis Fungoides	Vorinostat
+254400	DB00570	Mycosis Fungoides	Vinblastine
+254400	DB00563	Mycosis Fungoides	Methotrexate
+254400	DB01234	Mycosis Fungoides	Dexamethasone
+166760	DB00537	Otitis Media, Susceptibility To	Ciprofloxacin
+166760	DB00440	Otitis Media, Susceptibility To	Trimethoprim
+166760	DB01137	Otitis Media, Susceptibility To	Levofloxacin
+166760	DB00741	Otitis Media, Susceptibility To	Hydrocortisone
+166760	DB01086	Otitis Media, Susceptibility To	Benzocaine
+166760	DB01165	Otitis Media, Susceptibility To	Ofloxacin
+166760	DB00535	Otitis Media, Susceptibility To	Cefdinir
+166760	DB01234	Otitis Media, Susceptibility To	Dexamethasone
+147540	DB00620	Insect Stings, Hypersensitivity To	Triamcinolone
+147540	DB00860	Insect Stings, Hypersensitivity To	Prednisolone
+147540	DB00635	Insect Stings, Hypersensitivity To	Prednisone
+147540	DB00342	Insect Stings, Hypersensitivity To	Terfenadine
+147540	DB01075	Insect Stings, Hypersensitivity To	Diphenhydramine
+147540	DB00959	Insect Stings, Hypersensitivity To	Methylprednisolone
+147540	DB00668	Insect Stings, Hypersensitivity To	Epinephrine
+147540	DB00637	Insect Stings, Hypersensitivity To	Astemizole
+147540	DB00434	Insect Stings, Hypersensitivity To	Cyproheptadine
+147540	DB00397	Insect Stings, Hypersensitivity To	Phenylpropanolamine
+147540	DB00388	Insect Stings, Hypersensitivity To	Phenylephrine
+147540	DB01069	Insect Stings, Hypersensitivity To	Promethazine
+147540	DB00366	Insect Stings, Hypersensitivity To	Doxylamine
+243200	DB00819	Intracranial Hypertension, Idiopathic	Acetazolamide
+102300	DB00575	Restless Legs Syndrome, Susceptibility To, 1; Rls1	Clonidine
+102300	DB01068	Restless Legs Syndrome, Susceptibility To, 1; Rls1	Clonazepam
+102300	DB00413	Restless Legs Syndrome, Susceptibility To, 1; Rls1	Pramipexole
+102300	DB00193	Restless Legs Syndrome, Susceptibility To, 1; Rls1	Tramadol
+102300	DB00564	Restless Legs Syndrome, Susceptibility To, 1; Rls1	Carbamazepine
+102300	DB01235	Restless Legs Syndrome, Susceptibility To, 1; Rls1	Levodopa
+102300	DB00268	Restless Legs Syndrome, Susceptibility To, 1; Rls1	Ropinirole
+102300	DB00230	Restless Legs Syndrome, Susceptibility To, 1; Rls1	Pregabalin
+102300	DB00190	Restless Legs Syndrome, Susceptibility To, 1; Rls1	Carbidopa
+102300	DB00996	Restless Legs Syndrome, Susceptibility To, 1; Rls1	Gabapentin
+104130	DB00350	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	Minoxidil
+104130	DB00252	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	Phenytoin
+104130	DB00620	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	Triamcinolone
+104130	DB00795	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	Sulfasalazine
+104130	DB00313	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	Valproic Acid
+104130	DB00564	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	Carbamazepine
+104130	DB00490	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	Buspirone
+104130	DB00532	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	Mephenytoin
+104130	DB01216	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	Finasteride
+104130	DB00421	Alopecia, Psychomotor Epilepsy, Pyorrhea, And Mental Subnormality	Spironolactone
+157300	DB00669	Migraine With Or Without Aura, Susceptibility To, 1	Sumatriptan
+157300	DB00998	Migraine With Or Without Aura, Susceptibility To, 1	Frovatriptan
+157300	DB00533	Migraine With Or Without Aura, Susceptibility To, 1	Rofecoxib
+157300	DB00201	Migraine With Or Without Aura, Susceptibility To, 1	Caffeine
+157300	DB00788	Migraine With Or Without Aura, Susceptibility To, 1	Naproxen
+157300	DB00316	Migraine With Or Without Aura, Susceptibility To, 1	Acetaminophen
+157300	DB00373	Migraine With Or Without Aura, Susceptibility To, 1	Timolol
+157300	DB00945	Migraine With Or Without Aura, Susceptibility To, 1	Acetylsalicylic acid
+157300	DB00635	Migraine With Or Without Aura, Susceptibility To, 1	Prednisone
+157300	DB01233	Migraine With Or Without Aura, Susceptibility To, 1	Metoclopramide
+157300	DB00661	Migraine With Or Without Aura, Susceptibility To, 1	Verapamil
+157300	DB00241	Migraine With Or Without Aura, Susceptibility To, 1	Butalbital
+157300	DB01173	Migraine With Or Without Aura, Susceptibility To, 1	Orphenadrine
+157300	DB00315	Migraine With Or Without Aura, Susceptibility To, 1	Zolmitriptan
+157300	DB00273	Migraine With Or Without Aura, Susceptibility To, 1	Topiramate
+157300	DB00320	Migraine With Or Without Aura, Susceptibility To, 1	Dihydroergotamine
+157300	DB00953	Migraine With Or Without Aura, Susceptibility To, 1	Rizatriptan
+157300	DB00918	Migraine With Or Without Aura, Susceptibility To, 1	Almotriptan
+157300	DB00434	Migraine With Or Without Aura, Susceptibility To, 1	Cyproheptadine
+157300	DB00353	Migraine With Or Without Aura, Susceptibility To, 1	Methylergonovine
+157300	DB00216	Migraine With Or Without Aura, Susceptibility To, 1	Eletriptan
+157300	DB00328	Migraine With Or Without Aura, Susceptibility To, 1	Indomethacin
+157300	DB00996	Migraine With Or Without Aura, Susceptibility To, 1	Gabapentin
+157300	DB00696	Migraine With Or Without Aura, Susceptibility To, 1	Ergotamine
+157300	DB00952	Migraine With Or Without Aura, Susceptibility To, 1	Naratriptan
+157300	DB00697	Migraine With Or Without Aura, Susceptibility To, 1	Tizanidine
+157300	DB00924	Migraine With Or Without Aura, Susceptibility To, 1	Cyclobenzaprine
+157300	DB00313	Migraine With Or Without Aura, Susceptibility To, 1	Valproic Acid
+157300	DB00571	Migraine With Or Without Aura, Susceptibility To, 1	Propranolol
+165720	DB00749	Osteoarthritis Susceptibility 1; Os1	Etodolac
+165720	DB00573	Osteoarthritis Susceptibility 1; Os1	Fenoprofen
+165720	DB00500	Osteoarthritis Susceptibility 1; Os1	Tolmetin
+165720	DB01068	Osteoarthritis Susceptibility 1; Os1	Clonazepam
+165720	DB01009	Osteoarthritis Susceptibility 1; Os1	Ketoprofen
+165720	DB00788	Osteoarthritis Susceptibility 1; Os1	Naproxen
+165720	DB00554	Osteoarthritis Susceptibility 1; Os1	Piroxicam
+165720	DB00991	Osteoarthritis Susceptibility 1; Os1	Oxaprozin
+165720	DB00712	Osteoarthritis Susceptibility 1; Os1	Flurbiprofen
+165720	DB00580	Osteoarthritis Susceptibility 1; Os1	Valdecoxib
+165720	DB00605	Osteoarthritis Susceptibility 1; Os1	Sulindac
+165720	DB00586	Osteoarthritis Susceptibility 1; Os1	Diclofenac
+165720	DB00122	Osteoarthritis Susceptibility 1; Os1	Choline
+165720	DB01296	Osteoarthritis Susceptibility 1; Os1	Glucosamine
+165720	DB01050	Osteoarthritis Susceptibility 1; Os1	Ibuprofen
+165720	DB00945	Osteoarthritis Susceptibility 1; Os1	Acetylsalicylic acid
+165720	DB00814	Osteoarthritis Susceptibility 1; Os1	Meloxicam
+165720	DB00861	Osteoarthritis Susceptibility 1; Os1	Diflunisal
+165720	DB00328	Osteoarthritis Susceptibility 1; Os1	Indomethacin
+165720	DB00482	Osteoarthritis Susceptibility 1; Os1	Celecoxib
+127350	DB00653	Dyschondrosteosis And Nephritis	Magnesium Sulfate
+601518	DB00014	Prostate Cancer, Hereditary, 1; Hpc1	Goserelin
+601518	DB01196	Prostate Cancer, Hereditary, 1; Hpc1	Estramustine
+601518	DB00286	Prostate Cancer, Hereditary, 1; Hpc1	Conjugated Estrogens
+601518	DB00007	Prostate Cancer, Hereditary, 1; Hpc1	Leuprolide
+173200	DB00620	Pityriasis Rubra Pilaris	Triamcinolone
+173200	DB03904	Pityriasis Rubra Pilaris	Urea
+608033	DB00215	Encephalopathy, Acute Necrotizing 1, Susceptibility To; Ane1	Citalopram
+608033	DB00167	Encephalopathy, Acute Necrotizing 1, Susceptibility To; Ane1	L-Isoleucine
+608033	DB00734	Encephalopathy, Acute Necrotizing 1, Susceptibility To; Ane1	Risperidone
+608033	DB00433	Encephalopathy, Acute Necrotizing 1, Susceptibility To; Ane1	Prochlorperazine
+167870	DB01242	Panic Disorder 1; Pand1	Clomipramine
+167870	DB00472	Panic Disorder 1; Pand1	Fluoxetine
+167870	DB00215	Panic Disorder 1; Pand1	Citalopram
+167870	DB00176	Panic Disorder 1; Pand1	Fluvoxamine
+167870	DB00186	Panic Disorder 1; Pand1	Lorazepam
+167870	DB00458	Panic Disorder 1; Pand1	Imipramine
+167870	DB00490	Panic Disorder 1; Pand1	Buspirone
+167870	DB00404	Panic Disorder 1; Pand1	Alprazolam
+167870	DB00715	Panic Disorder 1; Pand1	Paroxetine
+167870	DB01104	Panic Disorder 1; Pand1	Sertraline
+167870	DB00285	Panic Disorder 1; Pand1	Venlafaxine
+167870	DB01156	Panic Disorder 1; Pand1	Bupropion
+167870	DB00540	Panic Disorder 1; Pand1	Nortriptyline
+167870	DB01068	Panic Disorder 1; Pand1	Clonazepam
+608622	DB00214	Hypertension, Diastolic, Resistance To	Torasemide
+608622	DB00325	Hypertension, Diastolic, Resistance To	Nitroprusside
+608622	DB04861	Hypertension, Diastolic, Resistance To	Nebivolol
+608622	DB00457	Hypertension, Diastolic, Resistance To	Prazosin
+608622	DB01275	Hypertension, Diastolic, Resistance To	Hydralazine
+608622	DB00519	Hypertension, Diastolic, Resistance To	Trandolapril
+608622	DB00903	Hypertension, Diastolic, Resistance To	Ethacrynic acid
+608622	DB00876	Hypertension, Diastolic, Resistance To	Eprosartan
+608622	DB01088	Hypertension, Diastolic, Resistance To	Iloprost
+608622	DB00492	Hypertension, Diastolic, Resistance To	Fosinopril
+608622	DB00960	Hypertension, Diastolic, Resistance To	Pindolol
+608622	DB00206	Hypertension, Diastolic, Resistance To	Reserpine
+608622	DB01023	Hypertension, Diastolic, Resistance To	Felodipine
+608622	DB00598	Hypertension, Diastolic, Resistance To	Labetalol
+608622	DB00310	Hypertension, Diastolic, Resistance To	Chlorthalidone
+608622	DB01018	Hypertension, Diastolic, Resistance To	Guanfacine
+608622	DB00887	Hypertension, Diastolic, Resistance To	Bumetanide
+608622	DB00966	Hypertension, Diastolic, Resistance To	Telmisartan
+608622	DB00521	Hypertension, Diastolic, Resistance To	Carteolol
+608622	DB00968	Hypertension, Diastolic, Resistance To	Methyldopa
+608622	DB00187	Hypertension, Diastolic, Resistance To	Esmolol
+608622	DB01359	Hypertension, Diastolic, Resistance To	Penbutolol
+608622	DB00343	Hypertension, Diastolic, Resistance To	Diltiazem
+608622	DB00881	Hypertension, Diastolic, Resistance To	Quinapril
+608622	DB00584	Hypertension, Diastolic, Resistance To	Enalapril
+608622	DB00542	Hypertension, Diastolic, Resistance To	Benazepril
+608622	DB00796	Hypertension, Diastolic, Resistance To	Candesartan
+608622	DB00381	Hypertension, Diastolic, Resistance To	Amlodipine
+608622	DB00880	Hypertension, Diastolic, Resistance To	Chlorothiazide
+608622	DB00622	Hypertension, Diastolic, Resistance To	Nicardipine
+608622	DB01136	Hypertension, Diastolic, Resistance To	Carvedilol
+608622	DB00226	Hypertension, Diastolic, Resistance To	Guanadrel Sulfate
+608622	DB00350	Hypertension, Diastolic, Resistance To	Minoxidil
+608622	DB00800	Hypertension, Diastolic, Resistance To	Fenoldopam
+608622	DB00524	Hypertension, Diastolic, Resistance To	Metolazone
+608622	DB00275	Hypertension, Diastolic, Resistance To	Olmesartan
+608622	DB00594	Hypertension, Diastolic, Resistance To	Amiloride
+608622	DB01244	Hypertension, Diastolic, Resistance To	Bepridil
+608622	DB01203	Hypertension, Diastolic, Resistance To	Nadolol
+608622	DB00678	Hypertension, Diastolic, Resistance To	Losartan
+608622	DB00436	Hypertension, Diastolic, Resistance To	Bendroflumethiazide
+608622	DB00657	Hypertension, Diastolic, Resistance To	Mecamylamine
+608622	DB00999	Hypertension, Diastolic, Resistance To	Hydrochlorothiazide
+608622	DB00264	Hypertension, Diastolic, Resistance To	Metoprolol
+608622	DB00421	Hypertension, Diastolic, Resistance To	Spironolactone
+608622	DB00373	Hypertension, Diastolic, Resistance To	Timolol
+608622	DB00575	Hypertension, Diastolic, Resistance To	Clonidine
+608622	DB01115	Hypertension, Diastolic, Resistance To	Nifedipine
+608622	DB00270	Hypertension, Diastolic, Resistance To	Isradipine
+608622	DB00195	Hypertension, Diastolic, Resistance To	Betaxolol
+608622	DB00692	Hypertension, Diastolic, Resistance To	Phentolamine
+608622	DB00808	Hypertension, Diastolic, Resistance To	Indapamide
+608622	DB01189	Hypertension, Diastolic, Resistance To	Desflurane
+608622	DB00695	Hypertension, Diastolic, Resistance To	Furosemide
+608622	DB00178	Hypertension, Diastolic, Resistance To	Ramipril
+608622	DB00401	Hypertension, Diastolic, Resistance To	Nisoldipine
+608622	DB00177	Hypertension, Diastolic, Resistance To	Valsartan
+608622	DB00661	Hypertension, Diastolic, Resistance To	Verapamil
+608622	DB01162	Hypertension, Diastolic, Resistance To	Terazosin
+608622	DB01258	Hypertension, Diastolic, Resistance To	Aliskiren
+608622	DB01170	Hypertension, Diastolic, Resistance To	Guanethidine
+608622	DB01029	Hypertension, Diastolic, Resistance To	Irbesartan
+608622	DB01193	Hypertension, Diastolic, Resistance To	Acebutolol
+608622	DB00691	Hypertension, Diastolic, Resistance To	Moexipril
+608622	DB00590	Hypertension, Diastolic, Resistance To	Doxazosin
+608622	DB01197	Hypertension, Diastolic, Resistance To	Captopril
+608622	DB00571	Hypertension, Diastolic, Resistance To	Propranolol
+608622	DB00722	Hypertension, Diastolic, Resistance To	Lisinopril
+247640	DB01033	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Mercaptopurine
+247640	DB01181	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Ifosfamide
+247640	DB01254	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Dasatinib
+247640	DB00290	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Bleomycin
+247640	DB00635	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Prednisone
+247640	DB00631	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Clofarabine
+247640	DB00987	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Cytarabine
+247640	DB00444	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Teniposide
+247640	DB00694	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Daunorubicin
+247640	DB01204	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Mitoxantrone
+247640	DB00541	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Vincristine
+247640	DB00262	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Carmustine
+247640	DB01177	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Idarubicin
+247640	DB00997	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Doxorubicin
+247640	DB01073	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Fludarabine
+247640	DB00619	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Imatinib
+247640	DB00563	Lymphoblastic Leukemia, Acute, With Lymphomatous Features; Lall	Methotrexate
+144650	DB00627	Hyperlipoproteinemia, Type V	Niacin
+144650	DB00636	Hyperlipoproteinemia, Type V	Clofibrate
+144650	DB01039	Hyperlipoproteinemia, Type V	Fenofibrate
+144650	DB01241	Hyperlipoproteinemia, Type V	Gemfibrozil
+133239	DB00563	Esophageal Cancer	Methotrexate
+133239	DB00707	Esophageal Cancer	Porfimer
+133239	DB00515	Esophageal Cancer	Cisplatin
+133239	DB00958	Esophageal Cancer	Carboplatin
+182000	DB00755	Keratosis, Seborrheic	Tretinoin
+114480	DB00783	Breast Cancer	Estradiol
+114480	DB00286	Breast Cancer	Conjugated Estrogens
+114480	DB01101	Breast Cancer	Capecitabine
+114480	DB01217	Breast Cancer	Anastrozole
+114480	DB00990	Breast Cancer	Exemestane
+114480	DB00441	Breast Cancer	Gemcitabine
+114480	DB01229	Breast Cancer	Paclitaxel
+114480	DB01248	Breast Cancer	Docetaxel
+114480	DB00014	Breast Cancer	Goserelin
+114480	DB00624	Breast Cancer	Testosterone
+114480	DB01259	Breast Cancer	Lapatinib
+114480	DB00282	Breast Cancer	Pamidronate
+114480	DB00481	Breast Cancer	Raloxifene
+114480	DB00544	Breast Cancer	Fluorouracil
+114480	DB01006	Breast Cancer	Letrozole
+114480	DB01185	Breast Cancer	Fluoxymesterone
+114480	DB00997	Breast Cancer	Doxorubicin
+114480	DB00675	Breast Cancer	Tamoxifen
+114480	DB00570	Breast Cancer	Vinblastine
+114480	DB00445	Breast Cancer	Epirubicin
+114480	DB00563	Breast Cancer	Methotrexate
+114480	DB00351	Breast Cancer	Megestrol
+114480	DB00947	Breast Cancer	Fulvestrant
+110100	DB04861	Blepharophimosis, Ptosis, And Epicanthus Inversus; Bpes	Nebivolol
+110100	DB00612	Blepharophimosis, Ptosis, And Epicanthus Inversus; Bpes	Bisoprolol
+110100	DB01203	Blepharophimosis, Ptosis, And Epicanthus Inversus; Bpes	Nadolol
+110100	DB00335	Blepharophimosis, Ptosis, And Epicanthus Inversus; Bpes	Atenolol
+110100	DB00264	Blepharophimosis, Ptosis, And Epicanthus Inversus; Bpes	Metoprolol
+110100	DB00598	Blepharophimosis, Ptosis, And Epicanthus Inversus; Bpes	Labetalol
+110100	DB00571	Blepharophimosis, Ptosis, And Epicanthus Inversus; Bpes	Propranolol
+144010	DB00627	Hypercholesterolemia, Autosomal Dominant, Type B	Niacin
+144010	DB01095	Hypercholesterolemia, Autosomal Dominant, Type B	Fluvastatin
+144010	DB00175	Hypercholesterolemia, Autosomal Dominant, Type B	Pravastatin
+144010	DB01039	Hypercholesterolemia, Autosomal Dominant, Type B	Fenofibrate
+144010	DB01098	Hypercholesterolemia, Autosomal Dominant, Type B	Rosuvastatin
+144010	DB00227	Hypercholesterolemia, Autosomal Dominant, Type B	Lovastatin
+144010	DB01076	Hypercholesterolemia, Autosomal Dominant, Type B	Atorvastatin
+144010	DB00641	Hypercholesterolemia, Autosomal Dominant, Type B	Simvastatin
+144010	DB01241	Hypercholesterolemia, Autosomal Dominant, Type B	Gemfibrozil
+601004	DB00928	Portal Vein, Cavernous Transformation Of	Azacitidine
+601004	DB01262	Portal Vein, Cavernous Transformation Of	Decitabine
+125310	DB01109	Cerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts	Heparin
+125310	DB01219	Cerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts	Dantrolene
+125310	DB00758	Cerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts	Clopidogrel
+125310	DB00682	Cerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts	Warfarin
+125310	DB00790	Cerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts	Perindopril
+125310	DB00381	Cerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts	Amlodipine
+125310	DB00806	Cerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts	Pentoxifylline
+125310	DB00945	Cerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts	Acetylsalicylic acid
+125310	DB00393	Cerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts	Nimodipine
+125310	DB00722	Cerebral Arteriopathy, Autosomal Dominant, With Subcortical Infarcts	Lisinopril
+604278	DB04272	Renal Tubular Acidosis, Proximal, With Ocular Abnormalities And Mental	Citric Acid
+215140	DB00524	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Metolazone
+215140	DB00594	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Amiloride
+215140	DB00808	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Indapamide
+215140	DB00232	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Methyclothiazide
+215140	DB00695	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Furosemide
+215140	DB00903	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Ethacrynic acid
+215140	DB01406	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Danazol
+215140	DB00819	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Acetazolamide
+215140	DB00421	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Spironolactone
+215140	DB00880	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Chlorothiazide
+215140	DB00436	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Bendroflumethiazide
+215140	DB00999	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Hydrochlorothiazide
+215140	DB00214	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Torasemide
+215140	DB00860	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Prednisolone
+215140	DB00384	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Triamterene
+215140	DB01197	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Captopril
+215140	DB00887	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Bumetanide
+215140	DB01234	Hydrops-Ectopic Calcification-Moth-Eaten Skeletal Dysplasia	Dexamethasone
+136200	DB00745	Flushing Of Ears And Somnolence	Modafinil
+136200	DB00201	Flushing Of Ears And Somnolence	Caffeine
+136200	DB01576	Flushing Of Ears And Somnolence	Dextroamphetamine
+190310	DB01129	Tremor, Nystagmus, And Duodenal Ulcer	Rabeprazole
+190310	DB00424	Tremor, Nystagmus, And Duodenal Ulcer	Hyoscyamine
+190310	DB00794	Tremor, Nystagmus, And Duodenal Ulcer	Primidone
+190310	DB00863	Tremor, Nystagmus, And Duodenal Ulcer	Ranitidine
+190310	DB00747	Tremor, Nystagmus, And Duodenal Ulcer	Scopolamine
+190310	DB00448	Tremor, Nystagmus, And Duodenal Ulcer	Lansoprazole
+190310	DB01174	Tremor, Nystagmus, And Duodenal Ulcer	Phenobarbital
+190310	DB00364	Tremor, Nystagmus, And Duodenal Ulcer	Sucralfate
+190310	DB00929	Tremor, Nystagmus, And Duodenal Ulcer	Misoprostol
+190310	DB00736	Tremor, Nystagmus, And Duodenal Ulcer	Esomeprazole
+190310	DB01378	Tremor, Nystagmus, And Duodenal Ulcer	Magnesium
+190310	DB00338	Tremor, Nystagmus, And Duodenal Ulcer	Omeprazole
+190310	DB00501	Tremor, Nystagmus, And Duodenal Ulcer	Cimetidine
+190310	DB00572	Tremor, Nystagmus, And Duodenal Ulcer	Atropine
+190310	DB00213	Tremor, Nystagmus, And Duodenal Ulcer	Pantoprazole
+190310	DB00927	Tremor, Nystagmus, And Duodenal Ulcer	Famotidine
+190310	DB01203	Tremor, Nystagmus, And Duodenal Ulcer	Nadolol
+190310	DB00585	Tremor, Nystagmus, And Duodenal Ulcer	Nizatidine
+179830	DB04272	Renal Tubular Acidosis, Proximal	Citric Acid
+605839	DB01268	Leiomyomatosis And Renal Cell Cancer, Hereditary	Sunitinib
+605839	DB01590	Leiomyomatosis And Renal Cell Cancer, Hereditary	Everolimus
+605839	DB00441	Leiomyomatosis And Renal Cell Cancer, Hereditary	Gemcitabine
+605839	DB00399	Leiomyomatosis And Renal Cell Cancer, Hereditary	Zoledronate
+605839	DB00398	Leiomyomatosis And Renal Cell Cancer, Hereditary	Sorafenib
+605839	DB00603	Leiomyomatosis And Renal Cell Cancer, Hereditary	Medroxyprogesterone
+605839	DB01005	Leiomyomatosis And Renal Cell Cancer, Hereditary	Hydroxyurea
+605839	DB06287	Leiomyomatosis And Renal Cell Cancer, Hereditary	Temsirolimus
+600634	DB00248	Pituitary Adenoma, Prolactin-Secreting	Cabergoline
+230450	DB00163	Gamma-Glutamylcysteine Synthetase Deficiency, Hemolytic Anemia Due	Vitamin E
+608217	DB01174	Epilepsy, Benign Neonatal, 3; Ebn3	Phenobarbital
+191390	DB01222	Inflammatory Bowel Disease 11; Ibd11	Budesonide
+191390	DB01003	Inflammatory Bowel Disease 11; Ibd11	Cromoglicic acid
+191390	DB01033	Inflammatory Bowel Disease 11; Ibd11	Mercaptopurine
+191390	DB00771	Inflammatory Bowel Disease 11; Ibd11	Clidinium
+133600	DB00620	Exostoses Of Heel	Triamcinolone
+133600	DB00635	Exostoses Of Heel	Prednisone
+133600	DB00788	Exostoses Of Heel	Naproxen
+133600	DB01234	Exostoses Of Heel	Dexamethasone
+133600	DB00328	Exostoses Of Heel	Indomethacin
+133600	DB00443	Exostoses Of Heel	Betamethasone
+171300	DB00575	Pheochromocytoma	Clonidine
+171300	DB00925	Pheochromocytoma	Phenoxybenzamine
+171300	DB00692	Pheochromocytoma	Phentolamine
+171300	DB00598	Pheochromocytoma	Labetalol
+171300	DB00765	Pheochromocytoma	Metyrosine
+171300	DB00571	Pheochromocytoma	Propranolol
+208920	DB00563	Ataxia, Early-Onset, With Oculomotor Apraxia And Hypoalbuminemia;	Methotrexate
+208920	DB00993	Ataxia, Early-Onset, With Oculomotor Apraxia And Hypoalbuminemia;	Azathioprine
+208920	DB00635	Ataxia, Early-Onset, With Oculomotor Apraxia And Hypoalbuminemia;	Prednisone
+217150	DB01219	Contractures, Congenital, Torticollis, And Malignant Hyperthermia	Dantrolene
+212130	DB00380	Cardiomyopathy Associated With Myopathy And Sudden Death	Dexrazoxane
+238800	DB01219	Hypermetabolism Due To Defect In Mitochondria	Dantrolene
+184700	DB00977	Polycystic Ovary Syndrome 1; Pcos1	Ethinyl Estradiol
+184700	DB01395	Polycystic Ovary Syndrome 1; Pcos1	Drospirenone
+184700	DB00304	Polycystic Ovary Syndrome 1; Pcos1	Desogestrel
+184700	DB00717	Polycystic Ovary Syndrome 1; Pcos1	Norethindrone
+184700	DB00367	Polycystic Ovary Syndrome 1; Pcos1	Levonorgestrel
+184700	DB00331	Polycystic Ovary Syndrome 1; Pcos1	Metformin
+263800	DB00328	Gitelman Syndrome	Indomethacin
+147530	DB01221	Insensitivity To Pain With Hyperplastic Myelinopathy	Ketamine
+147530	DB01399	Insensitivity To Pain With Hyperplastic Myelinopathy	Salsalate
+147530	DB00457	Insensitivity To Pain With Hyperplastic Myelinopathy	Prazosin
+147530	DB00508	Insensitivity To Pain With Hyperplastic Myelinopathy	Triflupromazine
+147530	DB00936	Insensitivity To Pain With Hyperplastic Myelinopathy	Salicyclic acid
+147530	DB00527	Insensitivity To Pain With Hyperplastic Myelinopathy	Dibucaine
+147530	DB01002	Insensitivity To Pain With Hyperplastic Myelinopathy	Levobupivacaine
+147530	DB00813	Insensitivity To Pain With Hyperplastic Myelinopathy	Fentanyl
+147530	DB00201	Insensitivity To Pain With Hyperplastic Myelinopathy	Caffeine
+147530	DB00647	Insensitivity To Pain With Hyperplastic Myelinopathy	Propoxyphene
+147530	DB00454	Insensitivity To Pain With Hyperplastic Myelinopathy	Meperidine
+147530	DB01216	Insensitivity To Pain With Hyperplastic Myelinopathy	Finasteride
+147530	DB01142	Insensitivity To Pain With Hyperplastic Myelinopathy	Doxepin
+147530	DB00122	Insensitivity To Pain With Hyperplastic Myelinopathy	Choline
+147530	DB00844	Insensitivity To Pain With Hyperplastic Myelinopathy	Nalbuphine
+147530	DB00316	Insensitivity To Pain With Hyperplastic Myelinopathy	Acetaminophen
+147530	DB00321	Insensitivity To Pain With Hyperplastic Myelinopathy	Amitriptyline
+147530	DB00230	Insensitivity To Pain With Hyperplastic Myelinopathy	Pregabalin
+147530	DB00181	Insensitivity To Pain With Hyperplastic Myelinopathy	Baclofen
+147530	DB00945	Insensitivity To Pain With Hyperplastic Myelinopathy	Acetylsalicylic acid
+147530	DB00899	Insensitivity To Pain With Hyperplastic Myelinopathy	Remifentanil
+147530	DB00749	Insensitivity To Pain With Hyperplastic Myelinopathy	Etodolac
+147530	DB00573	Insensitivity To Pain With Hyperplastic Myelinopathy	Fenoprofen
+147530	DB00721	Insensitivity To Pain With Hyperplastic Myelinopathy	Procaine
+147530	DB00686	Insensitivity To Pain With Hyperplastic Myelinopathy	Pentosan Polysulfate
+147530	DB00461	Insensitivity To Pain With Hyperplastic Myelinopathy	Nabumetone
+147530	DB00557	Insensitivity To Pain With Hyperplastic Myelinopathy	Hydroxyzine
+147530	DB01173	Insensitivity To Pain With Hyperplastic Myelinopathy	Orphenadrine
+147530	DB00328	Insensitivity To Pain With Hyperplastic Myelinopathy	Indomethacin
+147530	DB01151	Insensitivity To Pain With Hyperplastic Myelinopathy	Desipramine
+147530	DB01192	Insensitivity To Pain With Hyperplastic Myelinopathy	Oxymorphone
+147530	DB00273	Insensitivity To Pain With Hyperplastic Myelinopathy	Topiramate
+147530	DB00482	Insensitivity To Pain With Hyperplastic Myelinopathy	Celecoxib
+147530	DB00898	Insensitivity To Pain With Hyperplastic Myelinopathy	Ethanol
+147530	DB00285	Insensitivity To Pain With Hyperplastic Myelinopathy	Venlafaxine
+147530	DB00921	Insensitivity To Pain With Hyperplastic Myelinopathy	Buprenorphine
+147530	DB00996	Insensitivity To Pain With Hyperplastic Myelinopathy	Gabapentin
+147530	DB00750	Insensitivity To Pain With Hyperplastic Myelinopathy	Prilocaine
+147530	DB00611	Insensitivity To Pain With Hyperplastic Myelinopathy	Butorphanol
+147530	DB00297	Insensitivity To Pain With Hyperplastic Myelinopathy	Bupivacaine
+147530	DB00465	Insensitivity To Pain With Hyperplastic Myelinopathy	Ketorolac
+147530	DB00575	Insensitivity To Pain With Hyperplastic Myelinopathy	Clonidine
+147530	DB00295	Insensitivity To Pain With Hyperplastic Myelinopathy	Morphine
+147530	DB01204	Insensitivity To Pain With Hyperplastic Myelinopathy	Mitoxantrone
+147530	DB00458	Insensitivity To Pain With Hyperplastic Myelinopathy	Imipramine
+147530	DB00706	Insensitivity To Pain With Hyperplastic Myelinopathy	Tamsulosin
+147530	DB00939	Insensitivity To Pain With Hyperplastic Myelinopathy	Meclofenamic acid
+147530	DB00605	Insensitivity To Pain With Hyperplastic Myelinopathy	Sulindac
+147530	DB00333	Insensitivity To Pain With Hyperplastic Myelinopathy	Methadone
+147530	DB00281	Insensitivity To Pain With Hyperplastic Myelinopathy	Lidocaine
+147530	DB00356	Insensitivity To Pain With Hyperplastic Myelinopathy	Chlorzoxazone
+147530	DB00590	Insensitivity To Pain With Hyperplastic Myelinopathy	Doxazosin
+147530	DB00476	Insensitivity To Pain With Hyperplastic Myelinopathy	Duloxetine
+147530	DB01161	Insensitivity To Pain With Hyperplastic Myelinopathy	Chloroprocaine
+147530	DB00861	Insensitivity To Pain With Hyperplastic Myelinopathy	Diflunisal
+147530	DB00346	Insensitivity To Pain With Hyperplastic Myelinopathy	Alfuzosin
+147530	DB01189	Insensitivity To Pain With Hyperplastic Myelinopathy	Desflurane
+147530	DB00540	Insensitivity To Pain With Hyperplastic Myelinopathy	Nortriptyline
+147530	DB01403	Insensitivity To Pain With Hyperplastic Myelinopathy	Methotrimeprazine
+147530	DB00193	Insensitivity To Pain With Hyperplastic Myelinopathy	Tramadol
+147530	DB00924	Insensitivity To Pain With Hyperplastic Myelinopathy	Cyclobenzaprine
+147530	DB01162	Insensitivity To Pain With Hyperplastic Myelinopathy	Terazosin
+147530	DB00956	Insensitivity To Pain With Hyperplastic Myelinopathy	Hydrocodone
+147530	DB00586	Insensitivity To Pain With Hyperplastic Myelinopathy	Diclofenac
+147530	DB00497	Insensitivity To Pain With Hyperplastic Myelinopathy	Oxycodone
+147530	DB01050	Insensitivity To Pain With Hyperplastic Myelinopathy	Ibuprofen
+147530	DB00327	Insensitivity To Pain With Hyperplastic Myelinopathy	Hydromorphone
+147530	DB01086	Insensitivity To Pain With Hyperplastic Myelinopathy	Benzocaine
+147530	DB00907	Insensitivity To Pain With Hyperplastic Myelinopathy	Cocaine
+147530	DB00652	Insensitivity To Pain With Hyperplastic Myelinopathy	Pentazocine
+147530	DB00788	Insensitivity To Pain With Hyperplastic Myelinopathy	Naproxen
+144700	DB01101	Renal Cell Carcinoma, Nonpapillary; Rcc	Capecitabine
+144700	DB01268	Renal Cell Carcinoma, Nonpapillary; Rcc	Sunitinib
+144700	DB01590	Renal Cell Carcinoma, Nonpapillary; Rcc	Everolimus
+144700	DB00441	Renal Cell Carcinoma, Nonpapillary; Rcc	Gemcitabine
+144700	DB00398	Renal Cell Carcinoma, Nonpapillary; Rcc	Sorafenib
+144700	DB00603	Renal Cell Carcinoma, Nonpapillary; Rcc	Medroxyprogesterone
+144700	DB01005	Renal Cell Carcinoma, Nonpapillary; Rcc	Hydroxyurea
+144700	DB06287	Renal Cell Carcinoma, Nonpapillary; Rcc	Temsirolimus
+144700	DB00530	Renal Cell Carcinoma, Nonpapillary; Rcc	Erlotinib
+157950	DB01019	Permanent Molars, Secondary Retention Of	Bethanechol
+157950	DB01400	Permanent Molars, Secondary Retention Of	Neostigmine
+157950	DB01162	Permanent Molars, Secondary Retention Of	Terazosin
+157950	DB00457	Permanent Molars, Secondary Retention Of	Prazosin
+237450	DB01174	Hyperbilirubinemia, Rotor Type	Phenobarbital
+189800	DB00727	Preeclampsia/Eclampsia 1; Pee1	Nitroglycerin
+189800	DB00653	Preeclampsia/Eclampsia 1; Pee1	Magnesium Sulfate
+266120	DB00163	Uridine 5-Prime Monophosphate Hydrolase Deficiency, Hemolytic Anemia	Vitamin E
+146500	DB00368	Multiple System Atrophy; Msa	Norepinephrine
+146500	DB00388	Multiple System Atrophy; Msa	Phenylephrine
+146500	DB00211	Multiple System Atrophy; Msa	Midodrine
+277350	DB00162	Hypercarotenemia And Vitamin A Deficiency, Autosomal Recessive	Vitamin A
+277350	DB03796	Hypercarotenemia And Vitamin A Deficiency, Autosomal Recessive	Palmitic Acid
+178600	DB00883	Pulmonary Hypertension, Primary, 1; Pph1	Isosorbide Dinitrate
+178600	DB01240	Pulmonary Hypertension, Primary, 1; Pph1	Epoprostenol
+178600	DB01088	Pulmonary Hypertension, Primary, 1; Pph1	Iloprost
+178600	DB00203	Pulmonary Hypertension, Primary, 1; Pph1	Sildenafil
+178600	DB00559	Pulmonary Hypertension, Primary, 1; Pph1	Bosentan
+178600	DB00374	Pulmonary Hypertension, Primary, 1; Pph1	Treprostinil
+178600	DB00820	Pulmonary Hypertension, Primary, 1; Pph1	Tadalafil
+601682	DB00449	Glaucoma 1, Open Angle, C; Glc1C	Dipivefrin
+601682	DB01214	Glaucoma 1, Open Angle, C; Glc1C	Metipranolol
+601682	DB00484	Glaucoma 1, Open Angle, C; Glc1C	Brimonidine
+601682	DB00373	Glaucoma 1, Open Angle, C; Glc1C	Timolol
+601682	DB00287	Glaucoma 1, Open Angle, C; Glc1C	Travoprost
+601682	DB00668	Glaucoma 1, Open Angle, C; Glc1C	Epinephrine
+601682	DB00905	Glaucoma 1, Open Angle, C; Glc1C	Bimatoprost
+601682	DB00654	Glaucoma 1, Open Angle, C; Glc1C	Latanoprost
+601682	DB00388	Glaucoma 1, Open Angle, C; Glc1C	Phenylephrine
+601682	DB01194	Glaucoma 1, Open Angle, C; Glc1C	Brinzolamide
+601682	DB00869	Glaucoma 1, Open Angle, C; Glc1C	Dorzolamide
+157700	DB04861	Mitral Valve Prolapse, Familial; Mvp	Nebivolol
+157700	DB00612	Mitral Valve Prolapse, Familial; Mvp	Bisoprolol
+157700	DB01203	Mitral Valve Prolapse, Familial; Mvp	Nadolol
+157700	DB00687	Mitral Valve Prolapse, Familial; Mvp	Fludrocortisone
+157700	DB00211	Mitral Valve Prolapse, Familial; Mvp	Midodrine
+157700	DB00264	Mitral Valve Prolapse, Familial; Mvp	Metoprolol
+157700	DB00598	Mitral Valve Prolapse, Familial; Mvp	Labetalol
+157700	DB00335	Mitral Valve Prolapse, Familial; Mvp	Atenolol
+157700	DB00571	Mitral Valve Prolapse, Familial; Mvp	Propranolol
+268320	DB00357	Rodrigues Blindness	Aminoglutethimide
+268320	DB00787	Rodrigues Blindness	Aciclovir
+145600	DB01219	Malignant Hyperthermia, Susceptibility To, 1; Mhs1	Dantrolene
+194070	DB00997	Wilms Tumor 1; Wt1	Doxorubicin
+194070	DB00541	Wilms Tumor 1; Wt1	Vincristine
+194070	DB01229	Wilms Tumor 1; Wt1	Paclitaxel
+121200	DB01174	Epilepsy, Benign Neonatal, 1; Ebn1	Phenobarbital
+121201	DB00794	Epilepsy, Benign Neonatal, 2; Ebn2	Primidone
+121201	DB01174	Epilepsy, Benign Neonatal, 2; Ebn2	Phenobarbital
+182830	DB00215	Spastic Paraplegia, Optic Atrophy, And Dementia	Citalopram
+182830	DB00502	Spastic Paraplegia, Optic Atrophy, And Dementia	Haloperidol
+182830	DB00734	Spastic Paraplegia, Optic Atrophy, And Dementia	Risperidone
+182830	DB00433	Spastic Paraplegia, Optic Atrophy, And Dementia	Prochlorperazine
+190300	DB00794	Tremor, Hereditary Essential, 1; Etm1	Primidone
+190300	DB01203	Tremor, Hereditary Essential, 1; Etm1	Nadolol
+190300	DB00909	Tremor, Hereditary Essential, 1; Etm1	Zonisamide
+190300	DB00264	Tremor, Hereditary Essential, 1; Etm1	Metoprolol
+190300	DB00571	Tremor, Hereditary Essential, 1; Etm1	Propranolol
+190300	DB00996	Tremor, Hereditary Essential, 1; Etm1	Gabapentin
+607554	DB00575	Atrial Fibrillation, Familial, 3; Atfb3	Clonidine
+607554	DB01182	Atrial Fibrillation, Familial, 3; Atfb3	Propafenone
+607554	DB00489	Atrial Fibrillation, Familial, 3; Atfb3	Sotalol
+607554	DB01035	Atrial Fibrillation, Familial, 3; Atfb3	Procainamide
+607554	DB00343	Atrial Fibrillation, Familial, 3; Atfb3	Diltiazem
+607554	DB00908	Atrial Fibrillation, Familial, 3; Atfb3	Quinidine
+607554	DB00682	Atrial Fibrillation, Familial, 3; Atfb3	Warfarin
+607554	DB00308	Atrial Fibrillation, Familial, 3; Atfb3	Ibutilide
+607554	DB01195	Atrial Fibrillation, Familial, 3; Atfb3	Flecainide
+607554	DB00661	Atrial Fibrillation, Familial, 3; Atfb3	Verapamil
+607554	DB00390	Atrial Fibrillation, Familial, 3; Atfb3	Digoxin
+607554	DB01136	Atrial Fibrillation, Familial, 3; Atfb3	Carvedilol
+607554	DB00264	Atrial Fibrillation, Familial, 3; Atfb3	Metoprolol
+607554	DB00204	Atrial Fibrillation, Familial, 3; Atfb3	Dofetilide
+607554	DB01125	Atrial Fibrillation, Familial, 3; Atfb3	Anisindione
+246470	DB01008	Leukemia, Acute Myelocytic, With Polyposis Coli And Colon Cancer	Busulfan
+246470	DB00987	Leukemia, Acute Myelocytic, With Polyposis Coli And Colon Cancer	Cytarabine
+246470	DB00541	Leukemia, Acute Myelocytic, With Polyposis Coli And Colon Cancer	Vincristine
+246470	DB00762	Leukemia, Acute Myelocytic, With Polyposis Coli And Colon Cancer	Irinotecan
+246470	DB00482	Leukemia, Acute Myelocytic, With Polyposis Coli And Colon Cancer	Celecoxib
+246470	DB00563	Leukemia, Acute Myelocytic, With Polyposis Coli And Colon Cancer	Methotrexate
+137580	DB00575	Gilles De La Tourette Syndrome; Gts	Clonidine
+137580	DB00246	Gilles De La Tourette Syndrome; Gts	Ziprasidone
+137580	DB00502	Gilles De La Tourette Syndrome; Gts	Haloperidol
+137580	DB00734	Gilles De La Tourette Syndrome; Gts	Risperidone
+137580	DB00657	Gilles De La Tourette Syndrome; Gts	Mecamylamine
+137215	DB01101	Gastric Cancer	Capecitabine
+137215	DB00544	Gastric Cancer	Fluorouracil
+137215	DB00305	Gastric Cancer	Mitomycin
+137215	DB00997	Gastric Cancer	Doxorubicin
+137215	DB00563	Gastric Cancer	Methotrexate
+137215	DB01248	Gastric Cancer	Docetaxel
+607225	DB01219	Spastic Paralysis, Infantile-Onset Ascending; Iahsp	Dantrolene
+607225	DB00181	Spastic Paralysis, Infantile-Onset Ascending; Iahsp	Baclofen
+170900	DB00115	Pernicious Anemia	Cyanocobalamin
+109200	DB01216	Alopecia, Androgenetic, 1; Aga1	Finasteride
+607628	DB00909	Epilepsy, Idiopathic Generalized, Susceptibility To, 11; Eig11	Zonisamide
+607628	DB01202	Epilepsy, Idiopathic Generalized, Susceptibility To, 11; Eig11	Levetiracetam
+607628	DB00794	Epilepsy, Idiopathic Generalized, Susceptibility To, 11; Eig11	Primidone
+607628	DB00776	Epilepsy, Idiopathic Generalized, Susceptibility To, 11; Eig11	Oxcarbazepine
+607628	DB00996	Epilepsy, Idiopathic Generalized, Susceptibility To, 11; Eig11	Gabapentin
+125853	DB01124	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Tolbutamide
+125853	DB01132	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Pioglitazone
+125853	DB00672	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Chlorpropamide
+125853	DB01016	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Glyburide
+125853	DB01067	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Glipizide
+125853	DB00331	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Metformin
+125853	DB01261	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Sitagliptin
+125853	DB00222	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Glimepiride
+125853	DB00731	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Nateglinide
+125853	DB00912	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Repaglinide
+125853	DB00839	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Tolazamide
+125853	DB01120	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Gliclazide
+125853	DB01029	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Irbesartan
+125853	DB00284	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Acarbose
+125853	DB00412	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Rosiglitazone
+125853	DB00414	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Acetohexamide
+125853	DB00491	Diabetes Mellitus, Noninsulin-Dependent; Niddm	Miglitol
+600807	DB01291	Asthma, Susceptibility To	Pirbuterol
+600807	DB00221	Asthma, Susceptibility To	Isoetharine
+600807	DB00764	Asthma, Susceptibility To	Mometasone
+600807	DB00716	Asthma, Susceptibility To	Nedocromil
+600807	DB01003	Asthma, Susceptibility To	Cromoglicic acid
+600807	DB01222	Asthma, Susceptibility To	Budesonide
+600807	DB00901	Asthma, Susceptibility To	Bitolterol
+600807	DB00852	Asthma, Susceptibility To	Pseudoephedrine
+600807	DB01001	Asthma, Susceptibility To	Salbutamol
+600807	DB01364	Asthma, Susceptibility To	Ephedrine
+600807	DB00816	Asthma, Susceptibility To	Orciprenaline
+600807	DB01064	Asthma, Susceptibility To	Isoproterenol
+600807	DB00332	Asthma, Susceptibility To	Ipratropium bromide
+600807	DB00180	Asthma, Susceptibility To	Flunisolide
+600807	DB01223	Asthma, Susceptibility To	Aminophylline
+600807	DB00651	Asthma, Susceptibility To	Dyphylline
+600807	DB00938	Asthma, Susceptibility To	Salmeterol
+600807	DB00394	Asthma, Susceptibility To	Beclometasone dipropionate
+600807	DB00277	Asthma, Susceptibility To	Theophylline
+600807	DB00668	Asthma, Susceptibility To	Epinephrine
+600807	DB00471	Asthma, Susceptibility To	Montelukast
+600807	DB00871	Asthma, Susceptibility To	Terbutaline
+600807	DB00983	Asthma, Susceptibility To	Formoterol
+600807	DB00744	Asthma, Susceptibility To	Zileuton
+600807	DB00588	Asthma, Susceptibility To	Fluticasone Propionate
+600803	DB01327	Gallbladder Disease 1; Gbd1	Cefazolin
+268220	DB00563	Rhabdomyosarcoma 2; Rms2	Methotrexate
+268220	DB00851	Rhabdomyosarcoma 2; Rms2	Dacarbazine
+268220	DB01042	Rhabdomyosarcoma 2; Rms2	Melphalan
+268220	DB00541	Rhabdomyosarcoma 2; Rms2	Vincristine
+268220	DB00997	Rhabdomyosarcoma 2; Rms2	Doxorubicin
+237500	DB01174	Dubin-Johnson Syndrome; Djs	Phenobarbital
+601042	DB00575	Choreoathetosis/Spasticity, Episodic; Cse	Clonidine
+601042	DB00829	Choreoathetosis/Spasticity, Episodic; Cse	Diazepam
+601042	DB01219	Choreoathetosis/Spasticity, Episodic; Cse	Dantrolene
+601042	DB00697	Choreoathetosis/Spasticity, Episodic; Cse	Tizanidine
+601042	DB00924	Choreoathetosis/Spasticity, Episodic; Cse	Cyclobenzaprine
+601042	DB00371	Choreoathetosis/Spasticity, Episodic; Cse	Meprobamate
+601042	DB00181	Choreoathetosis/Spasticity, Episodic; Cse	Baclofen
+140600	DB00500	Osteoarthritis Susceptibility 2; Os2	Tolmetin
+140600	DB00201	Osteoarthritis Susceptibility 2; Os2	Caffeine
+140600	DB00991	Osteoarthritis Susceptibility 2; Os2	Oxaprozin
+140600	DB00580	Osteoarthritis Susceptibility 2; Os2	Valdecoxib
+140600	DB00814	Osteoarthritis Susceptibility 2; Os2	Meloxicam
+140600	DB00788	Osteoarthritis Susceptibility 2; Os2	Naproxen
+140600	DB00316	Osteoarthritis Susceptibility 2; Os2	Acetaminophen
+140600	DB00554	Osteoarthritis Susceptibility 2; Os2	Piroxicam
+140600	DB00461	Osteoarthritis Susceptibility 2; Os2	Nabumetone
+140600	DB00945	Osteoarthritis Susceptibility 2; Os2	Acetylsalicylic acid
+140600	DB00749	Osteoarthritis Susceptibility 2; Os2	Etodolac
+140600	DB00573	Osteoarthritis Susceptibility 2; Os2	Fenoprofen
+140600	DB01068	Osteoarthritis Susceptibility 2; Os2	Clonazepam
+140600	DB00712	Osteoarthritis Susceptibility 2; Os2	Flurbiprofen
+140600	DB00482	Osteoarthritis Susceptibility 2; Os2	Celecoxib
+140600	DB01009	Osteoarthritis Susceptibility 2; Os2	Ketoprofen
+140600	DB00318	Osteoarthritis Susceptibility 2; Os2	Codeine
+140600	DB00929	Osteoarthritis Susceptibility 2; Os2	Misoprostol
+140600	DB01296	Osteoarthritis Susceptibility 2; Os2	Glucosamine
+140600	DB00328	Osteoarthritis Susceptibility 2; Os2	Indomethacin
+140600	DB00605	Osteoarthritis Susceptibility 2; Os2	Sulindac
+140600	DB00959	Osteoarthritis Susceptibility 2; Os2	Methylprednisolone
+140600	DB00586	Osteoarthritis Susceptibility 2; Os2	Diclofenac
+140600	DB01050	Osteoarthritis Susceptibility 2; Os2	Ibuprofen
+140600	DB00861	Osteoarthritis Susceptibility 2; Os2	Diflunisal
+140600	DB00122	Osteoarthritis Susceptibility 2; Os2	Choline
+241519	DB01070	Hypophosphatemia, Renal, With Intracerebral Calcifications	Dihydrotachysterol
+241519	DB00153	Hypophosphatemia, Renal, With Intracerebral Calcifications	Ergocalciferol
+155601	DB00853	Melanoma, Cutaneous Malignant, Susceptibility To, 2; Cmm2	Temozolomide
+155601	DB00851	Melanoma, Cutaneous Malignant, Susceptibility To, 2; Cmm2	Dacarbazine
+155601	DB00290	Melanoma, Cutaneous Malignant, Susceptibility To, 2; Cmm2	Bleomycin
+155601	DB01248	Melanoma, Cutaneous Malignant, Susceptibility To, 2; Cmm2	Docetaxel
+155601	DB01005	Melanoma, Cutaneous Malignant, Susceptibility To, 2; Cmm2	Hydroxyurea
+300232	DB00490	Spondyloepimetaphyseal Dysplasia, X-Linked, With Mental Deterioration	Buspirone
+102400	DB00282	Acroosteolysis	Pamidronate
+107320	DB00682	Antiphospholipid Syndrome, Familial	Warfarin
+107320	DB00945	Antiphospholipid Syndrome, Familial	Acetylsalicylic acid
+231900	DB00163	Glutathione Synthetase Deficiency Of Erythrocytes, Hemolytic Anemia	Vitamin E
+168100	DB00915	Paralysis Agitans, Juvenile, Of Hunt	Amantadine
+168100	DB00245	Paralysis Agitans, Juvenile, Of Hunt	Benzatropine
+168100	DB00989	Paralysis Agitans, Juvenile, Of Hunt	Rivastigmine
+168100	DB00413	Paralysis Agitans, Juvenile, Of Hunt	Pramipexole
+168100	DB00494	Paralysis Agitans, Juvenile, Of Hunt	Entacapone
+168100	DB00810	Paralysis Agitans, Juvenile, Of Hunt	Biperiden
+168100	DB01186	Paralysis Agitans, Juvenile, Of Hunt	Pergolide
+168100	DB01235	Paralysis Agitans, Juvenile, Of Hunt	Levodopa
+168100	DB00387	Paralysis Agitans, Juvenile, Of Hunt	Procyclidine
+168100	DB00323	Paralysis Agitans, Juvenile, Of Hunt	Tolcapone
+168100	DB00714	Paralysis Agitans, Juvenile, Of Hunt	Apomorphine
+168100	DB00376	Paralysis Agitans, Juvenile, Of Hunt	Trihexyphenidyl
+168100	DB01200	Paralysis Agitans, Juvenile, Of Hunt	Bromocriptine
+168100	DB01367	Paralysis Agitans, Juvenile, Of Hunt	Rasagiline
+168100	DB00747	Paralysis Agitans, Juvenile, Of Hunt	Scopolamine
+168100	DB00190	Paralysis Agitans, Juvenile, Of Hunt	Carbidopa
+168100	DB00268	Paralysis Agitans, Juvenile, Of Hunt	Ropinirole
+126200	DB00993	Multiple Sclerosis, Susceptibility To; Ms	Azathioprine
+126200	DB00860	Multiple Sclerosis, Susceptibility To; Ms	Prednisolone
+126200	DB00635	Multiple Sclerosis, Susceptibility To; Ms	Prednisone
+126200	DB01204	Multiple Sclerosis, Susceptibility To; Ms	Mitoxantrone
+126200	DB01219	Multiple Sclerosis, Susceptibility To; Ms	Dantrolene
+126200	DB00745	Multiple Sclerosis, Susceptibility To; Ms	Modafinil
+126200	DB05259	Multiple Sclerosis, Susceptibility To; Ms	Glatiramer Acetate
+126200	DB00181	Multiple Sclerosis, Susceptibility To; Ms	Baclofen
+126200	DB00915	Multiple Sclerosis, Susceptibility To; Ms	Amantadine
+126200	DB00242	Multiple Sclerosis, Susceptibility To; Ms	Cladribine
+601608	DB01406	Spastic Paraplegia And Evans Syndrome	Danazol
+601608	DB00541	Spastic Paraplegia And Evans Syndrome	Vincristine
+601608	DB01234	Spastic Paraplegia And Evans Syndrome	Dexamethasone
+215470	DB01185	Chorioretinal Dystrophy, Spinocerebellar Ataxia, And Hypogonadotropic	Fluoxymesterone
+215470	DB00977	Chorioretinal Dystrophy, Spinocerebellar Ataxia, And Hypogonadotropic	Ethinyl Estradiol
+215470	DB00655	Chorioretinal Dystrophy, Spinocerebellar Ataxia, And Hypogonadotropic	Estrone
+215470	DB00286	Chorioretinal Dystrophy, Spinocerebellar Ataxia, And Hypogonadotropic	Conjugated Estrogens
+215470	DB00717	Chorioretinal Dystrophy, Spinocerebellar Ataxia, And Hypogonadotropic	Norethindrone
+215470	DB00783	Chorioretinal Dystrophy, Spinocerebellar Ataxia, And Hypogonadotropic	Estradiol
+215470	DB00624	Chorioretinal Dystrophy, Spinocerebellar Ataxia, And Hypogonadotropic	Testosterone
+600131	DB00909	Epilepsy, Childhood Absence, Susceptibility To, 1; Eca1	Zonisamide
+600131	DB01202	Epilepsy, Childhood Absence, Susceptibility To, 1; Eca1	Levetiracetam
+600131	DB00794	Epilepsy, Childhood Absence, Susceptibility To, 1; Eca1	Primidone
+600131	DB00776	Epilepsy, Childhood Absence, Susceptibility To, 1; Eca1	Oxcarbazepine
+600131	DB00996	Epilepsy, Childhood Absence, Susceptibility To, 1; Eca1	Gabapentin
+312910	DB00536	Spastic Paraparesis And Deafness	Guanidine
+312910	DB00434	Spastic Paraparesis And Deafness	Cyproheptadine
+115300	DB00162	Hypercarotenemia And Vitamin A Deficiency, Autosomal Dominant	Vitamin A
+115300	DB03796	Hypercarotenemia And Vitamin A Deficiency, Autosomal Dominant	Palmitic Acid
+155600	DB00853	Melanoma, Cutaneous Malignant; Cmm	Temozolomide
+155600	DB00851	Melanoma, Cutaneous Malignant; Cmm	Dacarbazine
+155600	DB00290	Melanoma, Cutaneous Malignant; Cmm	Bleomycin
+155600	DB01248	Melanoma, Cutaneous Malignant; Cmm	Docetaxel
+155600	DB01005	Melanoma, Cutaneous Malignant; Cmm	Hydroxyurea
+212140	DB00583	Carnitine Deficiency, Systemic Primary; Cdsp	L-Carnitine
