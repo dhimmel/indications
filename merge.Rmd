@@ -128,10 +128,12 @@ indication.df <- dplyr::bind_rows(
     dplyr::mutate(resource = 'predict')
 )
 
-path <- file.path('data', 'indications.tsv')
-write.table(indication.df, path, sep='\t', row.names=FALSE, quote=FALSE)
-
-indication.df %>% dplyr::select(doid_code, drugbank_id) %>% dplyr::distinct() %>% nrow
+# indications in gold standard
+indication.df %>%
+  dplyr::filter(resource != 'medi_lps') %>%
+  dplyr::select(doid_code, drugbank_id) %>%
+  dplyr::distinct() %>%
+  nrow()
 ```
 
 
@@ -149,6 +151,9 @@ do.df <- 'http://git.dhimmel.com/disease-ontology/data/slim-terms.tsv' %>%
 indication.df <- indication.df %>%
   dplyr::left_join(drugbank.df) %>%
   dplyr::left_join(do.df)
+
+path <- file.path('data', 'indications.tsv')
+write.table(indication.df, path, sep='\t', row.names=FALSE, quote=FALSE)
 
 DT::datatable(indication.df %>% dplyr::filter(resource != 'medi_lps'))
 ```
