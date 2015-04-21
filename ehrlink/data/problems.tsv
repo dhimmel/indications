@@ -1,0 +1,1597 @@
+problem_definition_id	problem	indications
+63467	Hypertension	242
+63468	Essential Hypertension	204
+63470	Benign Essential Hypertension	190
+69380	Diabetes Mellitus	151
+69402	Diabetes Mellitus Poorly Controlled	146
+69381	Type II Diabetes Mellitus	112
+76351	Depression	105
+62598	Allergic Rhinitis	103
+74988	Seizure Disorder	98
+62975	Coronary Artery Disease	88
+70455	Rheumatoid Arthritis	86
+77891	Acute Upper Respiratory Infection	77
+76388	Bipolar Disorder NOS	77
+60869	Cough	76
+64181	Asthma	74
+75002	Partial Complex Psychomotor Seizure With Intractable Seizure	72
+75125	Multiple Sclerosis	70
+67970	Hyperlipidemia	69
+76357	Major Depression, Recurrent	67
+75080	Parkinson's Disease	64
+70475	Scleroderma	63
+63217	Congestive Heart Failure	61
+64688	Esophageal Reflux	61
+91089	Lower Back Pain	60
+76272	Schizoaffective Disorder	57
+60899	Abdominal Pain	54
+76835	HIV Infection	54
+61118	Anxiety (Symptom)	53
+62588	Chronic Ethmoidal Sinusitis	52
+69258	Hypothyroidism	52
+278350	Eczema	51
+64118	Acute Bronchitis	51
+74533	Migraine Headache	51
+62916	Atrial Fibrillation	50
+76536	Generalized Anxiety Disorder	50
+275486	ADHD, Combined Type	50
+62578	Acute Sinusitis	50
+65762	Urinary Tract Infection	48
+61108	Insomnia	46
+166777	Constipation	46
+76306	Episodic Mood Disorders	45
+64205	Chronic Obstructive Pulmonary Disease	45
+251528	Acute Otitis Media	44
+297231	Epilepsy	44
+76307	Bipolar Disorder	44
+288921	Chronic Pain	43
+69382	Type II Diabetes Mellitus - Uncomplicated, Uncontrolled	43
+69606	Acne	42
+252566	Partial Complex Seizure	42
+60828	Headache	41
+76587	Anxiety Disorder NOS	41
+75818	Attention-deficit Hyperactivity Disorder	40
+70112	Atopic Dermatitis	40
+69214	Hypopituitarism	39
+69387	Type I Diabetes Mellitus	38
+291485	Dyslipidemia	38
+70472	Systemic Lupus Erythematosus	38
+69549	Polycystic Ovarian Syndrome	37
+278812	Prostate Cancer	37
+257912	Disorder Of Mitochondrial Metabolism	37
+62586	Chronic Maxillary Sinusitis	36
+251600	Dementia	35
+74537	Common Migraine (Without Aura)	34
+76361	Moderate Recurrent Major Depression	34
+187792	Gynecologic Services Contraceptive Management	33
+288977	Fibromyalgia	33
+251467	Limb Pain	33
+76232	Paranoid Schizophrenia	32
+70146	Osteoarthritis	32
+77962	Anemia	32
+75001	Partial Complex Psychomotor Seizure	31
+250989	Oral Contraceptives	31
+73666	Backache	31
+62577	Sinusitis	31
+76842	Acquired Immunodeficiency Syndrome (AIDS)	31
+75819	ADHD, Predominantly Inattentive Type	30
+70706	Ankylosing Spondylitis	30
+93705	Dermatitis	30
+252570	Partial Complex Seizure With Secondary Generalization With Intractable Seizure	30
+69401	Diabetes Mellitus Under Control	29
+62760	Acute Pharyngitis	28
+77890	Upper Respiratory Infection	28
+275604	Depression With Anxiety	28
+69388	Type I Diabetes Mellitus Uncontrolled	27
+283292	Essential Hypercholesterolemia	27
+275592	Post-traumatic Stress Disorder	27
+64180	Reactive Airway Disease	26
+85623	Joint Pain, Localized In The Knee	26
+69388	Type I Diabetes Mellitus - Uncontrolled	26
+88375	Skin: A Rash	25
+69710	Contact Dermatitis	25
+62587	Chronic Frontal Sinusitis	25
+257996	Arthritis	25
+76348	Bipolar II Disorder	25
+195794	Symptomatic Menopause	24
+70719	Psoriatic Arthropathy	24
+80847	Renal Cell Carcinoma	23
+278685	Arthralgias In Multiple Sites	23
+76537	Panic Disorder Without Agoraphobia	23
+69341	Osteoporosis	23
+76363	Major Depression, Recurrent With Psychotic Features	23
+64680	Chronic Reflux Esophagitis	22
+63484	Pulmonary Hypertension	22
+75812	Myalgia And Myositis	22
+85614	Joint Pain, Localized In The Hip	22
+74534	Classic Migraine (With Aura)	22
+69999	Cellulitis	21
+60895	Vomiting (Symptom)	21
+252552	Generalized Convulsive Tonic-clonic Seizure With Intractable Seizure	21
+62585	Chronic Sinusitis	20
+31947	Lumbago	20
+75054	Restless Legs Syndrome	20
+76680	Adjustment Disorder With Anxiety	20
+283291	Hypercholesterolemia	20
+76546	Obsessive Compulsive Disorder	20
+66133	Dysmenorrhea	19
+166748	Asthma With Acute Exacerbation	19
+75020	Alzheimer's Disease	19
+69266	Congenital Hypothyroidism	19
+67695	Cystic Fibrosis	19
+252546	Generalized Convulsive Seizure	19
+75032	Vascular Dementia	19
+64980	Crohn's Disease	19
+62580	Acute Maxillary Sinusitis	19
+70704	Symmetric Polyarticular Inflammation	18
+70124	Tinea Corporis	18
+70027	Folliculitis	18
+61048	Memory Lapses Or Loss	18
+75717	Cervicalgia	18
+288933	Peripheral Neuropathy	18
+87702	Nausea With Vomiting	18
+74990	Convulsive Grand Mal Seizure With Intractable Seizure	18
+252569	Partial Complex Seizure With Secondary Generalization	17
+63471	Accelerated Essential Hypertension	17
+75929	Mood Disorder Due To General Medical Condition	17
+76352	Major Depression, Single Episode	17
+75811	Muscle Spasm	17
+74538	Common Migraine (Without Aura) With Intractable Migraine	17
+63173	Cardiomyopathy	17
+85701	Joint Pain, Localized In The Shoulder	17
+274672	Chronic Kidney Disease, Stage 4	17
+60894	Nausea (Symptom)	17
+70598	Polymyositis / Dermatomyositis:	17
+173442	Lumbar Radiculopathy	16
+76238	Paranoid Schizophrenia, Stable	16
+65055	Chronic Constipation	16
+60928	Pain During Urination (Dysuria)	16
+65076	Irritable Bowel Syndrome	16
+70384	Gout	16
+32925	Chronic Respiratory Failure	16
+69588	Hypogonadism	16
+62611	Chronic Rhinitis	16
+289131	Benign Prostatic Hypertrophy	16
+274606	Chronic Kidney Disease, Stage 3	15
+250579	Blood Pressure Isolated Elevated	15
+68058	Vitamin D Deficiency	15
+278808	Breast Cancer	15
+66070	Menorrhagia	15
+196089	Adjustment Disorder With Anxiety And Depressed Mood	15
+251575	Streptococcal Sore Throat	15
+70478	Sjogren's Syndrome	15
+70722	Spondylitis	15
+69340	Osteopenia	15
+76213	Schizophrenia	15
+85691	Neck Pain	15
+69424	Diabetic Peripheral Neuropathy	14
+257908	Essential Hypertriglyceridemia	14
+76976	Helicobacter Pylori (H. Pylori) Infection	14
+80830	Malignant Neoplasm Of The Prostate Gland	14
+34588	Proteinuria	14
+64223	Bronchiectasis	14
+252550	Generalized Convulsive Tonic Seizure With Intractable Seizure	14
+75728	Sciatica	14
+76794	Herpes Zoster (Shingles)	14
+275526	Severe Recurrent Major Depression Without Psychotic Features	14
+274516	Acute Pharyngitis Streptococcus	14
+260898	Kidney Cancer	14
+61029	Itching (Pruritus)	13
+76212	Psychosis	13
+297031	Intermittent Asthma	13
+76538	Panic Disorder With Agoraphobia	13
+65674	Nephrotic Syndrome	13
+173419	Cervical Radiculopathy	13
+87736	Abdominal Pain In The Central Upper Belly (Epigastric)	13
+67969	Familial Combined Hyperlipidemia	13
+75124	Demyelinating Disorders	13
+80831	Adenocarcinoma Of The Prostate Gland	13
+60863	Difficulty Breathing (Dyspnea)	13
+60874	Wheezing	13
+61040	Convulsions	13
+77211	Vaginal Candidiasis	13
+74530	Tension-type Headache	13
+63148	2-vessel Coronary Artery Stenosis	13
+250918	Chronic Systolic Congestive Heart Failure	13
+258835	Bronchitis	13
+74529	Headache Syndromes	13
+69260	Hypothyroidism Postablative	13
+76651	Male Erectile Disorder	13
+69382	Type II Diabetes Mellitus Uncomplicated, Uncontrolled	13
+70219	Osteoarthritis Of The Knee	12
+68098	Lipoid Metabolism Disorder	12
+66213	Vaginitis	12
+78035	Sickle Cell Hb-SS Disease	12
+63758	Raynaud's Disease	12
+275496	Autistic Disorder	12
+60902	Diarrhea (Symptom)	12
+73464	Lower Back Sprain	12
+85638	Ankle Joint Pain	12
+87743	Diffuse Abdominal Pain	12
+64579	Gastroenteritis	12
+252575	Dementia With Lewy Bodies	12
+64764	Gastritis Due To H. Pylori	12
+66073	Menopause	12
+69231	Hyperthyroidism	12
+70640	Wegener's Granulomatosis	11
+69464	Congenital Adrenal Hyperplasia	11
+288790	Bacterial Vaginosis	11
+74989	Generalized Convulsive Grand Mal Seizure	11
+65041	Ulcerative Colitis	11
+274406	Pregnancy Test Positive	11
+115846	Back Muscle Spasm	11
+90952	Joint Pain, Localized In The Left Shoulder	11
+258942	Type II Diabetes Mellitus - Uncomplicated, Controlled	11
+64212	Emphysema	11
+291687	Attention Deficit Disorder Without Hyperactivity	11
+66076	Menopausal Disorder	11
+296638	Urinary Incontinence	11
+30261	Bipolar I Disorder, Most Recent Episode, Depressed - Severe With Psychotic Features	11
+60891	Heartburn	11
+258010	Allergic Reaction	11
+62978	Coronary Arteriosclerosis	11
+282680	Edema	11
+69607	Acne Vulgaris	11
+75486	Trigeminal Neuralgia	11
+68089	Hypokalemia	11
+247012	Shortness Of Breath	11
+70387	Chronic Gout	11
+76343	Bipolar I Disorder, Most Recent Episode, Depressed Moderate	11
+80664	Leiomyoma Of The Uterus	11
+70477	Scleroderma With Pulmonary Involvement	11
+70386	Acute Gout	11
+76610	Chronic Pain Syndrome	10
+70116	Tinea Capitis	10
+65769	Neurogenic Bladder	10
+252573	Frontotemporal Dementia	10
+76276	Schizoaffective Disorder - Chronic (With Residual Symptoms)	10
+85644	Foot Pain (Soft Tissue)	10
+70620	Sarcoidosis	10
+76442	Failure To Thrive In Childhood	10
+85658	Diffuse Joint Pains (Arthralgias)	10
+62599	Allergic Rhinitis Due To Pollen	10
+70500	Polymyalgia Rheumatica	10
+257802	Venous Thrombosis Of The Deep Vessels Of The Lower Extremity	10
+65777	Urge Incontinence Of Urine	10
+77968	Iron Deficiency	10
+64748	Gastroparesis	10
+62322	Otitis Externa	10
+61417	Conjunctivitis	10
+69259	Primary Hypothyroidism	10
+77704	Scabies	10
+75601	Polyneuropathy	10
+70193	Localized Osteoarthritis Of The Knee	10
+69283	Hashimoto's Thyroiditis	10
+76329	Bipolar I Disorder, Most Recent Episode, Mixed In Partial Remission	10
+93702	Allergies	10
+277913	Chronic Interstitial Lung Disease	10
+70126	Tinea Versicolor	10
+283296	Abnormal Weight Gain	10
+168513	Hypogonadotrophic Hypogonadism	10
+172080	Neck Strain	10
+252551	Generalized Convulsive Tonic-clonic Seizure	10
+64190	Exercise-induced Asthma	10
+75104	Familial (Benign Essential) Tremor	10
+65753	Acute Cystitis	10
+64206	Chronic Bronchitis	10
+173466	Obstructive Sleep Apnea	10
+69660	Chronic Cutaneous Ulcer	10
+76781	Herpes Simplex	9
+66250	Candida Albicans Vulvovaginitis	9
+66214	Candida Albicans Vaginitis	9
+79148	Malignant Pancreatic Neoplasm	9
+77205	Candidiasis	9
+65128	Hemorrhoids	9
+69261	Postsurgical Primary Hypothyroidism	9
+76234	Paranoid Schizophrenia, Chronic	9
+67974	Frederickson Type IIB Hyperlipidemia	9
+61418	Acute Conjunctivitis	9
+75354	Cerebral Artery Thrombosis - With Cerebral Infarction	9
+172086	Lumbar Strain	9
+173522	Candidal Intertrigo	9
+282704	Acute Gastritis	9
+181372	Renal Carcinoma	9
+69234	Graves' Disease	9
+63224	Congestive Heart Failure With Systolic And Diastolic Dysfunction	9
+63174	Dilated Cardiomyopathy	9
+250996	Contraceptives	9
+282270	Palpitations	9
+278753	Anemia Of Chronic Kidney Disease	9
+62343	Otitis Media	9
+62597	Rhinitis	9
+62344	Acute Suppurative Otitis Media	9
+70600	Typical Dermatomyositis (Type II)	9
+75579	Spondylosis Without Myelopathy	9
+64294	Pulmonary Fibrosis	9
+76090	Nicotine Dependence	9
+70130	Diaper Rash	9
+64183	Mild Persistent Asthma	9
+64184	Moderate Persistent Asthma	9
+91079	Midback Pain	9
+289876	Alzheimer's Disease With Behavioral Disturbance	9
+66274	Female Infertility	9
+90945	Joint Pain, Localized In The Right Shoulder	9
+69968	Carbuncle	9
+292064	Dysphagia	9
+70060	Impetigo	8
+76364	Recurrent Major Depression In Partial Remission	8
+76366	Chronic Major Depression	8
+70221	Osteoarthritis Of Multiple Sites	8
+76782	Herpes Simplex Type I	8
+69753	Eczematoid Dermatitis	8
+60977	Menopause Has Occurred	8
+289879	Generalized Convulsive Myoclonic Seizure, Juvenile With Intractable Seizure	8
+77206	Oral Thrush	8
+289878	Generalized Convulsive Myoclonic Seizure, Juvenile	8
+278317	Dermatitis Due To Contact With Poison Ivy	8
+62614	Deviated Nasal Septum (Acquired)	8
+64119	Influenza	8
+65150	Anal Fissure	8
+66433	Pregnancy Complicated By Diabetes Mellitus	8
+87587	Coughing Up Sputum Yellow	8
+64277	Pulmonary Embolism	8
+64202	Bronchiolitis	8
+62582	Acute Ethmoidal Sinusitis	8
+63759	Raynaud's Phenomenon	8
+64763	Gastritis	8
+85949	Birth Control Method - Oral Contraceptives	8
+62591	Nasal Polyps	8
+258832	Cough Variant Asthma	8
+74027	Osteomyelitis	8
+74551	Non-migrainous Vascular Headache	7
+70479	Sicca Syndrome	7
+70080	Skin Abscess	7
+70115	Dermatophytosis	7
+76245	Undifferentiated Schizophrenia	7
+70119	Onychomycosis	7
+75834	Disruptive Behavior Disorder	7
+67687	Growth Hormone Deficiency (Pituitary Dwarfism)	7
+74535	Classic Migraine (With Aura) With Intractable Migraine	7
+67885	Bronchopulmonary Dysplasia Of Fetus Or Newborn	7
+70135	Seborrheic Dermatitis	7
+75733	Myasthenia Gravis	7
+70388	Chronic Tophaceous Gout	7
+76383	Dysthymic Disorder	7
+76325	Bipolar I Disorder, Most Recent Episode, Mixed Moderate	7
+75000	Partial Simple Seizure With Intractable Seizure	7
+70550	Relapsing Polychondritis	7
+70016	Cellulitis Of The Leg	7
+76661	Male Erectile Disorder Due To Physical Condition	7
+292025	Short Stature	7
+77650	Atypical Mycobacterial Infection	7
+274534	Acute Sore Throat	7
+274611	Nephritis Due To SLE	7
+78008	Sickle Cell Hb-SC Disease	7
+62403	Otitis Media Of The Left Ear	7
+79017	Hepatocellular Carcinoma Of The Liver	7
+155099	(Lower) Leg Localized Swelling	7
+116196	Abdomen Tenderness Direct Epigastric	7
+81584	Burns	7
+64126	Pneumonia	7
+61070	Tingling (Paresthesia)	7
+61103	Sleep Disturbances	7
+85752	Tobacco Use	7
+277914	Acute Bronchitis With Bronchospasm	7
+87011	Drip Or Drainage Down Throat From Above	7
+87028	Nasal Passage Blockage (Stuffiness)	7
+62329	Acute Otitis Externa	7
+77403	Latent Tuberculosis	7
+278781	Lung Cancer	7
+251261	Pelvic Pain	7
+62987	Angina Pectoris	7
+187795	Gynecologic Services Prescription Of Contraceptive Agents	7
+62590	Chronic Pansinusitis	7
+76702	Viral Infection	7
+258937	Renal Secondary Hyperparathyroidism	7
+63490	Congenital Heart Disease	7
+62917	Paroxysmal Atrial Fibrillation	7
+76783	Herpes Simplex Type II	7
+62984	Atypical Chest Pain	7
+250862	Chronic Combined Systolic And Diastolic Congestive Heart Failure	7
+296447	Preventive Medicine Counseling About Travel	7
+64182	Mild Intermittent Asthma	6
+75807	Phenylketonuria	6
+270715	ACP Staging Stage 2 Hypertension: Greater Than Or = 160/100	6
+74992	Generalized Convulsive Myoclonic Seizure With Intractable Seizure	6
+92456	Joint Pain, Localized In More Than One Joint	6
+62350	Acute Serous Otitis Media	6
+278552	Furunculosis	6
+62914	Atrial Flutter	6
+67803	Turner Syndrome	6
+70599	Typical Polymyositis (Type I)	6
+277876	Lobar Pneumonia	6
+252601	Vertigo	6
+67978	Familial Hypercholesterolemia	6
+163751	Cognitive Functions Current Level Impaired	6
+252681	Fatigue	6
+70638	Temporal Arteritis	6
+63232	Benign Hypertensive Heart Disease	6
+70703	Asymmetrical Polyarticular Inflammation	6
+275492	ADHD, Predominantly Hyperactive Impulsive	6
+64565	Upper Respiratory Tract Disorders	6
+73454	Lumbar Sprain	6
+63526	Hypoplastic Left Heart Syndrome	6
+69461	Prediabetes	6
+282327	Prehypertension	6
+252547	Generalized Convulsive Clonic Seizure	6
+289114	Laryngopharyngeal Reflux	6
+76339	Bipolar I Disorder, Most Recent Episode, Depressed	6
+65141	External Hemorrhoids	6
+289126	Eosinophilic Esophagitis	6
+60880	Appetite Lost (Anorexia)	6
+65286	Cirrhosis	6
+69941	Urticaria	6
+69942	Allergic Urticaria	6
+70122	Tinea Pedis	6
+60844	Tooth Pain	6
+76389	Atypical Depressive Disorder	6
+292509	Multisystem Atrophy	6
+66016	Oligomenorrhea	6
+66015	Ovarian Disorders	6
+65662	Nephrolithiasis	6
+77216	Genitourinary Candidiasis	6
+76327	Bipolar I Disorder, Most Recent Episode, Mixed Severe With Psychotic Features	6
+65655	Renal Tubular Acidosis	6
+76934	Chlamydial Infections	6
+64934	Small Bowel Bacterial Overgrowth	6
+66444	Pregnancy Complicated By Anemia	6
+65831	Prostatitis	6
+70461	Juvenile Rheumatoid Arthritis	6
+282676	Lymphadenopathy	6
+64678	Esophagitis	6
+65764	Urinary Tract Infection, Geriatric Presentation	6
+288824	Convulsive Disorder	6
+76250	Residual Schizophrenia	6
+70191	Localized Osteoarthritis Of The Hand	6
+69901	Psoriasis	6
+65752	Cystitis	6
+69913	Rosacea	6
+76325	Bipolar I Disorder, Most Recent Episode, Mixed - Moderate	6
+293498	Chronic Common Migraine (Without Aura)	5
+258942	Type II Diabetes Mellitus Uncomplicated, Controlled	5
+70029	Furuncle	5
+296649	Diffuse Connective Tissue Disorder	5
+257948	Vitamin B12 Deficiency	5
+62733	Acute Tonsillitis	5
+70094	Skin Abscess Of The Buttocks	5
+251627	Adjustment Disorder With Depressed Mood	5
+260319	Colon Cancer	5
+69395	Gestational Diabetes Mellitus	5
+69964	Xerosis Cutis	5
+62543	Earache	5
+274533	Sore Throat	5
+282272	Anterior Wall Chest Pain With Respiration	5
+275500	Cognitive Disorder	5
+69542	Central Diabetes Insipidus	5
+69546	Dysfunctional Uterine Bleeding	5
+277872	Asthmatic Bronchitis	5
+70166	Localized Primary Osteoarthritis Of The Knee	5
+288761	Vaginal Discharge	5
+62365	Acute Nonsuppurative Otitis Media	5
+70474	Mixed Connective Tissue Disease	5
+274717	Microalbuminuria	5
+74997	Partial Simple Seizure	5
+93473	Taking Female Hormones For Postmenopausal HRT	5
+75356	Cerebral Embolism - With Cerebral Infarction	5
+74585	Cerebrospinal Fluid Rhinorrhea	5
+76359	Major Depression, Recurrent With Melancholia	5
+168632	Tinea Cruris Of The Groin	5
+77894	Venereal Disease Due To Chlamydia Trachomatis	5
+94386	Exposed To HIV Infection	5
+63738	Peripheral Vascular Disease	5
+66394	Hyperemesis Gravidarum	5
+88042	Irregular Length Of Menstrual Periods	5
+87834	Red Blood In Bowel Movement (Hematochezia)	5
+66386	Pregnancy Complicated By Hypertension - Antepartum Condition Or Prior Complicated Delivery	5
+81335	Multiple Nonvenomous Insect Bites	5
+163354	Demonstrated Behavior Psychomotor Agitation	5
+85633	Pain In The Leg (Below The Knee)	5
+64825	Peptic Ulcer	5
+64762	Dyspepsia	5
+91056	Upper Back Pain (Between Shoulder Blades)	5
+77210	Cutaneous Candidiasis	5
+201177	Quadriplegic Cerebral Palsy With Spasticity	5
+65847	Urethritis	5
+69262	Post Radio-iodine Therapy Hypothyroidism	5
+250903	Varicose Veins With Pain	5
+65848	Chlamydia Trachomatis Urethritis	5
+76395	Primary Insomnia	5
+65675	Nephrotic Syndrome Due To Minimal Change Glomerulonephritis	5
+201186	Ischemic Stroke	5
+191631	Gastrostomy Care	5
+75930	Mood Disorder Of Unknown (Axis III) Etiology	5
+189833	Tracheostomy Care Requirement	5
+187793	Gynecologic Services Contraceptive General Counseling	5
+87741	Abdominal Pain Around The Belly Button (Periumbilical)	4
+283131	Benign Prostatic Hyperplasia Localized With Urinary Obstruction With Other Lower Urinary Tract Symptoms	4
+283255	Balanitis	4
+85707	Back Pain	4
+87543	Chronic Cough	4
+282672	Venous Insufficiency	4
+288609	Menometrorrhagia	4
+78127	Anaphylaxis	4
+85673	Joint Pain, Localized In The Wrist	4
+70121	Tinea Cruris	4
+76847	AIDS Polyneuropathy	4
+293641	Methicillin Resistant Staphylococcus Aureus Infection	4
+293541	New Daily Persistent Headache	4
+76409	Narcolepsy	4
+77275	Tuberculosis	4
+77872	Pelvic Inflammatory Disease	4
+77898	Chlamydial Disease	4
+288764	Vulvodynia	4
+78011	Sickle Cell Anemia	4
+80524	Adenocarcinoma Of The Breast	4
+81092	Non-Hodgkin's Lymphoma	4
+289113	Acute Rhinitis	4
+288944	Disturbance Of Gait	4
+85607	Fever (Symptom)	4
+87744	Abdominal Pain In Multiple Locations	4
+252543	Encephalopathy	4
+87902	Urinary Frequency More Than Twice At Night (Nocturia)	4
+278472	Pustular Folliculitis	4
+71075	Fracture Of Facial Bones	4
+73403	Neck Sprain	4
+73493	Ankle Sprain	4
+166843	Nephrolithiasis Of The Right Kidney	4
+173463	Insomnia Due To Stress	4
+179542	Malignant Breast Neoplasm	4
+274445	Chronic Otitis Externa	4
+181267	Carcinoma Of The Prostate Gland	4
+270712	ACP Staging Stage 1 Hypertension: 140-159 / 9099	4
+73551	Tendonitis	4
+73599	Trochanteric Bursitis	4
+265990	Earache (Symptom)	4
+259187	Internal Derangement Of Knee	4
+258928	Thyroid Cancer	4
+247286	Thyroid Function Tests Nonspecific Abnormal Findings	4
+252625	Diabetic Polyneuropathy	4
+252561	Motor Partial Seizure With Intractable Seizure	4
+274711	End Stage Renal Disease	4
+166743	Community-acquired Pneumonia	4
+275492	ADHD, Predominantly Hyperactive - Impulsive	4
+275538	Moderate Single Episode Major Depression	4
+278396	Hirsutism	4
+87904	Feelings Of Urinary Urgency	4
+278128	Chronic Lung Disease Of Newborn	4
+94408	Exposed To Venereal Disease	4
+275553	Bipolar I Disorder, Most Recent Episode	4
+70607	Polymyositis In Scleroderma	4
+75594	Spinal Stenosis	4
+70637	Vasculitides	4
+75358	Cerebral Vasculitis	4
+75587	Lumbar Canal Stenosis	4
+165548	Tremor	4
+70642	Microscopic Polyarteritis Nodosa	4
+70648	Behcet's Syndrome	4
+75487	Atypical Face Pain	4
+166478	Acute Bacterial Conjunctivitis	4
+166549	Acute Streptococcal Tonsillitis	4
+28146	Chronic Renal Failure	4
+75674	Idiopathic Peripheral Neuropathy	4
+62902	Supraventricular Tachycardia	4
+63488	Secondary Pulmonary Hypertension	4
+69556	Precocious Puberty	4
+69465	21-hydroxylase Deficiency (Salt Losing)	4
+69847	Papular Urticaria	4
+65856	Urethral Stricture	4
+64186	Extrinsic Asthma	4
+65855	Female Stress Incontinence	4
+64621	Infectious Gastroenteritis	4
+62719	Acute Tracheitis	4
+65065	Diverticulitis Of Colon	4
+64610	Viral Gastroenteritis	4
+66254	Trichomonas Vulvovaginitis	4
+62745	Tonsillar Hypertrophy	4
+66249	Vulvovaginitis	4
+62352	Acute Serous Otitis Media Of The Right Ear	4
+69194	Endocrine Disorder	4
+66218	Postmenopausal Atrophic Vaginitis	4
+62985	Chest Pain	4
+64207	Chronic Bronchitis With Acute Exacerbation	4
+62947	Ventricular Tachycardia	4
+64210	Diffuse Obstructive Chronic Bronchitis	4
+69731	Chronic Lupus Erythematosus	4
+65689	Nephrosclerosis With Benign Hypertension	4
+62345	Acute Suppurative Otitis Media With Spontaneous Rupture Of The Ear Drum	4
+65784	Hyperactivity Of The Bladder	4
+61433	Chronic Allergic Conjunctivitis	4
+69263	Secondary Hypothyroidism	4
+66182	Cervicitis Chlamydia Trachomatis	4
+62066	Glaucoma	4
+66143	Metrorrhagia	4
+69447	Diabetic Foot Ulcer	4
+69342	Postmenopausal Osteoporosis	4
+65952	Organic Impotence	4
+62615	Hypertrophied Nasal Turbinate	4
+69386	Type II Diabetes Mellitus With Complication - Uncontrolled	4
+64826	Gastric Ulcer	4
+65712	Diabetic Nephropathy Type II - Uncontrolled	4
+67760	Connective Tissue Defect	4
+62589	Chronic Sphenoidal Sinusitis	4
+35314	Personality Change Due To Axis III Etiology	4
+62596	Common Cold	4
+62404	Otitis Media In Both Ears	4
+62606	Allergic Rhinitis Due To Dust Mite	4
+62761	Group A Streptococcus: B Hemolytic Pharyngitis	4
+65755	Chronic Cystitis	4
+66139	Amenorrhea	4
+60886	Difficulty Swallowing (Dysphagia)	4
+69353	Secondary Hyperparathyroidism	4
+62616	Epistaxis	4
+64787	Chronic Antral H. Pylori Associated Gastritis	3
+69343	Osteoporosis Senile	3
+252552	Generalized Convulsive Tonicclonic Seizure With Intractable Seizure	3
+274471	Acute Otitis Externa Of The Right Ear	3
+64041	Thromboembolic Disease	3
+62557	Eustachian Tube Block	3
+74960	Tuberous Sclerosis (Bourneville's Disease)	3
+62561	Eustachian Tube Dysfunction	3
+252553	Generalized Nonconvulsive Seizure	3
+62635	Salivary Secretion Disturbance: Xerostomia	3
+64632	Giardiasis	3
+62759	Pharyngitis	3
+257887	Benign Prostatic Hyperplasia With Urinary Obstruction	3
+260217	Esophageal Cancer	3
+85660	Joint Pain Fingers	3
+259138	Rib Fracture	3
+69346	Drug-induced Osteoporosis	3
+252568	Partial Complex Psychosensory Seizure With Intractable Seizure	3
+257944	Vitamin Deficiency	3
+74315	Carpal Tunnel Syndrome	3
+64708	Barrett's Esophagus	3
+62743	Chronic Tonsillitis	3
+257896	Homocysteinemia	3
+76281	Chronic Schizophrenia	3
+69269	Iatrogenic Hypothyroidism	3
+166827	Hydronephrosis On The Right	3
+173418	Radiculopathy	3
+172081	Shoulder Strain	3
+168811	Traumatic Arthritis Of The Ankle	3
+67988	Familial Hypertriglyceridemia	3
+168206	Subclinical Hypothyroidism	3
+167265	Dysmetabolic Syndrome X	3
+75933	Anxiety Disorder Due To General Medical Condition With Panic Attacks	3
+166834	Renal Transplant Recipient Of The Right Kidney	3
+166828	Hydronephrosis On The Left	3
+75932	Anxiety Disorder Due To General Medical Condition With Generalized Anxiety	3
+63598	Ventricular Septal Defect	3
+75765	Postherpetic Neuralgia	3
+166767	Infectious Diarrhea	3
+75931	Anxiety Disorder Due To General Medical Condition	3
+75820	ATTENTION-DEFICIT DISORDER WITH HYPERACTIVITY	3
+116888	Vaginal Mucosa Atrophy	3
+124553	Pustules	3
+75854	Oppositional Defiant Disorder Of Childhood	3
+155856	Ankle Swelling (On Exam)	3
+138023	Alopecia	3
+68084	Fluid Overload	3
+63516	Tricuspid Atresia	3
+87901	Urinary Frequency Increased	3
+247787	Endocrine Laboratory Tests Nonspecific Abnormal Findings	3
+252496	Female Pelvic Pain	3
+62891	Rhythm Disorder	3
+73578	Tendonitis Of The Achilles Tendon	3
+250864	Diastolic Congestive Heart Failure	3
+63175	Ischemic Cardiomyopathy	3
+250613	Fever (On Exam)	3
+247966	Serum Total Cholesterol Was Elevated	3
+68107	Hypocalcemia	3
+75127	Devic Disease	3
+76237	Paranoid Schizophrenia In Remission	3
+76091	Nicotine Dependence - Continuous	3
+64199	Chronic Obstructive Asthma	3
+63233	Benign Hypertensive Heart Disease With Congestive Heart Failure	3
+200624	Tuberculin PPD Induration Positive Interpretation	3
+196605	Rapid Bacterial Antigen Ident Kit Streptococcus Group B	3
+64170	Bronchopneumonia	3
+63285	Mitral Regurgitation	3
+63469	Systolic Hypertension	3
+63485	Primary Pulmonary Hypertension	3
+68087	Hyperkalemia	3
+274511	Travel Sickness	3
+155100	(Lower) Leg Localized Swelling Bilateral	3
+73564	Lateral Epicondylitis	3
+70148	Localized Primary Osteoarthritis	3
+288804	Encephalitis	3
+70196	Generalized Osteoarthritis	3
+288796	Premenstrual Syndromes	3
+61038	Dizziness	3
+69834	Ingrowing Nail With Infection	3
+69824	Morphea (Localized Scleroderma)	3
+77896	Lower Genitourinary Venereal Disease Due To Chlamydia Trachomatis	3
+77970	Iron Deficiency Anemia Secondary To Inadequate Dietary Iron Intake	3
+287562	Acute Conjunctivitis Of Both Eyes	3
+283277	Abnormal Weight Loss	3
+65778	Urge And Stress Incontinence	3
+283136	Bladder Cancer	3
+69785	Hidradenitis Suppurativa	3
+70460	Adult Still's Disease	3
+78050	Antiphospholipid Syndrome	3
+283130	Benign Localized Prostatic Hyperplasia Without Urinary Obstruction With Other Lower Urinary Tract Symptoms	3
+283037	Hematuria	3
+70476	CREST Syndrome	3
+61421	Acute Vernal Conjunctivitis	3
+69663	Decubitus Ulcer	3
+61463	Conjunctivitis In Both Eyes	3
+61011	Inadequacy Of Lubrication Of Vaginal Mucosa	3
+69885	Pityriasis Rosea	3
+278691	Lumbar Facet Syndrome	3
+60984	Sudden Redness Of The Skin (Flushing)	3
+298801	Dyshidrotic Eczema	3
+297216	Acute Nasopharyngitis	3
+296985	Acute Venous Thrombosis Of The Deep Vessels Of The Lower Extremity	3
+70050	Furuncle On The Buttock	3
+296627	Colitis	3
+77265	Phaehyphomycosis	3
+293598	Parkinsonism	3
+70081	Skin Abscess Of The Face	3
+65745	Vesicoureteral Reflux	3
+292640	Rhinosinusitis	3
+70000	Facial Cellulitis	3
+292512	Piriformis Syndrome	3
+291853	Adrenal Insufficiency	3
+291776	Vulvar Furuncle	3
+69948	Idiopathic Urticaria	3
+291647	Intervention And Counseling On Cessation Of Tobacco Use	3
+77808	Pediculosis Capitis	3
+60879	Decrease In Appetite	3
+76786	Herpes Simplex Acute Gingivostomatitis	3
+289130	Benign Prostatic Hypertrophy With Urinary Obstruction	3
+65756	Chronic Interstitial Cystitis	3
+70549	Costochondritis (Tietze's Syndrome)	3
+76669	Impulse Control Disorder	3
+274669	Chronic Renal Insufficiency	3
+278172	Infant Feeding Problems	3
+278139	Neonatal Candidiasis Of The Diaper Region	3
+62402	Otitis Media Of The Right Ear	3
+83137	Nonvenomous Insect Bite	3
+62355	Acute Mucoid Otitis Media	3
+277881	Childhood Asthma	3
+82470	Traumatic Amputation Of Finger(S)	3
+81224	Malignant Neoplasm Of The Head, Face, Or Neck	3
+275602	Organic Periodic Limb Movement Sleep Disorder	3
+275483	Dementia Of Alzheimer's Type	3
+62409	Cerumen Impaction	3
+81336	Infected Nonvenomous Insect Bite	3
+76408	Adult Sleep Apnea	3
+275545	Organic Hypersomnia	3
+76404	Sleep-wake Schedule Disorder, Frequently Changing	3
+275540	Severe Recurrent Major Depression With Psychotic Features	3
+69425	Diabetic Peripheral Neuropathy Type II	3
+69434	Diabetic Autonomic Neuropathy	3
+78371	Benign Nasal Cavity Neoplasm	3
+78152	Immunodeficiency Disorders	3
+65134	Internal Hemorrhoids	3
+78154	DiGeorge Syndrome	3
+278634	Skin Abscess Of The Right Buttock	3
+69527	Orthostatic Hypotension	3
+62353	Acute Serous Otitis Media Of The Left Ear	3
+278297	Glucose Intolerance	3
+93725	Allergy To Peanuts	2
+65685	Asymptomatic Hyperuricemia	2
+82407	Gunshot Wound Of The Face	2
+64786	Chronic Antral Gastritis	2
+93736	Allergy To Insect Bites / Stings	2
+94409	Exposed To Gonorrhea	2
+94415	Exposed To Tuberculosis	2
+85604	Generalized Pain	2
+64750	Gastrostomy Infection	2
+97011	A Fall	2
+65622	Pyelonephritis	2
+83212	Diffuse Idiopathic Skeletal Hyperostosis (DISH)	2
+83233	Shoulder Injury	2
+65676	Nephrotic Syndrome Due To Focal Segmental Sclerosing Glomerulonephritis	2
+64935	Malabsorption Syndrome	2
+77207	Esophageal Candidiasis	2
+83136	Bite From A Venomous Spider	2
+116197	Abdomen Tenderness Direct RUQ	2
+115862	Costovertebral Angle Tenderness	2
+85649	Joint Pain In The Toes	2
+97487	Planning To Become Pregnant	2
+87756	Abdominal Pain Feels Crampy / Colicky	2
+93460	Taking Blood Thinners For A Long Time	2
+86958	Discharge From The Ears	2
+81810	Full Thickness (Third Degree) Burns Of Multiple Sites Of Wrists And Hands	2
+78139	Anaphylaxis Due To Bee Venom	2
+65142	Thrombosed External Hemorrhoids	2
+64231	Tracheal Stenosis	2
+88022	Vaginal Itching	2
+88058	Severe Menstrual Pain (Dysmenorrhea)	2
+64211	Chronic Asthmatic Bronchitis	2
+65123	Rectal Hemorrhage	2
+65032	Neurogenic Bowel	2
+87739	Abdominal Pain In The Right Lower Belly (RLQ)	2
+87737	Abdominal Pain In The Right Upper Belly (RUQ)	2
+65103	Proctitis	2
+65144	External Hemorrhoids With Bleeding	2
+87088	Hiccups (Symptom)	2
+77969	Iron Deficiency Anemia Secondary To Chronic Blood Loss	2
+87060	Hoarseness	2
+65062	Colonic Diverticulosis	2
+81217	Multiple Myeloma	2
+91115	Lower Back Pain Chronic	2
+65354	Chronic Pancreatitis	2
+65360	Pancreatic Insufficiency	2
+77833	Trichomoniasis	2
+64501	Pleurisy	2
+65047	Crohn's (Granulomatous) Colitis	2
+64159	Atypical Mycobacterium Avium Intracellulare Pneumonia	2
+64155	Primary Atypical Mycoplasma Pneumoniae	2
+64978	Short Bowel Syndrome	2
+70018	Cellulitis Of The Foot	2
+155101	(Lower) Leg Localized Swelling Unilateral	2
+278662	Onychomycosis Of The Right 1st Toenail	2
+278562	Onychomycosis Of The Toenails	2
+62348	Acute Suppurative Otitis Media Of The Left Ear	2
+278285	Abnormal Glucose	2
+278177	Hyperprolactinemia	2
+62354	Acute Serous Otitis Media Of Both Ears	2
+277994	Emphysematous Chronic Bronchitis	2
+277885	Bronchospasm	2
+276379	Heartburn With Regurgitation	2
+275608	Idiopathic Organic Hypersomnia	2
+62388	Chronic Mucoid Otitis Media	2
+275590	Organic REM Sleep Behavior Disorder	2
+62391	Chronic Mucoid Otitis Media Of Both Ears	2
+275542	Persistent Insomnia	2
+275541	Adjustment Insomnia	2
+275520	Bipolar I Disorder, Most Recent Episode, Depressed Severe Without Psychotic Features	2
+275520	Bipolar I Disorder, Most Recent Episode, Depressed - Severe Without Psychotic Features	2
+274689	Chronic Kidney Disease With Benign Hypertension	2
+62503	Cholesteatoma In The Left Ear	2
+274671	Chronic Kidney Disease, Stage	2
+274640	Chronic Kidney Disease, Stage 5	2
+274639	Chronic Kidney Disease (NKF Classification)	2
+274605	Chronic Kidney Disease, Stage 2	2
+62550	Tympanic Membrane Perforation	2
+278606	Onychomycosis Of The Fingernails	2
+278688	Trapezoid Muscle Strain	2
+62551	Central Perforation Of The Tympanic Membrane	2
+279038	Inquiry And Counseling: Family Planning	2
+298920	Right Back Strain	2
+297053	Reactive Arthritis	2
+296854	Spondyloarthropathy	2
+31788	Multiple Gestation - Twins	2
+34444	Mucosal Cyst	2
+60832	Facial Pain	2
+60854	Palpitations (Symptom)	2
+291525	Impingement Of The Right Shoulder	2
+289885	Parkinsonism (Secondary)	2
+289133	Benign Prostatic Hypertrophy With Urinary Obstruction With Other Lower Urinary Tract Symptoms	2
+60918	Rectal Pain	2
+288895	Chronic Pain Due To Trauma	2
+288856	Spasms	2
+288823	Lennox-Gastaut Syndrome	2
+288778	Female Infertility Associated With Anovulation	2
+61065	Abnormality Of Walk	2
+61072	Numbness (Hypesthesia)	2
+285039	Taking Medication For A Long Time	2
+61321	Stye	2
+61323	Stye In The Left Eye	2
+283128	Benign Localized Prostatic Hyperplasia	2
+282695	Cyclic Vomiting Syndrome	2
+61423	Acute Atopic Conjunctivitis	2
+274456	Acute Otitis Externa Of The Left Ear	2
+265849	Need For Prophylactic Antibiotics	2
+157287	Feet Swelling	2
+250924	Varicose Veins With Swelling	2
+250856	Chronic Diastolic Congestive Heart Failure	2
+63218	Right Sided Congestive Heart Failure	2
+63219	Left Heart Failure	2
+202874	Inquiry And Counseling: Contraceptive Practices	2
+201752	Squamous Cell Carcinoma	2
+199805	Serology Prostate-specific Antigen (PSA) Elevated	2
+63271	Aortic Stenosis	2
+181397	Adenoid Squamous Cell Carcinoma Of The Kidney	2
+63496	Tetralogy Of Fallot	2
+63499	Atrial Septal Defect	2
+173525	Candidal Balanitis	2
+169023	Fracture Of The Nasal Bones	2
+168628	Tinea Facialis	2
+168612	Cellulitis Of The Right Leg	2
+168530	Chronic Nondecubitus Ulcer Of The Ankle	2
+167200	Premature Menopause	2
+63746	Venous Thrombosis	2
+63765	Carotid Artery Stenosis	2
+63912	Varicose Veins With Inflammation	2
+165611	Myoclonus	2
+165488	Hemispasticity Of Left Side - (Nondominant Side)	2
+165460	Quadriplegia	2
+163664	Mood Irritable	2
+250869	Acute Combined Systolic And Diastolic Congestive Heart Failure	2
+251181	Urinary Frequency	2
+62581	Acute Frontal Sinusitis	2
+62926	Premature Ventricular Contractions	2
+260344	Liver Cancer	2
+62592	Inverted Nasal Papilloma	2
+258965	Impaired Glucose Tolerance Test	2
+258964	Impaired Fasting Glucose	2
+258894	Acromegaly	2
+62610	Vasomotor Rhinitis	2
+258733	Bloating (Symptom)	2
+257959	Hypercalciuria	2
+62641	Parotitis	2
+62678	Aphthous Ulcer	2
+252576	Focal Torsion Dystonia	2
+62732	Tonsillitis	2
+252571	Partial Complex Seizure With Memory Disturbances	2
+62753	Adenoid Hypertrophy	2
+252551	Generalized Convulsive Tonicclonic Seizure	2
+62766	Acute Viral Pharyngitis	2
+62785	Laryngomalacia	2
+252549	Generalized Convulsive Tonic Seizure	2
+252548	Generalized Convulsive Clonic Seizure With Intractable Seizure	2
+251599	Encopresis With Constipation, Overflow Incontinence	2
+251529	Chronic Otitis Media	2
+62908	Automatic Atrial Tachycardia	2
+251468	Limb Swelling	2
+77174	Wound Infection	2
+298955	Multiple Muscle Strains	2
+65711	Diabetic Nephropathy Type II	2
+69456	Hypoglycemia	2
+70602	Childhood Dermatomyositis (Type IV)	2
+70604	Polymyositis In Other Collagen Vascular Disease	2
+75935	Anxiety Disorder Of Unknown (Axis III) Etiology	2
+69535	Metabolic Acidosis	2
+70664	Takayasu's Disease	2
+70681	Polyarthritis	2
+70702	Polyarthropathy Of Multiple Sites	2
+75920	Dementia Of Unknown (Axis III) Etiology	2
+75904	Atypical Pervasive Developmental Disorder	2
+69884	Pityriasis Alba	2
+70721	Sacroiliitis	2
+75897	Pervasive Developmental Disorders	2
+69445	Diabetic Gastropathy	2
+75881	Encopresis	2
+75880	Enuresis	2
+75868	Feeding Disorder Of Infancy / Early Childhood	2
+75835	Disruptive Behavior Disorder, Childhood Onset	2
+71094	Closed Fracture Of The Lower Jaw Multiple Sites	2
+69551	Ovarian Failure	2
+69557	Idiopathic Precocious Puberty	2
+76233	Paranoid Schizophrenia, Subchronic	2
+66257	Vulvar Atrophy	2
+69841	Nummular Eczematous Dermatitis	2
+70198	Generalized Osteoarthritis Of Multiple Sites	2
+70382	Arthropathy Of Multiple Sites	2
+66022	Ovarian Cyst	2
+76356	Major Depression, Single Episode In Remission	2
+66087	Endometriosis	2
+70406	Pseudogout	2
+76343	Bipolar I Disorder, Most Recent Episode, Depressed - Moderate	2
+69732	Discoid Lupus Erythematosus	2
+66141	Secondary Amenorrhea	2
+66176	Cervical Stenosis/Stricture	2
+66179	Cervicitis	2
+70480	Arthritis Of Inflammatory Bowel Disease	2
+70505	Plantar Fasciitis	2
+76290	Atypical Psychosis	2
+66216	Nonspecific Vaginitis	2
+66217	Trichomonas Vaginalis Vaginitis	2
+73421	Elbow Sprain	2
+73431	Wrist Sprain	2
+75813	Chronic Fatigue Syndrome	2
+68102	Overweight	2
+69362	Hypoparathyroidism	2
+75172	Stroke Syndrome	2
+75153	Transient Ischemic Attack	2
+75121	Torticollis	2
+69339	Osteomalacia	2
+75108	Spasmodic Torticollis	2
+75082	Parkinson's Disease With Dementia	2
+69200	Pituitary Prolactinoma	2
+69201	Prolactinoma Microadenoma	2
+74549	Menstrual Migraine Headache	2
+74552	Cluster Headache	2
+75026	Alzheimer's Disease Late Onset	2
+75021	Alzheimer's Disease Early Onset	2
+69296	Nontoxic Multinodular Goiter	2
+75019	Cerebral Degenerations, Extrapyramidal Disorders And Movement Disorders	2
+74640	Meningeal Sarcoidosis	2
+74963	Hereditary Hemorrhagic Telangiectasia (Osler-RenduWeber)	2
+74290	Palindromic Rheumatism	2
+69366	Pseudo Hypoparathyroidism	2
+69426	Diabetic Peripheral Neuropathy Type II Uncontrolled	2
+73993	Acquired Deformity Of Nose	2
+73458	Chronic Strained Lumbosacral Ligament	2
+75764	Neuralgia	2
+67888	Convulsions In Newborn	2
+73488	Acute Medial Meniscus Tear	2
+73549	Unspecified Muscle Strain	2
+69386	Type II Diabetes Mellitus With Complication Uncontrolled	2
+73556	Rotator Cuff Tendonitis	2
+28293	Rhinitis Medicamentosa	2
+75617	Chronic Inflammatory Demyelinating Polyneuropathy	2
+75613	Postherpetic Polyneuropathy	2
+75590	Postlaminectomy Syndrome (Lumbar)	2
+75588	Cervical Spine Stenosis	2
+73608	Subacromial Bursitis	2
+73671	Lumbar Disc Degeneration	2
+75500	Bell's Palsy	2
+75490	Benign Paroxysmal Positional Vertigo	2
+75432	Cerebellar Ataxia	2
+76391	Premenstrual Disorder	2
+74994	Nonconvulsive (Petit Mal) Seizure With Intractable Seizure	2
+76541	Social Phobia	2
+70088	Skin Abscess Of The Groin	2
+65788	Detrusor Instability	2
+65825	Benign Prostatic Hyperplasia	2
+70006	Cellulitis Of The Arm	2
+65832	Acute Bacterial Prostatitis	2
+70035	Furuncle In The Axilla	2
+76548	Chronic Post-traumatic Stress Disorder	2
+69923	Seborrhea	2
+70136	Seborrheic Dermatitis Of The Scalp	2
+76414	REM Sleep Behavior Syndrome	2
+69920	Sebaceous Cyst	2
+76431	Borderline Personality Disorder	2
+65878	Acute Gonorrhea	2
+65853	Stress Incontinence	2
+70134	Seborrhea Capitis	2
+65763	Urinary Tract Infection, Pediatric Presentation	2
+70031	Furuncle On The Face	2
+70010	Cellulitis Of The Trunk	2
+76679	Adjustment Disorder	2
+76875	Condyloma Acuminatum	2
+70011	Cellulitis Of The Buttocks	2
+292716	Allergies To Multiple Foods	1
+62579	Acute Suppurative Sinusitis	1
+274441	Earache In The Right Ear	1
+274422	Acute Recurrent Otitis Media	1
+275258	Cervical Spasm	1
+292510	Myofascial Pain Syndrome	1
+62556	Eustachian Tube Disorder	1
+62497	Cholesteatoma Of Attic	1
+73626	Metatarsalgia	1
+62415	Foreign Body In The Left Ear	1
+270712	ACP Staging Stage 1 Hypertension: 140159 / 90-99	1
+270712	ACP Staging Stage 1 Hypertension: 140-159 / 90file:///I|/AMIAJNL/000852/Preedit/1/amiajnl-2012-000852-20120418010342/suppl_data/Online%20Only%20Data%20Supplement.txt[4/23/2012 8:40:20 PM] 99	1
+73631	De Quervain's Tenosynovitis	1
+264652	Neck Cervical Mass Left (___cm)	1
+69384	Type II Diabetes Mellitus With Peripheral Circulatory Disorder - Uncontrolled	1
+296351	Frailty	1
+264622	Neck Cervical Mass Anterior Submandibular (___cm)	1
+70061	Paronychia	1
+73695	Cervical Spondylosis	1
+62412	Cerumen Impaction In Both Ears	1
+296450	Need For Vaccination Human Papilloma Virus	1
+73696	Cervical Spondylosis With Myelopathy	1
+73698	Lumbar Spondylosis	1
+60846	TMJ Pain	1
+260134	Laryngeal Cancer	1
+259525	Anemia Secondary To Blood Loss	1
+62499	Cholesteatoma Of Middle Ear And Mastoid	1
+73607	Anserine Bursitis	1
+62502	Cholesteatoma In The Right Ear	1
+70005	Cellulitis Of The Forearm	1
+73474	Knee Sprain	1
+62510	Labyrinthitis	1
+62516	Motion Sickness	1
+293515	Chronic Common Migraine (Without Aura) With Intractable Migraine	1
+274604	Chronic Kidney Disease, Stage 1	1
+73466	Hip Sprain	1
+274575	Glomerulonephritis	1
+274682	Kidney Disease With Benign Hypertension	1
+62522	Hearing Loss	1
+70063	Paronychia Of The Toe(S)	1
+62529	Sensorineural Hearing Loss	1
+293618	HIV Infection CDC Classification A1	1
+292748	Carrier Of Infectious Disease Staphylococcus Aureus Methicillin Resistant	1
+73557	Adhesive Capsulitis Of Shoulder	1
+259485	Selective B12 Malabsorption	1
+274499	Seasickness	1
+274478	Tympanic Membrane Perforation Of The Left Ear	1
+274473	Chronic Otitis Media Of Both Ears	1
+69426	Diabetic Peripheral Neuropathy Type II - Uncontrolled	1
+73600	Olecranon Bursitis	1
+69986	Carbuncle In The Groin	1
+293634	AIDS CDC Classification	1
+274459	Acute Recurrent Otitis Media Of Both Ears	1
+34687	Open Wound Of The Auditory Canal	1
+73597	Bursitis	1
+60996	Excessive Facial Or Body Hair (Hirsutism)	1
+259470	Sickle Cell Thalassemia	1
+74547	Abdominal Migraine Headache	1
+296997	Peripheral Arterial Disease	1
+257849	Overflow Incontinence	1
+297004	Acute Venous Thrombosis Of The Deep Vessels Of The Distal Lower Extremity	1
+257833	Functional Constipation	1
+257804	Venous Thrombosis Of The Deep Vessels Of The Distal Lower Extremity	1
+74540	Basilar Migraine Headache	1
+252900	Bad Breath	1
+74545	Hemiplegic Migraine Headache	1
+30261	Bipolar I Disorder, Most Recent Episode, Depressed Severe With Psychotic Features	1
+62700	Acute Laryngitis	1
+70034	Furuncle On The Neck	1
+252623	Myelopathy	1
+62718	Tracheitis	1
+252581	Idiopathic Dystonia Musculorum Deformans	1
+30250	Bipolar I Disorder, Most Recent Episode, Mixed	1
+296950	Memory Lapses Or Loss Worsening	1
+69314	Papillary Carcinoma Of The Thyroid Gland	1
+298473	Acute Gouty Arthropathy	1
+298484	Chronic Gouty Arthropathy	1
+74632	Coccidioidal Meningitis	1
+298824	Birth Control Method - Contraceptive Vaginal Ring	1
+298909	Strained Pectoralis Major Muscle	1
+252567	Partial Complex Psychosensory Seizure	1
+74644	Brain Abscess	1
+74767	Brain Tumor	1
+252560	Motor Partial Seizure	1
+74884	Subependymal Giant Cell Astrocytoma	1
+74963	Hereditary Hemorrhagic Telangiectasia (Osler-Rendu-Weber)	1
+70017	Cellulitis Of The Ankle	1
+69294	Solitary Thyroid Nodule	1
+257888	Prostatic Hyperplasia	1
+296919	Failure To Thrive As Newborn	1
+259451	Primary Hypercoagulable State	1
+74106	Chronic Osteomyelitis	1
+73700	Lumbar Spondylosis With Myelopathy	1
+73790	Contracture	1
+62405	Adhesive Otitis	1
+259126	Hyperhidrosis	1
+258967	Hyperglycemia	1
+73799	Contracture Of Multiple Sites	1
+73919	Bunion	1
+62594	Nasal Cavity Polyps	1
+70045	Furuncle On The Back	1
+62601	Allergic Rhinitis Due To Grass Pollen	1
+74006	Avascular Necrosis	1
+74011	Aseptic Necrosis Of The Femoral Head	1
+258836	Restrictive Lung Disease	1
+296642	Functional Urinary Incontinence	1
+258831	Exercise-induced Bronchospasm	1
+257889	Prostatic Hyperplasia With Urinary Obstruction	1
+258750	Muscle Weakness	1
+74279	Hydrarthrosis Of The Knee / Patella / Tibia / Fibula	1
+30790	Diastolic Hypertension	1
+258023	Infected Superficial Thigh Injury	1
+258020	Infected Superficial Injury Of Fingers	1
+296780	Hyperphosphatemia	1
+62619	Nasal Vestibulitis	1
+74299	Palindromic Rheumatism Of Multiple Sites	1
+257950	Folic Acid Deficiency	1
+62633	Salivary Secretion Disturbance	1
+70037	Furuncle On The Upper Arm	1
+62634	Salivary Secretion Disturbance: Ptyalism	1
+74531	Episodic Tension-type Headache	1
+69348	Hyperparathyroidism	1
+292316	Gitelman's Syndrome	1
+72932	Nonunion Of Fracture	1
+73450	Sprained Ribs	1
+61124	Highly Irritable	1
+69805	Lichen Sclerosus Et Atrophicus	1
+288997	Oral Thrush Of Newborn	1
+69794	Keratosis Pilaris	1
+60957	Menses Abnormal	1
+283233	Abscess Of The Scrotum	1
+60953	Penile Discharge	1
+283133	Prostatic Hyperplasia With Urinary Obstruction With Other Lower Urinary Tract Symptoms	1
+69750	Dermatitis Due To Drugs And Medicines	1
+70463	Polyarticular Juvenile Rheumatoid Arthritis	1
+69736	Discoid Lupus Erythematosus With Systemic Involvement	1
+283124	Prostatic Hyperplasia Without Urinary Obstruction With Other Lower Urinary Tract Symptoms	1
+283068	Microscopic Hematuria	1
+70137	Infantile Seborrheic Dermatitis	1
+283048	Subacute Cystitis	1
+283036	Obstructive Uropathy	1
+282815	Abdominal Pain Of Childhood	1
+282806	Post-gastric Bypass For Obesity	1
+282714	Bloating	1
+69693	Chronic Nondecubitus Ulcer Of The Foot	1
+69605	Acanthosis Nigricans	1
+61428	Acute Viral Conjunctivitis	1
+69597	Micropenis	1
+282629	Diastolic Dysfunction	1
+61462	Conjunctivitis In The Left Eye	1
+60905	Flatus	1
+61770	Panuveitis	1
+282269	Tachycardia	1
+289132	Benign Prostatic Hypertrophy Without Urinary Obstruction With Other Lower Urinary Tract Symptoms	1
+69569	Male Infertility	1
+61234	Hallucinations (Imagined Perceptions Not Based In Reality)	1
+61076	Urinary Loss Of Control	1
+292142	Allergic Rhinitis Due To Mold	1
+283861	Rheumatoid Arthritis RF Negative	1
+288920	Acute Post-thoracotomy Pain	1
+288918	Acute Pain	1
+70160	Localized Primary Osteoarthritis Of The Hand	1
+288894	Pain Syndromes	1
+70141	Acrodermatitis Chronica Atrophicans	1
+288850	Cerebral Artery Occlusion With Cerebral Infarction	1
+288959	Pyrexia	1
+288830	Orofacial Dyskinesia	1
+70182	Localized Secondary Osteoarthritis Of The Hip	1
+70188	Localized Osteoarthritis Of The Shoulder	1
+288819	Fasciculations	1
+288815	Partial Simple Seizure Without Impairment Of Consciousness	1
+288961	Anosmia	1
+288965	Spastic Gait	1
+70217	Osteoarthritis Of The Hand	1
+70222	Osteoarthrosis	1
+61041	Fainting (Syncope)	1
+70293	Arthropathy	1
+60973	Vaginal Discharge (Symptom)	1
+288522	Periodontal Abscess	1
+69816	Miliaria	1
+287531	Lacrimal Stenosis Of The Right Eye	1
+287522	Dry Eye Syndrome Of Both Eyes	1
+287495	Acute Conjunctivitis Of The Left Eye	1
+288990	Perianal Abscess	1
+69806	Lichen Simplex Chronicus	1
+284497	Partial Thickness (2nd Degree) Burns Of The Right Chest Wall	1
+284282	Blister	1
+284040	Abrasion Of The Left Cornea	1
+70552	Disorders Of Connective Tissue	1
+62324	Infective Otitis Externa	1
+62327	Acute Swimmer's Ear	1
+62330	Acute Actinic Otitis Externa	1
+62371	Chronic Atticoantral Suppurative Otitis Media	1
+69950	Heat Urticaria	1
+277900	Influenza With Other URI Manifestations	1
+277898	Influenza A(H2N2)	1
+69459	Alimentary Hypoglycemia	1
+291786	Senile Dementia	1
+62372	Chronic Suppurative Otitis Media Of The Right Ear	1
+62384	Chronic Serous Otitis Media	1
+276403	Muscle Weakness Generalized	1
+276378	Vomiting During Pregnancy	1
+275615	Behavioral Insomnia Of Childhood	1
+69967	Bacterial Dermatological Conditions	1
+291855	Addisonian Crisis	1
+292021	Complaint Of Allergic Reaction Seasonal	1
+275605	Idiopathic Insomnia	1
+62387	Chronic Serous Otitis Media Of Both Ears	1
+69970	Carbuncle On The Face	1
+71076	Closed Fracture Of Facial Bones	1
+60853	Chest Pain Or Discomfort	1
+71097	Open Fracture Of Mandible / Lower Jaw	1
+71119	Fracture Of The Vertebral Column	1
+72681	Closed Bimalleolar Fracture	1
+275543	Psychophysiological Insomnia	1
+72931	Malunion Of Fracture	1
+61002	Changed Sexual Interest (Libido): Decreased	1
+73400	Sprain	1
+275539	Severe Single Episode Major Depression Without Psychotic Features	1
+73405	Shoulder Sprain	1
+292099	Medium-chain Acyl-CoA Dehydrogenase Deficiency	1
+69466	21-hydroxylase Deficiency (Non Salt Losing)	1
+277984	Allergic Bronchitis	1
+60862	Feeling Congested In The Chest	1
+278570	Furuncle On The Left Thigh	1
+70568	Fibrositis	1
+69897	Pruritus Ani	1
+289875	Presenile Dementia	1
+60896	Vomiting Blood (Hematemesis)	1
+278689	Cervical Facet Syndrome	1
+70569	Myopathies	1
+62336	Otitis Externa Of The Right Ear	1
+278664	Onychomycosis Of The Left 1st Toenail	1
+278663	Onychomycosis Of The Left Toenails	1
+60889	Pain On Swallowing	1
+278637	Skin Abscess Of The Right Leg	1
+289881	Petit Mal Seizure, Juvenile With Intractable Seizure	1
+278576	Bullous Impetigo	1
+70131	Intertrigo	1
+69493	Primary Adrenal Insufficiency ('Addison Disease')	1
+69547	Inadequate Luteal Phase	1
+278541	Furuncle On The Breast	1
+278526	Skin Abscess Of The Left Thigh	1
+278474	Furuncle In The Right Axilla	1
+69918	Keloid Scar	1
+69293	Nontoxic Nodular Goiter	1
+278464	Skin Abscess Of The Left Buttock	1
+69526	Hypotension	1
+69508	Aldosteronism	1
+69507	Secondary Adrenal Insufficiency	1
+70643	Allergic Granulomatous Angiitis (Churg-Strauss)	1
+278225	Diabetes With Neurological Complications Uncontrolled	1
+70645	Henoch-Schonlein Purpura	1
+62347	Acute Suppurative Otitis Media Of The Right Ear	1
+250884	Benign Hypertensive Heart Disease Without Congestive Heart Failure	1
+69270	Thyroiditis	1
+85696	Lump Or Swelling In The Neck	1
+65996	Acute Mastitis	1
+66071	Pubertal Menorrhagia	1
+66074	Postmenopausal Bleeding	1
+85668	Pain In The Hands	1
+76358	Major Depression, Recurrent Without Melancholia	1
+85686	Pain In The Arms	1
+64781	Chronic Atrophic Gastritis	1
+66075	Post-artificial Menopause State	1
+64099	Dependent Edema Due To Inactivity	1
+64749	Gastrostomy Complication	1
+64701	Esophageal Varices	1
+64643	Nonpathogenic Protozoal Intestinal Disease (Endolimax)	1
+66091	Endometriosis Of The Pelvic Peritoneum	1
+76344	Bipolar I Disorder, Most Recent Episode, Depressed - Severe	1
+76343	Bipolar I Disorder, Most Recent Episode, Depressed file:///I|/AMIAJNL/000852/Preedit/1/amiajnl-2012-000852-20120418010342/suppl_data/Online%20Only%20Data%20Supplement.txt[4/23/2012 8:40:20 PM] Moderate	1
+87251	Breast Pain	1
+64869	Duodenal Ulcer	1
+85634	Muscle Cramps In The Calf	1
+76365	Recurrent Major Depression In Full Remission	1
+85625	Joint Stiffness Of The Knee	1
+76392	Bipolar Disorder, Manic, With Psychotic Features	1
+82650	Motor Vehicle Collision With Another Motor Vehicle On A Road	1
+82948	Accident Caused By Explosion - Explosive Material	1
+65954	Phimosis	1
+65988	Breast Atrophy	1
+65993	Nonpuerperal Breast Abscess	1
+83245	Ankle Injury	1
+83430	Unspecified Debility	1
+83888	Tracheostomy	1
+83961	Aortic Valve Replacement	1
+76369	Postpartum Depression - Mild	1
+65035	Acute Colitis	1
+76368	Postpartum Depression	1
+85619	Pain In The Thigh	1
+65995	Mastitis	1
+87419	Chest Tightness Or Heavy Pressure	1
+64629	Clostridium Difficile Colitis	1
+66140	Primary Amenorrhea	1
+88052	Bleeding Between Periods	1
+89421	Itching Of The Ears	1
+76273	Bipolar Schizoaffective Disorder	1
+64185	Severe Persistent Asthma	1
+66258	Vulvar Abscess	1
+66262	Herpetic Ulceration Of Vulva	1
+92472	Muscle Aches, Generalized (Myalgias)	1
+93044	Difficulty Falling Asleep	1
+66368	Cesarean Delivery - Delivered	1
+76091	Nicotine Dependence Continuous	1
+93474	Taking Medication - Steroids	1
+64158	Atypical Mycobacterial Pneumonia	1
+66490	Pregnancy Complicated By Asymptomatic Bacteriuria	1
+75964	Alcoholism	1
+75960	Alcohol Abuse - In Remission	1
+64120	Influenza Type A	1
+76276	Schizoaffective Disorder Chronic (With Residual Symptoms)	1
+70019	Cellulitis Of The Toes	1
+64570	Food Poisoning	1
+64220	Bronchiolitis Obliterans	1
+76342	Bipolar I Disorder, Most Recent Episode, Depressed Mild	1
+87738	Abdominal Pain In The Left Upper Belly (LUQ)	1
+87740	Abdominal Pain In The Left Lower Belly (LLQ)	1
+64524	Empyema	1
+87742	Abdominal Pain Above The Pubic Area (Suprapubic)	1
+64295	Idiopathic Pulmonary Fibrosis	1
+87824	Bowel Movement Frequency Recent Change	1
+64288	Pneumonitis	1
+87900	Incomplete Emptying Of Bladder	1
+66204	Vaginal Adhesions (Postoperative)	1
+64286	Pulmonary Interstitial / Infiltrative Disorders	1
+66211	Vaginal Wall Prolapse	1
+87908	Urinary Stream Is Smaller	1
+87911	Frequent, Full-bladder Emptying (Polyuria)	1
+88021	Vaginal Itching Or Burning	1
+76397	Primary Hypersomnia	1
+82363	Open Wound Of The Left Leg	1
+82334	Open Wound Of The Leg	1
+65508	Post Abdominal Surgery	1
+77807	Pediculosis	1
+65751	Bladder Disorders	1
+77837	Urogenital Trichomoniasis	1
+76759	Hand Foot & Mouth Disease	1
+76754	Varicella	1
+65307	TPN-induced Cholestasis	1
+65302	Ascites	1
+65770	Acute Urinary Retention	1
+65299	Portal Hypertension	1
+77910	Thrombocytopenia	1
+77924	Idiopathic Thrombocytopenic Purpura	1
+77961	Protein S Deficiency	1
+65292	Primary Biliary Cirrhosis	1
+65290	Cirrhosis Due To Hepatitis C	1
+76686	Adjustment Disorder With Disturbance Of Emotions And Conduct	1
+77741	Enterobiasis (Pinworm)	1
+77692	Amebiasis	1
+77976	Pernicious Anemia	1
+65578	Primary IgA Nephritis	1
+77011	Mycoplasma Infection	1
+77089	Group A Streptococcal Infection	1
+77097	Syphilis	1
+77114	Latent Late Syphilis	1
+76881	Genital Warts	1
+77190	Fungal Infections	1
+76871	Common Warts	1
+76868	Viral Syndrome	1
+65669	Urinary Calculus	1
+65645	Renal Osteodystrophy	1
+65631	Hydronephrosis	1
+77233	Cryptococcal Pneumonia	1
+65712	Diabetic Nephropathy Type II Uncontrolled	1
+65623	Acute Bacterial Pyelonephritis	1
+76798	Herpes Zoster With Nervous System Complications	1
+76682	Adjustment Disorder With Anxious Mood	1
+77983	Anemia Of Chronic Disease	1
+82328	Open Wound Of The Hip/Thigh Region	1
+79752	Benign Skin Neoplasm	1
+76543	Claustrophobia	1
+65077	Functional Diarrhea	1
+80841	Malignant Neoplasm Of The Kidney	1
+81252	Abrasion Of The Face	1
+81260	Nonvenomous Insect Bite Of The Face	1
+81322	Abrasion Of The Foot	1
+65061	Diverticulosis	1
+65921	Epididymitis	1
+81508	Contusion Of The Knee With Intact Skin Surface	1
+81582	Muscle Hematoma	1
+76406	Sleep Apnea	1
+81684	Multiple Partial Thickness (Second Degree) Burns Of The Face, Head, And Neck	1
+76402	Circadian Rhythm Sleep Disorder Jet Lag Type	1
+81869	Partial Thickness (Second Degree) Burns Of Multiple Sites Of The Lower Limbs	1
+82311	Open Wound Of The Forearm With Tendon Involvement	1
+65130	Hemorrhoids With Bleeding	1
+65846	Urethra Disorders	1
+78000	Hereditary Hemolytic Spherocytosis	1
+79066	Malignant Neoplasm Of The Gallbladder	1
+65287	Alcoholic (Laennec's) Cirrhosis	1
+65159	Cholelithiasis	1
+78012	Sickle Cell Trait	1
+76681	Adjustment Disorder With Anxiety And Prolonged Depressed Mood	1
+76658	Sexual Dysfunction, NOS	1
+78129	Anaphylaxis Due To Peanuts	1
+78137	Anaphylaxis Due To Eggs	1
+78365	Nasal Cavity Neoplasm	1
+78367	Malignant Nasal Cavity Neoplasm	1
+78405	Malignant Neoplasm Of The Maxillary Sinus	1
+78430	Malignant Oropharyngeal Neoplasm	1
+78431	Malignant Neoplasm Of The Tonsil (Oropharyngeal)	1
+78620	Malignant Neoplasm Of The Oral Cavity	1
+78625	Vocal Cord Granuloma	1
+65137	Internal Hemorrhoids With Bleeding	1
+94389	Exposed To Herpes Simplex	1
+75957	Alcohol Abuse	1
+69237	Toxic Nodular Goiter	1
+191491	Total Splenectomy	1
+182924	Preventive Medicine New Patient Evaluation Adult 1839	1
+75374	Late CVD Effects: Hemiplegia	1
+63472	Malignant Essential Hypertension	1
+75371	Late CVD Effects: Aphasia	1
+187798	Gynecologic Service Prescrip Of Contracept Agent Repeat Rx	1
+187800	Gynecologic Services Intrauterine Device (IUD) Insertion	1
+63303	Mitral Valve Disorder	1
+63294	Prolapsing Mitral Valve Leaflet Syndrome	1
+96964	Dehiscence Of Surgical Wound	1
+192220	Renal Transplant	1
+75369	Late CVD Effects: Cognitive Deficits	1
+196042	Primary Nocturnal Enuresis	1
+75367	Pseudobulbar Palsy	1
+196093	Primary Enuresis	1
+68093	Hypophosphatemic Rickets	1
+199485	Tuberculin PPD Nonspec Reaction Without Active Tuberculosis	1
+182924	Preventive Medicine New Patient Evaluation Adult 18-39	1
+182913	Infection Of An Abdominal Incision	1
+75443	Arnold-Chiari Malformation	1
+68085	Hyponatremia	1
+63634	Total Anomalous Pulmonary Venous Return	1
+172631	Herniated Lumbar Disc	1
+172705	Lumbar Spondylosis (L3 L4)	1
+75582	Spinal Adhesive Arachnoiditis	1
+63629	Patent Ductus Arteriosus	1
+173425	Cervical Radiculopathy At C6 Nerve Root	1
+173426	Cervical Radiculopathy At C7 Nerve Root	1
+63628	Patent Foramen Ovale	1
+173447	Lumbar Radiculopathy At L5	1
+173457	Dementia Of Known (Axis III) Etiology With Behavioral Disturbance	1
+173460	Secondary Insomnia	1
+63530	Complete Atrioventricular Canal	1
+75493	Vertigo Of Central Origin	1
+173719	Anemia Of End-stage Renal Disease	1
+75488	Glossopharyngeal Neuralgia	1
+68106	Morbid Obesity	1
+75353	Cerebral Artery Thrombosis	1
+201182	Ischemic Embolic Stroke	1
+62983	Arteriosclerotic Cardiovascular Disease (ASCVD)	1
+75052	Tardive Dyskinesia	1
+251190	Groin (Inguinal) Pain Right Side	1
+251191	Groin (Inguinal) Pain Left Side	1
+69202	Prolactinoma Macroadenoma	1
+62913	Paroxysmal Tachycardia	1
+69215	Iatrogenic Hypopituitarism	1
+62904	Paroxysmal Supraventricular Tachycardia	1
+75011	Infantile Spasms	1
+69230	Thyroid Disorder	1
+252344	Sexually Active High-risk	1
+252495	Dyspareunia	1
+69236	Graves' Ophthalmopathy	1
+62817	Dentoalveolar Abscess	1
+62807	Acute Periodontitis	1
+62803	Acute Gingivitis	1
+251015	Vaccines Prophylactic Need Against Td	1
+250919	Chronic Venous Hypertension With Ulcer And Inflammation	1
+63222	Left Heart Failure Class III	1
+63012	Chronic Diffuse Ischemic Heart Disease	1
+75187	Stroke Of The Left Posterior Cerebral Artery	1
+202873	Anticipatory Guidance: Osteoporosis	1
+75178	Stroke Of The Left Middle Cerebral Artery	1
+202911	Aftercare Following Surgery	1
+203242	Patient Education - Preparation For Childbirth	1
+203255	Patient Education - HIV	1
+246990	Dyschromia	1
+63222	Left Heart Failure - Class III	1
+68109	Hypomagnesemia	1
+75119	Blepharospasm	1
+75116	'Stiff Man' Syndrome	1
+75106	Drug-induced Essential Tremor	1
+75090	Cerebral Palsy	1
+250874	Systolic Congestive Heart Failure	1
+77009	Molluscum Contagiosum	1
+172085	Thoracic Strain	1
+172083	Left Shoulder Strain	1
+68082	Hypoxia	1
+75907	Mental Retardation With Other Behavioral Symptoms	1
+116877	Female Genitalia Labial Adhesions	1
+116896	Vaginal Discharge (On Exam)	1
+117347	Hyperhidrosis (On Exam)	1
+75900	Childhood Onset Pervasive Developmental Autistic Disorder	1
+142384	Swelling Of Hands	1
+153808	Knee Swelling	1
+154781	Knee Pain Elicited By Motion	1
+75873	Tourette's Syndrome	1
+155126	Leg Localized Swelling Left	1
+63919	Lymphedema	1
+163451	Speech Phonation Dysphonia	1
+163528	Speech Language Dysphasia / Aphasia	1
+66567	Abortion	1
+163669	Drowsy	1
+63914	Varicose Veins With Ulcer And Inflammation	1
+116203	Abdomen Tenderness Direct Diffuse	1
+64046	Thrombophlebitis Of Superficial Veins Of Upper Extremities	1
+165406	Paraparesis (Lower Extremities)	1
+115885	Abdominal Distention	1
+66495	Pregnancy Complicated By Genitourinary Tract Infection	1
+66540	Pregnancy Complicated By Herpes Simplex	1
+97576	Failure To Gain Weight	1
+98416	Birth Control Method	1
+98801	Weight - Too Thin	1
+98804	Weight Loss (On Exam)	1
+98853	Short Stature (On Exam)	1
+106693	Nasal Discharge Rhinorrhea	1
+106838	Odor Of Breath Fetor Oris	1
+109994	Larynx Edema	1
+110813	Lymph Nodes Enlarged	1
+111520	Stridor	1
+111582	Auscultation Wheezing	1
+113252	Edema (On Exam)	1
+64067	Thrombophlebitis Of Deep Vessels Of The Lower Extremity	1
+163837	Hallucination Visual	1
+66698	Missed Abortion	1
+63645	Complete D-transposition Of The Great Vessels	1
+63726	Atherosclerosis Of The Extremities With Intermittent Claudication	1
+167038	Transitional Cell Carcinoma Of The Bladder	1
+167165	Epididymitis Of The Left Testicle	1
+167197	Lump Or Mass In Breast	1
+75701	Meralgia Paresthetica	1
+167207	Primary Female Infertility	1
+75688	Motor Neuron Disease	1
+63723	Atherosclerosis	1
+168577	Ingrowing Toenail	1
+168613	Cellulitis Of The Left Leg	1
+168623	Cellulitis Of The Left First Toe	1
+67945	Von Gierke's Disease (GSD Type I)	1
+63722	Intermittent Claudication	1
+168633	Tinea Cruris Of The Perianal Area	1
+168635	Primary Osteoarthritis Of The Lumbar Vertebrae	1
+168814	Traumatic Arthritis Of The Foot	1
+166997	Vesicoureteral Reflux With Nephropathy Of The Left Kidney	1
+67927	Hyperammonemia	1
+165477	Spasticity	1
+166829	Hydronephrosis Bilaterally	1
+165483	Hemispasticity Of Right Side	1
+165486	Hemispasticity Of Left Side	1
+66702	Habitual Aborter (Non-gravid)	1
+165529	Hypotonicity (Flaccid)	1
+63913	Varicose Veins With Ulcer	1
+166407	Delayed Developmental Milestones	1
+67319	Puerperal Hemorrhoids	1
+166505	Sialosis	1
+63909	Varicose Veins	1
+166550	Vocal Cord Disorder	1
+63783	Atrophie Blanche	1
+67343	Obstetrical Surgical Wound Complications - Postpartum Condition Or Complication	1
+75770	Occipital Neuralgia	1
+166778	Slow Transit Constipation	1
+67902	Metabolic Disorders	1
+88049	Excessive Bleeding During Period (Menorrhagia)	1
