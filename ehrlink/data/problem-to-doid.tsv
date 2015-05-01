@@ -1,0 +1,1668 @@
+problem_definition_id	problem	indications	name_lower	doid	name	type
+63467	Hypertension	242	hypertension	DOID:10763	hypertension	name
+63468	Essential Hypertension	204	essential hypertension	DOID:10825	essential hypertension	name
+63470	Benign Essential Hypertension	190	benign essential hypertension	DOID:10913	benign essential hypertension	name
+63470	Benign Essential Hypertension	190	benign essential hypertension	DOID:10913	benign Essential hypertension	exact-synonym
+69380	Diabetes Mellitus	151	diabetes mellitus	DOID:9351	diabetes mellitus	name
+69402	Diabetes Mellitus Poorly Controlled	146	diabetes mellitus poorly controlled			
+69381	Type II Diabetes Mellitus	112	type ii diabetes mellitus	DOID:9352	type II diabetes mellitus	exact-synonym
+76351	Depression	105	depression			
+62598	Allergic Rhinitis	103	allergic rhinitis	DOID:4481	allergic rhinitis	name
+74988	Seizure Disorder	98	seizure disorder			
+62975	Coronary Artery Disease	88	coronary artery disease	DOID:3393	coronary artery disease	name
+70455	Rheumatoid Arthritis	86	rheumatoid arthritis	DOID:7148	rheumatoid arthritis	name
+77891	Acute Upper Respiratory Infection	77	acute upper respiratory infection			
+76388	Bipolar Disorder NOS	77	bipolar disorder nos			
+60869	Cough	76	cough			
+64181	Asthma	74	asthma	DOID:2841	asthma	name
+75002	Partial Complex Psychomotor Seizure With Intractable Seizure	72	partial complex psychomotor seizure with intractable seizure			
+75125	Multiple Sclerosis	70	multiple sclerosis	DOID:2377	multiple sclerosis	name
+67970	Hyperlipidemia	69	hyperlipidemia			
+76357	Major Depression, Recurrent	67	major depression, recurrent			
+75080	Parkinson's Disease	64	parkinson's disease	DOID:14330	Parkinson's disease	name
+70475	Scleroderma	63	scleroderma	DOID:419	scleroderma	name
+70475	Scleroderma	63	scleroderma	DOID:418	Scleroderma	exact-synonym
+63217	Congestive Heart Failure	61	congestive heart failure	DOID:6000	congestive heart failure	name
+64688	Esophageal Reflux	61	esophageal reflux			
+91089	Lower Back Pain	60	lower back pain			
+76272	Schizoaffective Disorder	57	schizoaffective disorder	DOID:5418	schizoaffective disorder	name
+60899	Abdominal Pain	54	abdominal pain			
+76835	HIV Infection	54	hiv infection	DOID:526	HIV infection	exact-synonym
+61118	Anxiety (Symptom)	53	anxiety (symptom)			
+62588	Chronic Ethmoidal Sinusitis	52	chronic ethmoidal sinusitis	DOID:9312	chronic ethmoidal sinusitis	exact-synonym
+62588	Chronic Ethmoidal Sinusitis	52	chronic ethmoidal sinusitis	DOID:9312	chronic ethmoidal sinusitis	exact-synonym
+69258	Hypothyroidism	52	hypothyroidism	DOID:1459	hypothyroidism	name
+278350	Eczema	51	eczema	DOID:2723	eczema	exact-synonym
+64118	Acute Bronchitis	51	acute bronchitis	DOID:6132	acute Bronchitis	exact-synonym
+74533	Migraine Headache	51	migraine headache			
+62916	Atrial Fibrillation	50	atrial fibrillation	DOID:0060224	atrial fibrillation	name
+76536	Generalized Anxiety Disorder	50	generalized anxiety disorder	DOID:14320	generalized anxiety disorder	name
+275486	ADHD, Combined Type	50	adhd, combined type			
+62578	Acute Sinusitis	50	acute sinusitis			
+65762	Urinary Tract Infection	48	urinary tract infection	DOID:13148	urinary tract infection	exact-synonym
+61108	Insomnia	46	insomnia			
+166777	Constipation	46	constipation	DOID:2089	constipation	name
+76306	Episodic Mood Disorders	45	episodic mood disorders			
+64205	Chronic Obstructive Pulmonary Disease	45	chronic obstructive pulmonary disease	DOID:3083	chronic obstructive pulmonary disease	name
+64205	Chronic Obstructive Pulmonary Disease	45	chronic obstructive pulmonary disease	DOID:3083	CHRONIC OBSTRUCTIVE pulmonary DISEASE	exact-synonym
+251528	Acute Otitis Media	44	acute otitis media			
+297231	Epilepsy	44	epilepsy	DOID:1826	epilepsy	exact-synonym
+76307	Bipolar Disorder	44	bipolar disorder	DOID:3312	bipolar disorder	name
+288921	Chronic Pain	43	chronic pain			
+69382	Type II Diabetes Mellitus - Uncomplicated, Uncontrolled	43	type ii diabetes mellitus - uncomplicated, uncontrolled			
+69606	Acne	42	acne	DOID:6543	acne	name
+252566	Partial Complex Seizure	42	partial complex seizure			
+60828	Headache	41	headache			
+76587	Anxiety Disorder NOS	41	anxiety disorder nos			
+75818	Attention-deficit Hyperactivity Disorder	40	attention-deficit hyperactivity disorder			
+70112	Atopic Dermatitis	40	atopic dermatitis	DOID:3310	atopic dermatitis	name
+70112	Atopic Dermatitis	40	atopic dermatitis	DOID:3310	Atopic dermatitis	exact-synonym
+69214	Hypopituitarism	39	hypopituitarism	DOID:9406	hypopituitarism	name
+69387	Type I Diabetes Mellitus	38	type i diabetes mellitus	DOID:9744	type I diabetes mellitus	exact-synonym
+291485	Dyslipidemia	38	dyslipidemia	DOID:3146	dyslipidemia	exact-synonym
+70472	Systemic Lupus Erythematosus	38	systemic lupus erythematosus	DOID:9074	systemic lupus erythematosus	name
+69549	Polycystic Ovarian Syndrome	37	polycystic ovarian syndrome			
+278812	Prostate Cancer	37	prostate cancer	DOID:10283	prostate cancer	name
+257912	Disorder Of Mitochondrial Metabolism	37	disorder of mitochondrial metabolism			
+62586	Chronic Maxillary Sinusitis	36	chronic maxillary sinusitis	DOID:10792	chronic maxillary sinusitis	name
+251600	Dementia	35	dementia	DOID:1307	dementia	name
+74537	Common Migraine (Without Aura)	34	common migraine (without aura)			
+76361	Moderate Recurrent Major Depression	34	moderate recurrent major depression			
+187792	Gynecologic Services Contraceptive Management	33	gynecologic services contraceptive management			
+288977	Fibromyalgia	33	fibromyalgia	DOID:631	fibromyalgia	name
+251467	Limb Pain	33	limb pain			
+76232	Paranoid Schizophrenia	32	paranoid schizophrenia	DOID:1229	paranoid schizophrenia	name
+70146	Osteoarthritis	32	osteoarthritis	DOID:8398	osteoarthritis	name
+77962	Anemia	32	anemia	DOID:2355	anemia	name
+75001	Partial Complex Psychomotor Seizure	31	partial complex psychomotor seizure			
+250989	Oral Contraceptives	31	oral contraceptives			
+73666	Backache	31	backache			
+62577	Sinusitis	31	sinusitis	DOID:0050127	sinusitis	name
+76842	Acquired Immunodeficiency Syndrome (AIDS)	31	acquired immunodeficiency syndrome (aids)			
+75819	ADHD, Predominantly Inattentive Type	30	adhd, predominantly inattentive type			
+70706	Ankylosing Spondylitis	30	ankylosing spondylitis	DOID:7147	ankylosing spondylitis	name
+93705	Dermatitis	30	dermatitis	DOID:2723	dermatitis	name
+252570	Partial Complex Seizure With Secondary Generalization With Intractable Seizure	30	partial complex seizure with secondary generalization with intractable seizure			
+69401	Diabetes Mellitus Under Control	29	diabetes mellitus under control			
+62760	Acute Pharyngitis	28	acute pharyngitis	DOID:2275	acute pharyngitis	exact-synonym
+77890	Upper Respiratory Infection	28	upper respiratory infection			
+275604	Depression With Anxiety	28	depression with anxiety			
+69388	Type I Diabetes Mellitus Uncontrolled	27	type i diabetes mellitus uncontrolled			
+283292	Essential Hypercholesterolemia	27	essential hypercholesterolemia			
+275592	Post-traumatic Stress Disorder	27	post-traumatic stress disorder	DOID:2055	post-traumatic stress disorder	name
+275592	Post-traumatic Stress Disorder	27	post-traumatic stress disorder	DOID:2055	post-traumatic stress disorder	related-synonym
+64180	Reactive Airway Disease	26	reactive airway disease			
+85623	Joint Pain, Localized In The Knee	26	joint pain, localized in the knee			
+69388	Type I Diabetes Mellitus - Uncontrolled	26	type i diabetes mellitus - uncontrolled			
+88375	Skin: A Rash	25	skin: a rash			
+69710	Contact Dermatitis	25	contact dermatitis	DOID:2773	contact dermatitis	name
+62587	Chronic Frontal Sinusitis	25	chronic frontal sinusitis	DOID:10790	chronic frontal sinusitis	name
+257996	Arthritis	25	arthritis	DOID:848	arthritis	name
+257996	Arthritis	25	arthritis	DOID:848	arthritis	related-synonym
+76348	Bipolar II Disorder	25	bipolar ii disorder			
+195794	Symptomatic Menopause	24	symptomatic menopause			
+70719	Psoriatic Arthropathy	24	psoriatic arthropathy	DOID:9008	psoriatic arthropathy	related-synonym
+80847	Renal Cell Carcinoma	23	renal cell carcinoma	DOID:4450	renal cell carcinoma	name
+278685	Arthralgias In Multiple Sites	23	arthralgias in multiple sites			
+76537	Panic Disorder Without Agoraphobia	23	panic disorder without agoraphobia			
+69341	Osteoporosis	23	osteoporosis	DOID:11476	osteoporosis	name
+76363	Major Depression, Recurrent With Psychotic Features	23	major depression, recurrent with psychotic features			
+64680	Chronic Reflux Esophagitis	22	chronic reflux esophagitis			
+63484	Pulmonary Hypertension	22	pulmonary hypertension	DOID:6432	pulmonary hypertension	name
+75812	Myalgia And Myositis	22	myalgia and myositis			
+85614	Joint Pain, Localized In The Hip	22	joint pain, localized in the hip			
+74534	Classic Migraine (With Aura)	22	classic migraine (with aura)			
+69999	Cellulitis	21	cellulitis	DOID:3488	cellulitis	name
+60895	Vomiting (Symptom)	21	vomiting (symptom)			
+252552	Generalized Convulsive Tonic-clonic Seizure With Intractable Seizure	21	generalized convulsive tonic-clonic seizure with intractable seizure			
+62585	Chronic Sinusitis	20	chronic sinusitis			
+31947	Lumbago	20	lumbago			
+75054	Restless Legs Syndrome	20	restless legs syndrome	DOID:0050425	restless legs syndrome	name
+76680	Adjustment Disorder With Anxiety	20	adjustment disorder with anxiety			
+283291	Hypercholesterolemia	20	hypercholesterolemia			
+76546	Obsessive Compulsive Disorder	20	obsessive compulsive disorder	DOID:10933	obsessive compulsive disorder	exact-synonym
+66133	Dysmenorrhea	19	dysmenorrhea			
+166748	Asthma With Acute Exacerbation	19	asthma with acute exacerbation			
+75020	Alzheimer's Disease	19	alzheimer's disease	DOID:10652	Alzheimer's disease	name
+69266	Congenital Hypothyroidism	19	congenital hypothyroidism	DOID:0050328	congenital hypothyroidism	name
+67695	Cystic Fibrosis	19	cystic fibrosis	DOID:1485	cystic fibrosis	name
+252546	Generalized Convulsive Seizure	19	generalized convulsive seizure			
+75032	Vascular Dementia	19	vascular dementia	DOID:8725	vascular dementia	name
+64980	Crohn's Disease	19	crohn's disease	DOID:8778	Crohn's disease	name
+62580	Acute Maxillary Sinusitis	19	acute maxillary sinusitis	DOID:2050	acute maxillary sinusitis	name
+70704	Symmetric Polyarticular Inflammation	18	symmetric polyarticular inflammation			
+70124	Tinea Corporis	18	tinea corporis	DOID:12179	tinea corporis	name
+70027	Folliculitis	18	folliculitis	DOID:4409	folliculitis	name
+61048	Memory Lapses Or Loss	18	memory lapses or loss			
+75717	Cervicalgia	18	cervicalgia			
+288933	Peripheral Neuropathy	18	peripheral neuropathy	DOID:0060053	peripheral neuropathy	name
+288933	Peripheral Neuropathy	18	peripheral neuropathy	DOID:574	peripheral neuropathy	related-synonym
+87702	Nausea With Vomiting	18	nausea with vomiting			
+74990	Convulsive Grand Mal Seizure With Intractable Seizure	18	convulsive grand mal seizure with intractable seizure			
+252569	Partial Complex Seizure With Secondary Generalization	17	partial complex seizure with secondary generalization			
+63471	Accelerated Essential Hypertension	17	accelerated essential hypertension	DOID:10823	Accelerated essential hypertension	exact-synonym
+75929	Mood Disorder Due To General Medical Condition	17	mood disorder due to general medical condition			
+76352	Major Depression, Single Episode	17	major depression, single episode			
+75811	Muscle Spasm	17	muscle spasm			
+74538	Common Migraine (Without Aura) With Intractable Migraine	17	common migraine (without aura) with intractable migraine			
+63173	Cardiomyopathy	17	cardiomyopathy	DOID:0050700	cardiomyopathy	name
+85701	Joint Pain, Localized In The Shoulder	17	joint pain, localized in the shoulder			
+274672	Chronic Kidney Disease, Stage 4	17	chronic kidney disease, stage 4			
+60894	Nausea (Symptom)	17	nausea (symptom)			
+70598	Polymyositis / Dermatomyositis:	17	polymyositis / dermatomyositis:			
+173442	Lumbar Radiculopathy	16	lumbar radiculopathy			
+76238	Paranoid Schizophrenia, Stable	16	paranoid schizophrenia, stable			
+65055	Chronic Constipation	16	chronic constipation			
+60928	Pain During Urination (Dysuria)	16	pain during urination (dysuria)			
+65076	Irritable Bowel Syndrome	16	irritable bowel syndrome	DOID:9778	irritable bowel syndrome	name
+70384	Gout	16	gout	DOID:13189	gout	name
+32925	Chronic Respiratory Failure	16	chronic respiratory failure	DOID:11162	chronic respiratory failure	exact-synonym
+69588	Hypogonadism	16	hypogonadism	DOID:1924	hypogonadism	name
+62611	Chronic Rhinitis	16	chronic rhinitis	DOID:8252	chronic rhinitis	name
+289131	Benign Prostatic Hypertrophy	16	benign prostatic hypertrophy			
+274606	Chronic Kidney Disease, Stage 3	15	chronic kidney disease, stage 3			
+250579	Blood Pressure Isolated Elevated	15	blood pressure isolated elevated			
+68058	Vitamin D Deficiency	15	vitamin d deficiency			
+278808	Breast Cancer	15	breast cancer	DOID:1612	breast cancer	name
+66070	Menorrhagia	15	menorrhagia			
+196089	Adjustment Disorder With Anxiety And Depressed Mood	15	adjustment disorder with anxiety and depressed mood			
+251575	Streptococcal Sore Throat	15	streptococcal sore throat			
+70478	Sjogren's Syndrome	15	sjogren's syndrome	DOID:12894	Sjogren's syndrome	name
+70722	Spondylitis	15	spondylitis	DOID:6590	spondylitis	name
+69340	Osteopenia	15	osteopenia			
+76213	Schizophrenia	15	schizophrenia	DOID:5419	schizophrenia	name
+85691	Neck Pain	15	neck pain			
+69424	Diabetic Peripheral Neuropathy	14	diabetic peripheral neuropathy			
+257908	Essential Hypertriglyceridemia	14	essential hypertriglyceridemia			
+76976	Helicobacter Pylori (H. Pylori) Infection	14	helicobacter pylori (h. pylori) infection			
+80830	Malignant Neoplasm Of The Prostate Gland	14	malignant neoplasm of the prostate gland			
+34588	Proteinuria	14	proteinuria	DOID:576	proteinuria	name
+64223	Bronchiectasis	14	bronchiectasis	DOID:9563	bronchiectasis	name
+252550	Generalized Convulsive Tonic Seizure With Intractable Seizure	14	generalized convulsive tonic seizure with intractable seizure			
+75728	Sciatica	14	sciatica			
+76794	Herpes Zoster (Shingles)	14	herpes zoster (shingles)			
+275526	Severe Recurrent Major Depression Without Psychotic Features	14	severe recurrent major depression without psychotic features			
+274516	Acute Pharyngitis Streptococcus	14	acute pharyngitis streptococcus			
+260898	Kidney Cancer	14	kidney cancer	DOID:263	kidney cancer	name
+61029	Itching (Pruritus)	13	itching (pruritus)			
+76212	Psychosis	13	psychosis			
+297031	Intermittent Asthma	13	intermittent asthma			
+76538	Panic Disorder With Agoraphobia	13	panic disorder with agoraphobia			
+65674	Nephrotic Syndrome	13	nephrotic syndrome	DOID:1184	nephrotic syndrome	name
+173419	Cervical Radiculopathy	13	cervical radiculopathy			
+87736	Abdominal Pain In The Central Upper Belly (Epigastric)	13	abdominal pain in the central upper belly (epigastric)			
+67969	Familial Combined Hyperlipidemia	13	familial combined hyperlipidemia	DOID:13809	familial combined hyperlipidemia	name
+75124	Demyelinating Disorders	13	demyelinating disorders			
+80831	Adenocarcinoma Of The Prostate Gland	13	adenocarcinoma of the prostate gland			
+60863	Difficulty Breathing (Dyspnea)	13	difficulty breathing (dyspnea)			
+60874	Wheezing	13	wheezing			
+61040	Convulsions	13	convulsions			
+77211	Vaginal Candidiasis	13	vaginal candidiasis			
+74530	Tension-type Headache	13	tension-type headache			
+63148	2-vessel Coronary Artery Stenosis	13	2-vessel coronary artery stenosis			
+250918	Chronic Systolic Congestive Heart Failure	13	chronic systolic congestive heart failure			
+258835	Bronchitis	13	bronchitis	DOID:6132	bronchitis	name
+74529	Headache Syndromes	13	headache syndromes			
+69260	Hypothyroidism Postablative	13	hypothyroidism postablative			
+76651	Male Erectile Disorder	13	male erectile disorder			
+69382	Type II Diabetes Mellitus Uncomplicated, Uncontrolled	13	type ii diabetes mellitus uncomplicated, uncontrolled			
+70219	Osteoarthritis Of The Knee	12	osteoarthritis of the knee			
+68098	Lipoid Metabolism Disorder	12	lipoid metabolism disorder			
+66213	Vaginitis	12	vaginitis	DOID:2170	vaginitis	name
+78035	Sickle Cell Hb-SS Disease	12	sickle cell hb-ss disease			
+63758	Raynaud's Disease	12	raynaud's disease	DOID:10300	Raynaud's disease	exact-synonym
+63758	Raynaud's Disease	12	raynaud's disease	DOID:10300	Raynaud's disease	exact-synonym
+63758	Raynaud's Disease	12	raynaud's disease	DOID:10300	Raynaud's disease	exact-synonym
+63758	Raynaud's Disease	12	raynaud's disease	DOID:10300	Raynaud's disease	exact-synonym
+63758	Raynaud's Disease	12	raynaud's disease	DOID:10300	Raynaud's disease	exact-synonym
+275496	Autistic Disorder	12	autistic disorder	DOID:12849	autistic disorder	name
+60902	Diarrhea (Symptom)	12	diarrhea (symptom)			
+73464	Lower Back Sprain	12	lower back sprain			
+85638	Ankle Joint Pain	12	ankle joint pain			
+87743	Diffuse Abdominal Pain	12	diffuse abdominal pain			
+64579	Gastroenteritis	12	gastroenteritis	DOID:2326	gastroenteritis	name
+252575	Dementia With Lewy Bodies	12	dementia with lewy bodies	DOID:12217	Dementia with Lewy bodies	exact-synonym
+64764	Gastritis Due To H. Pylori	12	gastritis due to h. pylori			
+66073	Menopause	12	menopause			
+69231	Hyperthyroidism	12	hyperthyroidism	DOID:7998	hyperthyroidism	name
+70640	Wegener's Granulomatosis	11	wegener's granulomatosis	DOID:12132	Wegener's granulomatosis	name
+69464	Congenital Adrenal Hyperplasia	11	congenital adrenal hyperplasia	DOID:0050811	congenital adrenal hyperplasia	name
+288790	Bacterial Vaginosis	11	bacterial vaginosis	DOID:3385	bacterial vaginosis	name
+288790	Bacterial Vaginosis	11	bacterial vaginosis	DOID:3385	Bacterial vaginosis	exact-synonym
+288790	Bacterial Vaginosis	11	bacterial vaginosis	DOID:3385	Bacterial vaginosis	exact-synonym
+288790	Bacterial Vaginosis	11	bacterial vaginosis	DOID:3385	Bacterial vaginosis	exact-synonym
+74989	Generalized Convulsive Grand Mal Seizure	11	generalized convulsive grand mal seizure			
+65041	Ulcerative Colitis	11	ulcerative colitis	DOID:8577	ulcerative colitis	name
+274406	Pregnancy Test Positive	11	pregnancy test positive			
+115846	Back Muscle Spasm	11	back muscle spasm			
+90952	Joint Pain, Localized In The Left Shoulder	11	joint pain, localized in the left shoulder			
+258942	Type II Diabetes Mellitus - Uncomplicated, Controlled	11	type ii diabetes mellitus - uncomplicated, controlled			
+64212	Emphysema	11	emphysema			
+291687	Attention Deficit Disorder Without Hyperactivity	11	attention deficit disorder without hyperactivity			
+66076	Menopausal Disorder	11	menopausal disorder			
+296638	Urinary Incontinence	11	urinary incontinence			
+30261	Bipolar I Disorder, Most Recent Episode, Depressed - Severe With Psychotic Features	11	bipolar i disorder, most recent episode, depressed - severe with psychotic features			
+60891	Heartburn	11	heartburn			
+258010	Allergic Reaction	11	allergic reaction			
+62978	Coronary Arteriosclerosis	11	coronary arteriosclerosis	DOID:3393	coronary arteriosclerosis	exact-synonym
+282680	Edema	11	edema			
+69607	Acne Vulgaris	11	acne vulgaris	DOID:6543	acne vulgaris	exact-synonym
+75486	Trigeminal Neuralgia	11	trigeminal neuralgia	DOID:12098	trigeminal neuralgia	name
+75486	Trigeminal Neuralgia	11	trigeminal neuralgia	DOID:12098	Trigeminal neuralgia	exact-synonym
+75486	Trigeminal Neuralgia	11	trigeminal neuralgia	DOID:12098	Trigeminal neuralgia	exact-synonym
+68089	Hypokalemia	11	hypokalemia	DOID:4500	hypokalemia	name
+247012	Shortness Of Breath	11	shortness of breath			
+70387	Chronic Gout	11	chronic gout			
+76343	Bipolar I Disorder, Most Recent Episode, Depressed Moderate	11	bipolar i disorder, most recent episode, depressed moderate			
+80664	Leiomyoma Of The Uterus	11	leiomyoma of the uterus			
+70477	Scleroderma With Pulmonary Involvement	11	scleroderma with pulmonary involvement			
+70386	Acute Gout	11	acute gout			
+76610	Chronic Pain Syndrome	10	chronic pain syndrome			
+70116	Tinea Capitis	10	tinea capitis	DOID:4337	tinea capitis	name
+65769	Neurogenic Bladder	10	neurogenic bladder	DOID:12143	neurogenic bladder	name
+252573	Frontotemporal Dementia	10	frontotemporal dementia	DOID:9255	frontotemporal dementia	name
+76276	Schizoaffective Disorder - Chronic (With Residual Symptoms)	10	schizoaffective disorder - chronic (with residual symptoms)			
+85644	Foot Pain (Soft Tissue)	10	foot pain (soft tissue)			
+70620	Sarcoidosis	10	sarcoidosis	DOID:11335	sarcoidosis	name
+76442	Failure To Thrive In Childhood	10	failure to thrive in childhood			
+85658	Diffuse Joint Pains (Arthralgias)	10	diffuse joint pains (arthralgias)			
+62599	Allergic Rhinitis Due To Pollen	10	allergic rhinitis due to pollen	DOID:4481	Allergic rhinitis due to pollen	exact-synonym
+70500	Polymyalgia Rheumatica	10	polymyalgia rheumatica	DOID:853	polymyalgia rheumatica	name
+70500	Polymyalgia Rheumatica	10	polymyalgia rheumatica	DOID:853	Polymyalgia rheumatica	exact-synonym
+70500	Polymyalgia Rheumatica	10	polymyalgia rheumatica	DOID:853	Polymyalgia rheumatica	exact-synonym
+70500	Polymyalgia Rheumatica	10	polymyalgia rheumatica	DOID:853	Polymyalgia rheumatica	exact-synonym
+257802	Venous Thrombosis Of The Deep Vessels Of The Lower Extremity	10	venous thrombosis of the deep vessels of the lower extremity			
+65777	Urge Incontinence Of Urine	10	urge incontinence of urine			
+77968	Iron Deficiency	10	iron deficiency			
+64748	Gastroparesis	10	gastroparesis	DOID:11914	gastroparesis	name
+62322	Otitis Externa	10	otitis externa	DOID:9463	otitis externa	name
+61417	Conjunctivitis	10	conjunctivitis	DOID:6195	conjunctivitis	name
+69259	Primary Hypothyroidism	10	primary hypothyroidism			
+77704	Scabies	10	scabies	DOID:8295	scabies	name
+75601	Polyneuropathy	10	polyneuropathy	DOID:1389	polyneuropathy	name
+70193	Localized Osteoarthritis Of The Knee	10	localized osteoarthritis of the knee			
+69283	Hashimoto's Thyroiditis	10	hashimoto's thyroiditis	DOID:7188	Hashimoto's thyroiditis	exact-synonym
+76329	Bipolar I Disorder, Most Recent Episode, Mixed In Partial Remission	10	bipolar i disorder, most recent episode, mixed in partial remission			
+93702	Allergies	10	allergies			
+277913	Chronic Interstitial Lung Disease	10	chronic interstitial lung disease			
+70126	Tinea Versicolor	10	tinea versicolor			
+283296	Abnormal Weight Gain	10	abnormal weight gain			
+168513	Hypogonadotrophic Hypogonadism	10	hypogonadotrophic hypogonadism			
+172080	Neck Strain	10	neck strain			
+252551	Generalized Convulsive Tonic-clonic Seizure	10	generalized convulsive tonic-clonic seizure			
+64190	Exercise-induced Asthma	10	exercise-induced asthma	DOID:2841	exercise-induced asthma	exact-synonym
+75104	Familial (Benign Essential) Tremor	10	familial (benign essential) tremor			
+65753	Acute Cystitis	10	acute cystitis	DOID:13148	acute cystitis	name
+64206	Chronic Bronchitis	10	chronic bronchitis	DOID:6132	chronic bronchitis	exact-synonym
+173466	Obstructive Sleep Apnea	10	obstructive sleep apnea	DOID:0050848	obstructive sleep apnea	name
+69660	Chronic Cutaneous Ulcer	10	chronic cutaneous ulcer			
+76781	Herpes Simplex	9	herpes simplex	DOID:8566	herpes simplex	name
+66250	Candida Albicans Vulvovaginitis	9	candida albicans vulvovaginitis			
+66214	Candida Albicans Vaginitis	9	candida albicans vaginitis			
+79148	Malignant Pancreatic Neoplasm	9	malignant pancreatic neoplasm			
+77205	Candidiasis	9	candidiasis	DOID:1508	candidiasis	name
+65128	Hemorrhoids	9	hemorrhoids			
+69261	Postsurgical Primary Hypothyroidism	9	postsurgical primary hypothyroidism			
+76234	Paranoid Schizophrenia, Chronic	9	paranoid schizophrenia, chronic			
+67974	Frederickson Type IIB Hyperlipidemia	9	frederickson type iib hyperlipidemia			
+61418	Acute Conjunctivitis	9	acute conjunctivitis	DOID:11184	acute conjunctivitis	name
+75354	Cerebral Artery Thrombosis - With Cerebral Infarction	9	cerebral artery thrombosis - with cerebral infarction			
+172086	Lumbar Strain	9	lumbar strain			
+173522	Candidal Intertrigo	9	candidal intertrigo			
+282704	Acute Gastritis	9	acute gastritis	DOID:4029	acute Gastritis	exact-synonym
+181372	Renal Carcinoma	9	renal carcinoma	DOID:4451	renal carcinoma	name
+69234	Graves' Disease	9	graves' disease	DOID:12361	Graves' disease	name
+63224	Congestive Heart Failure With Systolic And Diastolic Dysfunction	9	congestive heart failure with systolic and diastolic dysfunction			
+63174	Dilated Cardiomyopathy	9	dilated cardiomyopathy	DOID:12930	dilated cardiomyopathy	name
+250996	Contraceptives	9	contraceptives			
+282270	Palpitations	9	palpitations			
+278753	Anemia Of Chronic Kidney Disease	9	anemia of chronic kidney disease			
+62343	Otitis Media	9	otitis media	DOID:10754	otitis media	name
+62597	Rhinitis	9	rhinitis	DOID:4483	rhinitis	name
+62344	Acute Suppurative Otitis Media	9	acute suppurative otitis media			
+70600	Typical Dermatomyositis (Type II)	9	typical dermatomyositis (type ii)			
+75579	Spondylosis Without Myelopathy	9	spondylosis without myelopathy			
+64294	Pulmonary Fibrosis	9	pulmonary fibrosis	DOID:3770	pulmonary fibrosis	name
+76090	Nicotine Dependence	9	nicotine dependence	DOID:0050742	nicotine dependence	name
+70130	Diaper Rash	9	diaper rash	DOID:2770	diaper rash	name
+64183	Mild Persistent Asthma	9	mild persistent asthma			
+64184	Moderate Persistent Asthma	9	moderate persistent asthma			
+91079	Midback Pain	9	midback pain			
+289876	Alzheimer's Disease With Behavioral Disturbance	9	alzheimer's disease with behavioral disturbance			
+66274	Female Infertility	9	female infertility			
+90945	Joint Pain, Localized In The Right Shoulder	9	joint pain, localized in the right shoulder			
+69968	Carbuncle	9	carbuncle	DOID:2176	carbuncle	name
+292064	Dysphagia	9	dysphagia			
+70060	Impetigo	8	impetigo	DOID:8504	impetigo	name
+76364	Recurrent Major Depression In Partial Remission	8	recurrent major depression in partial remission			
+76366	Chronic Major Depression	8	chronic major depression			
+70221	Osteoarthritis Of Multiple Sites	8	osteoarthritis of multiple sites			
+76782	Herpes Simplex Type I	8	herpes simplex type i			
+69753	Eczematoid Dermatitis	8	eczematoid dermatitis			
+60977	Menopause Has Occurred	8	menopause has occurred			
+289879	Generalized Convulsive Myoclonic Seizure, Juvenile With Intractable Seizure	8	generalized convulsive myoclonic seizure, juvenile with intractable seizure			
+77206	Oral Thrush	8	oral thrush			
+289878	Generalized Convulsive Myoclonic Seizure, Juvenile	8	generalized convulsive myoclonic seizure, juvenile			
+278317	Dermatitis Due To Contact With Poison Ivy	8	dermatitis due to contact with poison ivy			
+62614	Deviated Nasal Septum (Acquired)	8	deviated nasal septum (acquired)			
+64119	Influenza	8	influenza	DOID:8469	influenza	name
+65150	Anal Fissure	8	anal fissure	DOID:3128	anal fissure	exact-synonym
+66433	Pregnancy Complicated By Diabetes Mellitus	8	pregnancy complicated by diabetes mellitus			
+87587	Coughing Up Sputum Yellow	8	coughing up sputum yellow			
+64277	Pulmonary Embolism	8	pulmonary embolism	DOID:9477	pulmonary embolism	name
+64202	Bronchiolitis	8	bronchiolitis	DOID:2942	bronchiolitis	name
+62582	Acute Ethmoidal Sinusitis	8	acute ethmoidal sinusitis	DOID:9506	acute ethmoidal sinusitis	exact-synonym
+63759	Raynaud's Phenomenon	8	raynaud's phenomenon			
+64763	Gastritis	8	gastritis	DOID:4029	gastritis	name
+85949	Birth Control Method - Oral Contraceptives	8	birth control method - oral contraceptives			
+62591	Nasal Polyps	8	nasal polyps			
+258832	Cough Variant Asthma	8	cough variant asthma	DOID:12323	cough variant asthma	name
+74027	Osteomyelitis	8	osteomyelitis	DOID:1019	osteomyelitis	name
+74551	Non-migrainous Vascular Headache	7	non-migrainous vascular headache			
+70479	Sicca Syndrome	7	sicca syndrome	DOID:12894	Sicca syndrome	exact-synonym
+70080	Skin Abscess	7	skin abscess			
+70115	Dermatophytosis	7	dermatophytosis	DOID:8913	dermatophytosis	name
+76245	Undifferentiated Schizophrenia	7	undifferentiated schizophrenia			
+70119	Onychomycosis	7	onychomycosis			
+75834	Disruptive Behavior Disorder	7	disruptive behavior disorder			
+67687	Growth Hormone Deficiency (Pituitary Dwarfism)	7	growth hormone deficiency (pituitary dwarfism)			
+74535	Classic Migraine (With Aura) With Intractable Migraine	7	classic migraine (with aura) with intractable migraine			
+67885	Bronchopulmonary Dysplasia Of Fetus Or Newborn	7	bronchopulmonary dysplasia of fetus or newborn			
+70135	Seborrheic Dermatitis	7	seborrheic dermatitis	DOID:8741	seborrheic dermatitis	name
+75733	Myasthenia Gravis	7	myasthenia gravis	DOID:437	myasthenia gravis	name
+70388	Chronic Tophaceous Gout	7	chronic tophaceous gout			
+76383	Dysthymic Disorder	7	dysthymic disorder	DOID:12139	dysthymic disorder	name
+76325	Bipolar I Disorder, Most Recent Episode, Mixed Moderate	7	bipolar i disorder, most recent episode, mixed moderate			
+75000	Partial Simple Seizure With Intractable Seizure	7	partial simple seizure with intractable seizure			
+70550	Relapsing Polychondritis	7	relapsing polychondritis	DOID:2556	relapsing polychondritis	name
+70016	Cellulitis Of The Leg	7	cellulitis of the leg			
+76661	Male Erectile Disorder Due To Physical Condition	7	male erectile disorder due to physical condition			
+292025	Short Stature	7	short stature			
+77650	Atypical Mycobacterial Infection	7	atypical mycobacterial infection			
+274534	Acute Sore Throat	7	acute sore throat	DOID:2275	acute sore throat	exact-synonym
+274534	Acute Sore Throat	7	acute sore throat	DOID:11337	acute sore throat	related-synonym
+274611	Nephritis Due To SLE	7	nephritis due to sle			
+78008	Sickle Cell Hb-SC Disease	7	sickle cell hb-sc disease			
+62403	Otitis Media Of The Left Ear	7	otitis media of the left ear			
+79017	Hepatocellular Carcinoma Of The Liver	7	hepatocellular carcinoma of the liver			
+155099	(Lower) Leg Localized Swelling	7	(lower) leg localized swelling			
+116196	Abdomen Tenderness Direct Epigastric	7	abdomen tenderness direct epigastric			
+81584	Burns	7	burns			
+64126	Pneumonia	7	pneumonia	DOID:552	pneumonia	name
+61070	Tingling (Paresthesia)	7	tingling (paresthesia)			
+61103	Sleep Disturbances	7	sleep disturbances			
+85752	Tobacco Use	7	tobacco use			
+277914	Acute Bronchitis With Bronchospasm	7	acute bronchitis with bronchospasm			
+87011	Drip Or Drainage Down Throat From Above	7	drip or drainage down throat from above			
+87028	Nasal Passage Blockage (Stuffiness)	7	nasal passage blockage (stuffiness)			
+62329	Acute Otitis Externa	7	acute otitis externa			
+77403	Latent Tuberculosis	7	latent tuberculosis			
+278781	Lung Cancer	7	lung cancer	DOID:1324	lung cancer	name
+251261	Pelvic Pain	7	pelvic pain			
+62987	Angina Pectoris	7	angina pectoris			
+187795	Gynecologic Services Prescription Of Contraceptive Agents	7	gynecologic services prescription of contraceptive agents			
+62590	Chronic Pansinusitis	7	chronic pansinusitis			
+76702	Viral Infection	7	viral infection	DOID:934	Viral Infection	exact-synonym
+258937	Renal Secondary Hyperparathyroidism	7	renal secondary hyperparathyroidism			
+63490	Congenital Heart Disease	7	congenital heart disease	DOID:1682	congenital heart disease	name
+62917	Paroxysmal Atrial Fibrillation	7	paroxysmal atrial fibrillation			
+76783	Herpes Simplex Type II	7	herpes simplex type ii			
+62984	Atypical Chest Pain	7	atypical chest pain			
+250862	Chronic Combined Systolic And Diastolic Congestive Heart Failure	7	chronic combined systolic and diastolic congestive heart failure			
+296447	Preventive Medicine Counseling About Travel	7	preventive medicine counseling about travel			
+64182	Mild Intermittent Asthma	6	mild intermittent asthma			
+75807	Phenylketonuria	6	phenylketonuria	DOID:9281	phenylketonuria	name
+270715	ACP Staging Stage 2 Hypertension: Greater Than Or = 160/100	6	acp staging stage 2 hypertension: greater than or = 160/100			
+74992	Generalized Convulsive Myoclonic Seizure With Intractable Seizure	6	generalized convulsive myoclonic seizure with intractable seizure			
+92456	Joint Pain, Localized In More Than One Joint	6	joint pain, localized in more than one joint			
+62350	Acute Serous Otitis Media	6	acute serous otitis media	DOID:11557	acute serous otitis media	name
+278552	Furunculosis	6	furunculosis			
+62914	Atrial Flutter	6	atrial flutter			
+67803	Turner Syndrome	6	turner syndrome	DOID:3491	Turner syndrome	name
+70599	Typical Polymyositis (Type I)	6	typical polymyositis (type i)			
+277876	Lobar Pneumonia	6	lobar pneumonia			
+252601	Vertigo	6	vertigo			
+67978	Familial Hypercholesterolemia	6	familial hypercholesterolemia	DOID:13810	familial hypercholesterolemia	name
+163751	Cognitive Functions Current Level Impaired	6	cognitive functions current level impaired			
+252681	Fatigue	6	fatigue			
+70638	Temporal Arteritis	6	temporal arteritis	DOID:13375	temporal arteritis	name
+63232	Benign Hypertensive Heart Disease	6	benign hypertensive heart disease			
+70703	Asymmetrical Polyarticular Inflammation	6	asymmetrical polyarticular inflammation			
+275492	ADHD, Predominantly Hyperactive Impulsive	6	adhd, predominantly hyperactive impulsive			
+64565	Upper Respiratory Tract Disorders	6	upper respiratory tract disorders			
+73454	Lumbar Sprain	6	lumbar sprain			
+63526	Hypoplastic Left Heart Syndrome	6	hypoplastic left heart syndrome	DOID:9955	hypoplastic left heart syndrome	name
+69461	Prediabetes	6	prediabetes	DOID:11716	Prediabetes	exact-synonym
+69461	Prediabetes	6	prediabetes	DOID:11716	Prediabetes	exact-synonym
+282327	Prehypertension	6	prehypertension			
+252547	Generalized Convulsive Clonic Seizure	6	generalized convulsive clonic seizure			
+289114	Laryngopharyngeal Reflux	6	laryngopharyngeal reflux			
+76339	Bipolar I Disorder, Most Recent Episode, Depressed	6	bipolar i disorder, most recent episode, depressed			
+65141	External Hemorrhoids	6	external hemorrhoids			
+289126	Eosinophilic Esophagitis	6	eosinophilic esophagitis	DOID:13922	eosinophilic esophagitis	name
+60880	Appetite Lost (Anorexia)	6	appetite lost (anorexia)			
+65286	Cirrhosis	6	cirrhosis	DOID:5082	Cirrhosis	exact-synonym
+69941	Urticaria	6	urticaria	DOID:1555	urticaria	name
+69942	Allergic Urticaria	6	allergic urticaria	DOID:10612	allergic urticaria	name
+70122	Tinea Pedis	6	tinea pedis	DOID:12403	tinea pedis	name
+70122	Tinea Pedis	6	tinea pedis	DOID:12403	Tinea pedis	exact-synonym
+60844	Tooth Pain	6	tooth pain			
+76389	Atypical Depressive Disorder	6	atypical depressive disorder	DOID:12294	atypical depressive disorder	name
+292509	Multisystem Atrophy	6	multisystem atrophy			
+66016	Oligomenorrhea	6	oligomenorrhea			
+66015	Ovarian Disorders	6	ovarian disorders			
+65662	Nephrolithiasis	6	nephrolithiasis	DOID:585	nephrolithiasis	name
+77216	Genitourinary Candidiasis	6	genitourinary candidiasis			
+76327	Bipolar I Disorder, Most Recent Episode, Mixed Severe With Psychotic Features	6	bipolar i disorder, most recent episode, mixed severe with psychotic features			
+65655	Renal Tubular Acidosis	6	renal tubular acidosis	DOID:14219	renal tubular acidosis	name
+76934	Chlamydial Infections	6	chlamydial infections			
+64934	Small Bowel Bacterial Overgrowth	6	small bowel bacterial overgrowth			
+66444	Pregnancy Complicated By Anemia	6	pregnancy complicated by anemia			
+65831	Prostatitis	6	prostatitis	DOID:14654	prostatitis	name
+70461	Juvenile Rheumatoid Arthritis	6	juvenile rheumatoid arthritis	DOID:676	juvenile rheumatoid arthritis	name
+282676	Lymphadenopathy	6	lymphadenopathy			
+64678	Esophagitis	6	esophagitis	DOID:11963	esophagitis	name
+65764	Urinary Tract Infection, Geriatric Presentation	6	urinary tract infection, geriatric presentation			
+288824	Convulsive Disorder	6	convulsive disorder			
+76250	Residual Schizophrenia	6	residual schizophrenia			
+70191	Localized Osteoarthritis Of The Hand	6	localized osteoarthritis of the hand			
+69901	Psoriasis	6	psoriasis	DOID:8893	psoriasis	name
+65752	Cystitis	6	cystitis	DOID:1679	cystitis	name
+69913	Rosacea	6	rosacea	DOID:8881	rosacea	name
+76325	Bipolar I Disorder, Most Recent Episode, Mixed - Moderate	6	bipolar i disorder, most recent episode, mixed - moderate			
+293498	Chronic Common Migraine (Without Aura)	5	chronic common migraine (without aura)			
+258942	Type II Diabetes Mellitus Uncomplicated, Controlled	5	type ii diabetes mellitus uncomplicated, controlled			
+70029	Furuncle	5	furuncle			
+296649	Diffuse Connective Tissue Disorder	5	diffuse connective tissue disorder			
+257948	Vitamin B12 Deficiency	5	vitamin b12 deficiency	DOID:0050731	vitamin B12 deficiency	name
+62733	Acute Tonsillitis	5	acute tonsillitis			
+70094	Skin Abscess Of The Buttocks	5	skin abscess of the buttocks			
+251627	Adjustment Disorder With Depressed Mood	5	adjustment disorder with depressed mood			
+260319	Colon Cancer	5	colon cancer	DOID:219	colon cancer	name
+69395	Gestational Diabetes Mellitus	5	gestational diabetes mellitus	DOID:11714	Gestational diabetes mellitus	exact-synonym
+69395	Gestational Diabetes Mellitus	5	gestational diabetes mellitus	DOID:11714	Gestational diabetes mellitus	exact-synonym
+69395	Gestational Diabetes Mellitus	5	gestational diabetes mellitus	DOID:11714	Gestational diabetes mellitus	exact-synonym
+69964	Xerosis Cutis	5	xerosis cutis			
+62543	Earache	5	earache			
+274533	Sore Throat	5	sore throat			
+282272	Anterior Wall Chest Pain With Respiration	5	anterior wall chest pain with respiration			
+275500	Cognitive Disorder	5	cognitive disorder	DOID:1561	cognitive disorder	name
+69542	Central Diabetes Insipidus	5	central diabetes insipidus	DOID:12388	central diabetes insipidus	exact-synonym
+69546	Dysfunctional Uterine Bleeding	5	dysfunctional uterine bleeding			
+277872	Asthmatic Bronchitis	5	asthmatic bronchitis			
+70166	Localized Primary Osteoarthritis Of The Knee	5	localized primary osteoarthritis of the knee			
+288761	Vaginal Discharge	5	vaginal discharge	DOID:3767	vaginal discharge	name
+62365	Acute Nonsuppurative Otitis Media	5	acute nonsuppurative otitis media	DOID:3697	acute nonsuppurative otitis media	exact-synonym
+70474	Mixed Connective Tissue Disease	5	mixed connective tissue disease	DOID:3492	mixed connective tissue disease	name
+274717	Microalbuminuria	5	microalbuminuria			
+74997	Partial Simple Seizure	5	partial simple seizure			
+93473	Taking Female Hormones For Postmenopausal HRT	5	taking female hormones for postmenopausal hrt			
+75356	Cerebral Embolism - With Cerebral Infarction	5	cerebral embolism - with cerebral infarction			
+74585	Cerebrospinal Fluid Rhinorrhea	5	cerebrospinal fluid rhinorrhea			
+76359	Major Depression, Recurrent With Melancholia	5	major depression, recurrent with melancholia			
+168632	Tinea Cruris Of The Groin	5	tinea cruris of the groin			
+77894	Venereal Disease Due To Chlamydia Trachomatis	5	venereal disease due to chlamydia trachomatis			
+94386	Exposed To HIV Infection	5	exposed to hiv infection			
+63738	Peripheral Vascular Disease	5	peripheral vascular disease	DOID:341	peripheral vascular disease	name
+66394	Hyperemesis Gravidarum	5	hyperemesis gravidarum			
+88042	Irregular Length Of Menstrual Periods	5	irregular length of menstrual periods			
+87834	Red Blood In Bowel Movement (Hematochezia)	5	red blood in bowel movement (hematochezia)			
+66386	Pregnancy Complicated By Hypertension - Antepartum Condition Or Prior Complicated Delivery	5	pregnancy complicated by hypertension - antepartum condition or prior complicated delivery			
+81335	Multiple Nonvenomous Insect Bites	5	multiple nonvenomous insect bites			
+163354	Demonstrated Behavior Psychomotor Agitation	5	demonstrated behavior psychomotor agitation			
+85633	Pain In The Leg (Below The Knee)	5	pain in the leg (below the knee)			
+64825	Peptic Ulcer	5	peptic ulcer			
+64762	Dyspepsia	5	dyspepsia	DOID:2321	dyspepsia	name
+91056	Upper Back Pain (Between Shoulder Blades)	5	upper back pain (between shoulder blades)			
+77210	Cutaneous Candidiasis	5	cutaneous candidiasis			
+201177	Quadriplegic Cerebral Palsy With Spasticity	5	quadriplegic cerebral palsy with spasticity			
+65847	Urethritis	5	urethritis	DOID:1343	urethritis	name
+69262	Post Radio-iodine Therapy Hypothyroidism	5	post radio-iodine therapy hypothyroidism			
+250903	Varicose Veins With Pain	5	varicose veins with pain			
+65848	Chlamydia Trachomatis Urethritis	5	chlamydia trachomatis urethritis			
+76395	Primary Insomnia	5	primary insomnia			
+65675	Nephrotic Syndrome Due To Minimal Change Glomerulonephritis	5	nephrotic syndrome due to minimal change glomerulonephritis			
+201186	Ischemic Stroke	5	ischemic stroke			
+191631	Gastrostomy Care	5	gastrostomy care			
+75930	Mood Disorder Of Unknown (Axis III) Etiology	5	mood disorder of unknown (axis iii) etiology			
+189833	Tracheostomy Care Requirement	5	tracheostomy care requirement			
+187793	Gynecologic Services Contraceptive General Counseling	5	gynecologic services contraceptive general counseling			
+87741	Abdominal Pain Around The Belly Button (Periumbilical)	4	abdominal pain around the belly button (periumbilical)			
+283131	Benign Prostatic Hyperplasia Localized With Urinary Obstruction With Other Lower Urinary Tract Symptoms	4	benign prostatic hyperplasia localized with urinary obstruction with other lower urinary tract symptoms			
+283255	Balanitis	4	balanitis	DOID:13033	balanitis	name
+85707	Back Pain	4	back pain			
+87543	Chronic Cough	4	chronic cough			
+282672	Venous Insufficiency	4	venous insufficiency	DOID:10128	venous insufficiency	name
+288609	Menometrorrhagia	4	menometrorrhagia			
+78127	Anaphylaxis	4	anaphylaxis			
+85673	Joint Pain, Localized In The Wrist	4	joint pain, localized in the wrist			
+70121	Tinea Cruris	4	tinea cruris	DOID:11917	tinea cruris	name
+76847	AIDS Polyneuropathy	4	aids polyneuropathy			
+293641	Methicillin Resistant Staphylococcus Aureus Infection	4	methicillin resistant staphylococcus aureus infection			
+293541	New Daily Persistent Headache	4	new daily persistent headache			
+76409	Narcolepsy	4	narcolepsy	DOID:8986	narcolepsy	name
+77275	Tuberculosis	4	tuberculosis	DOID:399	tuberculosis	name
+77872	Pelvic Inflammatory Disease	4	pelvic inflammatory disease	DOID:1003	pelvic inflammatory disease	name
+77898	Chlamydial Disease	4	chlamydial disease			
+288764	Vulvodynia	4	vulvodynia			
+78011	Sickle Cell Anemia	4	sickle cell anemia	DOID:10923	sickle cell anemia	name
+80524	Adenocarcinoma Of The Breast	4	adenocarcinoma of the breast			
+81092	Non-Hodgkin's Lymphoma	4	non-hodgkin's lymphoma			
+289113	Acute Rhinitis	4	acute rhinitis	DOID:10459	acute rhinitis	exact-synonym
+288944	Disturbance Of Gait	4	disturbance of gait			
+85607	Fever (Symptom)	4	fever (symptom)			
+87744	Abdominal Pain In Multiple Locations	4	abdominal pain in multiple locations			
+252543	Encephalopathy	4	encephalopathy	DOID:936	encephalopathy	exact-synonym
+87902	Urinary Frequency More Than Twice At Night (Nocturia)	4	urinary frequency more than twice at night (nocturia)			
+278472	Pustular Folliculitis	4	pustular folliculitis			
+71075	Fracture Of Facial Bones	4	fracture of facial bones			
+73403	Neck Sprain	4	neck sprain			
+73493	Ankle Sprain	4	ankle sprain			
+166843	Nephrolithiasis Of The Right Kidney	4	nephrolithiasis of the right kidney			
+173463	Insomnia Due To Stress	4	insomnia due to stress			
+179542	Malignant Breast Neoplasm	4	malignant breast neoplasm			
+274445	Chronic Otitis Externa	4	chronic otitis externa			
+181267	Carcinoma Of The Prostate Gland	4	carcinoma of the prostate gland			
+270712	ACP Staging Stage 1 Hypertension: 140-159 / 9099	4	acp staging stage 1 hypertension: 140-159 / 9099			
+73551	Tendonitis	4	tendonitis			
+73599	Trochanteric Bursitis	4	trochanteric bursitis			
+265990	Earache (Symptom)	4	earache (symptom)			
+259187	Internal Derangement Of Knee	4	internal derangement of knee			
+258928	Thyroid Cancer	4	thyroid cancer	DOID:1781	thyroid cancer	name
+247286	Thyroid Function Tests Nonspecific Abnormal Findings	4	thyroid function tests nonspecific abnormal findings			
+252625	Diabetic Polyneuropathy	4	diabetic polyneuropathy	DOID:12785	diabetic polyneuropathy	name
+252561	Motor Partial Seizure With Intractable Seizure	4	motor partial seizure with intractable seizure			
+274711	End Stage Renal Disease	4	end stage renal disease	DOID:783	end stage renal disease	exact-synonym
+274711	End Stage Renal Disease	4	end stage renal disease	DOID:783	End stage renal disease	exact-synonym
+274711	End Stage Renal Disease	4	end stage renal disease	DOID:783	End stage renal disease	exact-synonym
+166743	Community-acquired Pneumonia	4	community-acquired pneumonia			
+275492	ADHD, Predominantly Hyperactive - Impulsive	4	adhd, predominantly hyperactive - impulsive			
+275538	Moderate Single Episode Major Depression	4	moderate single episode major depression			
+278396	Hirsutism	4	hirsutism			
+87904	Feelings Of Urinary Urgency	4	feelings of urinary urgency			
+278128	Chronic Lung Disease Of Newborn	4	chronic lung disease of newborn			
+94408	Exposed To Venereal Disease	4	exposed to venereal disease			
+275553	Bipolar I Disorder, Most Recent Episode	4	bipolar i disorder, most recent episode			
+70607	Polymyositis In Scleroderma	4	polymyositis in scleroderma			
+75594	Spinal Stenosis	4	spinal stenosis	DOID:6725	spinal stenosis	name
+70637	Vasculitides	4	vasculitides			
+75358	Cerebral Vasculitis	4	cerebral vasculitis			
+75587	Lumbar Canal Stenosis	4	lumbar canal stenosis			
+165548	Tremor	4	tremor			
+70642	Microscopic Polyarteritis Nodosa	4	microscopic polyarteritis nodosa			
+70648	Behcet's Syndrome	4	behcet's syndrome	DOID:13241	Behcet's syndrome	related-synonym
+75487	Atypical Face Pain	4	atypical face pain			
+166478	Acute Bacterial Conjunctivitis	4	acute bacterial conjunctivitis			
+166549	Acute Streptococcal Tonsillitis	4	acute streptococcal tonsillitis			
+28146	Chronic Renal Failure	4	chronic renal failure			
+75674	Idiopathic Peripheral Neuropathy	4	idiopathic peripheral neuropathy			
+62902	Supraventricular Tachycardia	4	supraventricular tachycardia			
+63488	Secondary Pulmonary Hypertension	4	secondary pulmonary hypertension			
+69556	Precocious Puberty	4	precocious puberty			
+69465	21-hydroxylase Deficiency (Salt Losing)	4	21-hydroxylase deficiency (salt losing)			
+69847	Papular Urticaria	4	papular urticaria			
+65856	Urethral Stricture	4	urethral stricture	DOID:1829	urethral stricture	name
+64186	Extrinsic Asthma	4	extrinsic asthma			
+65855	Female Stress Incontinence	4	female stress incontinence	DOID:724	female stress incontinence	name
+64621	Infectious Gastroenteritis	4	infectious gastroenteritis			
+62719	Acute Tracheitis	4	acute tracheitis	DOID:9392	acute tracheitis	exact-synonym
+65065	Diverticulitis Of Colon	4	diverticulitis of colon	DOID:13254	diverticulitis of colon	name
+64610	Viral Gastroenteritis	4	viral gastroenteritis			
+66254	Trichomonas Vulvovaginitis	4	trichomonas vulvovaginitis			
+62745	Tonsillar Hypertrophy	4	tonsillar hypertrophy			
+66249	Vulvovaginitis	4	vulvovaginitis	DOID:2273	vulvovaginitis	name
+62352	Acute Serous Otitis Media Of The Right Ear	4	acute serous otitis media of the right ear			
+69194	Endocrine Disorder	4	endocrine disorder			
+66218	Postmenopausal Atrophic Vaginitis	4	postmenopausal atrophic vaginitis	DOID:11968	postmenopausal atrophic vaginitis	name
+62985	Chest Pain	4	chest pain			
+64207	Chronic Bronchitis With Acute Exacerbation	4	chronic bronchitis with acute exacerbation			
+62947	Ventricular Tachycardia	4	ventricular tachycardia			
+64210	Diffuse Obstructive Chronic Bronchitis	4	diffuse obstructive chronic bronchitis			
+69731	Chronic Lupus Erythematosus	4	chronic lupus erythematosus			
+65689	Nephrosclerosis With Benign Hypertension	4	nephrosclerosis with benign hypertension			
+62345	Acute Suppurative Otitis Media With Spontaneous Rupture Of The Ear Drum	4	acute suppurative otitis media with spontaneous rupture of the ear drum			
+65784	Hyperactivity Of The Bladder	4	hyperactivity of the bladder			
+61433	Chronic Allergic Conjunctivitis	4	chronic allergic conjunctivitis			
+69263	Secondary Hypothyroidism	4	secondary hypothyroidism			
+66182	Cervicitis Chlamydia Trachomatis	4	cervicitis chlamydia trachomatis			
+62066	Glaucoma	4	glaucoma	DOID:1686	glaucoma	name
+66143	Metrorrhagia	4	metrorrhagia			
+69447	Diabetic Foot Ulcer	4	diabetic foot ulcer			
+69342	Postmenopausal Osteoporosis	4	postmenopausal osteoporosis			
+65952	Organic Impotence	4	organic impotence			
+62615	Hypertrophied Nasal Turbinate	4	hypertrophied nasal turbinate			
+69386	Type II Diabetes Mellitus With Complication - Uncontrolled	4	type ii diabetes mellitus with complication - uncontrolled			
+64826	Gastric Ulcer	4	gastric ulcer	DOID:10808	gastric ulcer	name
+65712	Diabetic Nephropathy Type II - Uncontrolled	4	diabetic nephropathy type ii - uncontrolled			
+67760	Connective Tissue Defect	4	connective tissue defect			
+62589	Chronic Sphenoidal Sinusitis	4	chronic sphenoidal sinusitis	DOID:10793	chronic sphenoidal sinusitis	name
+35314	Personality Change Due To Axis III Etiology	4	personality change due to axis iii etiology			
+62596	Common Cold	4	common cold	DOID:10459	common cold	name
+62404	Otitis Media In Both Ears	4	otitis media in both ears			
+62606	Allergic Rhinitis Due To Dust Mite	4	allergic rhinitis due to dust mite			
+62761	Group A Streptococcus: B Hemolytic Pharyngitis	4	group a streptococcus: b hemolytic pharyngitis			
+65755	Chronic Cystitis	4	chronic cystitis	DOID:1680	chronic cystitis	name
+66139	Amenorrhea	4	amenorrhea	DOID:13938	amenorrhea	name
+66139	Amenorrhea	4	amenorrhea	DOID:13938	AMENORRHEA	exact-synonym
+60886	Difficulty Swallowing (Dysphagia)	4	difficulty swallowing (dysphagia)			
+69353	Secondary Hyperparathyroidism	4	secondary hyperparathyroidism	DOID:12466	secondary hyperparathyroidism	name
+62616	Epistaxis	4	epistaxis			
+64787	Chronic Antral H. Pylori Associated Gastritis	3	chronic antral h. pylori associated gastritis			
+69343	Osteoporosis Senile	3	osteoporosis senile			
+252552	Generalized Convulsive Tonicclonic Seizure With Intractable Seizure	3	generalized convulsive tonicclonic seizure with intractable seizure			
+274471	Acute Otitis Externa Of The Right Ear	3	acute otitis externa of the right ear			
+64041	Thromboembolic Disease	3	thromboembolic disease			
+62557	Eustachian Tube Block	3	eustachian tube block			
+74960	Tuberous Sclerosis (Bourneville's Disease)	3	tuberous sclerosis (bourneville's disease)			
+62561	Eustachian Tube Dysfunction	3	eustachian tube dysfunction			
+252553	Generalized Nonconvulsive Seizure	3	generalized nonconvulsive seizure			
+62635	Salivary Secretion Disturbance: Xerostomia	3	salivary secretion disturbance: xerostomia			
+64632	Giardiasis	3	giardiasis	DOID:10718	giardiasis	name
+62759	Pharyngitis	3	pharyngitis	DOID:2275	pharyngitis	name
+257887	Benign Prostatic Hyperplasia With Urinary Obstruction	3	benign prostatic hyperplasia with urinary obstruction			
+260217	Esophageal Cancer	3	esophageal cancer	DOID:5041	esophageal cancer	name
+85660	Joint Pain Fingers	3	joint pain fingers			
+259138	Rib Fracture	3	rib fracture			
+69346	Drug-induced Osteoporosis	3	drug-induced osteoporosis			
+252568	Partial Complex Psychosensory Seizure With Intractable Seizure	3	partial complex psychosensory seizure with intractable seizure			
+257944	Vitamin Deficiency	3	vitamin deficiency			
+74315	Carpal Tunnel Syndrome	3	carpal tunnel syndrome	DOID:12169	carpal tunnel syndrome	name
+74315	Carpal Tunnel Syndrome	3	carpal tunnel syndrome	DOID:12169	Carpal tunnel syndrome	exact-synonym
+74315	Carpal Tunnel Syndrome	3	carpal tunnel syndrome	DOID:12169	Carpal tunnel syndrome	exact-synonym
+64708	Barrett's Esophagus	3	barrett's esophagus	DOID:9206	Barrett's esophagus	name
+62743	Chronic Tonsillitis	3	chronic tonsillitis	DOID:10456	chronic tonsillitis	exact-synonym
+257896	Homocysteinemia	3	homocysteinemia			
+76281	Chronic Schizophrenia	3	chronic schizophrenia			
+69269	Iatrogenic Hypothyroidism	3	iatrogenic hypothyroidism			
+166827	Hydronephrosis On The Right	3	hydronephrosis on the right			
+173418	Radiculopathy	3	radiculopathy	DOID:4306	radiculopathy	name
+172081	Shoulder Strain	3	shoulder strain			
+168811	Traumatic Arthritis Of The Ankle	3	traumatic arthritis of the ankle			
+67988	Familial Hypertriglyceridemia	3	familial hypertriglyceridemia	DOID:0050527	familial hypertriglyceridemia	name
+168206	Subclinical Hypothyroidism	3	subclinical hypothyroidism			
+167265	Dysmetabolic Syndrome X	3	dysmetabolic syndrome x	DOID:14221	dysmetabolic syndrome X	exact-synonym
+167265	Dysmetabolic Syndrome X	3	dysmetabolic syndrome x	DOID:14221	Dysmetabolic syndrome X	exact-synonym
+75933	Anxiety Disorder Due To General Medical Condition With Panic Attacks	3	anxiety disorder due to general medical condition with panic attacks			
+166834	Renal Transplant Recipient Of The Right Kidney	3	renal transplant recipient of the right kidney			
+166828	Hydronephrosis On The Left	3	hydronephrosis on the left			
+75932	Anxiety Disorder Due To General Medical Condition With Generalized Anxiety	3	anxiety disorder due to general medical condition with generalized anxiety			
+63598	Ventricular Septal Defect	3	ventricular septal defect	DOID:1657	ventricular septal defect	name
+75765	Postherpetic Neuralgia	3	postherpetic neuralgia			
+166767	Infectious Diarrhea	3	infectious diarrhea	DOID:12384	Infectious diarrhea	exact-synonym
+75931	Anxiety Disorder Due To General Medical Condition	3	anxiety disorder due to general medical condition			
+75820	ATTENTION-DEFICIT DISORDER WITH HYPERACTIVITY	3	attention-deficit disorder with hyperactivity			
+116888	Vaginal Mucosa Atrophy	3	vaginal mucosa atrophy			
+124553	Pustules	3	pustules			
+75854	Oppositional Defiant Disorder Of Childhood	3	oppositional defiant disorder of childhood			
+155856	Ankle Swelling (On Exam)	3	ankle swelling (on exam)			
+138023	Alopecia	3	alopecia	DOID:987	alopecia	name
+68084	Fluid Overload	3	fluid overload			
+63516	Tricuspid Atresia	3	tricuspid atresia			
+87901	Urinary Frequency Increased	3	urinary frequency increased			
+247787	Endocrine Laboratory Tests Nonspecific Abnormal Findings	3	endocrine laboratory tests nonspecific abnormal findings			
+252496	Female Pelvic Pain	3	female pelvic pain			
+62891	Rhythm Disorder	3	rhythm disorder			
+73578	Tendonitis Of The Achilles Tendon	3	tendonitis of the achilles tendon			
+250864	Diastolic Congestive Heart Failure	3	diastolic congestive heart failure			
+63175	Ischemic Cardiomyopathy	3	ischemic cardiomyopathy			
+250613	Fever (On Exam)	3	fever (on exam)			
+247966	Serum Total Cholesterol Was Elevated	3	serum total cholesterol was elevated			
+68107	Hypocalcemia	3	hypocalcemia			
+75127	Devic Disease	3	devic disease			
+76237	Paranoid Schizophrenia In Remission	3	paranoid schizophrenia in remission			
+76091	Nicotine Dependence - Continuous	3	nicotine dependence - continuous			
+64199	Chronic Obstructive Asthma	3	chronic obstructive asthma	DOID:2841	chronic obstructive asthma	exact-synonym
+63233	Benign Hypertensive Heart Disease With Congestive Heart Failure	3	benign hypertensive heart disease with congestive heart failure			
+200624	Tuberculin PPD Induration Positive Interpretation	3	tuberculin ppd induration positive interpretation			
+196605	Rapid Bacterial Antigen Ident Kit Streptococcus Group B	3	rapid bacterial antigen ident kit streptococcus group b			
+64170	Bronchopneumonia	3	bronchopneumonia	DOID:12375	bronchopneumonia	name
+63285	Mitral Regurgitation	3	mitral regurgitation	DOID:11502	mitral regurgitation	exact-synonym
+63469	Systolic Hypertension	3	systolic hypertension			
+63485	Primary Pulmonary Hypertension	3	primary pulmonary hypertension	DOID:14557	primary pulmonary hypertension	name
+68087	Hyperkalemia	3	hyperkalemia			
+274511	Travel Sickness	3	travel sickness	DOID:2951	Travel sickness	exact-synonym
+274511	Travel Sickness	3	travel sickness	DOID:2951	Travel Sickness	exact-synonym
+274511	Travel Sickness	3	travel sickness	DOID:2951	Travel sickness	exact-synonym
+155100	(Lower) Leg Localized Swelling Bilateral	3	(lower) leg localized swelling bilateral			
+73564	Lateral Epicondylitis	3	lateral epicondylitis	DOID:14087	Lateral epicondylitis	exact-synonym
+70148	Localized Primary Osteoarthritis	3	localized primary osteoarthritis			
+288804	Encephalitis	3	encephalitis	DOID:9588	encephalitis	name
+70196	Generalized Osteoarthritis	3	generalized osteoarthritis			
+288796	Premenstrual Syndromes	3	premenstrual syndromes			
+61038	Dizziness	3	dizziness			
+69834	Ingrowing Nail With Infection	3	ingrowing nail with infection			
+69824	Morphea (Localized Scleroderma)	3	morphea (localized scleroderma)			
+77896	Lower Genitourinary Venereal Disease Due To Chlamydia Trachomatis	3	lower genitourinary venereal disease due to chlamydia trachomatis			
+77970	Iron Deficiency Anemia Secondary To Inadequate Dietary Iron Intake	3	iron deficiency anemia secondary to inadequate dietary iron intake			
+287562	Acute Conjunctivitis Of Both Eyes	3	acute conjunctivitis of both eyes			
+283277	Abnormal Weight Loss	3	abnormal weight loss			
+65778	Urge And Stress Incontinence	3	urge and stress incontinence			
+283136	Bladder Cancer	3	bladder cancer	DOID:11054	bladder cancer	exact-synonym
+69785	Hidradenitis Suppurativa	3	hidradenitis suppurativa	DOID:2280	hidradenitis suppurativa	name
+69785	Hidradenitis Suppurativa	3	hidradenitis suppurativa	DOID:2280	Hidradenitis suppurativa	exact-synonym
+69785	Hidradenitis Suppurativa	3	hidradenitis suppurativa	DOID:2280	Hidradenitis suppurativa	exact-synonym
+69785	Hidradenitis Suppurativa	3	hidradenitis suppurativa	DOID:2280	Hidradenitis suppurativa	exact-synonym
+69785	Hidradenitis Suppurativa	3	hidradenitis suppurativa	DOID:2280	Hidradenitis suppurativa	exact-synonym
+70460	Adult Still's Disease	3	adult still's disease			
+78050	Antiphospholipid Syndrome	3	antiphospholipid syndrome	DOID:2988	antiphospholipid syndrome	name
+78050	Antiphospholipid Syndrome	3	antiphospholipid syndrome	DOID:2988	Antiphospholipid syndrome	exact-synonym
+78050	Antiphospholipid Syndrome	3	antiphospholipid syndrome	DOID:2988	Antiphospholipid syndrome	exact-synonym
+283130	Benign Localized Prostatic Hyperplasia Without Urinary Obstruction With Other Lower Urinary Tract Symptoms	3	benign localized prostatic hyperplasia without urinary obstruction with other lower urinary tract symptoms			
+283037	Hematuria	3	hematuria			
+70476	CREST Syndrome	3	crest syndrome	DOID:0060218	CREST syndrome	name
+61421	Acute Vernal Conjunctivitis	3	acute vernal conjunctivitis			
+69663	Decubitus Ulcer	3	decubitus ulcer	DOID:8717	decubitus ulcer	name
+69663	Decubitus Ulcer	3	decubitus ulcer	DOID:8717	Decubitus ulcer	exact-synonym
+61463	Conjunctivitis In Both Eyes	3	conjunctivitis in both eyes			
+61011	Inadequacy Of Lubrication Of Vaginal Mucosa	3	inadequacy of lubrication of vaginal mucosa			
+69885	Pityriasis Rosea	3	pityriasis rosea	DOID:8892	pityriasis rosea	name
+69885	Pityriasis Rosea	3	pityriasis rosea	DOID:8892	Pityriasis Rosea	exact-synonym
+278691	Lumbar Facet Syndrome	3	lumbar facet syndrome			
+60984	Sudden Redness Of The Skin (Flushing)	3	sudden redness of the skin (flushing)			
+298801	Dyshidrotic Eczema	3	dyshidrotic eczema			
+297216	Acute Nasopharyngitis	3	acute nasopharyngitis	DOID:10459	acute Nasopharyngitis	exact-synonym
+296985	Acute Venous Thrombosis Of The Deep Vessels Of The Lower Extremity	3	acute venous thrombosis of the deep vessels of the lower extremity			
+70050	Furuncle On The Buttock	3	furuncle on the buttock			
+296627	Colitis	3	colitis	DOID:0060180	colitis	name
+77265	Phaehyphomycosis	3	phaehyphomycosis	DOID:14049	phaehyphomycosis	exact-synonym
+293598	Parkinsonism	3	parkinsonism			
+70081	Skin Abscess Of The Face	3	skin abscess of the face			
+65745	Vesicoureteral Reflux	3	vesicoureteral reflux	DOID:9620	vesicoureteral reflux	name
+292640	Rhinosinusitis	3	rhinosinusitis			
+70000	Facial Cellulitis	3	facial cellulitis			
+292512	Piriformis Syndrome	3	piriformis syndrome			
+291853	Adrenal Insufficiency	3	adrenal insufficiency			
+291776	Vulvar Furuncle	3	vulvar furuncle			
+69948	Idiopathic Urticaria	3	idiopathic urticaria			
+291647	Intervention And Counseling On Cessation Of Tobacco Use	3	intervention and counseling on cessation of tobacco use			
+77808	Pediculosis Capitis	3	pediculosis capitis			
+60879	Decrease In Appetite	3	decrease in appetite			
+76786	Herpes Simplex Acute Gingivostomatitis	3	herpes simplex acute gingivostomatitis			
+289130	Benign Prostatic Hypertrophy With Urinary Obstruction	3	benign prostatic hypertrophy with urinary obstruction			
+65756	Chronic Interstitial Cystitis	3	chronic interstitial cystitis	DOID:1678	chronic interstitial cystitis	name
+70549	Costochondritis (Tietze's Syndrome)	3	costochondritis (tietze's syndrome)			
+76669	Impulse Control Disorder	3	impulse control disorder	DOID:10937	impulse control disorder	name
+274669	Chronic Renal Insufficiency	3	chronic renal insufficiency			
+278172	Infant Feeding Problems	3	infant feeding problems			
+278139	Neonatal Candidiasis Of The Diaper Region	3	neonatal candidiasis of the diaper region			
+62402	Otitis Media Of The Right Ear	3	otitis media of the right ear			
+83137	Nonvenomous Insect Bite	3	nonvenomous insect bite			
+62355	Acute Mucoid Otitis Media	3	acute mucoid otitis media	DOID:9736	acute mucoid otitis media	exact-synonym
+277881	Childhood Asthma	3	childhood asthma			
+82470	Traumatic Amputation Of Finger(S)	3	traumatic amputation of finger(s)			
+81224	Malignant Neoplasm Of The Head, Face, Or Neck	3	malignant neoplasm of the head, face, or neck			
+275602	Organic Periodic Limb Movement Sleep Disorder	3	organic periodic limb movement sleep disorder			
+275483	Dementia Of Alzheimer's Type	3	dementia of alzheimer's type			
+62409	Cerumen Impaction	3	cerumen impaction			
+81336	Infected Nonvenomous Insect Bite	3	infected nonvenomous insect bite			
+76408	Adult Sleep Apnea	3	adult sleep apnea			
+275545	Organic Hypersomnia	3	organic hypersomnia			
+76404	Sleep-wake Schedule Disorder, Frequently Changing	3	sleep-wake schedule disorder, frequently changing			
+275540	Severe Recurrent Major Depression With Psychotic Features	3	severe recurrent major depression with psychotic features			
+69425	Diabetic Peripheral Neuropathy Type II	3	diabetic peripheral neuropathy type ii			
+69434	Diabetic Autonomic Neuropathy	3	diabetic autonomic neuropathy	DOID:11503	diabetic autonomic neuropathy	name
+78371	Benign Nasal Cavity Neoplasm	3	benign nasal cavity neoplasm			
+78152	Immunodeficiency Disorders	3	immunodeficiency disorders			
+65134	Internal Hemorrhoids	3	internal hemorrhoids			
+78154	DiGeorge Syndrome	3	digeorge syndrome	DOID:11198	DiGeorge syndrome	name
+278634	Skin Abscess Of The Right Buttock	3	skin abscess of the right buttock			
+69527	Orthostatic Hypotension	3	orthostatic hypotension			
+62353	Acute Serous Otitis Media Of The Left Ear	3	acute serous otitis media of the left ear			
+278297	Glucose Intolerance	3	glucose intolerance	DOID:10603	glucose intolerance	name
+93725	Allergy To Peanuts	2	allergy to peanuts			
+65685	Asymptomatic Hyperuricemia	2	asymptomatic hyperuricemia			
+82407	Gunshot Wound Of The Face	2	gunshot wound of the face			
+64786	Chronic Antral Gastritis	2	chronic antral gastritis			
+93736	Allergy To Insect Bites / Stings	2	allergy to insect bites / stings			
+94409	Exposed To Gonorrhea	2	exposed to gonorrhea			
+94415	Exposed To Tuberculosis	2	exposed to tuberculosis			
+85604	Generalized Pain	2	generalized pain			
+64750	Gastrostomy Infection	2	gastrostomy infection			
+97011	A Fall	2	a fall			
+65622	Pyelonephritis	2	pyelonephritis	DOID:11400	pyelonephritis	name
+83212	Diffuse Idiopathic Skeletal Hyperostosis (DISH)	2	diffuse idiopathic skeletal hyperostosis (dish)			
+83233	Shoulder Injury	2	shoulder injury			
+65676	Nephrotic Syndrome Due To Focal Segmental Sclerosing Glomerulonephritis	2	nephrotic syndrome due to focal segmental sclerosing glomerulonephritis			
+64935	Malabsorption Syndrome	2	malabsorption syndrome			
+77207	Esophageal Candidiasis	2	esophageal candidiasis	DOID:13146	esophageal candidiasis	name
+83136	Bite From A Venomous Spider	2	bite from a venomous spider			
+116197	Abdomen Tenderness Direct RUQ	2	abdomen tenderness direct ruq			
+115862	Costovertebral Angle Tenderness	2	costovertebral angle tenderness			
+85649	Joint Pain In The Toes	2	joint pain in the toes			
+97487	Planning To Become Pregnant	2	planning to become pregnant			
+87756	Abdominal Pain Feels Crampy / Colicky	2	abdominal pain feels crampy / colicky			
+93460	Taking Blood Thinners For A Long Time	2	taking blood thinners for a long time			
+86958	Discharge From The Ears	2	discharge from the ears			
+81810	Full Thickness (Third Degree) Burns Of Multiple Sites Of Wrists And Hands	2	full thickness (third degree) burns of multiple sites of wrists and hands			
+78139	Anaphylaxis Due To Bee Venom	2	anaphylaxis due to bee venom			
+65142	Thrombosed External Hemorrhoids	2	thrombosed external hemorrhoids	DOID:9745	Thrombosed external hemorrhoids	exact-synonym
+64231	Tracheal Stenosis	2	tracheal stenosis	DOID:3227	tracheal stenosis	name
+88022	Vaginal Itching	2	vaginal itching			
+88058	Severe Menstrual Pain (Dysmenorrhea)	2	severe menstrual pain (dysmenorrhea)			
+64211	Chronic Asthmatic Bronchitis	2	chronic asthmatic bronchitis			
+65123	Rectal Hemorrhage	2	rectal hemorrhage			
+65032	Neurogenic Bowel	2	neurogenic bowel	DOID:13419	neurogenic bowel	name
+87739	Abdominal Pain In The Right Lower Belly (RLQ)	2	abdominal pain in the right lower belly (rlq)			
+87737	Abdominal Pain In The Right Upper Belly (RUQ)	2	abdominal pain in the right upper belly (ruq)			
+65103	Proctitis	2	proctitis	DOID:3127	proctitis	name
+65144	External Hemorrhoids With Bleeding	2	external hemorrhoids with bleeding			
+87088	Hiccups (Symptom)	2	hiccups (symptom)			
+77969	Iron Deficiency Anemia Secondary To Chronic Blood Loss	2	iron deficiency anemia secondary to chronic blood loss			
+87060	Hoarseness	2	hoarseness			
+65062	Colonic Diverticulosis	2	colonic diverticulosis			
+81217	Multiple Myeloma	2	multiple myeloma	DOID:9538	multiple myeloma	name
+91115	Lower Back Pain Chronic	2	lower back pain chronic			
+65354	Chronic Pancreatitis	2	chronic pancreatitis			
+65360	Pancreatic Insufficiency	2	pancreatic insufficiency			
+77833	Trichomoniasis	2	trichomoniasis	DOID:1947	trichomoniasis	name
+64501	Pleurisy	2	pleurisy	DOID:10247	pleurisy	name
+65047	Crohn's (Granulomatous) Colitis	2	crohn's (granulomatous) colitis			
+64159	Atypical Mycobacterium Avium Intracellulare Pneumonia	2	atypical mycobacterium avium intracellulare pneumonia			
+64155	Primary Atypical Mycoplasma Pneumoniae	2	primary atypical mycoplasma pneumoniae			
+64978	Short Bowel Syndrome	2	short bowel syndrome	DOID:10605	short bowel syndrome	name
+70018	Cellulitis Of The Foot	2	cellulitis of the foot			
+155101	(Lower) Leg Localized Swelling Unilateral	2	(lower) leg localized swelling unilateral			
+278662	Onychomycosis Of The Right 1st Toenail	2	onychomycosis of the right 1st toenail			
+278562	Onychomycosis Of The Toenails	2	onychomycosis of the toenails			
+62348	Acute Suppurative Otitis Media Of The Left Ear	2	acute suppurative otitis media of the left ear			
+278285	Abnormal Glucose	2	abnormal glucose			
+278177	Hyperprolactinemia	2	hyperprolactinemia	DOID:12700	hyperprolactinemia	name
+62354	Acute Serous Otitis Media Of Both Ears	2	acute serous otitis media of both ears			
+277994	Emphysematous Chronic Bronchitis	2	emphysematous chronic bronchitis			
+277885	Bronchospasm	2	bronchospasm	DOID:1176	Bronchospasm	exact-synonym
+276379	Heartburn With Regurgitation	2	heartburn with regurgitation			
+275608	Idiopathic Organic Hypersomnia	2	idiopathic organic hypersomnia			
+62388	Chronic Mucoid Otitis Media	2	chronic mucoid otitis media			
+275590	Organic REM Sleep Behavior Disorder	2	organic rem sleep behavior disorder			
+62391	Chronic Mucoid Otitis Media Of Both Ears	2	chronic mucoid otitis media of both ears			
+275542	Persistent Insomnia	2	persistent insomnia			
+275541	Adjustment Insomnia	2	adjustment insomnia			
+275520	Bipolar I Disorder, Most Recent Episode, Depressed Severe Without Psychotic Features	2	bipolar i disorder, most recent episode, depressed severe without psychotic features			
+275520	Bipolar I Disorder, Most Recent Episode, Depressed - Severe Without Psychotic Features	2	bipolar i disorder, most recent episode, depressed - severe without psychotic features			
+274689	Chronic Kidney Disease With Benign Hypertension	2	chronic kidney disease with benign hypertension			
+62503	Cholesteatoma In The Left Ear	2	cholesteatoma in the left ear			
+274671	Chronic Kidney Disease, Stage	2	chronic kidney disease, stage			
+274640	Chronic Kidney Disease, Stage 5	2	chronic kidney disease, stage 5			
+274639	Chronic Kidney Disease (NKF Classification)	2	chronic kidney disease (nkf classification)			
+274605	Chronic Kidney Disease, Stage 2	2	chronic kidney disease, stage 2			
+62550	Tympanic Membrane Perforation	2	tympanic membrane perforation			
+278606	Onychomycosis Of The Fingernails	2	onychomycosis of the fingernails			
+278688	Trapezoid Muscle Strain	2	trapezoid muscle strain			
+62551	Central Perforation Of The Tympanic Membrane	2	central perforation of the tympanic membrane			
+279038	Inquiry And Counseling: Family Planning	2	inquiry and counseling: family planning			
+298920	Right Back Strain	2	right back strain			
+297053	Reactive Arthritis	2	reactive arthritis	DOID:6196	reactive arthritis	name
+297053	Reactive Arthritis	2	reactive arthritis	DOID:6196	Reactive arthritis	exact-synonym
+296854	Spondyloarthropathy	2	spondyloarthropathy	DOID:1123	spondyloarthropathy	name
+31788	Multiple Gestation - Twins	2	multiple gestation - twins			
+34444	Mucosal Cyst	2	mucosal cyst			
+60832	Facial Pain	2	facial pain			
+60854	Palpitations (Symptom)	2	palpitations (symptom)			
+291525	Impingement Of The Right Shoulder	2	impingement of the right shoulder			
+289885	Parkinsonism (Secondary)	2	parkinsonism (secondary)			
+289133	Benign Prostatic Hypertrophy With Urinary Obstruction With Other Lower Urinary Tract Symptoms	2	benign prostatic hypertrophy with urinary obstruction with other lower urinary tract symptoms			
+60918	Rectal Pain	2	rectal pain			
+288895	Chronic Pain Due To Trauma	2	chronic pain due to trauma			
+288856	Spasms	2	spasms			
+288823	Lennox-Gastaut Syndrome	2	lennox-gastaut syndrome	DOID:0050561	Lennox-Gastaut syndrome	name
+288778	Female Infertility Associated With Anovulation	2	female infertility associated with anovulation			
+61065	Abnormality Of Walk	2	abnormality of walk			
+61072	Numbness (Hypesthesia)	2	numbness (hypesthesia)			
+285039	Taking Medication For A Long Time	2	taking medication for a long time			
+61321	Stye	2	stye	DOID:9909	Stye	exact-synonym
+61323	Stye In The Left Eye	2	stye in the left eye			
+283128	Benign Localized Prostatic Hyperplasia	2	benign localized prostatic hyperplasia			
+282695	Cyclic Vomiting Syndrome	2	cyclic vomiting syndrome			
+61423	Acute Atopic Conjunctivitis	2	acute atopic conjunctivitis	DOID:11203	acute atopic conjunctivitis	exact-synonym
+61423	Acute Atopic Conjunctivitis	2	acute atopic conjunctivitis	DOID:11203	acute Atopic Conjunctivitis	exact-synonym
+61423	Acute Atopic Conjunctivitis	2	acute atopic conjunctivitis	DOID:11203	acute atopic conjunctivitis	exact-synonym
+274456	Acute Otitis Externa Of The Left Ear	2	acute otitis externa of the left ear			
+265849	Need For Prophylactic Antibiotics	2	need for prophylactic antibiotics			
+157287	Feet Swelling	2	feet swelling			
+250924	Varicose Veins With Swelling	2	varicose veins with swelling			
+250856	Chronic Diastolic Congestive Heart Failure	2	chronic diastolic congestive heart failure			
+63218	Right Sided Congestive Heart Failure	2	right sided congestive heart failure			
+63219	Left Heart Failure	2	left heart failure			
+202874	Inquiry And Counseling: Contraceptive Practices	2	inquiry and counseling: contraceptive practices			
+201752	Squamous Cell Carcinoma	2	squamous cell carcinoma	DOID:1749	squamous cell carcinoma	name
+199805	Serology Prostate-specific Antigen (PSA) Elevated	2	serology prostate-specific antigen (psa) elevated			
+63271	Aortic Stenosis	2	aortic stenosis	DOID:1712	Aortic stenosis	exact-synonym
+181397	Adenoid Squamous Cell Carcinoma Of The Kidney	2	adenoid squamous cell carcinoma of the kidney			
+63496	Tetralogy Of Fallot	2	tetralogy of fallot	DOID:6419	tetralogy of Fallot	name
+63499	Atrial Septal Defect	2	atrial septal defect	DOID:1882	atrial septal defect	exact-synonym
+173525	Candidal Balanitis	2	candidal balanitis			
+169023	Fracture Of The Nasal Bones	2	fracture of the nasal bones			
+168628	Tinea Facialis	2	tinea facialis			
+168612	Cellulitis Of The Right Leg	2	cellulitis of the right leg			
+168530	Chronic Nondecubitus Ulcer Of The Ankle	2	chronic nondecubitus ulcer of the ankle			
+167200	Premature Menopause	2	premature menopause	DOID:10787	premature menopause	name
+167200	Premature Menopause	2	premature menopause	DOID:10787	Premature menopause	exact-synonym
+167200	Premature Menopause	2	premature menopause	DOID:5426	premature menopause	exact-synonym
+63746	Venous Thrombosis	2	venous thrombosis			
+63765	Carotid Artery Stenosis	2	carotid artery stenosis			
+63912	Varicose Veins With Inflammation	2	varicose veins with inflammation			
+165611	Myoclonus	2	myoclonus			
+165488	Hemispasticity Of Left Side - (Nondominant Side)	2	hemispasticity of left side - (nondominant side)			
+165460	Quadriplegia	2	quadriplegia	DOID:12835	quadriplegia	name
+163664	Mood Irritable	2	mood irritable			
+250869	Acute Combined Systolic And Diastolic Congestive Heart Failure	2	acute combined systolic and diastolic congestive heart failure			
+251181	Urinary Frequency	2	urinary frequency			
+62581	Acute Frontal Sinusitis	2	acute frontal sinusitis	DOID:14225	acute frontal sinusitis	name
+62926	Premature Ventricular Contractions	2	premature ventricular contractions			
+260344	Liver Cancer	2	liver cancer	DOID:3571	liver cancer	name
+62592	Inverted Nasal Papilloma	2	inverted nasal papilloma			
+258965	Impaired Glucose Tolerance Test	2	impaired glucose tolerance test			
+258964	Impaired Fasting Glucose	2	impaired fasting glucose			
+258894	Acromegaly	2	acromegaly	DOID:2449	acromegaly	name
+62610	Vasomotor Rhinitis	2	vasomotor rhinitis	DOID:4730	vasomotor rhinitis	name
+62610	Vasomotor Rhinitis	2	vasomotor rhinitis	DOID:4730	Vasomotor Rhinitis	exact-synonym
+62610	Vasomotor Rhinitis	2	vasomotor rhinitis	DOID:4730	Vasomotor rhinitis	exact-synonym
+62610	Vasomotor Rhinitis	2	vasomotor rhinitis	DOID:4730	Vasomotor rhinitis	exact-synonym
+258733	Bloating (Symptom)	2	bloating (symptom)			
+257959	Hypercalciuria	2	hypercalciuria			
+62641	Parotitis	2	parotitis	DOID:10301	parotitis	name
+62678	Aphthous Ulcer	2	aphthous ulcer			
+252576	Focal Torsion Dystonia	2	focal torsion dystonia			
+62732	Tonsillitis	2	tonsillitis	DOID:10456	tonsillitis	name
+252571	Partial Complex Seizure With Memory Disturbances	2	partial complex seizure with memory disturbances			
+62753	Adenoid Hypertrophy	2	adenoid hypertrophy	DOID:0060311	adenoid hypertrophy	name
+252551	Generalized Convulsive Tonicclonic Seizure	2	generalized convulsive tonicclonic seizure			
+62766	Acute Viral Pharyngitis	2	acute viral pharyngitis			
+62785	Laryngomalacia	2	laryngomalacia			
+252549	Generalized Convulsive Tonic Seizure	2	generalized convulsive tonic seizure			
+252548	Generalized Convulsive Clonic Seizure With Intractable Seizure	2	generalized convulsive clonic seizure with intractable seizure			
+251599	Encopresis With Constipation, Overflow Incontinence	2	encopresis with constipation, overflow incontinence			
+251529	Chronic Otitis Media	2	chronic otitis media			
+62908	Automatic Atrial Tachycardia	2	automatic atrial tachycardia			
+251468	Limb Swelling	2	limb swelling			
+77174	Wound Infection	2	wound infection			
+298955	Multiple Muscle Strains	2	multiple muscle strains			
+65711	Diabetic Nephropathy Type II	2	diabetic nephropathy type ii			
+69456	Hypoglycemia	2	hypoglycemia	DOID:9993	hypoglycemia	name
+70602	Childhood Dermatomyositis (Type IV)	2	childhood dermatomyositis (type iv)			
+70604	Polymyositis In Other Collagen Vascular Disease	2	polymyositis in other collagen vascular disease			
+75935	Anxiety Disorder Of Unknown (Axis III) Etiology	2	anxiety disorder of unknown (axis iii) etiology			
+69535	Metabolic Acidosis	2	metabolic acidosis	DOID:0050758	metabolic acidosis	name
+70664	Takayasu's Disease	2	takayasu's disease	DOID:2508	Takayasu's disease	exact-synonym
+70681	Polyarthritis	2	polyarthritis			
+70702	Polyarthropathy Of Multiple Sites	2	polyarthropathy of multiple sites			
+75920	Dementia Of Unknown (Axis III) Etiology	2	dementia of unknown (axis iii) etiology			
+75904	Atypical Pervasive Developmental Disorder	2	atypical pervasive developmental disorder			
+69884	Pityriasis Alba	2	pityriasis alba			
+70721	Sacroiliitis	2	sacroiliitis			
+75897	Pervasive Developmental Disorders	2	pervasive developmental disorders			
+69445	Diabetic Gastropathy	2	diabetic gastropathy			
+75881	Encopresis	2	encopresis			
+75880	Enuresis	2	enuresis			
+75868	Feeding Disorder Of Infancy / Early Childhood	2	feeding disorder of infancy / early childhood			
+75835	Disruptive Behavior Disorder, Childhood Onset	2	disruptive behavior disorder, childhood onset			
+71094	Closed Fracture Of The Lower Jaw Multiple Sites	2	closed fracture of the lower jaw multiple sites			
+69551	Ovarian Failure	2	ovarian failure			
+69557	Idiopathic Precocious Puberty	2	idiopathic precocious puberty			
+76233	Paranoid Schizophrenia, Subchronic	2	paranoid schizophrenia, subchronic			
+66257	Vulvar Atrophy	2	vulvar atrophy			
+69841	Nummular Eczematous Dermatitis	2	nummular eczematous dermatitis			
+70198	Generalized Osteoarthritis Of Multiple Sites	2	generalized osteoarthritis of multiple sites			
+70382	Arthropathy Of Multiple Sites	2	arthropathy of multiple sites			
+66022	Ovarian Cyst	2	ovarian cyst	DOID:5119	ovarian cyst	name
+76356	Major Depression, Single Episode In Remission	2	major depression, single episode in remission			
+66087	Endometriosis	2	endometriosis	DOID:289	endometriosis	name
+70406	Pseudogout	2	pseudogout	DOID:1156	pseudogout	exact-synonym
+76343	Bipolar I Disorder, Most Recent Episode, Depressed - Moderate	2	bipolar i disorder, most recent episode, depressed - moderate			
+69732	Discoid Lupus Erythematosus	2	discoid lupus erythematosus			
+66141	Secondary Amenorrhea	2	secondary amenorrhea			
+66176	Cervical Stenosis/Stricture	2	cervical stenosis/stricture			
+66179	Cervicitis	2	cervicitis	DOID:2568	cervicitis	name
+70480	Arthritis Of Inflammatory Bowel Disease	2	arthritis of inflammatory bowel disease			
+70505	Plantar Fasciitis	2	plantar fasciitis	DOID:9600	plantar fasciitis	name
+76290	Atypical Psychosis	2	atypical psychosis			
+66216	Nonspecific Vaginitis	2	nonspecific vaginitis			
+66217	Trichomonas Vaginalis Vaginitis	2	trichomonas vaginalis vaginitis			
+73421	Elbow Sprain	2	elbow sprain			
+73431	Wrist Sprain	2	wrist sprain			
+75813	Chronic Fatigue Syndrome	2	chronic fatigue syndrome	DOID:8544	chronic fatigue syndrome	name
+68102	Overweight	2	overweight			
+69362	Hypoparathyroidism	2	hypoparathyroidism	DOID:11199	hypoparathyroidism	name
+75172	Stroke Syndrome	2	stroke syndrome			
+75153	Transient Ischemic Attack	2	transient ischemic attack	DOID:224	TRANSIENT ISCHEMIC ATTACK	exact-synonym
+75153	Transient Ischemic Attack	2	transient ischemic attack	DOID:224	transient ischemic attack	exact-synonym
+75121	Torticollis	2	torticollis			
+69339	Osteomalacia	2	osteomalacia	DOID:10573	osteomalacia	name
+75108	Spasmodic Torticollis	2	spasmodic torticollis	DOID:0050840	spasmodic torticollis	exact-synonym
+75082	Parkinson's Disease With Dementia	2	parkinson's disease with dementia			
+69200	Pituitary Prolactinoma	2	pituitary prolactinoma			
+69201	Prolactinoma Microadenoma	2	prolactinoma microadenoma			
+74549	Menstrual Migraine Headache	2	menstrual migraine headache			
+74552	Cluster Headache	2	cluster headache			
+75026	Alzheimer's Disease Late Onset	2	alzheimer's disease late onset			
+75021	Alzheimer's Disease Early Onset	2	alzheimer's disease early onset			
+69296	Nontoxic Multinodular Goiter	2	nontoxic multinodular goiter			
+75019	Cerebral Degenerations, Extrapyramidal Disorders And Movement Disorders	2	cerebral degenerations, extrapyramidal disorders and movement disorders			
+74640	Meningeal Sarcoidosis	2	meningeal sarcoidosis			
+74963	Hereditary Hemorrhagic Telangiectasia (Osler-RenduWeber)	2	hereditary hemorrhagic telangiectasia (osler-renduweber)			
+74290	Palindromic Rheumatism	2	palindromic rheumatism	DOID:1166	palindromic rheumatism	name
+69366	Pseudo Hypoparathyroidism	2	pseudo hypoparathyroidism			
+69426	Diabetic Peripheral Neuropathy Type II Uncontrolled	2	diabetic peripheral neuropathy type ii uncontrolled			
+73993	Acquired Deformity Of Nose	2	acquired deformity of nose			
+73458	Chronic Strained Lumbosacral Ligament	2	chronic strained lumbosacral ligament			
+75764	Neuralgia	2	neuralgia			
+67888	Convulsions In Newborn	2	convulsions in newborn			
+73488	Acute Medial Meniscus Tear	2	acute medial meniscus tear			
+73549	Unspecified Muscle Strain	2	unspecified muscle strain			
+69386	Type II Diabetes Mellitus With Complication Uncontrolled	2	type ii diabetes mellitus with complication uncontrolled			
+73556	Rotator Cuff Tendonitis	2	rotator cuff tendonitis			
+28293	Rhinitis Medicamentosa	2	rhinitis medicamentosa			
+75617	Chronic Inflammatory Demyelinating Polyneuropathy	2	chronic inflammatory demyelinating polyneuropathy			
+75613	Postherpetic Polyneuropathy	2	postherpetic polyneuropathy			
+75590	Postlaminectomy Syndrome (Lumbar)	2	postlaminectomy syndrome (lumbar)			
+75588	Cervical Spine Stenosis	2	cervical spine stenosis			
+73608	Subacromial Bursitis	2	subacromial bursitis			
+73671	Lumbar Disc Degeneration	2	lumbar disc degeneration	DOID:90	lumbar disc degeneration	exact-synonym
+75500	Bell's Palsy	2	bell's palsy	DOID:12506	Bell's palsy	name
+75490	Benign Paroxysmal Positional Vertigo	2	benign paroxysmal positional vertigo	DOID:13941	benign paroxysmal positional vertigo	exact-synonym
+75432	Cerebellar Ataxia	2	cerebellar ataxia	DOID:0050753	cerebellar ataxia	name
+76391	Premenstrual Disorder	2	premenstrual disorder			
+74994	Nonconvulsive (Petit Mal) Seizure With Intractable Seizure	2	nonconvulsive (petit mal) seizure with intractable seizure			
+76541	Social Phobia	2	social phobia	DOID:11257	social phobia	name
+70088	Skin Abscess Of The Groin	2	skin abscess of the groin			
+65788	Detrusor Instability	2	detrusor instability			
+65825	Benign Prostatic Hyperplasia	2	benign prostatic hyperplasia			
+70006	Cellulitis Of The Arm	2	cellulitis of the arm			
+65832	Acute Bacterial Prostatitis	2	acute bacterial prostatitis			
+70035	Furuncle In The Axilla	2	furuncle in the axilla			
+76548	Chronic Post-traumatic Stress Disorder	2	chronic post-traumatic stress disorder			
+69923	Seborrhea	2	seborrhea	DOID:8741	seborrhea	exact-synonym
+69923	Seborrhea	2	seborrhea	DOID:8741	Seborrhea	exact-synonym
+69923	Seborrhea	2	seborrhea	DOID:8741	Seborrhea	exact-synonym
+70136	Seborrheic Dermatitis Of The Scalp	2	seborrheic dermatitis of the scalp			
+76414	REM Sleep Behavior Syndrome	2	rem sleep behavior syndrome			
+69920	Sebaceous Cyst	2	sebaceous cyst			
+76431	Borderline Personality Disorder	2	borderline personality disorder	DOID:10930	borderline personality disorder	name
+65878	Acute Gonorrhea	2	acute gonorrhea			
+65853	Stress Incontinence	2	stress incontinence			
+70134	Seborrhea Capitis	2	seborrhea capitis	DOID:8941	seborrhea capitis	exact-synonym
+65763	Urinary Tract Infection, Pediatric Presentation	2	urinary tract infection, pediatric presentation			
+70031	Furuncle On The Face	2	furuncle on the face			
+70010	Cellulitis Of The Trunk	2	cellulitis of the trunk			
+76679	Adjustment Disorder	2	adjustment disorder	DOID:507	adjustment disorder	name
+76875	Condyloma Acuminatum	2	condyloma acuminatum	DOID:11168	Condyloma acuminatum	related-synonym
+70011	Cellulitis Of The Buttocks	2	cellulitis of the buttocks			
+292716	Allergies To Multiple Foods	1	allergies to multiple foods			
+62579	Acute Suppurative Sinusitis	1	acute suppurative sinusitis			
+274441	Earache In The Right Ear	1	earache in the right ear			
+274422	Acute Recurrent Otitis Media	1	acute recurrent otitis media			
+275258	Cervical Spasm	1	cervical spasm			
+292510	Myofascial Pain Syndrome	1	myofascial pain syndrome	DOID:431	myofascial pain syndrome	name
+62556	Eustachian Tube Disorder	1	eustachian tube disorder			
+62497	Cholesteatoma Of Attic	1	cholesteatoma of attic	DOID:10963	cholesteatoma of attic	name
+73626	Metatarsalgia	1	metatarsalgia			
+62415	Foreign Body In The Left Ear	1	foreign body in the left ear			
+270712	ACP Staging Stage 1 Hypertension: 140159 / 90-99	1	acp staging stage 1 hypertension: 140159 / 90-99			
+270712	ACP Staging Stage 1 Hypertension: 140-159 / 90file:///I|/AMIAJNL/000852/Preedit/1/amiajnl-2012-000852-20120418010342/suppl_data/Online%20Only%20Data%20Supplement.txt[4/23/2012 8:40:20 PM] 99	1	acp staging stage 1 hypertension: 140-159 / 90file:///i|/amiajnl/000852/preedit/1/amiajnl-2012-000852-20120418010342/suppl_data/online%20only%20data%20supplement.txt[4/23/2012 8:40:20 pm] 99			
+73631	De Quervain's Tenosynovitis	1	de quervain's tenosynovitis			
+264652	Neck Cervical Mass Left (___cm)	1	neck cervical mass left (___cm)			
+69384	Type II Diabetes Mellitus With Peripheral Circulatory Disorder - Uncontrolled	1	type ii diabetes mellitus with peripheral circulatory disorder - uncontrolled			
+296351	Frailty	1	frailty			
+264622	Neck Cervical Mass Anterior Submandibular (___cm)	1	neck cervical mass anterior submandibular (___cm)			
+70061	Paronychia	1	paronychia	DOID:13117	paronychia	name
+73695	Cervical Spondylosis	1	cervical spondylosis			
+62412	Cerumen Impaction In Both Ears	1	cerumen impaction in both ears			
+296450	Need For Vaccination Human Papilloma Virus	1	need for vaccination human papilloma virus			
+73696	Cervical Spondylosis With Myelopathy	1	cervical spondylosis with myelopathy			
+73698	Lumbar Spondylosis	1	lumbar spondylosis			
+60846	TMJ Pain	1	tmj pain			
+260134	Laryngeal Cancer	1	laryngeal cancer			
+259525	Anemia Secondary To Blood Loss	1	anemia secondary to blood loss			
+62499	Cholesteatoma Of Middle Ear And Mastoid	1	cholesteatoma of middle ear and mastoid	DOID:10964	Cholesteatoma of middle ear and mastoid	exact-synonym
+62499	Cholesteatoma Of Middle Ear And Mastoid	1	cholesteatoma of middle ear and mastoid	DOID:10964	Cholesteatoma of middle ear and mastoid	exact-synonym
+73607	Anserine Bursitis	1	anserine bursitis			
+62502	Cholesteatoma In The Right Ear	1	cholesteatoma in the right ear			
+70005	Cellulitis Of The Forearm	1	cellulitis of the forearm			
+73474	Knee Sprain	1	knee sprain			
+62510	Labyrinthitis	1	labyrinthitis	DOID:1468	labyrinthitis	name
+62516	Motion Sickness	1	motion sickness	DOID:2951	motion sickness	name
+62516	Motion Sickness	1	motion sickness	DOID:2951	Motion sickness	exact-synonym
+293515	Chronic Common Migraine (Without Aura) With Intractable Migraine	1	chronic common migraine (without aura) with intractable migraine			
+274604	Chronic Kidney Disease, Stage 1	1	chronic kidney disease, stage 1			
+73466	Hip Sprain	1	hip sprain			
+274575	Glomerulonephritis	1	glomerulonephritis	DOID:2921	glomerulonephritis	name
+274682	Kidney Disease With Benign Hypertension	1	kidney disease with benign hypertension			
+62522	Hearing Loss	1	hearing loss			
+70063	Paronychia Of The Toe(S)	1	paronychia of the toe(s)			
+62529	Sensorineural Hearing Loss	1	sensorineural hearing loss	DOID:10003	sensorineural hearing loss	name
+293618	HIV Infection CDC Classification A1	1	hiv infection cdc classification a1			
+292748	Carrier Of Infectious Disease Staphylococcus Aureus Methicillin Resistant	1	carrier of infectious disease staphylococcus aureus methicillin resistant			
+73557	Adhesive Capsulitis Of Shoulder	1	adhesive capsulitis of shoulder	DOID:14188	Adhesive capsulitis of shoulder	exact-synonym
+259485	Selective B12 Malabsorption	1	selective b12 malabsorption			
+274499	Seasickness	1	seasickness			
+274478	Tympanic Membrane Perforation Of The Left Ear	1	tympanic membrane perforation of the left ear			
+274473	Chronic Otitis Media Of Both Ears	1	chronic otitis media of both ears			
+69426	Diabetic Peripheral Neuropathy Type II - Uncontrolled	1	diabetic peripheral neuropathy type ii - uncontrolled			
+73600	Olecranon Bursitis	1	olecranon bursitis	DOID:12581	olecranon bursitis	name
+69986	Carbuncle In The Groin	1	carbuncle in the groin			
+293634	AIDS CDC Classification	1	aids cdc classification			
+274459	Acute Recurrent Otitis Media Of Both Ears	1	acute recurrent otitis media of both ears			
+34687	Open Wound Of The Auditory Canal	1	open wound of the auditory canal			
+73597	Bursitis	1	bursitis	DOID:2965	bursitis	name
+60996	Excessive Facial Or Body Hair (Hirsutism)	1	excessive facial or body hair (hirsutism)			
+259470	Sickle Cell Thalassemia	1	sickle cell thalassemia			
+74547	Abdominal Migraine Headache	1	abdominal migraine headache			
+296997	Peripheral Arterial Disease	1	peripheral arterial disease			
+257849	Overflow Incontinence	1	overflow incontinence			
+297004	Acute Venous Thrombosis Of The Deep Vessels Of The Distal Lower Extremity	1	acute venous thrombosis of the deep vessels of the distal lower extremity			
+257833	Functional Constipation	1	functional constipation			
+257804	Venous Thrombosis Of The Deep Vessels Of The Distal Lower Extremity	1	venous thrombosis of the deep vessels of the distal lower extremity			
+74540	Basilar Migraine Headache	1	basilar migraine headache			
+252900	Bad Breath	1	bad breath			
+74545	Hemiplegic Migraine Headache	1	hemiplegic migraine headache			
+30261	Bipolar I Disorder, Most Recent Episode, Depressed Severe With Psychotic Features	1	bipolar i disorder, most recent episode, depressed severe with psychotic features			
+62700	Acute Laryngitis	1	acute laryngitis	DOID:9396	acute laryngitis	name
+70034	Furuncle On The Neck	1	furuncle on the neck			
+252623	Myelopathy	1	myelopathy	DOID:319	myelopathy	related-synonym
+62718	Tracheitis	1	tracheitis	DOID:9392	tracheitis	name
+252581	Idiopathic Dystonia Musculorum Deformans	1	idiopathic dystonia musculorum deformans			
+30250	Bipolar I Disorder, Most Recent Episode, Mixed	1	bipolar i disorder, most recent episode, mixed			
+296950	Memory Lapses Or Loss Worsening	1	memory lapses or loss worsening			
+69314	Papillary Carcinoma Of The Thyroid Gland	1	papillary carcinoma of the thyroid gland	DOID:3969	Papillary carcinoma of the Thyroid gland	exact-synonym
+298473	Acute Gouty Arthropathy	1	acute gouty arthropathy			
+298484	Chronic Gouty Arthropathy	1	chronic gouty arthropathy			
+74632	Coccidioidal Meningitis	1	coccidioidal meningitis			
+298824	Birth Control Method - Contraceptive Vaginal Ring	1	birth control method - contraceptive vaginal ring			
+298909	Strained Pectoralis Major Muscle	1	strained pectoralis major muscle			
+252567	Partial Complex Psychosensory Seizure	1	partial complex psychosensory seizure			
+74644	Brain Abscess	1	brain abscess			
+74767	Brain Tumor	1	brain tumor			
+252560	Motor Partial Seizure	1	motor partial seizure			
+74884	Subependymal Giant Cell Astrocytoma	1	subependymal giant cell astrocytoma	DOID:5077	subependymal giant cell astrocytoma	name
+74963	Hereditary Hemorrhagic Telangiectasia (Osler-Rendu-Weber)	1	hereditary hemorrhagic telangiectasia (osler-rendu-weber)			
+70017	Cellulitis Of The Ankle	1	cellulitis of the ankle			
+69294	Solitary Thyroid Nodule	1	solitary thyroid nodule			
+257888	Prostatic Hyperplasia	1	prostatic hyperplasia			
+296919	Failure To Thrive As Newborn	1	failure to thrive as newborn			
+259451	Primary Hypercoagulable State	1	primary hypercoagulable state			
+74106	Chronic Osteomyelitis	1	chronic osteomyelitis			
+73700	Lumbar Spondylosis With Myelopathy	1	lumbar spondylosis with myelopathy			
+73790	Contracture	1	contracture			
+62405	Adhesive Otitis	1	adhesive otitis			
+259126	Hyperhidrosis	1	hyperhidrosis			
+258967	Hyperglycemia	1	hyperglycemia	DOID:4195	hyperglycemia	name
+73799	Contracture Of Multiple Sites	1	contracture of multiple sites			
+73919	Bunion	1	bunion			
+62594	Nasal Cavity Polyps	1	nasal cavity polyps			
+70045	Furuncle On The Back	1	furuncle on the back			
+62601	Allergic Rhinitis Due To Grass Pollen	1	allergic rhinitis due to grass pollen			
+74006	Avascular Necrosis	1	avascular necrosis			
+74011	Aseptic Necrosis Of The Femoral Head	1	aseptic necrosis of the femoral head			
+258836	Restrictive Lung Disease	1	restrictive lung disease			
+296642	Functional Urinary Incontinence	1	functional urinary incontinence			
+258831	Exercise-induced Bronchospasm	1	exercise-induced bronchospasm			
+257889	Prostatic Hyperplasia With Urinary Obstruction	1	prostatic hyperplasia with urinary obstruction			
+258750	Muscle Weakness	1	muscle weakness			
+74279	Hydrarthrosis Of The Knee / Patella / Tibia / Fibula	1	hydrarthrosis of the knee / patella / tibia / fibula			
+30790	Diastolic Hypertension	1	diastolic hypertension			
+258023	Infected Superficial Thigh Injury	1	infected superficial thigh injury			
+258020	Infected Superficial Injury Of Fingers	1	infected superficial injury of fingers			
+296780	Hyperphosphatemia	1	hyperphosphatemia	DOID:0050459	hyperphosphatemia	name
+62619	Nasal Vestibulitis	1	nasal vestibulitis			
+74299	Palindromic Rheumatism Of Multiple Sites	1	palindromic rheumatism of multiple sites			
+257950	Folic Acid Deficiency	1	folic acid deficiency			
+62633	Salivary Secretion Disturbance	1	salivary secretion disturbance			
+70037	Furuncle On The Upper Arm	1	furuncle on the upper arm			
+62634	Salivary Secretion Disturbance: Ptyalism	1	salivary secretion disturbance: ptyalism			
+74531	Episodic Tension-type Headache	1	episodic tension-type headache			
+69348	Hyperparathyroidism	1	hyperparathyroidism	DOID:13543	hyperparathyroidism	name
+292316	Gitelman's Syndrome	1	gitelman's syndrome			
+72932	Nonunion Of Fracture	1	nonunion of fracture			
+73450	Sprained Ribs	1	sprained ribs			
+61124	Highly Irritable	1	highly irritable			
+69805	Lichen Sclerosus Et Atrophicus	1	lichen sclerosus et atrophicus			
+288997	Oral Thrush Of Newborn	1	oral thrush of newborn			
+69794	Keratosis Pilaris	1	keratosis pilaris			
+60957	Menses Abnormal	1	menses abnormal			
+283233	Abscess Of The Scrotum	1	abscess of the scrotum			
+60953	Penile Discharge	1	penile discharge			
+283133	Prostatic Hyperplasia With Urinary Obstruction With Other Lower Urinary Tract Symptoms	1	prostatic hyperplasia with urinary obstruction with other lower urinary tract symptoms			
+69750	Dermatitis Due To Drugs And Medicines	1	dermatitis due to drugs and medicines			
+70463	Polyarticular Juvenile Rheumatoid Arthritis	1	polyarticular juvenile rheumatoid arthritis			
+69736	Discoid Lupus Erythematosus With Systemic Involvement	1	discoid lupus erythematosus with systemic involvement			
+283124	Prostatic Hyperplasia Without Urinary Obstruction With Other Lower Urinary Tract Symptoms	1	prostatic hyperplasia without urinary obstruction with other lower urinary tract symptoms			
+283068	Microscopic Hematuria	1	microscopic hematuria			
+70137	Infantile Seborrheic Dermatitis	1	infantile seborrheic dermatitis			
+283048	Subacute Cystitis	1	subacute cystitis			
+283036	Obstructive Uropathy	1	obstructive uropathy	DOID:5200	Obstructive Uropathy	exact-synonym
+282815	Abdominal Pain Of Childhood	1	abdominal pain of childhood			
+282806	Post-gastric Bypass For Obesity	1	post-gastric bypass for obesity			
+282714	Bloating	1	bloating			
+69693	Chronic Nondecubitus Ulcer Of The Foot	1	chronic nondecubitus ulcer of the foot			
+69605	Acanthosis Nigricans	1	acanthosis nigricans	DOID:3138	acanthosis nigricans	name
+61428	Acute Viral Conjunctivitis	1	acute viral conjunctivitis			
+69597	Micropenis	1	micropenis			
+282629	Diastolic Dysfunction	1	diastolic dysfunction			
+61462	Conjunctivitis In The Left Eye	1	conjunctivitis in the left eye			
+60905	Flatus	1	flatus			
+61770	Panuveitis	1	panuveitis	DOID:12030	panuveitis	name
+282269	Tachycardia	1	tachycardia			
+289132	Benign Prostatic Hypertrophy Without Urinary Obstruction With Other Lower Urinary Tract Symptoms	1	benign prostatic hypertrophy without urinary obstruction with other lower urinary tract symptoms			
+69569	Male Infertility	1	male infertility	DOID:12336	male infertility	name
+61234	Hallucinations (Imagined Perceptions Not Based In Reality)	1	hallucinations (imagined perceptions not based in reality)			
+61076	Urinary Loss Of Control	1	urinary loss of control			
+292142	Allergic Rhinitis Due To Mold	1	allergic rhinitis due to mold			
+283861	Rheumatoid Arthritis RF Negative	1	rheumatoid arthritis rf negative			
+288920	Acute Post-thoracotomy Pain	1	acute post-thoracotomy pain			
+288918	Acute Pain	1	acute pain			
+70160	Localized Primary Osteoarthritis Of The Hand	1	localized primary osteoarthritis of the hand			
+288894	Pain Syndromes	1	pain syndromes			
+70141	Acrodermatitis Chronica Atrophicans	1	acrodermatitis chronica atrophicans			
+288850	Cerebral Artery Occlusion With Cerebral Infarction	1	cerebral artery occlusion with cerebral infarction			
+288959	Pyrexia	1	pyrexia			
+288830	Orofacial Dyskinesia	1	orofacial dyskinesia			
+70182	Localized Secondary Osteoarthritis Of The Hip	1	localized secondary osteoarthritis of the hip			
+70188	Localized Osteoarthritis Of The Shoulder	1	localized osteoarthritis of the shoulder			
+288819	Fasciculations	1	fasciculations			
+288815	Partial Simple Seizure Without Impairment Of Consciousness	1	partial simple seizure without impairment of consciousness			
+288961	Anosmia	1	anosmia			
+288965	Spastic Gait	1	spastic gait			
+70217	Osteoarthritis Of The Hand	1	osteoarthritis of the hand			
+70222	Osteoarthrosis	1	osteoarthrosis	DOID:8398	osteoarthrosis	exact-synonym
+61041	Fainting (Syncope)	1	fainting (syncope)			
+70293	Arthropathy	1	arthropathy	DOID:381	arthropathy	name
+60973	Vaginal Discharge (Symptom)	1	vaginal discharge (symptom)			
+288522	Periodontal Abscess	1	periodontal abscess			
+69816	Miliaria	1	miliaria	DOID:1382	miliaria	name
+287531	Lacrimal Stenosis Of The Right Eye	1	lacrimal stenosis of the right eye			
+287522	Dry Eye Syndrome Of Both Eyes	1	dry eye syndrome of both eyes			
+287495	Acute Conjunctivitis Of The Left Eye	1	acute conjunctivitis of the left eye			
+288990	Perianal Abscess	1	perianal abscess			
+69806	Lichen Simplex Chronicus	1	lichen simplex chronicus			
+284497	Partial Thickness (2nd Degree) Burns Of The Right Chest Wall	1	partial thickness (2nd degree) burns of the right chest wall			
+284282	Blister	1	blister			
+284040	Abrasion Of The Left Cornea	1	abrasion of the left cornea			
+70552	Disorders Of Connective Tissue	1	disorders of connective tissue			
+62324	Infective Otitis Externa	1	infective otitis externa			
+62327	Acute Swimmer's Ear	1	acute swimmer's ear	DOID:10518	acute swimmer's ear	exact-synonym
+62330	Acute Actinic Otitis Externa	1	acute actinic otitis externa			
+62371	Chronic Atticoantral Suppurative Otitis Media	1	chronic atticoantral suppurative otitis media	DOID:14248	chronic atticoantral suppurative otitis media	exact-synonym
+69950	Heat Urticaria	1	heat urticaria			
+277900	Influenza With Other URI Manifestations	1	influenza with other uri manifestations			
+277898	Influenza A(H2N2)	1	influenza a(h2n2)			
+69459	Alimentary Hypoglycemia	1	alimentary hypoglycemia			
+291786	Senile Dementia	1	senile dementia			
+62372	Chronic Suppurative Otitis Media Of The Right Ear	1	chronic suppurative otitis media of the right ear			
+62384	Chronic Serous Otitis Media	1	chronic serous otitis media			
+276403	Muscle Weakness Generalized	1	muscle weakness generalized			
+276378	Vomiting During Pregnancy	1	vomiting during pregnancy			
+275615	Behavioral Insomnia Of Childhood	1	behavioral insomnia of childhood			
+69967	Bacterial Dermatological Conditions	1	bacterial dermatological conditions			
+291855	Addisonian Crisis	1	addisonian crisis			
+292021	Complaint Of Allergic Reaction Seasonal	1	complaint of allergic reaction seasonal			
+275605	Idiopathic Insomnia	1	idiopathic insomnia			
+62387	Chronic Serous Otitis Media Of Both Ears	1	chronic serous otitis media of both ears			
+69970	Carbuncle On The Face	1	carbuncle on the face			
+71076	Closed Fracture Of Facial Bones	1	closed fracture of facial bones			
+60853	Chest Pain Or Discomfort	1	chest pain or discomfort			
+71097	Open Fracture Of Mandible / Lower Jaw	1	open fracture of mandible / lower jaw			
+71119	Fracture Of The Vertebral Column	1	fracture of the vertebral column			
+72681	Closed Bimalleolar Fracture	1	closed bimalleolar fracture			
+275543	Psychophysiological Insomnia	1	psychophysiological insomnia			
+72931	Malunion Of Fracture	1	malunion of fracture			
+61002	Changed Sexual Interest (Libido): Decreased	1	changed sexual interest (libido): decreased			
+73400	Sprain	1	sprain			
+275539	Severe Single Episode Major Depression Without Psychotic Features	1	severe single episode major depression without psychotic features			
+73405	Shoulder Sprain	1	shoulder sprain			
+292099	Medium-chain Acyl-CoA Dehydrogenase Deficiency	1	medium-chain acyl-coa dehydrogenase deficiency			
+69466	21-hydroxylase Deficiency (Non Salt Losing)	1	21-hydroxylase deficiency (non salt losing)			
+277984	Allergic Bronchitis	1	allergic bronchitis			
+60862	Feeling Congested In The Chest	1	feeling congested in the chest			
+278570	Furuncle On The Left Thigh	1	furuncle on the left thigh			
+70568	Fibrositis	1	fibrositis			
+69897	Pruritus Ani	1	pruritus ani			
+289875	Presenile Dementia	1	presenile dementia			
+60896	Vomiting Blood (Hematemesis)	1	vomiting blood (hematemesis)			
+278689	Cervical Facet Syndrome	1	cervical facet syndrome			
+70569	Myopathies	1	myopathies			
+62336	Otitis Externa Of The Right Ear	1	otitis externa of the right ear			
+278664	Onychomycosis Of The Left 1st Toenail	1	onychomycosis of the left 1st toenail			
+278663	Onychomycosis Of The Left Toenails	1	onychomycosis of the left toenails			
+60889	Pain On Swallowing	1	pain on swallowing			
+278637	Skin Abscess Of The Right Leg	1	skin abscess of the right leg			
+289881	Petit Mal Seizure, Juvenile With Intractable Seizure	1	petit mal seizure, juvenile with intractable seizure			
+278576	Bullous Impetigo	1	bullous impetigo			
+70131	Intertrigo	1	intertrigo			
+69493	Primary Adrenal Insufficiency ('Addison Disease')	1	primary adrenal insufficiency ('addison disease')			
+69547	Inadequate Luteal Phase	1	inadequate luteal phase			
+278541	Furuncle On The Breast	1	furuncle on the breast			
+278526	Skin Abscess Of The Left Thigh	1	skin abscess of the left thigh			
+278474	Furuncle In The Right Axilla	1	furuncle in the right axilla			
+69918	Keloid Scar	1	keloid scar			
+69293	Nontoxic Nodular Goiter	1	nontoxic nodular goiter			
+278464	Skin Abscess Of The Left Buttock	1	skin abscess of the left buttock			
+69526	Hypotension	1	hypotension			
+69508	Aldosteronism	1	aldosteronism			
+69507	Secondary Adrenal Insufficiency	1	secondary adrenal insufficiency			
+70643	Allergic Granulomatous Angiitis (Churg-Strauss)	1	allergic granulomatous angiitis (churg-strauss)			
+278225	Diabetes With Neurological Complications Uncontrolled	1	diabetes with neurological complications uncontrolled			
+70645	Henoch-Schonlein Purpura	1	henoch-schonlein purpura	DOID:11123	Henoch-Schonlein Purpura	exact-synonym
+62347	Acute Suppurative Otitis Media Of The Right Ear	1	acute suppurative otitis media of the right ear			
+250884	Benign Hypertensive Heart Disease Without Congestive Heart Failure	1	benign hypertensive heart disease without congestive heart failure			
+69270	Thyroiditis	1	thyroiditis	DOID:7166	thyroiditis	name
+85696	Lump Or Swelling In The Neck	1	lump or swelling in the neck			
+65996	Acute Mastitis	1	acute mastitis			
+66071	Pubertal Menorrhagia	1	pubertal menorrhagia			
+66074	Postmenopausal Bleeding	1	postmenopausal bleeding			
+85668	Pain In The Hands	1	pain in the hands			
+76358	Major Depression, Recurrent Without Melancholia	1	major depression, recurrent without melancholia			
+85686	Pain In The Arms	1	pain in the arms			
+64781	Chronic Atrophic Gastritis	1	chronic atrophic gastritis			
+66075	Post-artificial Menopause State	1	post-artificial menopause state			
+64099	Dependent Edema Due To Inactivity	1	dependent edema due to inactivity			
+64749	Gastrostomy Complication	1	gastrostomy complication			
+64701	Esophageal Varices	1	esophageal varices	DOID:112	esophageal varices	exact-synonym
+64643	Nonpathogenic Protozoal Intestinal Disease (Endolimax)	1	nonpathogenic protozoal intestinal disease (endolimax)			
+66091	Endometriosis Of The Pelvic Peritoneum	1	endometriosis of the pelvic peritoneum			
+76344	Bipolar I Disorder, Most Recent Episode, Depressed - Severe	1	bipolar i disorder, most recent episode, depressed - severe			
+76343	Bipolar I Disorder, Most Recent Episode, Depressed file:///I|/AMIAJNL/000852/Preedit/1/amiajnl-2012-000852-20120418010342/suppl_data/Online%20Only%20Data%20Supplement.txt[4/23/2012 8:40:20 PM] Moderate	1	bipolar i disorder, most recent episode, depressed file:///i|/amiajnl/000852/preedit/1/amiajnl-2012-000852-20120418010342/suppl_data/online%20only%20data%20supplement.txt[4/23/2012 8:40:20 pm] moderate			
+87251	Breast Pain	1	breast pain			
+64869	Duodenal Ulcer	1	duodenal ulcer	DOID:1724	duodenal ulcer	name
+85634	Muscle Cramps In The Calf	1	muscle cramps in the calf			
+76365	Recurrent Major Depression In Full Remission	1	recurrent major depression in full remission			
+85625	Joint Stiffness Of The Knee	1	joint stiffness of the knee			
+76392	Bipolar Disorder, Manic, With Psychotic Features	1	bipolar disorder, manic, with psychotic features			
+82650	Motor Vehicle Collision With Another Motor Vehicle On A Road	1	motor vehicle collision with another motor vehicle on a road			
+82948	Accident Caused By Explosion - Explosive Material	1	accident caused by explosion - explosive material			
+65954	Phimosis	1	phimosis	DOID:2712	phimosis	name
+65988	Breast Atrophy	1	breast atrophy			
+65993	Nonpuerperal Breast Abscess	1	nonpuerperal breast abscess			
+83245	Ankle Injury	1	ankle injury			
+83430	Unspecified Debility	1	unspecified debility			
+83888	Tracheostomy	1	tracheostomy			
+83961	Aortic Valve Replacement	1	aortic valve replacement			
+76369	Postpartum Depression - Mild	1	postpartum depression - mild			
+65035	Acute Colitis	1	acute colitis			
+76368	Postpartum Depression	1	postpartum depression	DOID:9478	postpartum depression	name
+85619	Pain In The Thigh	1	pain in the thigh			
+65995	Mastitis	1	mastitis	DOID:10690	mastitis	name
+87419	Chest Tightness Or Heavy Pressure	1	chest tightness or heavy pressure			
+64629	Clostridium Difficile Colitis	1	clostridium difficile colitis	DOID:0060185	Clostridium difficile colitis	name
+66140	Primary Amenorrhea	1	primary amenorrhea			
+88052	Bleeding Between Periods	1	bleeding between periods			
+89421	Itching Of The Ears	1	itching of the ears			
+76273	Bipolar Schizoaffective Disorder	1	bipolar schizoaffective disorder			
+64185	Severe Persistent Asthma	1	severe persistent asthma			
+66258	Vulvar Abscess	1	vulvar abscess			
+66262	Herpetic Ulceration Of Vulva	1	herpetic ulceration of vulva			
+92472	Muscle Aches, Generalized (Myalgias)	1	muscle aches, generalized (myalgias)			
+93044	Difficulty Falling Asleep	1	difficulty falling asleep			
+66368	Cesarean Delivery - Delivered	1	cesarean delivery - delivered			
+76091	Nicotine Dependence Continuous	1	nicotine dependence continuous			
+93474	Taking Medication - Steroids	1	taking medication - steroids			
+64158	Atypical Mycobacterial Pneumonia	1	atypical mycobacterial pneumonia			
+66490	Pregnancy Complicated By Asymptomatic Bacteriuria	1	pregnancy complicated by asymptomatic bacteriuria			
+75964	Alcoholism	1	alcoholism			
+75960	Alcohol Abuse - In Remission	1	alcohol abuse - in remission			
+64120	Influenza Type A	1	influenza type a			
+76276	Schizoaffective Disorder Chronic (With Residual Symptoms)	1	schizoaffective disorder chronic (with residual symptoms)			
+70019	Cellulitis Of The Toes	1	cellulitis of the toes			
+64570	Food Poisoning	1	food poisoning			
+64220	Bronchiolitis Obliterans	1	bronchiolitis obliterans	DOID:2799	bronchiolitis obliterans	name
+76342	Bipolar I Disorder, Most Recent Episode, Depressed Mild	1	bipolar i disorder, most recent episode, depressed mild			
+87738	Abdominal Pain In The Left Upper Belly (LUQ)	1	abdominal pain in the left upper belly (luq)			
+87740	Abdominal Pain In The Left Lower Belly (LLQ)	1	abdominal pain in the left lower belly (llq)			
+64524	Empyema	1	empyema	DOID:3798	empyema	exact-synonym
+87742	Abdominal Pain Above The Pubic Area (Suprapubic)	1	abdominal pain above the pubic area (suprapubic)			
+64295	Idiopathic Pulmonary Fibrosis	1	idiopathic pulmonary fibrosis	DOID:0050156	idiopathic pulmonary fibrosis	name
+87824	Bowel Movement Frequency Recent Change	1	bowel movement frequency recent change			
+64288	Pneumonitis	1	pneumonitis			
+87900	Incomplete Emptying Of Bladder	1	incomplete emptying of bladder			
+66204	Vaginal Adhesions (Postoperative)	1	vaginal adhesions (postoperative)			
+64286	Pulmonary Interstitial / Infiltrative Disorders	1	pulmonary interstitial / infiltrative disorders			
+66211	Vaginal Wall Prolapse	1	vaginal wall prolapse			
+87908	Urinary Stream Is Smaller	1	urinary stream is smaller			
+87911	Frequent, Full-bladder Emptying (Polyuria)	1	frequent, full-bladder emptying (polyuria)			
+88021	Vaginal Itching Or Burning	1	vaginal itching or burning			
+76397	Primary Hypersomnia	1	primary hypersomnia			
+82363	Open Wound Of The Left Leg	1	open wound of the left leg			
+82334	Open Wound Of The Leg	1	open wound of the leg			
+65508	Post Abdominal Surgery	1	post abdominal surgery			
+77807	Pediculosis	1	pediculosis	DOID:5502	pediculosis	exact-synonym
+65751	Bladder Disorders	1	bladder disorders			
+77837	Urogenital Trichomoniasis	1	urogenital trichomoniasis			
+76759	Hand Foot & Mouth Disease	1	hand foot & mouth disease			
+76754	Varicella	1	varicella	DOID:8659	varicella	exact-synonym
+65307	TPN-induced Cholestasis	1	tpn-induced cholestasis			
+65302	Ascites	1	ascites			
+65770	Acute Urinary Retention	1	acute urinary retention			
+65299	Portal Hypertension	1	portal hypertension	DOID:10762	portal hypertension	name
+77910	Thrombocytopenia	1	thrombocytopenia	DOID:1588	thrombocytopenia	name
+77924	Idiopathic Thrombocytopenic Purpura	1	idiopathic thrombocytopenic purpura	DOID:8924	idiopathic thrombocytopenic purpura	exact-synonym
+77961	Protein S Deficiency	1	protein s deficiency	DOID:2451	protein S deficiency	name
+77961	Protein S Deficiency	1	protein s deficiency	DOID:2451	Protein S deficiency	exact-synonym
+65292	Primary Biliary Cirrhosis	1	primary biliary cirrhosis	DOID:12236	primary biliary cirrhosis	name
+65290	Cirrhosis Due To Hepatitis C	1	cirrhosis due to hepatitis c			
+76686	Adjustment Disorder With Disturbance Of Emotions And Conduct	1	adjustment disorder with disturbance of emotions and conduct			
+77741	Enterobiasis (Pinworm)	1	enterobiasis (pinworm)			
+77692	Amebiasis	1	amebiasis	DOID:9181	amebiasis	name
+77976	Pernicious Anemia	1	pernicious anemia	DOID:13381	pernicious anemia	name
+65578	Primary IgA Nephritis	1	primary iga nephritis			
+77011	Mycoplasma Infection	1	mycoplasma infection			
+77089	Group A Streptococcal Infection	1	group a streptococcal infection			
+77097	Syphilis	1	syphilis	DOID:4166	syphilis	name
+77114	Latent Late Syphilis	1	latent late syphilis			
+76881	Genital Warts	1	genital warts	DOID:11168	Genital warts	exact-synonym
+77190	Fungal Infections	1	fungal infections			
+76871	Common Warts	1	common warts			
+76868	Viral Syndrome	1	viral syndrome			
+65669	Urinary Calculus	1	urinary calculus			
+65645	Renal Osteodystrophy	1	renal osteodystrophy	DOID:13068	renal osteodystrophy	name
+65631	Hydronephrosis	1	hydronephrosis	DOID:11111	hydronephrosis	name
+77233	Cryptococcal Pneumonia	1	cryptococcal pneumonia			
+65712	Diabetic Nephropathy Type II Uncontrolled	1	diabetic nephropathy type ii uncontrolled			
+65623	Acute Bacterial Pyelonephritis	1	acute bacterial pyelonephritis			
+76798	Herpes Zoster With Nervous System Complications	1	herpes zoster with nervous system complications			
+76682	Adjustment Disorder With Anxious Mood	1	adjustment disorder with anxious mood			
+77983	Anemia Of Chronic Disease	1	anemia of chronic disease			
+82328	Open Wound Of The Hip/Thigh Region	1	open wound of the hip/thigh region			
+79752	Benign Skin Neoplasm	1	benign skin neoplasm			
+76543	Claustrophobia	1	claustrophobia			
+65077	Functional Diarrhea	1	functional diarrhea	DOID:11371	functional diarrhea	name
+80841	Malignant Neoplasm Of The Kidney	1	malignant neoplasm of the kidney			
+81252	Abrasion Of The Face	1	abrasion of the face			
+81260	Nonvenomous Insect Bite Of The Face	1	nonvenomous insect bite of the face			
+81322	Abrasion Of The Foot	1	abrasion of the foot			
+65061	Diverticulosis	1	diverticulosis			
+65921	Epididymitis	1	epididymitis	DOID:9402	epididymitis	name
+81508	Contusion Of The Knee With Intact Skin Surface	1	contusion of the knee with intact skin surface			
+81582	Muscle Hematoma	1	muscle hematoma			
+76406	Sleep Apnea	1	sleep apnea	DOID:0050847	sleep apnea	name
+81684	Multiple Partial Thickness (Second Degree) Burns Of The Face, Head, And Neck	1	multiple partial thickness (second degree) burns of the face, head, and neck			
+76402	Circadian Rhythm Sleep Disorder Jet Lag Type	1	circadian rhythm sleep disorder jet lag type			
+81869	Partial Thickness (Second Degree) Burns Of Multiple Sites Of The Lower Limbs	1	partial thickness (second degree) burns of multiple sites of the lower limbs			
+82311	Open Wound Of The Forearm With Tendon Involvement	1	open wound of the forearm with tendon involvement			
+65130	Hemorrhoids With Bleeding	1	hemorrhoids with bleeding			
+65846	Urethra Disorders	1	urethra disorders			
+78000	Hereditary Hemolytic Spherocytosis	1	hereditary hemolytic spherocytosis			
+79066	Malignant Neoplasm Of The Gallbladder	1	malignant neoplasm of the gallbladder			
+65287	Alcoholic (Laennec's) Cirrhosis	1	alcoholic (laennec's) cirrhosis			
+65159	Cholelithiasis	1	cholelithiasis	DOID:10211	cholelithiasis	name
+78012	Sickle Cell Trait	1	sickle cell trait			
+76681	Adjustment Disorder With Anxiety And Prolonged Depressed Mood	1	adjustment disorder with anxiety and prolonged depressed mood			
+76658	Sexual Dysfunction, NOS	1	sexual dysfunction, nos			
+78129	Anaphylaxis Due To Peanuts	1	anaphylaxis due to peanuts			
+78137	Anaphylaxis Due To Eggs	1	anaphylaxis due to eggs			
+78365	Nasal Cavity Neoplasm	1	nasal cavity neoplasm	DOID:9310	nasal cavity neoplasm	name
+78367	Malignant Nasal Cavity Neoplasm	1	malignant nasal cavity neoplasm			
+78405	Malignant Neoplasm Of The Maxillary Sinus	1	malignant neoplasm of the maxillary sinus			
+78430	Malignant Oropharyngeal Neoplasm	1	malignant oropharyngeal neoplasm			
+78431	Malignant Neoplasm Of The Tonsil (Oropharyngeal)	1	malignant neoplasm of the tonsil (oropharyngeal)			
+78620	Malignant Neoplasm Of The Oral Cavity	1	malignant neoplasm of the oral cavity			
+78625	Vocal Cord Granuloma	1	vocal cord granuloma			
+65137	Internal Hemorrhoids With Bleeding	1	internal hemorrhoids with bleeding			
+94389	Exposed To Herpes Simplex	1	exposed to herpes simplex			
+75957	Alcohol Abuse	1	alcohol abuse	DOID:1574	alcohol abuse	name
+69237	Toxic Nodular Goiter	1	toxic nodular goiter	DOID:11277	Toxic nodular Goiter	exact-synonym
+191491	Total Splenectomy	1	total splenectomy			
+182924	Preventive Medicine New Patient Evaluation Adult 1839	1	preventive medicine new patient evaluation adult 1839			
+75374	Late CVD Effects: Hemiplegia	1	late cvd effects: hemiplegia			
+63472	Malignant Essential Hypertension	1	malignant essential hypertension	DOID:10823	malignant essential hypertension	name
+63472	Malignant Essential Hypertension	1	malignant essential hypertension	DOID:10823	malignant Essential hypertension	exact-synonym
+75371	Late CVD Effects: Aphasia	1	late cvd effects: aphasia			
+187798	Gynecologic Service Prescrip Of Contracept Agent Repeat Rx	1	gynecologic service prescrip of contracept agent repeat rx			
+187800	Gynecologic Services Intrauterine Device (IUD) Insertion	1	gynecologic services intrauterine device (iud) insertion			
+63303	Mitral Valve Disorder	1	mitral valve disorder			
+63294	Prolapsing Mitral Valve Leaflet Syndrome	1	prolapsing mitral valve leaflet syndrome			
+96964	Dehiscence Of Surgical Wound	1	dehiscence of surgical wound			
+192220	Renal Transplant	1	renal transplant			
+75369	Late CVD Effects: Cognitive Deficits	1	late cvd effects: cognitive deficits			
+196042	Primary Nocturnal Enuresis	1	primary nocturnal enuresis			
+75367	Pseudobulbar Palsy	1	pseudobulbar palsy	DOID:12680	pseudobulbar palsy	name
+75367	Pseudobulbar Palsy	1	pseudobulbar palsy	DOID:12680	Pseudobulbar palsy	exact-synonym
+196093	Primary Enuresis	1	primary enuresis			
+68093	Hypophosphatemic Rickets	1	hypophosphatemic rickets			
+199485	Tuberculin PPD Nonspec Reaction Without Active Tuberculosis	1	tuberculin ppd nonspec reaction without active tuberculosis			
+182924	Preventive Medicine New Patient Evaluation Adult 18-39	1	preventive medicine new patient evaluation adult 18-39			
+182913	Infection Of An Abdominal Incision	1	infection of an abdominal incision			
+75443	Arnold-Chiari Malformation	1	arnold-chiari malformation			
+68085	Hyponatremia	1	hyponatremia			
+63634	Total Anomalous Pulmonary Venous Return	1	total anomalous pulmonary venous return	DOID:4297	total anomalous pulmonary venous return	exact-synonym
+172631	Herniated Lumbar Disc	1	herniated lumbar disc			
+172705	Lumbar Spondylosis (L3 L4)	1	lumbar spondylosis (l3 l4)			
+75582	Spinal Adhesive Arachnoiditis	1	spinal adhesive arachnoiditis			
+63629	Patent Ductus Arteriosus	1	patent ductus arteriosus	DOID:13832	patent ductus arteriosus	name
+173425	Cervical Radiculopathy At C6 Nerve Root	1	cervical radiculopathy at c6 nerve root			
+173426	Cervical Radiculopathy At C7 Nerve Root	1	cervical radiculopathy at c7 nerve root			
+63628	Patent Foramen Ovale	1	patent foramen ovale	DOID:13620	patent foramen ovale	name
+63628	Patent Foramen Ovale	1	patent foramen ovale	DOID:13620	Patent Foramen Ovale	exact-synonym
+63628	Patent Foramen Ovale	1	patent foramen ovale	DOID:13620	Patent foramen ovale	exact-synonym
+63628	Patent Foramen Ovale	1	patent foramen ovale	DOID:13620	Patent foramen ovale	exact-synonym
+173447	Lumbar Radiculopathy At L5	1	lumbar radiculopathy at l5			
+173457	Dementia Of Known (Axis III) Etiology With Behavioral Disturbance	1	dementia of known (axis iii) etiology with behavioral disturbance			
+173460	Secondary Insomnia	1	secondary insomnia			
+63530	Complete Atrioventricular Canal	1	complete atrioventricular canal			
+75493	Vertigo Of Central Origin	1	vertigo of central origin	DOID:2479	Vertigo of central origin	exact-synonym
+173719	Anemia Of End-stage Renal Disease	1	anemia of end-stage renal disease			
+75488	Glossopharyngeal Neuralgia	1	glossopharyngeal neuralgia	DOID:14423	glossopharyngeal neuralgia	name
+75488	Glossopharyngeal Neuralgia	1	glossopharyngeal neuralgia	DOID:14423	Glossopharyngeal neuralgia	exact-synonym
+68106	Morbid Obesity	1	morbid obesity	DOID:11981	morbid obesity	name
+68106	Morbid Obesity	1	morbid obesity	DOID:11981	Morbid obesity	exact-synonym
+68106	Morbid Obesity	1	morbid obesity	DOID:11981	Morbid Obesity	exact-synonym
+68106	Morbid Obesity	1	morbid obesity	DOID:11981	Morbid obesity	exact-synonym
+68106	Morbid Obesity	1	morbid obesity	DOID:11981	Morbid obesity	exact-synonym
+75353	Cerebral Artery Thrombosis	1	cerebral artery thrombosis			
+201182	Ischemic Embolic Stroke	1	ischemic embolic stroke			
+62983	Arteriosclerotic Cardiovascular Disease (ASCVD)	1	arteriosclerotic cardiovascular disease (ascvd)			
+75052	Tardive Dyskinesia	1	tardive dyskinesia			
+251190	Groin (Inguinal) Pain Right Side	1	groin (inguinal) pain right side			
+251191	Groin (Inguinal) Pain Left Side	1	groin (inguinal) pain left side			
+69202	Prolactinoma Macroadenoma	1	prolactinoma macroadenoma			
+62913	Paroxysmal Tachycardia	1	paroxysmal tachycardia			
+69215	Iatrogenic Hypopituitarism	1	iatrogenic hypopituitarism			
+62904	Paroxysmal Supraventricular Tachycardia	1	paroxysmal supraventricular tachycardia			
+75011	Infantile Spasms	1	infantile spasms			
+69230	Thyroid Disorder	1	thyroid disorder			
+252344	Sexually Active High-risk	1	sexually active high-risk			
+252495	Dyspareunia	1	dyspareunia			
+69236	Graves' Ophthalmopathy	1	graves' ophthalmopathy			
+62817	Dentoalveolar Abscess	1	dentoalveolar abscess	DOID:2562	Dentoalveolar abscess	exact-synonym
+62817	Dentoalveolar Abscess	1	dentoalveolar abscess	DOID:2562	Dentoalveolar abscess	exact-synonym
+62807	Acute Periodontitis	1	acute periodontitis	DOID:10423	acute periodontitis	exact-synonym
+62807	Acute Periodontitis	1	acute periodontitis	DOID:10423	acute Periodontitis	exact-synonym
+62807	Acute Periodontitis	1	acute periodontitis	DOID:10423	acute periodontitis	exact-synonym
+62807	Acute Periodontitis	1	acute periodontitis	DOID:10423	acute periodontitis	exact-synonym
+62803	Acute Gingivitis	1	acute gingivitis	DOID:3087	acute gingivitis	exact-synonym
+251015	Vaccines Prophylactic Need Against Td	1	vaccines prophylactic need against td			
+250919	Chronic Venous Hypertension With Ulcer And Inflammation	1	chronic venous hypertension with ulcer and inflammation			
+63222	Left Heart Failure Class III	1	left heart failure class iii			
+63012	Chronic Diffuse Ischemic Heart Disease	1	chronic diffuse ischemic heart disease			
+75187	Stroke Of The Left Posterior Cerebral Artery	1	stroke of the left posterior cerebral artery			
+202873	Anticipatory Guidance: Osteoporosis	1	anticipatory guidance: osteoporosis			
+75178	Stroke Of The Left Middle Cerebral Artery	1	stroke of the left middle cerebral artery			
+202911	Aftercare Following Surgery	1	aftercare following surgery			
+203242	Patient Education - Preparation For Childbirth	1	patient education - preparation for childbirth			
+203255	Patient Education - HIV	1	patient education - hiv			
+246990	Dyschromia	1	dyschromia			
+63222	Left Heart Failure - Class III	1	left heart failure - class iii			
+68109	Hypomagnesemia	1	hypomagnesemia			
+75119	Blepharospasm	1	blepharospasm	DOID:529	blepharospasm	name
+75116	'Stiff Man' Syndrome	1	'stiff man' syndrome			
+75106	Drug-induced Essential Tremor	1	drug-induced essential tremor			
+75090	Cerebral Palsy	1	cerebral palsy	DOID:1969	cerebral palsy	name
+250874	Systolic Congestive Heart Failure	1	systolic congestive heart failure			
+77009	Molluscum Contagiosum	1	molluscum contagiosum	DOID:8867	molluscum contagiosum	name
+172085	Thoracic Strain	1	thoracic strain			
+172083	Left Shoulder Strain	1	left shoulder strain			
+68082	Hypoxia	1	hypoxia			
+75907	Mental Retardation With Other Behavioral Symptoms	1	mental retardation with other behavioral symptoms			
+116877	Female Genitalia Labial Adhesions	1	female genitalia labial adhesions			
+116896	Vaginal Discharge (On Exam)	1	vaginal discharge (on exam)			
+117347	Hyperhidrosis (On Exam)	1	hyperhidrosis (on exam)			
+75900	Childhood Onset Pervasive Developmental Autistic Disorder	1	childhood onset pervasive developmental autistic disorder			
+142384	Swelling Of Hands	1	swelling of hands			
+153808	Knee Swelling	1	knee swelling			
+154781	Knee Pain Elicited By Motion	1	knee pain elicited by motion			
+75873	Tourette's Syndrome	1	tourette's syndrome			
+155126	Leg Localized Swelling Left	1	leg localized swelling left			
+63919	Lymphedema	1	lymphedema	DOID:4977	lymphedema	name
+163451	Speech Phonation Dysphonia	1	speech phonation dysphonia			
+163528	Speech Language Dysphasia / Aphasia	1	speech language dysphasia / aphasia			
+66567	Abortion	1	abortion			
+163669	Drowsy	1	drowsy			
+63914	Varicose Veins With Ulcer And Inflammation	1	varicose veins with ulcer and inflammation			
+116203	Abdomen Tenderness Direct Diffuse	1	abdomen tenderness direct diffuse			
+64046	Thrombophlebitis Of Superficial Veins Of Upper Extremities	1	thrombophlebitis of superficial veins of upper extremities			
+165406	Paraparesis (Lower Extremities)	1	paraparesis (lower extremities)			
+115885	Abdominal Distention	1	abdominal distention			
+66495	Pregnancy Complicated By Genitourinary Tract Infection	1	pregnancy complicated by genitourinary tract infection			
+66540	Pregnancy Complicated By Herpes Simplex	1	pregnancy complicated by herpes simplex			
+97576	Failure To Gain Weight	1	failure to gain weight			
+98416	Birth Control Method	1	birth control method			
+98801	Weight - Too Thin	1	weight - too thin			
+98804	Weight Loss (On Exam)	1	weight loss (on exam)			
+98853	Short Stature (On Exam)	1	short stature (on exam)			
+106693	Nasal Discharge Rhinorrhea	1	nasal discharge rhinorrhea			
+106838	Odor Of Breath Fetor Oris	1	odor of breath fetor oris			
+109994	Larynx Edema	1	larynx edema			
+110813	Lymph Nodes Enlarged	1	lymph nodes enlarged			
+111520	Stridor	1	stridor			
+111582	Auscultation Wheezing	1	auscultation wheezing			
+113252	Edema (On Exam)	1	edema (on exam)			
+64067	Thrombophlebitis Of Deep Vessels Of The Lower Extremity	1	thrombophlebitis of deep vessels of the lower extremity			
+163837	Hallucination Visual	1	hallucination visual			
+66698	Missed Abortion	1	missed abortion			
+63645	Complete D-transposition Of The Great Vessels	1	complete d-transposition of the great vessels			
+63726	Atherosclerosis Of The Extremities With Intermittent Claudication	1	atherosclerosis of the extremities with intermittent claudication			
+167038	Transitional Cell Carcinoma Of The Bladder	1	transitional cell carcinoma of the bladder			
+167165	Epididymitis Of The Left Testicle	1	epididymitis of the left testicle			
+167197	Lump Or Mass In Breast	1	lump or mass in breast			
+75701	Meralgia Paresthetica	1	meralgia paresthetica			
+167207	Primary Female Infertility	1	primary female infertility			
+75688	Motor Neuron Disease	1	motor neuron disease	DOID:231	motor neuron disease	name
+63723	Atherosclerosis	1	atherosclerosis	DOID:1936	atherosclerosis	name
+168577	Ingrowing Toenail	1	ingrowing toenail			
+168613	Cellulitis Of The Left Leg	1	cellulitis of the left leg			
+168623	Cellulitis Of The Left First Toe	1	cellulitis of the left first toe			
+67945	Von Gierke's Disease (GSD Type I)	1	von gierke's disease (gsd type i)			
+63722	Intermittent Claudication	1	intermittent claudication	DOID:3669	intermittent claudication	name
+63722	Intermittent Claudication	1	intermittent claudication	DOID:3669	Intermittent claudication	exact-synonym
+63722	Intermittent Claudication	1	intermittent claudication	DOID:3669	Intermittent claudication	exact-synonym
+168633	Tinea Cruris Of The Perianal Area	1	tinea cruris of the perianal area			
+168635	Primary Osteoarthritis Of The Lumbar Vertebrae	1	primary osteoarthritis of the lumbar vertebrae			
+168814	Traumatic Arthritis Of The Foot	1	traumatic arthritis of the foot			
+166997	Vesicoureteral Reflux With Nephropathy Of The Left Kidney	1	vesicoureteral reflux with nephropathy of the left kidney			
+67927	Hyperammonemia	1	hyperammonemia			
+165477	Spasticity	1	spasticity			
+166829	Hydronephrosis Bilaterally	1	hydronephrosis bilaterally			
+165483	Hemispasticity Of Right Side	1	hemispasticity of right side			
+165486	Hemispasticity Of Left Side	1	hemispasticity of left side			
+66702	Habitual Aborter (Non-gravid)	1	habitual aborter (non-gravid)			
+165529	Hypotonicity (Flaccid)	1	hypotonicity (flaccid)			
+63913	Varicose Veins With Ulcer	1	varicose veins with ulcer			
+166407	Delayed Developmental Milestones	1	delayed developmental milestones			
+67319	Puerperal Hemorrhoids	1	puerperal hemorrhoids			
+166505	Sialosis	1	sialosis			
+63909	Varicose Veins	1	varicose veins	DOID:799	varicose veins	name
+166550	Vocal Cord Disorder	1	vocal cord disorder			
+63783	Atrophie Blanche	1	atrophie blanche			
+67343	Obstetrical Surgical Wound Complications - Postpartum Condition Or Complication	1	obstetrical surgical wound complications - postpartum condition or complication			
+75770	Occipital Neuralgia	1	occipital neuralgia			
+166778	Slow Transit Constipation	1	slow transit constipation			
+67902	Metabolic Disorders	1	metabolic disorders			
+88049	Excessive Bleeding During Period (Menorrhagia)	1	excessive bleeding during period (menorrhagia)			
