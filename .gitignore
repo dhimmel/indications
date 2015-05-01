@@ -60,3 +60,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+### LibreOffice ###
+# LibreOffice locks
+.~lock.*#
+
