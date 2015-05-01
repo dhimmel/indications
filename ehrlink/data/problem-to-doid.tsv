@@ -90,7 +90,6 @@ problem_definition_id	problem	indications	name_lower	doid	name	type
 69388	Type I Diabetes Mellitus Uncontrolled	27	type i diabetes mellitus uncontrolled			
 283292	Essential Hypercholesterolemia	27	essential hypercholesterolemia			
 275592	Post-traumatic Stress Disorder	27	post-traumatic stress disorder	DOID:2055	post-traumatic stress disorder	name
-275592	Post-traumatic Stress Disorder	27	post-traumatic stress disorder	DOID:2055	post-traumatic stress disorder	related-synonym
 64180	Reactive Airway Disease	26	reactive airway disease			
 85623	Joint Pain, Localized In The Knee	26	joint pain, localized in the knee			
 69388	Type I Diabetes Mellitus - Uncontrolled	26	type i diabetes mellitus - uncontrolled			
@@ -98,10 +97,9 @@ problem_definition_id	problem	indications	name_lower	doid	name	type
 69710	Contact Dermatitis	25	contact dermatitis	DOID:2773	contact dermatitis	name
 62587	Chronic Frontal Sinusitis	25	chronic frontal sinusitis	DOID:10790	chronic frontal sinusitis	name
 257996	Arthritis	25	arthritis	DOID:848	arthritis	name
-257996	Arthritis	25	arthritis	DOID:848	arthritis	related-synonym
 76348	Bipolar II Disorder	25	bipolar ii disorder			
 195794	Symptomatic Menopause	24	symptomatic menopause			
-70719	Psoriatic Arthropathy	24	psoriatic arthropathy	DOID:9008	psoriatic arthropathy	related-synonym
+70719	Psoriatic Arthropathy	24	psoriatic arthropathy			
 80847	Renal Cell Carcinoma	23	renal cell carcinoma	DOID:4450	renal cell carcinoma	name
 278685	Arthralgias In Multiple Sites	23	arthralgias in multiple sites			
 76537	Panic Disorder Without Agoraphobia	23	panic disorder without agoraphobia			
@@ -136,7 +134,6 @@ problem_definition_id	problem	indications	name_lower	doid	name	type
 61048	Memory Lapses Or Loss	18	memory lapses or loss			
 75717	Cervicalgia	18	cervicalgia			
 288933	Peripheral Neuropathy	18	peripheral neuropathy	DOID:0060053	peripheral neuropathy	name
-288933	Peripheral Neuropathy	18	peripheral neuropathy	DOID:574	peripheral neuropathy	related-synonym
 87702	Nausea With Vomiting	18	nausea with vomiting			
 74990	Convulsive Grand Mal Seizure With Intractable Seizure	18	convulsive grand mal seizure with intractable seizure			
 252569	Partial Complex Seizure With Secondary Generalization	17	partial complex seizure with secondary generalization			
@@ -380,7 +377,6 @@ problem_definition_id	problem	indications	name_lower	doid	name	type
 292025	Short Stature	7	short stature			
 77650	Atypical Mycobacterial Infection	7	atypical mycobacterial infection			
 274534	Acute Sore Throat	7	acute sore throat	DOID:2275	acute sore throat	exact-synonym
-274534	Acute Sore Throat	7	acute sore throat	DOID:11337	acute sore throat	related-synonym
 274611	Nephritis Due To SLE	7	nephritis due to sle			
 78008	Sickle Cell Hb-SC Disease	7	sickle cell hb-sc disease			
 62403	Otitis Media Of The Left Ear	7	otitis media of the left ear			
@@ -590,7 +586,7 @@ problem_definition_id	problem	indications	name_lower	doid	name	type
 75587	Lumbar Canal Stenosis	4	lumbar canal stenosis			
 165548	Tremor	4	tremor			
 70642	Microscopic Polyarteritis Nodosa	4	microscopic polyarteritis nodosa			
-70648	Behcet's Syndrome	4	behcet's syndrome	DOID:13241	Behcet's syndrome	related-synonym
+70648	Behcet's Syndrome	4	behcet's syndrome			
 75487	Atypical Face Pain	4	atypical face pain			
 166478	Acute Bacterial Conjunctivitis	4	acute bacterial conjunctivitis			
 166549	Acute Streptococcal Tonsillitis	4	acute streptococcal tonsillitis			
@@ -1085,7 +1081,7 @@ problem_definition_id	problem	indications	name_lower	doid	name	type
 70031	Furuncle On The Face	2	furuncle on the face			
 70010	Cellulitis Of The Trunk	2	cellulitis of the trunk			
 76679	Adjustment Disorder	2	adjustment disorder	DOID:507	adjustment disorder	name
-76875	Condyloma Acuminatum	2	condyloma acuminatum	DOID:11168	Condyloma acuminatum	related-synonym
+76875	Condyloma Acuminatum	2	condyloma acuminatum			
 70011	Cellulitis Of The Buttocks	2	cellulitis of the buttocks			
 292716	Allergies To Multiple Foods	1	allergies to multiple foods			
 62579	Acute Suppurative Sinusitis	1	acute suppurative sinusitis			
@@ -1158,7 +1154,7 @@ problem_definition_id	problem	indications	name_lower	doid	name	type
 30261	Bipolar I Disorder, Most Recent Episode, Depressed Severe With Psychotic Features	1	bipolar i disorder, most recent episode, depressed severe with psychotic features			
 62700	Acute Laryngitis	1	acute laryngitis	DOID:9396	acute laryngitis	name
 70034	Furuncle On The Neck	1	furuncle on the neck			
-252623	Myelopathy	1	myelopathy	DOID:319	myelopathy	related-synonym
+252623	Myelopathy	1	myelopathy			
 62718	Tracheitis	1	tracheitis	DOID:9392	tracheitis	name
 252581	Idiopathic Dystonia Musculorum Deformans	1	idiopathic dystonia musculorum deformans			
 30250	Bipolar I Disorder, Most Recent Episode, Mixed	1	bipolar i disorder, most recent episode, mixed			
