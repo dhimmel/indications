@@ -141,7 +141,10 @@ indication.df %>%
 
 ```{r}
 drugbank.df <- 'http://git.dhimmel.com/drugbank/data/drugbank.tsv' %>%
-  read.delim() %>%
+  read.delim(stringsAsFactors=FALSE, na.strings='') %>%
+  dplyr::filter(type == 'small molecule') %>%
+  dplyr::filter(grepl('approved', groups)) %>%
+  dplyr::filter(! is.na(inchikey)) %>%
   dplyr::transmute(drugbank_id, drugbank_name = name)
 
 do.df <- 'http://git.dhimmel.com/disease-ontology/data/slim-terms.tsv' %>%
@@ -149,7 +152,7 @@ do.df <- 'http://git.dhimmel.com/disease-ontology/data/slim-terms.tsv' %>%
   dplyr::transmute(doid_code = doid, doid_name = name)
 
 indication.df <- indication.df %>%
-  dplyr::left_join(drugbank.df) %>%
+  dplyr::inner_join(drugbank.df) %>%
   dplyr::left_join(do.df)
 
 path <- file.path('data', 'indications.tsv')
@@ -157,4 +160,15 @@ write.table(indication.df, path, sep='\t', row.names=FALSE, quote=FALSE)
 
 DT::datatable(indication.df %>% dplyr::filter(resource != 'medi_lps'))
 ```
+
+
+```{r}
+indication.df %>%
+  dplyr::filter(resource != 'medi_lps') %>%
+  dplyr::select(-resource) %>%
+  dplyr::distinct() %>%
+  dplyr::sample_frac(1) %>%
+  write.table('data/indications-slim.tsv', sep='\t', row.names=FALSE, quote=FALSE)
+```
+
 

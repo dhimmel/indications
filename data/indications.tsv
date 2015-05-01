@@ -21,7 +21,6 @@ DOID:1826	DB01202	labeledin	Levetiracetam	epilepsy syndrome
 DOID:3312	DB00246	labeledin	Ziprasidone	bipolar disorder
 DOID:7148	DB00993	labeledin	Azathioprine	rheumatoid arthritis
 DOID:14330	DB01367	labeledin	Rasagiline	Parkinson's disease
-DOID:14330	DB03894	labeledin	N-Propargyl-1(S)-Aminoindan	Parkinson's disease
 DOID:6364	DB00315	labeledin	Zolmitriptan	migraine
 DOID:7148	DB00482	labeledin	Celecoxib	rheumatoid arthritis
 DOID:7147	DB00482	labeledin	Celecoxib	ankylosing spondylitis
@@ -58,11 +57,8 @@ DOID:14330	DB00989	labeledin	Rivastigmine	Parkinson's disease
 DOID:8577	DB01014	labeledin	Balsalazide	ulcerative colitis
 DOID:10763	DB00542	labeledin	Benazepril	hypertension
 DOID:784	DB00136	labeledin	Calcitriol	chronic kidney failure
-DOID:784	DB05314	labeledin	DN-101	chronic kidney failure
 DOID:10763	DB01197	labeledin	Captopril	hypertension
-DOID:10763	DB02032	labeledin	1-(3-Mercapto-2-Methyl-Propionyl)-Pyrrolidine-2-Carboxylic Acid	hypertension
 DOID:3393	DB01197	labeledin	Captopril	coronary artery disease
-DOID:3393	DB02032	labeledin	1-(3-Mercapto-2-Methyl-Propionyl)-Pyrrolidine-2-Carboxylic Acid	coronary artery disease
 DOID:1826	DB00564	labeledin	Carbamazepine	epilepsy syndrome
 DOID:10763	DB00796	labeledin	Candesartan	hypertension
 DOID:6364	DB00998	labeledin	Frovatriptan	migraine
@@ -119,12 +115,9 @@ DOID:12849	DB00734	labeledin	Risperidone	autistic disorder
 DOID:3312	DB00734	labeledin	Risperidone	bipolar disorder
 DOID:263	DB01268	labeledin	Sunitinib	Kidney cancer
 DOID:2531	DB00188	labeledin	Bortezomib	Hematologic cancer
-DOID:2531	DB07475	labeledin	N-[(1R)-1-(DIHYDROXYBORYL)-3-METHYLBUTYL]-N-(PYRAZIN-2-YLCARBONYL)-L-PHENYLALANINAMIDE	Hematologic cancer
 DOID:7148	DB01399	labeledin	Salsalate	rheumatoid arthritis
 DOID:1595	DB01104	labeledin	Sertraline	endogenous depression
-DOID:1595	DB08567	labeledin	(1S,4S)-4-(3,4-dichlorophenyl)-N-methyl-1,2,3,4-tetrahydronaphthalen-1-amine	endogenous depression
 DOID:594	DB01104	labeledin	Sertraline	panic disorder
-DOID:594	DB08567	labeledin	(1S,4S)-4-(3,4-dichlorophenyl)-N-methyl-1,2,3,4-tetrahydronaphthalen-1-amine	panic disorder
 DOID:3393	DB00641	labeledin	Simvastatin	coronary artery disease
 DOID:6364	DB00669	labeledin	Sumatriptan	migraine
 DOID:10763	DB00584	labeledin	Enalapril	hypertension
@@ -165,7 +158,6 @@ DOID:8577	DB00244	labeledin	Mesalazine	ulcerative colitis
 DOID:10763	DB01275	labeledin	Hydralazine	hypertension
 DOID:10763	DB00999	labeledin	Hydrochlorothiazide	hypertension
 DOID:8893	DB00741	labeledin	Hydrocortisone	psoriasis
-DOID:8893	DB07886	labeledin	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	psoriasis
 DOID:1595	DB00458	labeledin	Imipramine	endogenous depression
 DOID:1612	DB01229	labeledin	Paclitaxel	Breast cancer
 DOID:1324	DB01229	labeledin	Paclitaxel	Lung cancer
@@ -174,7 +166,6 @@ DOID:7147	DB00328	labeledin	Indomethacin	ankylosing spondylitis
 DOID:9352	DB01261	labeledin	Sitagliptin	type 2 diabetes mellitus
 DOID:594	DB00404	labeledin	Alprazolam	panic disorder
 DOID:3393	DB00281	labeledin	Lidocaine	coronary artery disease
-DOID:3393	DB05291	labeledin	lidocaine patch	coronary artery disease
 DOID:3393	DB00227	labeledin	Lovastatin	coronary artery disease
 DOID:1936	DB00227	labeledin	Lovastatin	atherosclerosis
 DOID:2531	DB04868	labeledin	Nilotinib	Hematologic cancer
@@ -293,14 +284,12 @@ DOID:0050425	DB01068	medi_hps	Clonazepam	restless legs syndrome
 DOID:0050425	DB01186	medi_lps	Pergolide	restless legs syndrome
 DOID:0050425	DB01235	medi_lps	L-DOPA	restless legs syndrome
 DOID:0050425	DB01367	medi_lps	Rasagiline	restless legs syndrome
-DOID:0050425	DB03894	medi_lps	N-Propargyl-1(S)-Aminoindan	restless legs syndrome
 DOID:0050425	DB05271	medi_lps	Rotigotine	restless legs syndrome
 DOID:0060073	DB00291	medi_lps	Chlorambucil	Lymphatic system cancer
 DOID:0060073	DB00888	medi_hps	Mechlorethamine	Lymphatic system cancer
 DOID:1024	DB00201	medi_lps	Caffeine	leprosy
 DOID:1024	DB00250	medi_hps	Dapsone	leprosy
 DOID:1024	DB00615	medi_lps	Rifabutin	leprosy
-DOID:1024	DB00848	medi_lps	Levamisole	leprosy
 DOID:1024	DB01045	medi_hps	Rifampicin	leprosy
 DOID:10283	DB00014	medi_hps	Goserelin	Prostate cancer
 DOID:10283	DB00158	medi_lps	Folic Acid	Prostate cancer
@@ -335,12 +324,7 @@ DOID:10283	DB01216	medi_hps	Finasteride	Prostate cancer
 DOID:10283	DB01248	medi_hps	Docetaxel	Prostate cancer
 DOID:10283	DB01254	medi_lps	Dasatinib	Prostate cancer
 DOID:10283	DB01268	medi_lps	Sunitinib	Prostate cancer
-DOID:10283	DB01645	medi_lps	Genistein	Prostate cancer
-DOID:10283	DB04216	medi_lps	Quercetin	Prostate cancer
 DOID:10283	DB04574	medi_lps	Estropipate	Prostate cancer
-DOID:10283	DB05251	medi_lps	VRX496	Prostate cancer
-DOID:10283	DB05291	medi_lps	lidocaine patch	Prostate cancer
-DOID:10283	DB05318	medi_lps	NGX-4010	Prostate cancer
 DOID:10283	DB05812	medi_hps	Abiraterone	Prostate cancer
 DOID:10283	DB06699	medi_hps	Degarelix	Prostate cancer
 DOID:10283	DB06710	medi_lps	Methyltestosterone	Prostate cancer
@@ -358,7 +342,6 @@ DOID:10534	DB00997	medi_hps	Doxorubicin	Stomach cancer
 DOID:10534	DB01101	medi_hps	Capecitabine	Stomach cancer
 DOID:10534	DB01248	medi_hps	Docetaxel	Stomach cancer
 DOID:10534	DB01590	medi_lps	Everolimus	Stomach cancer
-DOID:10534	DB05318	medi_lps	NGX-4010	Stomach cancer
 DOID:10534	DB08828	medi_lps	Vismodegib	Stomach cancer
 DOID:10608	DB00158	medi_lps	Folic Acid	celiac disease
 DOID:10608	DB01223	medi_lps	Aminophylline	celiac disease
@@ -392,17 +375,7 @@ DOID:10652	DB01115	medi_lps	Nifedipine	Alzheimer's disease
 DOID:10652	DB01224	medi_lps	Quetiapine	Alzheimer's disease
 DOID:10652	DB01394	medi_lps	Colchicine	Alzheimer's disease
 DOID:10652	DB01420	medi_lps	Testosterone Propionate	Alzheimer's disease
-DOID:10652	DB01638	medi_lps	D-Sorbitol	Alzheimer's disease
-DOID:10652	DB01708	medi_lps	Dehydroepiandrosterone	Alzheimer's disease
-DOID:10652	DB02701	medi_lps	Nicotinamide	Alzheimer's disease
-DOID:10652	DB03128	medi_lps	Acetylcholine	Alzheimer's disease
-DOID:10652	DB03839	medi_lps	D-Tyrosine	Alzheimer's disease
-DOID:10652	DB04375	medi_lps	5-Methyl-5,6,7,8-Tetrahydrofolic Acid	Alzheimer's disease
-DOID:10652	DB04789	medi_lps	5-methyltetrahydrofolate	Alzheimer's disease
-DOID:10652	DB04815	medi_lps	Clioquinol	Alzheimer's disease
 DOID:10652	DB06710	medi_lps	Methyltestosterone	Alzheimer's disease
-DOID:10652	DB07768	medi_lps	(10ALPHA,13ALPHA,14BETA,17ALPHA)-17-HYDROXYANDROST-4-EN-3-ONE	Alzheimer's disease
-DOID:10652	DB08167	medi_lps	3,7-BIS(DIMETHYLAMINO)PHENOTHIAZIN-5-IUM	Alzheimer's disease
 DOID:10652	DB08995	medi_lps	Diosmin	Alzheimer's disease
 DOID:10763	DB00035	medi_lps	Desmopressin	hypertension
 DOID:10763	DB00091	medi_lps	Cyclosporine	hypertension
@@ -516,32 +489,15 @@ DOID:10763	DB01364	medi_lps	Ephedrine	hypertension
 DOID:10763	DB01401	medi_lps	Trisalicylate-choline	hypertension
 DOID:10763	DB01420	medi_lps	Testosterone Propionate	hypertension
 DOID:10763	DB01583	medi_lps	Liotrix	hypertension
-DOID:10763	DB01904	medi_lps	D-Xylitol	hypertension
-DOID:10763	DB01956	medi_lps	2-Aminoethanesulfonic Acid	hypertension
-DOID:10763	DB02032	medi_hps	1-(3-Mercapto-2-Methyl-Propionyl)-Pyrrolidine-2-Carboxylic Acid	hypertension
-DOID:10763	DB02110	medi_lps	Protoporphyrin Ix Containing Co	hypertension
-DOID:10763	DB02176	medi_lps	Mercury Acetate Ion	hypertension
-DOID:10763	DB02577	medi_lps	Mesoheme	hypertension
-DOID:10763	DB02692	medi_lps	(6r,1'r,2's)-5,6,7,8 Tetrahydrobiopterin	hypertension
 DOID:10763	DB03166	medi_lps	Acetic acid	hypertension
-DOID:10763	DB03918	medi_lps	6s-5,6,7,8-Tetrahydrobiopterin	hypertension
-DOID:10763	DB03934	medi_lps	Protoporphyrin Ix Containing Zn	hypertension
-DOID:10763	DB04027	medi_lps	D-Arginine	hypertension
 DOID:10763	DB04573	medi_lps	Estriol	hypertension
-DOID:10763	DB04996	medi_lps	Satraplatin	hypertension
-DOID:10763	DB05296	medi_lps	motexafin lutetium	hypertension
-DOID:10763	DB05428	medi_lps	motexafin gadolinium	hypertension
 DOID:10763	DB06207	medi_lps	Silodosin	hypertension
 DOID:10763	DB06710	medi_lps	Methyltestosterone	hypertension
-DOID:10763	DB07702	medi_lps	(16ALPHA,17ALPHA)-ESTRA-1,3,5(10)-TRIENE-3,16,17-TRIOL	hypertension
-DOID:10763	DB07768	medi_lps	(10ALPHA,13ALPHA,14BETA,17ALPHA)-17-HYDROXYANDROST-4-EN-3-ONE	hypertension
-DOID:10763	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	hypertension
 DOID:10871	DB00137	medi_lps	Xanthophyll	age related macular degeneration
 DOID:10871	DB00158	medi_lps	Folic Acid	age related macular degeneration
 DOID:10871	DB00653	medi_lps	Magnesium Sulfate	age related macular degeneration
 DOID:10871	DB00693	medi_lps	Fluorescein	age related macular degeneration
 DOID:10871	DB00761	medi_lps	Potassium Chloride	age related macular degeneration
-DOID:10871	DB05088	medi_lps	Tetrathiomolybdate	age related macular degeneration
 DOID:1094	DB00182	medi_lps	Amphetamine	attention deficit hyperactivity disorder
 DOID:1094	DB00289	medi_lps	Atomoxetine	attention deficit hyperactivity disorder
 DOID:1094	DB00422	medi_lps	Methylphenidate	attention deficit hyperactivity disorder
@@ -561,8 +517,6 @@ DOID:1094	DB01151	medi_lps	Desipramine	attention deficit hyperactivity disorder
 DOID:1094	DB01255	medi_lps	Lisdexamfetamine	attention deficit hyperactivity disorder
 DOID:1094	DB01576	medi_lps	Dextroamphetamine	attention deficit hyperactivity disorder
 DOID:1094	DB01577	medi_lps	Methamphetamine	attention deficit hyperactivity disorder
-DOID:1094	DB05347	medi_lps	iontophoretic acyclovir	attention deficit hyperactivity disorder
-DOID:1094	DB05488	medi_lps	99mTc-ciprofloxacin	attention deficit hyperactivity disorder
 DOID:1094	DB06701	medi_lps	Dexmethylphenidate	attention deficit hyperactivity disorder
 DOID:10976	DB00091	medi_lps	Cyclosporine	membranous glomerulonephritis
 DOID:11054	DB00201	medi_lps	Caffeine	Urinary bladder cancer
@@ -592,7 +546,6 @@ DOID:11119	DB01104	medi_lps	Sertraline	Gilles de la Tourette syndrome
 DOID:11119	DB01186	medi_hps	Pergolide	Gilles de la Tourette syndrome
 DOID:11119	DB01202	medi_lps	Levetiracetam	Gilles de la Tourette syndrome
 DOID:11119	DB01224	medi_lps	Quetiapine	Gilles de la Tourette syndrome
-DOID:11119	DB08567	medi_lps	(1S,4S)-4-(3,4-dichlorophenyl)-N-methyl-1,2,3,4-tetrahydronaphthalen-1-amine	Gilles de la Tourette syndrome
 DOID:1115	DB00361	medi_lps	Vinorelbine	Sarcoma
 DOID:1115	DB00445	medi_hps	Epirubicin	Sarcoma
 DOID:1115	DB00523	medi_lps	Alitretinoin	Sarcoma
@@ -642,21 +595,12 @@ DOID:11476	DB00999	medi_lps	Hydrochlorothiazide	osteoporosis
 DOID:11476	DB01077	medi_hps	Etidronic acid	osteoporosis
 DOID:11476	DB01380	medi_lps	Cortisone acetate	osteoporosis
 DOID:11476	DB01420	medi_lps	Testosterone Propionate	osteoporosis
-DOID:11476	DB01494	medi_lps	Chloral betaine	osteoporosis
-DOID:11476	DB01783	medi_hps	Pantothenic acid	osteoporosis
-DOID:11476	DB01904	medi_lps	D-Xylitol	osteoporosis
 DOID:11476	DB02300	medi_lps	Calcipotriol	osteoporosis
-DOID:11476	DB02648	medi_lps	(3-Carboxy-2-(R)-Hydroxy-Propyl)-Trimethyl-Ammonium	osteoporosis
-DOID:11476	DB04455	medi_lps	Trimethyl Glycine	osteoporosis
 DOID:11476	DB04574	medi_hps	Estropipate	osteoporosis
-DOID:11476	DB05314	medi_lps	DN-101	osteoporosis
 DOID:11476	DB06710	medi_hps	Methyltestosterone	osteoporosis
-DOID:11476	DB07768	medi_lps	(10ALPHA,13ALPHA,14BETA,17ALPHA)-17-HYDROXYANDROST-4-EN-3-ONE	osteoporosis
-DOID:11476	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	osteoporosis
 DOID:11612	DB00331	medi_lps	Metformin	polycystic ovary syndrome
 DOID:11612	DB00421	medi_lps	Spironolactone	polycystic ovary syndrome
 DOID:11612	DB00499	medi_lps	Flutamide	polycystic ovary syndrome
-DOID:11612	DB03106	medi_lps	Myo-Inositol	polycystic ovary syndrome
 DOID:11714	DB00331	medi_lps	Metformin	gestational diabetes
 DOID:11714	DB00396	medi_lps	Progesterone	gestational diabetes
 DOID:1192	DB00444	medi_lps	Teniposide	Peripheral nervous system neoplasm
@@ -688,8 +632,6 @@ DOID:12306	DB00553	medi_hps	Methoxsalen	vitiligo
 DOID:12306	DB00600	medi_hps	Monobenzone	vitiligo
 DOID:12306	DB00864	medi_lps	Tacrolimus	vitiligo
 DOID:12306	DB01013	medi_lps	Clobetasol propionate	vitiligo
-DOID:12306	DB01775	medi_lps	Dihydroxyacetone	vitiligo
-DOID:12306	DB02362	medi_lps	4-Aminobenzoic Acid	vitiligo
 DOID:12361	DB00451	medi_lps	Levothyroxine	Graves' disease
 DOID:12361	DB00509	medi_lps	Dextrothyroxine	Graves' disease
 DOID:12361	DB00550	medi_lps	Propylthiouracil	Graves' disease
@@ -715,11 +657,7 @@ DOID:12365	DB01346	medi_hps	Quinidine barbiturate	malaria
 DOID:12365	DB01397	medi_lps	Magnesium salicylate	malaria
 DOID:12365	DB01398	medi_lps	Salicylate-sodium	malaria
 DOID:12365	DB01401	medi_lps	Trisalicylate-choline	malaria
-DOID:12365	DB02110	medi_lps	Protoporphyrin Ix Containing Co	malaria
-DOID:12365	DB02577	medi_lps	Mesoheme	malaria
-DOID:12365	DB03934	medi_lps	Protoporphyrin Ix Containing Zn	malaria
 DOID:12365	DB06697	medi_hps	Artemether	malaria
-DOID:12365	DB08167	medi_lps	3,7-BIS(DIMETHYLAMINO)PHENOTHIAZIN-5-IUM	malaria
 DOID:12849	DB00360	medi_lps	Tetrahydrobiopterin	autistic disorder
 DOID:12849	DB00734	medi_hps	Risperidone	autistic disorder
 DOID:12849	DB00741	medi_lps	Hydrocortisone	autistic disorder
@@ -728,12 +666,7 @@ DOID:12849	DB00988	medi_lps	Dopamine	autistic disorder
 DOID:12849	DB01202	medi_lps	Levetiracetam	autistic disorder
 DOID:12849	DB01224	medi_hps	Quetiapine	autistic disorder
 DOID:12849	DB01238	medi_hps	Aripiprazole	autistic disorder
-DOID:12849	DB02692	medi_lps	(6r,1'r,2's)-5,6,7,8 Tetrahydrobiopterin	autistic disorder
-DOID:12849	DB03766	medi_lps	Propanoic Acid	autistic disorder
-DOID:12849	DB03918	medi_lps	6s-5,6,7,8-Tetrahydrobiopterin	autistic disorder
-DOID:12849	DB05436	medi_lps	RK-0202	autistic disorder
 DOID:12849	DB06151	medi_lps	Acetylcysteine	autistic disorder
-DOID:12849	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	autistic disorder
 DOID:12930	DB00981	medi_lps	Physostigmine	dilated cardiomyopathy
 DOID:12995	DB00227	medi_lps	Lovastatin	conduct disorder
 DOID:12995	DB00445	medi_lps	Epirubicin	conduct disorder
@@ -749,7 +682,6 @@ DOID:12995	DB01060	medi_lps	Amoxicillin	conduct disorder
 DOID:12995	DB01168	medi_lps	Procarbazine	conduct disorder
 DOID:12995	DB01216	medi_lps	Finasteride	conduct disorder
 DOID:12995	DB01236	medi_lps	Sevoflurane	conduct disorder
-DOID:12995	DB04665	medi_lps	2H-1-BENZOPYRAN-2-ONE	conduct disorder
 DOID:1312	DB00091	medi_hps	Cyclosporine	focal segmental glomerulosclerosis
 DOID:13189	DB00126	medi_lps	Vitamin C	gout
 DOID:13189	DB00201	medi_lps	Caffeine	gout
@@ -782,9 +714,6 @@ DOID:13189	DB01075	medi_lps	Diphenhydramine	gout
 DOID:13189	DB01234	medi_lps	Dexamethasone	gout
 DOID:13189	DB01364	medi_lps	Ephedrine	gout
 DOID:13189	DB01394	medi_hps	Colchicine	gout
-DOID:13189	DB02772	medi_lps	Sucrose	gout
-DOID:13189	DB07886	medi_hps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	gout
-DOID:13189	DB08298	medi_hps	(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid	gout
 DOID:13189	DB08797	medi_lps	Salicylamide	gout
 DOID:1319	DB00240	medi_lps	Alclometasone	Brain cancer
 DOID:1319	DB00262	medi_hps	Carmustine	Brain cancer
@@ -809,10 +738,7 @@ DOID:1319	DB01168	medi_hps	Procarbazine	Brain cancer
 DOID:1319	DB01206	medi_hps	Lomustine	Brain cancer
 DOID:1319	DB01234	medi_hps	Dexamethasone	Brain cancer
 DOID:1319	DB01590	medi_lps	Everolimus	Brain cancer
-DOID:1319	DB01638	medi_lps	D-Sorbitol	Brain cancer
 DOID:1319	DB02546	medi_lps	Vorinostat	Brain cancer
-DOID:1319	DB02648	medi_lps	(3-Carboxy-2-(R)-Hydroxy-Propyl)-Trimethyl-Ammonium	Brain cancer
-DOID:1319	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	Brain cancer
 DOID:13223	DB00014	medi_lps	Goserelin	uterine fibroid
 DOID:13223	DB00050	medi_lps	Cetrorelix	uterine fibroid
 DOID:13223	DB00248	medi_lps	Cabergoline	uterine fibroid
@@ -820,7 +746,6 @@ DOID:13223	DB00302	medi_lps	Tranexamic Acid	uterine fibroid
 DOID:13223	DB00367	medi_lps	Levonorgestrel	uterine fibroid
 DOID:13223	DB00666	medi_lps	Nafarelin	uterine fibroid
 DOID:13223	DB00783	medi_lps	Estradiol	uterine fibroid
-DOID:13223	DB05366	medi_lps	CDB-2914	uterine fibroid
 DOID:1324	DB00104	medi_lps	Octreotide	Lung cancer
 DOID:1324	DB00305	medi_lps	Mitomycin	Lung cancer
 DOID:1324	DB00317	medi_hps	Gefitinib	Lung cancer
@@ -839,8 +764,6 @@ DOID:1324	DB01248	medi_hps	Docetaxel	Lung cancer
 DOID:1324	DB01268	medi_lps	Sunitinib	Lung cancer
 DOID:1324	DB05294	medi_lps	Vandetanib	Lung cancer
 DOID:1324	DB06589	medi_lps	Pazopanib	Lung cancer
-DOID:1324	DB08700	medi_hps	3-[(1R)-1-(2,6-dichloro-3-fluorophenyl)ethoxy]-5-(1-piperidin-4-yl-1H-pyrazol-4-yl)pyridin-2-amine	Lung cancer
-DOID:1324	DB08764	medi_lps	4-BROMO-2-FLUORO-N-[(4E)-6-METHOXY-7-[(1-METHYLPIPERIDIN-4-YL)METHOXY]QUINAZOLIN-4(1H)-YLIDENE]ANILINE	Lung cancer
 DOID:1324	DB08828	medi_lps	Vismodegib	Lung cancer
 DOID:1324	DB08865	medi_hps	Crizotinib	Lung cancer
 DOID:1324	DB08871	medi_lps	Eribulin	Lung cancer
@@ -859,7 +782,6 @@ DOID:13378	DB01075	medi_lps	Diphenhydramine	Kawasaki disease
 DOID:13378	DB01364	medi_lps	Ephedrine	Kawasaki disease
 DOID:13378	DB01390	medi_lps	Sodium bicarbonate	Kawasaki disease
 DOID:13378	DB01551	medi_lps	Dihydrocodeine	Kawasaki disease
-DOID:13378	DB05436	medi_lps	RK-0202	Kawasaki disease
 DOID:13378	DB06151	medi_lps	Acetylcysteine	Kawasaki disease
 DOID:13378	DB08797	medi_lps	Salicylamide	Kawasaki disease
 DOID:14227	DB01006	medi_lps	Letrozole	azoospermia
@@ -911,15 +833,8 @@ DOID:14330	DB01364	medi_lps	Ephedrine	Parkinson's disease
 DOID:14330	DB01367	medi_hps	Rasagiline	Parkinson's disease
 DOID:14330	DB01438	medi_lps	Phenazopyridine	Parkinson's disease
 DOID:14330	DB01440	medi_lps	Gamma Hydroxybutyric Acid	Parkinson's disease
-DOID:14330	DB02000	medi_lps	Gamma-Phenyl-Butyric Acid	Parkinson's disease
-DOID:14330	DB03839	medi_lps	D-Tyrosine	Parkinson's disease
-DOID:14330	DB03894	medi_hps	N-Propargyl-1(S)-Aminoindan	Parkinson's disease
-DOID:14330	DB04815	medi_lps	Clioquinol	Parkinson's disease
 DOID:14330	DB05271	medi_hps	Rotigotine	Parkinson's disease
-DOID:14330	DB05291	medi_lps	lidocaine patch	Parkinson's disease
 DOID:14330	DB06723	medi_lps	Aluminum hydroxide	Parkinson's disease
-DOID:14330	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	Parkinson's disease
-DOID:14330	DB08167	medi_lps	3,7-BIS(DIMETHYLAMINO)PHENOTHIAZIN-5-IUM	Parkinson's disease
 DOID:14330	DB08842	medi_lps	Acetylcarnitine	Parkinson's disease
 DOID:1459	DB00175	medi_lps	Pravastatin	hypothyroidism
 DOID:1459	DB00227	medi_lps	Lovastatin	hypothyroidism
@@ -986,8 +901,6 @@ DOID:1595	DB01583	medi_lps	Liotrix	endogenous depression
 DOID:1595	DB02959	medi_lps	Oxitriptan	endogenous depression
 DOID:1595	DB06684	medi_hps	Vilazodone	endogenous depression
 DOID:1595	DB06701	medi_lps	Dexmethylphenidate	endogenous depression
-DOID:1595	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	endogenous depression
-DOID:1595	DB08567	medi_hps	(1S,4S)-4-(3,4-dichlorophenyl)-N-methyl-1,2,3,4-tetrahydronaphthalen-1-amine	endogenous depression
 DOID:1612	DB00014	medi_hps	Goserelin	Breast cancer
 DOID:1612	DB00122	medi_lps	Choline	Breast cancer
 DOID:1612	DB00158	medi_lps	Folic Acid	Breast cancer
@@ -1044,19 +957,12 @@ DOID:1612	DB01268	medi_lps	Sunitinib	Breast cancer
 DOID:1612	DB01303	medi_lps	Oxtriphylline	Breast cancer
 DOID:1612	DB01401	medi_lps	Trisalicylate-choline	Breast cancer
 DOID:1612	DB01420	medi_hps	Testosterone Propionate	Breast cancer
-DOID:1612	DB01645	medi_lps	Genistein	Breast cancer
-DOID:1612	DB02701	medi_lps	Nicotinamide	Breast cancer
-DOID:1612	DB02709	medi_lps	Resveratrol	Breast cancer
-DOID:1612	DB04375	medi_lps	5-Methyl-5,6,7,8-Tetrahydrofolic Acid	Breast cancer
 DOID:1612	DB04572	medi_hps	Thiotepa	Breast cancer
 DOID:1612	DB04573	medi_lps	Estriol	Breast cancer
 DOID:1612	DB04574	medi_lps	Estropipate	Breast cancer
-DOID:1612	DB04789	medi_lps	5-methyltetrahydrofolate	Breast cancer
 DOID:1612	DB04845	medi_hps	Ixabepilone	Breast cancer
 DOID:1612	DB05812	medi_lps	Abiraterone	Breast cancer
 DOID:1612	DB06710	medi_hps	Methyltestosterone	Breast cancer
-DOID:1612	DB07702	medi_lps	(16ALPHA,17ALPHA)-ESTRA-1,3,5(10)-TRIENE-3,16,17-TRIOL	Breast cancer
-DOID:1612	DB07768	medi_hps	(10ALPHA,13ALPHA,14BETA,17ALPHA)-17-HYDROXYANDROST-4-EN-3-ONE	Breast cancer
 DOID:1612	DB08866	medi_hps	Estradiol valerate/Dienogest	Breast cancer
 DOID:1612	DB08871	medi_hps	Eribulin	Breast cancer
 DOID:1686	DB00201	medi_lps	Caffeine	glaucoma
@@ -1088,8 +994,6 @@ DOID:1686	DB01085	medi_hps	Pilocarpine	glaucoma
 DOID:1686	DB01144	medi_hps	Diclofenamide	glaucoma
 DOID:1686	DB01194	medi_hps	Brinzolamide	glaucoma
 DOID:1686	DB01210	medi_hps	Levobunolol	glaucoma
-DOID:1686	DB01638	medi_hps	D-Sorbitol	glaucoma
-DOID:1686	DB03904	medi_hps	Urea	glaucoma
 DOID:1686	DB08819	medi_lps	Tafluprost	glaucoma
 DOID:1725	DB00642	medi_lps	Pemetrexed	Peritoneum cancer
 DOID:1781	DB00254	medi_lps	Doxycycline	Thyroid cancer
@@ -1102,7 +1006,6 @@ DOID:1781	DB00851	medi_lps	Dacarbazine	Thyroid cancer
 DOID:1781	DB00997	medi_hps	Doxorubicin	Thyroid cancer
 DOID:1781	DB01583	medi_hps	Liotrix	Thyroid cancer
 DOID:1781	DB05294	medi_hps	Vandetanib	Thyroid cancer
-DOID:1781	DB08764	medi_hps	4-BROMO-2-FLUORO-N-[(4E)-6-METHOXY-7-[(1-METHYLPIPERIDIN-4-YL)METHOXY]QUINAZOLIN-4(1H)-YLIDENE]ANILINE	Thyroid cancer
 DOID:1790	DB00642	medi_lps	Pemetrexed	Malignant mesothelioma
 DOID:1793	DB00104	medi_hps	Octreotide	Pancreatic cancer
 DOID:1793	DB00220	medi_lps	Nelfinavir	Pancreatic cancer
@@ -1121,14 +1024,11 @@ DOID:1793	DB01101	medi_lps	Capecitabine	Pancreatic cancer
 DOID:1793	DB01119	medi_lps	Diazoxide	Pancreatic cancer
 DOID:1793	DB01248	medi_hps	Docetaxel	Pancreatic cancer
 DOID:1793	DB01268	medi_hps	Sunitinib	Pancreatic cancer
-DOID:1793	DB04216	medi_lps	Quercetin	Pancreatic cancer
 DOID:1793	DB04845	medi_lps	Ixabepilone	Pancreatic cancer
-DOID:1793	DB05251	medi_lps	VRX496	Pancreatic cancer
 DOID:1793	DB08828	medi_lps	Vismodegib	Pancreatic cancer
 DOID:1793	DB08877	medi_lps	Ruxolitinib	Pancreatic cancer
 DOID:1826	DB00121	medi_lps	Biotin	epilepsy syndrome
 DOID:1826	DB00130	medi_lps	L-Glutamine	epilepsy syndrome
-DOID:1826	DB00142	medi_lps	L-Glutamic Acid	epilepsy syndrome
 DOID:1826	DB00150	medi_lps	L-Tryptophan	epilepsy syndrome
 DOID:1826	DB00165	medi_lps	Pyridoxine	epilepsy syndrome
 DOID:1826	DB00184	medi_lps	Nicotine	epilepsy syndrome
@@ -1181,13 +1081,7 @@ DOID:1826	DB01320	medi_hps	Fosphenytoin	epilepsy syndrome
 DOID:1826	DB01346	medi_hps	Quinidine barbiturate	epilepsy syndrome
 DOID:1826	DB01351	medi_hps	Amobarbital	epilepsy syndrome
 DOID:1826	DB01607	medi_lps	Ticarcillin	epilepsy syndrome
-DOID:1826	DB02174	medi_lps	D-Glutamine	epilepsy syndrome
-DOID:1826	DB02517	medi_lps	D-Glutamic Acid	epilepsy syndrome
-DOID:1826	DB03655	medi_lps	Bcx-1812	epilepsy syndrome
-DOID:1826	DB04650	medi_lps	5-[(3AS,4R,6AR)-2-OXOHEXAHYDRO-1H-THIENO[3,4-D]IMIDAZOL-4-YL]PENTANOIC ACID	epilepsy syndrome
 DOID:1826	DB04953	medi_lps	Ezogabine	epilepsy syndrome
-DOID:1826	DB05088	medi_lps	Tetrathiomolybdate	epilepsy syndrome
-DOID:1826	DB05291	medi_lps	lidocaine patch	epilepsy syndrome
 DOID:1826	DB06201	medi_hps	Rufinamide	epilepsy syndrome
 DOID:1826	DB06218	medi_lps	Lacosamide	epilepsy syndrome
 DOID:1826	DB06614	medi_lps	Peramivir	epilepsy syndrome
@@ -1214,7 +1108,6 @@ DOID:1909	DB01168	medi_hps	Procarbazine	Melanoma
 DOID:1909	DB01206	medi_hps	Lomustine	Melanoma
 DOID:1909	DB01229	medi_lps	Paclitaxel	Melanoma
 DOID:1909	DB01248	medi_hps	Docetaxel	Melanoma
-DOID:1909	DB02709	medi_lps	Resveratrol	Melanoma
 DOID:1909	DB08881	medi_hps	Vemurafenib	Melanoma
 DOID:1936	DB00122	medi_lps	Choline	atherosclerosis
 DOID:1936	DB00126	medi_lps	Vitamin C	atherosclerosis
@@ -1240,12 +1133,6 @@ DOID:1936	DB01240	medi_hps	Epoprostenol	atherosclerosis
 DOID:1936	DB01241	medi_lps	Gemfibrozil	atherosclerosis
 DOID:1936	DB01303	medi_lps	Oxtriphylline	atherosclerosis
 DOID:1936	DB01401	medi_lps	Trisalicylate-choline	atherosclerosis
-DOID:1936	DB01645	medi_lps	Genistein	atherosclerosis
-DOID:1936	DB01956	medi_lps	2-Aminoethanesulfonic Acid	atherosclerosis
-DOID:1936	DB02692	medi_lps	(6r,1'r,2's)-5,6,7,8 Tetrahydrobiopterin	atherosclerosis
-DOID:1936	DB02701	medi_hps	Nicotinamide	atherosclerosis
-DOID:1936	DB02893	medi_lps	D-Methionine	atherosclerosis
-DOID:1936	DB03918	medi_lps	6s-5,6,7,8-Tetrahydrobiopterin	atherosclerosis
 DOID:1936	DB08860	medi_lps	Pitavastatin	atherosclerosis
 DOID:1993	DB00305	medi_lps	Mitomycin	Rectum cancer
 DOID:2043	DB00143	medi_lps	Glutathione	hepatitis B
@@ -1262,19 +1149,12 @@ DOID:2043	DB00811	medi_lps	Ribavirin	hepatitis B
 DOID:2043	DB01048	medi_lps	Abacavir	hepatitis B
 DOID:2043	DB01093	medi_lps	Dimethyl sulfoxide	hepatitis B
 DOID:2043	DB01265	medi_hps	Telbivudine	hepatitis B
-DOID:2043	DB04485	medi_hps	Deoxythymidine	hepatitis B
-DOID:2043	DB08167	medi_lps	3,7-BIS(DIMETHYLAMINO)PHENOTHIAZIN-5-IUM	hepatitis B
 DOID:216	DB00281	medi_lps	Lidocaine	dental caries
 DOID:216	DB00396	medi_lps	Progesterone	dental caries
 DOID:216	DB00721	medi_lps	Procaine	dental caries
 DOID:216	DB00878	medi_lps	Chlorhexidine	dental caries
 DOID:216	DB00907	medi_hps	Cocaine	dental caries
 DOID:216	DB01086	medi_lps	Benzocaine	dental caries
-DOID:216	DB01904	medi_lps	D-Xylitol	dental caries
-DOID:216	DB01956	medi_lps	2-Aminoethanesulfonic Acid	dental caries
-DOID:216	DB02513	medi_lps	5-Methyl-2-(1-Methylethyl)Phenol	dental caries
-DOID:216	DB02772	medi_lps	Sucrose	dental caries
-DOID:216	DB05291	medi_lps	lidocaine patch	dental caries
 DOID:2174	DB00230	medi_lps	Pregabalin	Ocular cancer
 DOID:2174	DB00541	medi_lps	Vincristine	Ocular cancer
 DOID:2174	DB00921	medi_lps	Buprenorphine	Ocular cancer
@@ -1288,10 +1168,7 @@ DOID:219	DB00331	medi_lps	Metformin	Colon cancer
 DOID:219	DB00544	medi_hps	Fluorouracil	Colon cancer
 DOID:219	DB00650	medi_lps	Leucovorin	Colon cancer
 DOID:219	DB00762	medi_hps	Irinotecan	Colon cancer
-DOID:219	DB00848	medi_lps	Levamisole	Colon cancer
 DOID:219	DB01101	medi_hps	Capecitabine	Colon cancer
-DOID:219	DB02709	medi_lps	Resveratrol	Colon cancer
-DOID:219	DB03256	medi_lps	5-Formyl-5,6,7,8-Tetrahydrofolate	Colon cancer
 DOID:2355	DB00091	medi_lps	Cyclosporine	anemia
 DOID:2355	DB00126	medi_hps	Vitamin C	anemia
 DOID:2355	DB00140	medi_lps	Riboflavin	anemia
@@ -1331,17 +1208,8 @@ DOID:2355	DB01320	medi_lps	Fosphenytoin	anemia
 DOID:2355	DB01420	medi_lps	Testosterone Propionate	anemia
 DOID:2355	DB01607	medi_lps	Ticarcillin	anemia
 DOID:2355	DB01609	medi_lps	Deferasirox	anemia
-DOID:2355	DB02110	medi_lps	Protoporphyrin Ix Containing Co	anemia
-DOID:2355	DB02577	medi_lps	Mesoheme	anemia
-DOID:2355	DB03934	medi_lps	Protoporphyrin Ix Containing Zn	anemia
-DOID:2355	DB04375	medi_lps	5-Methyl-5,6,7,8-Tetrahydrofolic Acid	anemia
 DOID:2355	DB04572	medi_lps	Thiotepa	anemia
-DOID:2355	DB04789	medi_lps	5-methyltetrahydrofolate	anemia
-DOID:2355	DB05088	medi_lps	Tetrathiomolybdate	anemia
 DOID:2355	DB06710	medi_lps	Methyltestosterone	anemia
-DOID:2355	DB07768	medi_lps	(10ALPHA,13ALPHA,14BETA,17ALPHA)-17-HYDROXYANDROST-4-EN-3-ONE	anemia
-DOID:2355	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	anemia
-DOID:2355	DB08167	medi_hps	3,7-BIS(DIMETHYLAMINO)PHENOTHIAZIN-5-IUM	anemia
 DOID:2355	DB08826	medi_hps	Deferiprone	anemia
 DOID:2377	DB00153	medi_lps	Ergocalciferol	multiple sclerosis
 DOID:2377	DB00242	medi_hps	Cladribine	multiple sclerosis
@@ -1372,16 +1240,9 @@ DOID:2377	DB01219	medi_hps	Dantrolene	multiple sclerosis
 DOID:2377	DB01234	medi_lps	Dexamethasone	multiple sclerosis
 DOID:2377	DB01275	medi_lps	Hydralazine	multiple sclerosis
 DOID:2377	DB01346	medi_lps	Quinidine barbiturate	multiple sclerosis
-DOID:2377	DB01677	medi_lps	Fumarate	multiple sclerosis
-DOID:2377	DB04299	medi_lps	Maleic Acid	multiple sclerosis
-DOID:2377	DB04375	medi_lps	5-Methyl-5,6,7,8-Tetrahydrofolic Acid	multiple sclerosis
 DOID:2377	DB04573	medi_lps	Estriol	multiple sclerosis
-DOID:2377	DB04789	medi_lps	5-methyltetrahydrofolate	multiple sclerosis
-DOID:2377	DB05286	medi_hps	FTY 720	multiple sclerosis
 DOID:2377	DB06216	medi_lps	Asenapine	multiple sclerosis
 DOID:2377	DB06637	medi_hps	Dalfampridine	multiple sclerosis
-DOID:2377	DB07702	medi_lps	(16ALPHA,17ALPHA)-ESTRA-1,3,5(10)-TRIENE-3,16,17-TRIOL	multiple sclerosis
-DOID:2377	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	multiple sclerosis
 DOID:2377	DB08868	medi_hps	Fingolimod	multiple sclerosis
 DOID:2394	DB00291	medi_hps	Chlorambucil	Ovarian cancer
 DOID:2394	DB00361	medi_hps	Vinorelbine	Ovarian cancer
@@ -1489,53 +1350,22 @@ DOID:2531	DB01375	medi_lps	Dihydroxyaluminium	Hematologic cancer
 DOID:2531	DB01413	medi_lps	Cefepime	Hematologic cancer
 DOID:2531	DB01586	medi_lps	Ursodeoxycholic acid	Hematologic cancer
 DOID:2531	DB01590	medi_lps	Everolimus	Hematologic cancer
-DOID:2531	DB01645	medi_lps	Genistein	Hematologic cancer
-DOID:2531	DB01671	medi_lps	4-(Hydroxymercury)Benzoic Acid	Hematologic cancer
-DOID:2531	DB02000	medi_lps	Gamma-Phenyl-Butyric Acid	Hematologic cancer
-DOID:2531	DB02097	medi_hps	Cytidine	Hematologic cancer
-DOID:2531	DB02110	medi_lps	Protoporphyrin Ix Containing Co	Hematologic cancer
-DOID:2531	DB02165	medi_lps	Zinc Trihydroxide	Hematologic cancer
-DOID:2531	DB02373	medi_lps	Adenosine Monotungstate	Hematologic cancer
-DOID:2531	DB02453	medi_lps	Trihydroxyantimonite(Iii)	Hematologic cancer
 DOID:2531	DB02546	medi_hps	Vorinostat	Hematologic cancer
-DOID:2531	DB02577	medi_lps	Mesoheme	Hematologic cancer
-DOID:2531	DB02853	medi_lps	D-Proline	Hematologic cancer
 DOID:2531	DB03255	medi_lps	Phenol	Hematologic cancer
-DOID:2531	DB03512	medi_lps	Uridine-2',3'-Vanadate	Hematologic cancer
-DOID:2531	DB03840	medi_lps	Tetra(Imidazole)Diaquacopper (Ii)	Hematologic cancer
-DOID:2531	DB03852	medi_lps	Eucalyptol	Hematologic cancer
-DOID:2531	DB03904	medi_lps	Urea	Hematologic cancer
-DOID:2531	DB03934	medi_lps	Protoporphyrin Ix Containing Zn	Hematologic cancer
-DOID:2531	DB04031	medi_lps	Serine Vanadate	Hematologic cancer
-DOID:2531	DB04219	medi_lps	Trivanadate	Hematologic cancer
-DOID:2531	DB04231	medi_lps	Tetra(Imidazole)Diaquacopper (I)	Hematologic cancer
-DOID:2531	DB04397	medi_lps	Alpha-D-Glucose-1-Phosphate-6-Vanadate	Hematologic cancer
-DOID:2531	DB04428	medi_lps	Tungstopterin Cofactor	Hematologic cancer
-DOID:2531	DB04441	medi_hps	2-Fluoroadenosine	Hematologic cancer
-DOID:2531	DB04494	medi_lps	Mo(Vi)(=O)(Oh)2 Cluster	Hematologic cancer
 DOID:2531	DB04572	medi_hps	Thiotepa	Hematologic cancer
 DOID:2531	DB04845	medi_lps	Ixabepilone	Hematologic cancer
 DOID:2531	DB04868	medi_lps	Nilotinib	Hematologic cancer
 DOID:2531	DB05245	medi_lps	Silver sulfadiazine	Hematologic cancer
-DOID:2531	DB05381	medi_lps	histamine dihydrochloride	Hematologic cancer
 DOID:2531	DB05389	medi_lps	WF10	Hematologic cancer
-DOID:2531	DB05461	medi_lps	OPC-28326	Hematologic cancer
-DOID:2531	DB05488	medi_lps	99mTc-ciprofloxacin	Hematologic cancer
-DOID:2531	DB05494	medi_hps	CP-4055	Hematologic cancer
 DOID:2531	DB05630	medi_lps	Sodium stibogluconate	Hematologic cancer
-DOID:2531	DB05891	medi_lps	HD-O	Hematologic cancer
 DOID:2531	DB06292	medi_lps	Dapagliflozin	Hematologic cancer
 DOID:2531	DB06705	medi_lps	Gadofosveset trisodium	Hematologic cancer
 DOID:2531	DB06715	medi_lps	Potassium Iodide	Hematologic cancer
 DOID:2531	DB06723	medi_lps	Aluminum hydroxide	Hematologic cancer
 DOID:2531	DB06777	medi_lps	Chenodeoxycholic acid	Hematologic cancer
 DOID:2531	DB06809	medi_hps	Plerixafor	Hematologic cancer
-DOID:2531	DB07475	medi_hps	N-[(1R)-1-(DIHYDROXYBORYL)-3-METHYLBUTYL]-N-(PYRAZIN-2-YLCARBONYL)-L-PHENYLALANINAMIDE	Hematologic cancer
-DOID:2531	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	Hematologic cancer
-DOID:2531	DB08700	medi_lps	3-[(1R)-1-(2,6-dichloro-3-fluorophenyl)ethoxy]-5-(1-piperidin-4-yl-1H-pyrazol-4-yl)pyridin-2-amine	Hematologic cancer
 DOID:2531	DB08865	medi_lps	Crizotinib	Hematologic cancer
 DOID:2531	DB08877	medi_hps	Ruxolitinib	Hematologic cancer
-DOID:2531	DB08938	medi_lps	Magaldrate	Hematologic cancer
 DOID:2531	DB08995	medi_lps	Diosmin	Hematologic cancer
 DOID:263	DB00398	medi_hps	Sorafenib	Kidney cancer
 DOID:263	DB00399	medi_lps	Zoledronate	Kidney cancer
@@ -1600,19 +1430,9 @@ DOID:2841	DB01364	medi_hps	Ephedrine	asthma
 DOID:2841	DB01380	medi_lps	Cortisone acetate	asthma
 DOID:2841	DB01409	medi_hps	Tiotropium	asthma
 DOID:2841	DB01410	medi_hps	Ciclesonide	asthma
-DOID:2841	DB01638	medi_lps	D-Sorbitol	asthma
 DOID:2841	DB01656	medi_lps	Roflumilast	asthma
-DOID:2841	DB01904	medi_lps	D-Xylitol	asthma
-DOID:2841	DB02648	medi_lps	(3-Carboxy-2-(R)-Hydroxy-Propyl)-Trimethyl-Ammonium	asthma
-DOID:2841	DB03852	medi_lps	Eucalyptol	asthma
-DOID:2841	DB04027	medi_lps	D-Arginine	asthma
-DOID:2841	DB04077	medi_lps	Glycerol	asthma
-DOID:2841	DB04665	medi_lps	2H-1-BENZOPYRAN-2-ONE	asthma
 DOID:2841	DB05039	medi_hps	Indacaterol	asthma
-DOID:2841	DB05318	medi_lps	NGX-4010	asthma
-DOID:2841	DB05436	medi_lps	RK-0202	asthma
 DOID:2841	DB06151	medi_lps	Acetylcysteine	asthma
-DOID:2841	DB07886	medi_hps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	asthma
 DOID:2841	DB08906	medi_hps	Fluticasone furoate	asthma
 DOID:2986	DB00091	medi_lps	Cyclosporine	IgA glomerulonephritis
 DOID:2986	DB00121	medi_lps	Biotin	IgA glomerulonephritis
@@ -1626,7 +1446,6 @@ DOID:2986	DB00880	medi_lps	Chlorothiazide	IgA glomerulonephritis
 DOID:2986	DB00907	medi_lps	Cocaine	IgA glomerulonephritis
 DOID:2986	DB00999	medi_lps	Hydrochlorothiazide	IgA glomerulonephritis
 DOID:2986	DB01053	medi_lps	Benzylpenicillin	IgA glomerulonephritis
-DOID:2986	DB04650	medi_lps	5-[(3AS,4R,6AR)-2-OXOHEXAHYDRO-1H-THIENO[3,4-D]IMIDAZOL-4-YL]PENTANOIC ACID	IgA glomerulonephritis
 DOID:2994	DB00291	medi_lps	Chlorambucil	Germ cell cancer
 DOID:2994	DB00563	medi_lps	Methotrexate	Germ cell cancer
 DOID:2994	DB00773	medi_hps	Etoposide	Germ cell cancer
@@ -1666,10 +1485,8 @@ DOID:3083	DB01274	medi_hps	Arformoterol	chronic obstructive pulmonary disease
 DOID:3083	DB01364	medi_lps	Ephedrine	chronic obstructive pulmonary disease
 DOID:3083	DB01409	medi_hps	Tiotropium	chronic obstructive pulmonary disease
 DOID:3083	DB01656	medi_hps	Roflumilast	chronic obstructive pulmonary disease
-DOID:3083	DB04339	medi_lps	Carboxymethylenecysteine	chronic obstructive pulmonary disease
 DOID:3083	DB05039	medi_lps	Indacaterol	chronic obstructive pulmonary disease
 DOID:3083	DB05389	medi_lps	WF10	chronic obstructive pulmonary disease
-DOID:3083	DB05436	medi_hps	RK-0202	chronic obstructive pulmonary disease
 DOID:3083	DB06151	medi_hps	Acetylcysteine	chronic obstructive pulmonary disease
 DOID:3277	DB00104	medi_hps	Octreotide	Thymus cancer
 DOID:3277	DB00445	medi_lps	Epirubicin	Thymus cancer
@@ -1692,9 +1509,6 @@ DOID:3310	DB00959	medi_lps	Methylprednisolone	atopic dermatitis
 DOID:3310	DB00993	medi_lps	Azathioprine	atopic dermatitis
 DOID:3310	DB01234	medi_hps	Dexamethasone	atopic dermatitis
 DOID:3310	DB01260	medi_hps	Desonide	atopic dermatitis
-DOID:3310	DB03600	medi_lps	Decanoic Acid	atopic dermatitis
-DOID:3310	DB04650	medi_lps	5-[(3AS,4R,6AR)-2-OXOHEXAHYDRO-1H-THIENO[3,4-D]IMIDAZOL-4-YL]PENTANOIC ACID	atopic dermatitis
-DOID:3310	DB07886	medi_hps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	atopic dermatitis
 DOID:3312	DB00143	medi_lps	Glutathione	bipolar disorder
 DOID:3312	DB00159	medi_lps	Icosapent	bipolar disorder
 DOID:3312	DB00176	medi_lps	Fluvoxamine	bipolar disorder
@@ -1792,7 +1606,6 @@ DOID:3393	DB00519	medi_hps	Trandolapril	coronary artery disease
 DOID:3393	DB00540	medi_lps	Nortriptyline	coronary artery disease
 DOID:3393	DB00569	medi_lps	Fondaparinux sodium	coronary artery disease
 DOID:3393	DB00575	medi_lps	Clonidine	coronary artery disease
-DOID:3393	DB00580	medi_lps	Valdecoxib	coronary artery disease
 DOID:3393	DB00583	medi_lps	L-Carnitine	coronary artery disease
 DOID:3393	DB00594	medi_lps	Amiloride	coronary artery disease
 DOID:3393	DB00621	medi_lps	Oxandrolone	coronary artery disease
@@ -1855,32 +1668,7 @@ DOID:3393	DB01440	medi_lps	Gamma Hydroxybutyric Acid	coronary artery disease
 DOID:3393	DB01551	medi_lps	Dihydrocodeine	coronary artery disease
 DOID:3393	DB01583	medi_hps	Liotrix	coronary artery disease
 DOID:3393	DB01586	medi_lps	Ursodeoxycholic acid	coronary artery disease
-DOID:3393	DB01671	medi_lps	4-(Hydroxymercury)Benzoic Acid	coronary artery disease
-DOID:3393	DB01698	medi_lps	Rutin	coronary artery disease
-DOID:3393	DB01708	medi_lps	Dehydroepiandrosterone	coronary artery disease
-DOID:3393	DB01956	medi_lps	2-Aminoethanesulfonic Acid	coronary artery disease
-DOID:3393	DB02032	medi_hps	1-(3-Mercapto-2-Methyl-Propionyl)-Pyrrolidine-2-Carboxylic Acid	coronary artery disease
-DOID:3393	DB02165	medi_lps	Zinc Trihydroxide	coronary artery disease
-DOID:3393	DB02373	medi_lps	Adenosine Monotungstate	coronary artery disease
-DOID:3393	DB02453	medi_lps	Trihydroxyantimonite(Iii)	coronary artery disease
-DOID:3393	DB02648	medi_lps	(3-Carboxy-2-(R)-Hydroxy-Propyl)-Trimethyl-Ammonium	coronary artery disease
-DOID:3393	DB02692	medi_lps	(6r,1'r,2's)-5,6,7,8 Tetrahydrobiopterin	coronary artery disease
-DOID:3393	DB02709	medi_lps	Resveratrol	coronary artery disease
-DOID:3393	DB02772	medi_lps	Sucrose	coronary artery disease
-DOID:3393	DB03512	medi_lps	Uridine-2',3'-Vanadate	coronary artery disease
-DOID:3393	DB03528	medi_lps	9-Beta-D-Xylofuranosyl-Adenine	coronary artery disease
-DOID:3393	DB03840	medi_lps	Tetra(Imidazole)Diaquacopper (Ii)	coronary artery disease
-DOID:3393	DB03918	medi_lps	6s-5,6,7,8-Tetrahydrobiopterin	coronary artery disease
-DOID:3393	DB04031	medi_lps	Serine Vanadate	coronary artery disease
-DOID:3393	DB04219	medi_lps	Trivanadate	coronary artery disease
-DOID:3393	DB04231	medi_lps	Tetra(Imidazole)Diaquacopper (I)	coronary artery disease
-DOID:3393	DB04397	medi_lps	Alpha-D-Glucose-1-Phosphate-6-Vanadate	coronary artery disease
-DOID:3393	DB04428	medi_lps	Tungstopterin Cofactor	coronary artery disease
-DOID:3393	DB04494	medi_lps	Mo(Vi)(=O)(Oh)2 Cluster	coronary artery disease
-DOID:3393	DB05291	medi_hps	lidocaine patch	coronary artery disease
 DOID:3393	DB05389	medi_lps	WF10	coronary artery disease
-DOID:3393	DB05436	medi_lps	RK-0202	coronary artery disease
-DOID:3393	DB05461	medi_lps	OPC-28326	coronary artery disease
 DOID:3393	DB05630	medi_lps	Sodium stibogluconate	coronary artery disease
 DOID:3393	DB06151	medi_lps	Acetylcysteine	coronary artery disease
 DOID:3393	DB06228	medi_lps	Rivaroxaban	coronary artery disease
@@ -1889,18 +1677,12 @@ DOID:3393	DB06705	medi_lps	Gadofosveset trisodium	coronary artery disease
 DOID:3393	DB06710	medi_lps	Methyltestosterone	coronary artery disease
 DOID:3393	DB06723	medi_lps	Aluminum hydroxide	coronary artery disease
 DOID:3393	DB06777	medi_lps	Chenodeoxycholic acid	coronary artery disease
-DOID:3393	DB07768	medi_lps	(10ALPHA,13ALPHA,14BETA,17ALPHA)-17-HYDROXYANDROST-4-EN-3-ONE	coronary artery disease
-DOID:3393	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	coronary artery disease
-DOID:3393	DB08477	medi_lps	5-chloro-N-({(5S)-2-oxo-3-[4-(3-oxomorpholin-4-yl)phenyl]-1,3-oxazolidin-5-yl}methyl)thiophene-2-carboxamide	coronary artery disease
 DOID:3393	DB08797	medi_lps	Salicylamide	coronary artery disease
 DOID:3393	DB08816	medi_hps	Ticagrelor	coronary artery disease
 DOID:3393	DB08860	medi_lps	Pitavastatin	coronary artery disease
-DOID:3393	DB08938	medi_lps	Magaldrate	coronary artery disease
 DOID:3565	DB00834	medi_hps	Mifepristone	Meningioma
 DOID:3565	DB00987	medi_hps	Cytarabine	Meningioma
-DOID:3565	DB02097	medi_hps	Cytidine	Meningioma
 DOID:3565	DB04572	medi_lps	Thiotepa	Meningioma
-DOID:3565	DB05494	medi_hps	CP-4055	Meningioma
 DOID:3571	DB00398	medi_hps	Sorafenib	Liver cancer
 DOID:3571	DB00442	medi_lps	Entecavir	Liver cancer
 DOID:3571	DB00445	medi_hps	Epirubicin	Liver cancer
@@ -1910,8 +1692,6 @@ DOID:3571	DB00985	medi_lps	Dimenhydrinate	Liver cancer
 DOID:3571	DB00997	medi_hps	Doxorubicin	Liver cancer
 DOID:3571	DB01075	medi_lps	Diphenhydramine	Liver cancer
 DOID:3571	DB01265	medi_lps	Telbivudine	Liver cancer
-DOID:3571	DB04485	medi_lps	Deoxythymidine	Liver cancer
-DOID:3571	DB05318	medi_lps	NGX-4010	Liver cancer
 DOID:363	DB00201	medi_lps	Caffeine	Uterine cancer
 DOID:363	DB00396	medi_hps	Progesterone	Uterine cancer
 DOID:363	DB00445	medi_hps	Epirubicin	Uterine cancer
@@ -1963,7 +1743,6 @@ DOID:4159	DB01168	medi_hps	Procarbazine	Skin cancer
 DOID:4159	DB01206	medi_hps	Lomustine	Skin cancer
 DOID:4159	DB01229	medi_lps	Paclitaxel	Skin cancer
 DOID:4159	DB01248	medi_hps	Docetaxel	Skin cancer
-DOID:4159	DB02709	medi_lps	Resveratrol	Skin cancer
 DOID:4159	DB08828	medi_hps	Vismodegib	Skin cancer
 DOID:4159	DB08881	medi_hps	Vemurafenib	Skin cancer
 DOID:418	DB00559	medi_lps	Bosentan	systemic scleroderma
@@ -1972,7 +1751,6 @@ DOID:418	DB00797	medi_hps	Tolazoline	systemic scleroderma
 DOID:418	DB00859	medi_lps	Penicillamine	systemic scleroderma
 DOID:418	DB01024	medi_lps	Mycophenolic acid	systemic scleroderma
 DOID:418	DB01240	medi_hps	Epoprostenol	systemic scleroderma
-DOID:418	DB02362	medi_hps	4-Aminobenzoic Acid	systemic scleroderma
 DOID:4362	DB00305	medi_lps	Mitomycin	Cervical cancer
 DOID:4362	DB00361	medi_lps	Vinorelbine	Cervical cancer
 DOID:4362	DB00441	medi_lps	Gemcitabine	Cervical cancer
@@ -1998,15 +1776,12 @@ DOID:4989	DB01174	medi_lps	Phenobarbital	pancreatitis
 DOID:4989	DB01241	medi_lps	Gemfibrozil	pancreatitis
 DOID:4989	DB01346	medi_lps	Quinidine barbiturate	pancreatitis
 DOID:4989	DB01438	medi_lps	Phenazopyridine	pancreatitis
-DOID:4989	DB05251	medi_lps	VRX496	pancreatitis
 DOID:5041	DB00162	medi_lps	Vitamin A	Esophageal cancer
 DOID:5041	DB00305	medi_lps	Mitomycin	Esophageal cancer
 DOID:5041	DB00441	medi_lps	Gemcitabine	Esophageal cancer
 DOID:5041	DB00563	medi_hps	Methotrexate	Esophageal cancer
 DOID:5041	DB00958	medi_hps	Carboplatin	Esophageal cancer
 DOID:5041	DB01229	medi_lps	Paclitaxel	Esophageal cancer
-DOID:5041	DB02709	medi_lps	Resveratrol	Esophageal cancer
-DOID:5041	DB05088	medi_lps	Tetrathiomolybdate	Esophageal cancer
 DOID:5408	DB00282	medi_hps	Pamidronate	Paget's disease of bone
 DOID:5408	DB00399	medi_hps	Zoledronate	Paget's disease of bone
 DOID:5408	DB00630	medi_hps	Alendronate	Paget's disease of bone
@@ -2035,9 +1810,6 @@ DOID:594	DB01104	medi_hps	Sertraline	panic disorder
 DOID:594	DB01151	medi_lps	Desipramine	panic disorder
 DOID:594	DB01242	medi_hps	Clomipramine	panic disorder
 DOID:594	DB01247	medi_hps	Isocarboxazid	panic disorder
-DOID:594	DB01783	medi_lps	Pantothenic acid	panic disorder
-DOID:594	DB03106	medi_lps	Myo-Inositol	panic disorder
-DOID:594	DB08567	medi_hps	(1S,4S)-4-(3,4-dichlorophenyl)-N-methyl-1,2,3,4-tetrahydronaphthalen-1-amine	panic disorder
 DOID:635	DB00143	medi_lps	Glutathione	acquired immunodeficiency syndrome
 DOID:635	DB00220	medi_hps	Nelfinavir	acquired immunodeficiency syndrome
 DOID:635	DB00224	medi_hps	Indinavir	acquired immunodeficiency syndrome
@@ -2080,12 +1852,6 @@ DOID:635	DB01232	medi_hps	Saquinavir	acquired immunodeficiency syndrome
 DOID:635	DB01357	medi_lps	Mestranol	acquired immunodeficiency syndrome
 DOID:635	DB01395	medi_lps	Drospirenone	acquired immunodeficiency syndrome
 DOID:635	DB01601	medi_hps	Lopinavir	acquired immunodeficiency syndrome
-DOID:635	DB03904	medi_lps	Urea	acquired immunodeficiency syndrome
-DOID:635	DB04375	medi_lps	5-Methyl-5,6,7,8-Tetrahydrofolic Acid	acquired immunodeficiency syndrome
-DOID:635	DB04789	medi_lps	5-methyltetrahydrofolate	acquired immunodeficiency syndrome
-DOID:635	DB05251	medi_hps	VRX496	acquired immunodeficiency syndrome
-DOID:635	DB05347	medi_hps	iontophoretic acyclovir	acquired immunodeficiency syndrome
-DOID:635	DB05366	medi_lps	CDB-2914	acquired immunodeficiency syndrome
 DOID:635	DB06713	medi_lps	Norelgestromin	acquired immunodeficiency syndrome
 DOID:635	DB08866	medi_lps	Estradiol valerate/Dienogest	acquired immunodeficiency syndrome
 DOID:6364	DB00201	medi_hps	Caffeine	migraine
@@ -2151,14 +1917,9 @@ DOID:6364	DB01346	medi_lps	Quinidine barbiturate	migraine
 DOID:6364	DB01364	medi_lps	Ephedrine	migraine
 DOID:6364	DB01390	medi_lps	Sodium bicarbonate	migraine
 DOID:6364	DB01435	medi_hps	Antipyrine	migraine
-DOID:6364	DB01494	medi_hps	Chloral betaine	migraine
-DOID:6364	DB01495	medi_hps	Dichloralphenazone	migraine
 DOID:6364	DB01551	medi_lps	Dihydrocodeine	migraine
-DOID:6364	DB01563	medi_hps	Chloral hydrate	migraine
 DOID:6364	DB04953	medi_lps	Ezogabine	migraine
-DOID:6364	DB05436	medi_lps	RK-0202	migraine
 DOID:6364	DB06151	medi_lps	Acetylcysteine	migraine
-DOID:6364	DB08298	medi_lps	(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid	migraine
 DOID:6364	DB08797	medi_lps	Salicylamide	migraine
 DOID:7147	DB00201	medi_lps	Caffeine	ankylosing spondylitis
 DOID:7147	DB00316	medi_lps	Acetaminophen	ankylosing spondylitis
@@ -2191,8 +1952,6 @@ DOID:7147	DB01075	medi_lps	Diphenhydramine	ankylosing spondylitis
 DOID:7147	DB01097	medi_lps	Leflunomide	ankylosing spondylitis
 DOID:7147	DB01234	medi_lps	Dexamethasone	ankylosing spondylitis
 DOID:7147	DB01364	medi_lps	Ephedrine	ankylosing spondylitis
-DOID:7147	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	ankylosing spondylitis
-DOID:7147	DB08298	medi_hps	(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid	ankylosing spondylitis
 DOID:7147	DB08797	medi_lps	Salicylamide	ankylosing spondylitis
 DOID:7148	DB00091	medi_hps	Cyclosporine	rheumatoid arthritis
 DOID:7148	DB00121	medi_lps	Biotin	rheumatoid arthritis
@@ -2220,7 +1979,6 @@ DOID:7148	DB00516	medi_lps	Bentoquatam	rheumatoid arthritis
 DOID:7148	DB00541	medi_lps	Vincristine	rheumatoid arthritis
 DOID:7148	DB00554	medi_hps	Piroxicam	rheumatoid arthritis
 DOID:7148	DB00563	medi_hps	Methotrexate	rheumatoid arthritis
-DOID:7148	DB00580	medi_hps	Valdecoxib	rheumatoid arthritis
 DOID:7148	DB00584	medi_hps	Enalapril	rheumatoid arthritis
 DOID:7148	DB00586	medi_hps	Diclofenac	rheumatoid arthritis
 DOID:7148	DB00620	medi_lps	Triamcinolone	rheumatoid arthritis
@@ -2268,34 +2026,13 @@ DOID:7148	DB01398	medi_lps	Salicylate-sodium	rheumatoid arthritis
 DOID:7148	DB01399	medi_hps	Salsalate	rheumatoid arthritis
 DOID:7148	DB01401	medi_hps	Trisalicylate-choline	rheumatoid arthritis
 DOID:7148	DB01551	medi_lps	Dihydrocodeine	rheumatoid arthritis
-DOID:7148	DB01671	medi_lps	4-(Hydroxymercury)Benzoic Acid	rheumatoid arthritis
-DOID:7148	DB01783	medi_lps	Pantothenic acid	rheumatoid arthritis
-DOID:7148	DB02032	medi_hps	1-(3-Mercapto-2-Methyl-Propionyl)-Pyrrolidine-2-Carboxylic Acid	rheumatoid arthritis
-DOID:7148	DB02165	medi_lps	Zinc Trihydroxide	rheumatoid arthritis
-DOID:7148	DB02373	medi_lps	Adenosine Monotungstate	rheumatoid arthritis
-DOID:7148	DB02453	medi_lps	Trihydroxyantimonite(Iii)	rheumatoid arthritis
-DOID:7148	DB03512	medi_lps	Uridine-2',3'-Vanadate	rheumatoid arthritis
-DOID:7148	DB03840	medi_lps	Tetra(Imidazole)Diaquacopper (Ii)	rheumatoid arthritis
-DOID:7148	DB04031	medi_lps	Serine Vanadate	rheumatoid arthritis
-DOID:7148	DB04219	medi_lps	Trivanadate	rheumatoid arthritis
-DOID:7148	DB04231	medi_lps	Tetra(Imidazole)Diaquacopper (I)	rheumatoid arthritis
-DOID:7148	DB04397	medi_lps	Alpha-D-Glucose-1-Phosphate-6-Vanadate	rheumatoid arthritis
-DOID:7148	DB04428	medi_lps	Tungstopterin Cofactor	rheumatoid arthritis
-DOID:7148	DB04494	medi_lps	Mo(Vi)(=O)(Oh)2 Cluster	rheumatoid arthritis
-DOID:7148	DB04650	medi_lps	5-[(3AS,4R,6AR)-2-OXOHEXAHYDRO-1H-THIENO[3,4-D]IMIDAZOL-4-YL]PENTANOIC ACID	rheumatoid arthritis
-DOID:7148	DB05318	medi_lps	NGX-4010	rheumatoid arthritis
 DOID:7148	DB05389	medi_lps	WF10	rheumatoid arthritis
-DOID:7148	DB05436	medi_lps	RK-0202	rheumatoid arthritis
-DOID:7148	DB05461	medi_lps	OPC-28326	rheumatoid arthritis
 DOID:7148	DB05630	medi_lps	Sodium stibogluconate	rheumatoid arthritis
 DOID:7148	DB06151	medi_lps	Acetylcysteine	rheumatoid arthritis
 DOID:7148	DB06292	medi_lps	Dapagliflozin	rheumatoid arthritis
 DOID:7148	DB06705	medi_lps	Gadofosveset trisodium	rheumatoid arthritis
 DOID:7148	DB06723	medi_lps	Aluminum hydroxide	rheumatoid arthritis
-DOID:7148	DB07886	medi_hps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	rheumatoid arthritis
-DOID:7148	DB08298	medi_hps	(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid	rheumatoid arthritis
 DOID:7148	DB08797	medi_lps	Salicylamide	rheumatoid arthritis
-DOID:7148	DB08938	medi_lps	Magaldrate	rheumatoid arthritis
 DOID:7693	DB00973	medi_lps	Ezetimibe	abdominal aortic aneurysm
 DOID:784	DB00136	medi_lps	Calcitriol	chronic kidney failure
 DOID:784	DB00169	medi_hps	Cholecalciferol	chronic kidney failure
@@ -2319,10 +2056,6 @@ DOID:784	DB00973	medi_lps	Ezetimibe	chronic kidney failure
 DOID:784	DB00999	medi_lps	Hydrochlorothiazide	chronic kidney failure
 DOID:784	DB01012	medi_hps	Cinacalcet	chronic kidney failure
 DOID:784	DB01390	medi_lps	Sodium bicarbonate	chronic kidney failure
-DOID:784	DB02648	medi_lps	(3-Carboxy-2-(R)-Hydroxy-Propyl)-Trimethyl-Ammonium	chronic kidney failure
-DOID:784	DB02692	medi_lps	(6r,1'r,2's)-5,6,7,8 Tetrahydrobiopterin	chronic kidney failure
-DOID:784	DB03918	medi_lps	6s-5,6,7,8-Tetrahydrobiopterin	chronic kidney failure
-DOID:784	DB05314	medi_lps	DN-101	chronic kidney failure
 DOID:784	DB08826	medi_lps	Deferiprone	chronic kidney failure
 DOID:824	DB00916	medi_lps	Metronidazole	periodontitis
 DOID:8577	DB00091	medi_lps	Cyclosporine	ulcerative colitis
@@ -2354,13 +2087,6 @@ DOID:8577	DB01033	medi_hps	Mercaptopurine	ulcerative colitis
 DOID:8577	DB01075	medi_lps	Diphenhydramine	ulcerative colitis
 DOID:8577	DB01234	medi_lps	Dexamethasone	ulcerative colitis
 DOID:8577	DB01250	medi_hps	Olsalazine	ulcerative colitis
-DOID:8577	DB02174	medi_lps	D-Glutamine	ulcerative colitis
-DOID:8577	DB03904	medi_lps	Urea	ulcerative colitis
-DOID:8577	DB04077	medi_lps	Glycerol	ulcerative colitis
-DOID:8577	DB04815	medi_lps	Clioquinol	ulcerative colitis
-DOID:8577	DB05291	medi_lps	lidocaine patch	ulcerative colitis
-DOID:8577	DB05347	medi_lps	iontophoretic acyclovir	ulcerative colitis
-DOID:8577	DB07886	medi_hps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	ulcerative colitis
 DOID:8893	DB00091	medi_hps	Cyclosporine	psoriasis
 DOID:8893	DB00136	medi_hps	Calcitriol	psoriasis
 DOID:8893	DB00169	medi_hps	Cholecalciferol	psoriasis
@@ -2399,13 +2125,7 @@ DOID:8893	DB01294	medi_hps	Bismuth Subsalicylate	psoriasis
 DOID:8893	DB01397	medi_hps	Magnesium salicylate	psoriasis
 DOID:8893	DB01398	medi_hps	Salicylate-sodium	psoriasis
 DOID:8893	DB01401	medi_hps	Trisalicylate-choline	psoriasis
-DOID:8893	DB01956	medi_lps	2-Aminoethanesulfonic Acid	psoriasis
 DOID:8893	DB02300	medi_hps	Calcipotriol	psoriasis
-DOID:8893	DB03904	medi_hps	Urea	psoriasis
-DOID:8893	DB04077	medi_lps	Glycerol	psoriasis
-DOID:8893	DB05314	medi_hps	DN-101	psoriasis
-DOID:8893	DB05318	medi_lps	NGX-4010	psoriasis
-DOID:8893	DB07886	medi_hps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	psoriasis
 DOID:8986	DB00182	medi_hps	Amphetamine	narcolepsy
 DOID:8986	DB00344	medi_lps	Protriptyline	narcolepsy
 DOID:8986	DB00422	medi_lps	Methylphenidate	narcolepsy
@@ -2443,9 +2163,6 @@ DOID:9008	DB01075	medi_lps	Diphenhydramine	psoriatic arthritis
 DOID:9008	DB01097	medi_lps	Leflunomide	psoriatic arthritis
 DOID:9008	DB01234	medi_lps	Dexamethasone	psoriatic arthritis
 DOID:9008	DB01364	medi_lps	Ephedrine	psoriatic arthritis
-DOID:9008	DB05314	medi_lps	DN-101	psoriatic arthritis
-DOID:9008	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	psoriatic arthritis
-DOID:9008	DB08298	medi_lps	(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid	psoriatic arthritis
 DOID:9008	DB08797	medi_lps	Salicylamide	psoriatic arthritis
 DOID:9074	DB00091	medi_hps	Cyclosporine	systemic lupus erythematosus
 DOID:9074	DB00121	medi_lps	Biotin	systemic lupus erythematosus
@@ -2483,9 +2200,6 @@ DOID:9074	DB01346	medi_lps	Quinidine barbiturate	systemic lupus erythematosus
 DOID:9074	DB01364	medi_lps	Ephedrine	systemic lupus erythematosus
 DOID:9074	DB01390	medi_lps	Sodium bicarbonate	systemic lupus erythematosus
 DOID:9074	DB01551	medi_lps	Dihydrocodeine	systemic lupus erythematosus
-DOID:9074	DB01708	medi_lps	Dehydroepiandrosterone	systemic lupus erythematosus
-DOID:9074	DB04650	medi_lps	5-[(3AS,4R,6AR)-2-OXOHEXAHYDRO-1H-THIENO[3,4-D]IMIDAZOL-4-YL]PENTANOIC ACID	systemic lupus erythematosus
-DOID:9074	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	systemic lupus erythematosus
 DOID:9074	DB08797	medi_lps	Salicylamide	systemic lupus erythematosus
 DOID:9206	DB00727	medi_lps	Nitroglycerin	Barrett's esophagus
 DOID:9206	DB00962	medi_lps	Zaleplon	Barrett's esophagus
@@ -2521,11 +2235,8 @@ DOID:9352	DB01390	medi_lps	Sodium bicarbonate	type 2 diabetes mellitus
 DOID:9352	DB01392	medi_lps	Yohimbine	type 2 diabetes mellitus
 DOID:9352	DB01399	medi_lps	Salsalate	type 2 diabetes mellitus
 DOID:9352	DB01420	medi_lps	Testosterone Propionate	type 2 diabetes mellitus
-DOID:9352	DB01786	medi_lps	D-Alanine	type 2 diabetes mellitus
-DOID:9352	DB02772	medi_lps	Sucrose	type 2 diabetes mellitus
 DOID:9352	DB06710	medi_lps	Methyltestosterone	type 2 diabetes mellitus
 DOID:9352	DB06715	medi_lps	Potassium Iodide	type 2 diabetes mellitus
-DOID:9352	DB07768	medi_lps	(10ALPHA,13ALPHA,14BETA,17ALPHA)-17-HYDROXYANDROST-4-EN-3-ONE	type 2 diabetes mellitus
 DOID:9352	DB08882	medi_hps	Linagliptin	type 2 diabetes mellitus
 DOID:9744	DB00165	medi_lps	Pyridoxine	type 1 diabetes mellitus
 DOID:9744	DB00222	medi_lps	Glimepiride	type 1 diabetes mellitus
@@ -2536,8 +2247,6 @@ DOID:9744	DB00912	medi_lps	Repaglinide	type 1 diabetes mellitus
 DOID:9744	DB01076	medi_lps	Atorvastatin	type 1 diabetes mellitus
 DOID:9744	DB01200	medi_lps	Bromocriptine	type 1 diabetes mellitus
 DOID:9744	DB01359	medi_lps	Penbutolol	type 1 diabetes mellitus
-DOID:9744	DB02772	medi_lps	Sucrose	type 1 diabetes mellitus
-DOID:9744	DB05318	medi_lps	NGX-4010	type 1 diabetes mellitus
 DOID:9744	DB08882	medi_lps	Linagliptin	type 1 diabetes mellitus
 DOID:9835	DB00162	medi_lps	Vitamin A	refractive error
 DOID:9835	DB00368	medi_lps	Norepinephrine	refractive error
@@ -2551,7 +2260,6 @@ DOID:986	DB00741	medi_lps	Hydrocortisone	alopecia areata
 DOID:986	DB00959	medi_lps	Methylprednisolone	alopecia areata
 DOID:986	DB01013	medi_lps	Clobetasol propionate	alopecia areata
 DOID:986	DB01234	medi_lps	Dexamethasone	alopecia areata
-DOID:986	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	alopecia areata
 DOID:9970	DB00121	medi_lps	Biotin	obesity
 DOID:9970	DB00123	medi_lps	L-Lysine	obesity
 DOID:9970	DB00134	medi_lps	L-Methionine	obesity
@@ -2589,26 +2297,11 @@ DOID:9970	DB01364	medi_lps	Ephedrine	obesity
 DOID:9970	DB01392	medi_lps	Yohimbine	obesity
 DOID:9970	DB01399	medi_lps	Salsalate	obesity
 DOID:9970	DB01420	medi_lps	Testosterone Propionate	obesity
-DOID:9970	DB01494	medi_lps	Chloral betaine	obesity
 DOID:9970	DB01577	medi_hps	Methamphetamine	obesity
 DOID:9970	DB01579	medi_hps	Phendimetrazine	obesity
 DOID:9970	DB01583	medi_lps	Liotrix	obesity
-DOID:9970	DB01746	medi_lps	D-Leucine	obesity
-DOID:9970	DB02648	medi_lps	(3-Carboxy-2-(R)-Hydroxy-Propyl)-Trimethyl-Ammonium	obesity
-DOID:9970	DB02709	medi_lps	Resveratrol	obesity
-DOID:9970	DB02772	medi_lps	Sucrose	obesity
-DOID:9970	DB02893	medi_lps	D-Methionine	obesity
 DOID:9970	DB02959	medi_lps	Oxitriptan	obesity
-DOID:9970	DB03252	medi_lps	D-Lysine	obesity
-DOID:9970	DB03766	medi_lps	Propanoic Acid	obesity
-DOID:9970	DB04077	medi_lps	Glycerol	obesity
-DOID:9970	DB04216	medi_lps	Quercetin	obesity
-DOID:9970	DB04455	medi_lps	Trimethyl Glycine	obesity
-DOID:9970	DB04650	medi_lps	5-[(3AS,4R,6AR)-2-OXOHEXAHYDRO-1H-THIENO[3,4-D]IMIDAZOL-4-YL]PENTANOIC ACID	obesity
-DOID:9970	DB05318	medi_lps	NGX-4010	obesity
 DOID:9970	DB06710	medi_lps	Methyltestosterone	obesity
-DOID:9970	DB07768	medi_lps	(10ALPHA,13ALPHA,14BETA,17ALPHA)-17-HYDROXYANDROST-4-EN-3-ONE	obesity
-DOID:9970	DB07886	medi_lps	(11alpha,14beta)-11,17,21-trihydroxypregn-4-ene-3,20-dione	obesity
 DOID:2531	DB01008	predict	Busulfan	Hematologic cancer
 DOID:2531	DB01181	predict	Ifosfamide	Hematologic cancer
 DOID:2531	DB00290	predict	Bleomycin	Hematologic cancer
@@ -2700,7 +2393,6 @@ DOID:1612	DB00445	predict	Epirubicin	Breast cancer
 DOID:1612	DB00563	predict	Methotrexate	Breast cancer
 DOID:1612	DB00351	predict	Megestrol acetate	Breast cancer
 DOID:1612	DB00947	predict	Fulvestrant	Breast cancer
-DOID:1612	DB00017	predict	Salmon Calcitonin	Breast cancer
 DOID:1612	DB00630	predict	Alendronate	Breast cancer
 DOID:1612	DB00399	predict	Zoledronate	Breast cancer
 DOID:1612	DB01133	predict	Tiludronate	Breast cancer
@@ -2714,7 +2406,6 @@ DOID:10283	DB01101	predict	Capecitabine	Prostate cancer
 DOID:10283	DB00014	predict	Goserelin	Prostate cancer
 DOID:10283	DB01128	predict	Bicalutamide	Prostate cancer
 DOID:10283	DB01204	predict	Mitoxantrone	Prostate cancer
-DOID:10283	DB00007	predict	Leuprolide	Prostate cancer
 DOID:10283	DB00499	predict	Flutamide	Prostate cancer
 DOID:10283	DB01196	predict	Estramustine	Prostate cancer
 DOID:10283	DB00783	predict	Estradiol	Prostate cancer
@@ -2773,7 +2464,6 @@ DOID:2377	DB00635	predict	Prednisone	multiple sclerosis
 DOID:2377	DB01204	predict	Mitoxantrone	multiple sclerosis
 DOID:2377	DB01219	predict	Dantrolene	multiple sclerosis
 DOID:2377	DB00745	predict	Modafinil	multiple sclerosis
-DOID:2377	DB05259	predict	Glatiramer Acetate	multiple sclerosis
 DOID:2377	DB00181	predict	Baclofen	multiple sclerosis
 DOID:2377	DB00915	predict	Amantadine	multiple sclerosis
 DOID:2377	DB00242	predict	Cladribine	multiple sclerosis
@@ -2792,7 +2482,6 @@ DOID:9352	DB01120	predict	Gliclazide	type 2 diabetes mellitus
 DOID:9352	DB01029	predict	Irbesartan	type 2 diabetes mellitus
 DOID:9352	DB00284	predict	Acarbose	type 2 diabetes mellitus
 DOID:9352	DB00412	predict	Rosiglitazone	type 2 diabetes mellitus
-DOID:9352	DB00414	predict	Acetohexamide	type 2 diabetes mellitus
 DOID:9352	DB00491	predict	Miglitol	type 2 diabetes mellitus
 DOID:9744	DB00104	predict	Octreotide	type 1 diabetes mellitus
 DOID:3393	DB01020	predict	Isosorbide Mononitrate	coronary artery disease
@@ -2832,7 +2521,6 @@ DOID:2841	DB01003	predict	Cromoglicic acid	asthma
 DOID:2841	DB00218	predict	Moxifloxacin	asthma
 DOID:2841	DB00635	predict	Prednisone	asthma
 DOID:2841	DB01222	predict	Budesonide	asthma
-DOID:2841	DB00901	predict	Bitolterol	asthma
 DOID:2841	DB00852	predict	Pseudoephedrine	asthma
 DOID:2841	DB01001	predict	Salbutamol	asthma
 DOID:2841	DB01364	predict	Ephedrine	asthma
@@ -2856,7 +2544,6 @@ DOID:2841	DB00983	predict	Formoterol	asthma
 DOID:2841	DB00535	predict	Cefdinir	asthma
 DOID:2841	DB00588	predict	Fluticasone Propionate	asthma
 DOID:8893	DB00620	predict	Triamcinolone	psoriasis
-DOID:8893	DB03904	predict	Urea	psoriasis
 DOID:6364	DB00320	predict	Dihydroergotamine	migraine
 DOID:6364	DB00696	predict	Ergotamine	migraine
 DOID:6364	DB00434	predict	Cyproheptadine	migraine
@@ -2867,7 +2554,6 @@ DOID:6364	DB00216	predict	Eletriptan	migraine
 DOID:6364	DB00571	predict	Propranolol	migraine
 DOID:6364	DB00373	predict	Timolol	migraine
 DOID:6364	DB00998	predict	Frovatriptan	migraine
-DOID:6364	DB00533	predict	Rofecoxib	migraine
 DOID:6364	DB00201	predict	Caffeine	migraine
 DOID:6364	DB00788	predict	Naproxen	migraine
 DOID:6364	DB00316	predict	Acetaminophen	migraine
@@ -2892,7 +2578,6 @@ DOID:10652	DB01043	predict	Memantine	Alzheimer's disease
 DOID:10652	DB00674	predict	Galantamine	Alzheimer's disease
 DOID:10652	DB00313	predict	Valproic Acid	Alzheimer's disease
 DOID:10652	DB00163	predict	Vitamin E	Alzheimer's disease
-DOID:10652	DB00382	predict	Tacrine	Alzheimer's disease
 DOID:10652	DB00245	predict	Benzatropine	Alzheimer's disease
 DOID:10652	DB00810	predict	Biperiden	Alzheimer's disease
 DOID:10652	DB00387	predict	Procyclidine	Alzheimer's disease
@@ -3008,7 +2693,6 @@ DOID:10763	DB00401	predict	Nisoldipine	hypertension
 DOID:10763	DB00374	predict	Treprostinil	hypertension
 DOID:10763	DB00661	predict	Verapamil	hypertension
 DOID:10763	DB00559	predict	Bosentan	hypertension
-DOID:10763	DB01258	predict	NA	hypertension
 DOID:10763	DB00883	predict	Isosorbide Dinitrate	hypertension
 DOID:10763	DB01170	predict	Guanethidine	hypertension
 DOID:10763	DB00988	predict	Dopamine	hypertension
@@ -3019,7 +2703,6 @@ DOID:10763	DB01197	predict	Captopril	hypertension
 DOID:10763	DB00571	predict	Propranolol	hypertension
 DOID:10763	DB00869	predict	Dorzolamide	hypertension
 DOID:10763	DB00584	predict	Enalapril	hypertension
-DOID:5408	DB00017	predict	Salmon Calcitonin	Paget's disease of bone
 DOID:5408	DB00630	predict	Alendronate	Paget's disease of bone
 DOID:5408	DB00399	predict	Zoledronate	Paget's disease of bone
 DOID:5408	DB00282	predict	Pamidronate	Paget's disease of bone
@@ -3043,7 +2726,6 @@ DOID:1686	DB01194	predict	Brinzolamide	glaucoma
 DOID:1686	DB00869	predict	Dorzolamide	glaucoma
 DOID:11476	DB00717	predict	Norethindrone	osteoporosis
 DOID:11476	DB00783	predict	Estradiol	osteoporosis
-DOID:11476	DB06285	predict	Teriparatide	osteoporosis
 DOID:11476	DB00630	predict	Alendronate	osteoporosis
 DOID:11476	DB00169	predict	Cholecalciferol	osteoporosis
 DOID:11476	DB00399	predict	Zoledronate	osteoporosis
@@ -3055,7 +2737,6 @@ DOID:11476	DB00710	predict	Ibandronate	osteoporosis
 DOID:11476	DB00884	predict	Risedronate	osteoporosis
 DOID:11476	DB00286	predict	Conjugated Estrogens	osteoporosis
 DOID:11476	DB00977	predict	Ethinyl Estradiol	osteoporosis
-DOID:11476	DB00017	predict	Salmon Calcitonin	osteoporosis
 DOID:1459	DB00279	predict	Liothyronine	hypothyroidism
 DOID:1459	DB00451	predict	Levothyroxine	hypothyroidism
 DOID:1826	DB00909	predict	Zonisamide	epilepsy syndrome
@@ -3073,12 +2754,10 @@ DOID:1826	DB00795	predict	Sulfasalazine	epilepsy syndrome
 DOID:1826	DB00313	predict	Valproic Acid	epilepsy syndrome
 DOID:1826	DB00564	predict	Carbamazepine	epilepsy syndrome
 DOID:1826	DB00490	predict	Buspirone	epilepsy syndrome
-DOID:1826	DB00532	predict	Mephenytoin	epilepsy syndrome
 DOID:1826	DB01216	predict	Finasteride	epilepsy syndrome
 DOID:1826	DB00421	predict	Spironolactone	epilepsy syndrome
 DOID:1826	DB01174	predict	Phenobarbital	epilepsy syndrome
 DOID:12930	DB01427	predict	Amrinone	dilated cardiomyopathy
-DOID:13223	DB00007	predict	Leuprolide	uterine fibroid
 DOID:14268	DB01241	predict	Gemfibrozil	sclerosing cholangitis
 DOID:11119	DB00575	predict	Clonidine	Gilles de la Tourette syndrome
 DOID:11119	DB00246	predict	Ziprasidone	Gilles de la Tourette syndrome
@@ -3153,7 +2832,6 @@ DOID:14227	DB00882	predict	Clomifene	azoospermia
 DOID:8398	DB00500	predict	Tolmetin	osteoarthritis
 DOID:8398	DB00201	predict	Caffeine	osteoarthritis
 DOID:8398	DB00991	predict	Oxaprozin	osteoarthritis
-DOID:8398	DB00580	predict	Valdecoxib	osteoarthritis
 DOID:8398	DB00814	predict	Meloxicam	osteoarthritis
 DOID:8398	DB00788	predict	Naproxen	osteoarthritis
 DOID:8398	DB00316	predict	Acetaminophen	osteoarthritis
@@ -3190,7 +2868,6 @@ DOID:1094	DB01018	predict	Guanfacine	attention deficit hyperactivity disorder
 DOID:1094	DB00182	predict	Amphetamine	attention deficit hyperactivity disorder
 DOID:1094	DB00422	predict	Methylphenidate	attention deficit hyperactivity disorder
 DOID:1094	DB01156	predict	Bupropion	attention deficit hyperactivity disorder
-DOID:2355	DB01677	predict	Fumarate	anemia
 DOID:594	DB01242	predict	Clomipramine	panic disorder
 DOID:594	DB00472	predict	Fluoxetine	panic disorder
 DOID:594	DB00215	predict	Citalopram	panic disorder
