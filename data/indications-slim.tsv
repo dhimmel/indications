@@ -1,1130 +1,1387 @@
 doid_code	drugbank_id	drugbank_name	doid_name
-DOID:5408	DB01133	Tiludronate	Paget's disease of bone
-DOID:1686	DB00484	Brimonidine	glaucoma
-DOID:2998	DB00290	Bleomycin	Testicular cancer
-DOID:7148	DB00328	Indomethacin	rheumatoid arthritis
-DOID:10763	DB00270	Isradipine	hypertension
-DOID:1781	DB00398	Sorafenib	Thyroid cancer
-DOID:635	DB01601	Lopinavir	acquired immunodeficiency syndrome
-DOID:2377	DB01204	Mitoxantrone	multiple sclerosis
-DOID:3393	DB00281	Lidocaine	coronary artery disease
-DOID:2377	DB08868	Fingolimod	multiple sclerosis
-DOID:1686	DB00869	Dorzolamide	glaucoma
-DOID:3312	DB01068	Clonazepam	bipolar disorder
-DOID:2531	DB00441	Gemcitabine	Hematologic cancer
-DOID:9970	DB01083	Orlistat	obesity
-DOID:9074	DB00620	Triamcinolone	systemic lupus erythematosus
-DOID:2531	DB00755	Tretinoin	Hematologic cancer
-DOID:8577	DB01222	Budesonide	ulcerative colitis
-DOID:1595	DB00321	Amitriptyline	endogenous depression
-DOID:3393	DB00381	Amlodipine	coronary artery disease
-DOID:1612	DB01042	Melphalan	Breast cancer
-DOID:1612	DB00563	Methotrexate	Breast cancer
-DOID:2355	DB00513	Aminocaproic Acid	anemia
-DOID:3310	DB00635	Prednisone	atopic dermatitis
-DOID:594	DB00186	Lorazepam	panic disorder
-DOID:2841	DB01222	Budesonide	asthma
-DOID:594	DB00334	Olanzapine	panic disorder
-DOID:1459	DB00509	Dextrothyroxine	hypothyroidism
-DOID:2841	DB00218	Moxifloxacin	asthma
-DOID:11054	DB00441	Gemcitabine	Urinary bladder cancer
-DOID:1686	DB00287	Travoprost	glaucoma
-DOID:7147	DB00959	Methylprednisolone	ankylosing spondylitis
-DOID:8577	DB00993	Azathioprine	ulcerative colitis
-DOID:7147	DB00443	Betamethasone	ankylosing spondylitis
-DOID:14330	DB00572	Atropine	Parkinson's disease
-DOID:784	DB01012	Cinacalcet	chronic kidney failure
-DOID:1612	DB00399	Zoledronate	Breast cancer
-DOID:3393	DB00373	Timolol	coronary artery disease
-DOID:7148	DB01234	Dexamethasone	rheumatoid arthritis
-DOID:1686	DB00195	Betaxolol	glaucoma
-DOID:1192	DB00773	Etoposide	Peripheral nervous system neoplasm
-DOID:5419	DB01238	Aripiprazole	schizophrenia
-DOID:9008	DB00959	Methylprednisolone	psoriatic arthritis
-DOID:1192	DB00523	Alitretinoin	Peripheral nervous system neoplasm
-DOID:9352	DB00839	Tolazamide	type 2 diabetes mellitus
-DOID:219	DB01008	Busulfan	Colon cancer
-DOID:1612	DB00990	Exemestane	Breast cancer
-DOID:7148	DB00461	Nabumetone	rheumatoid arthritis
-DOID:1826	DB00555	Lamotrigine	epilepsy syndrome
-DOID:7148	DB00482	Celecoxib	rheumatoid arthritis
-DOID:11476	DB00169	Cholecalciferol	osteoporosis
-DOID:263	DB01206	Lomustine	Kidney cancer
-DOID:2998	DB00773	Etoposide	Testicular cancer
-DOID:14330	DB01075	Diphenhydramine	Parkinson's disease
-DOID:1826	DB00313	Valproic Acid	epilepsy syndrome
-DOID:635	DB00224	Indinavir	acquired immunodeficiency syndrome
-DOID:10763	DB01197	Captopril	hypertension
-DOID:2531	DB01033	Mercaptopurine	Hematologic cancer
-DOID:10652	DB01037	Selegiline	Alzheimer's disease
-DOID:2377	DB00959	Methylprednisolone	multiple sclerosis
-DOID:11476	DB00603	Medroxyprogesterone Acetate	osteoporosis
-DOID:0050425	DB00575	Clonidine	restless legs syndrome
-DOID:14330	DB01186	Pergolide	Parkinson's disease
-DOID:1793	DB00851	Dacarbazine	Pancreatic cancer
-DOID:0050425	DB00996	Gabapentin	restless legs syndrome
-DOID:10763	DB01359	Penbutolol	hypertension
-DOID:10763	DB01029	Irbesartan	hypertension
-DOID:1793	DB00104	Octreotide	Pancreatic cancer
-DOID:1595	DB01037	Selegiline	endogenous depression
-DOID:1686	DB01144	Diclofenamide	glaucoma
-DOID:5419	DB00434	Cyproheptadine	schizophrenia
-DOID:2531	DB00987	Cytarabine	Hematologic cancer
-DOID:2531	DB01177	Idarubicin	Hematologic cancer
-DOID:4045	DB00773	Etoposide	Muscle cancer
-DOID:2355	DB01262	Decitabine	anemia
-DOID:7148	DB01399	Salsalate	rheumatoid arthritis
-DOID:263	DB00970	Dactinomycin	Kidney cancer
-DOID:2531	DB00631	Clofarabine	Hematologic cancer
-DOID:8893	DB01398	Salicylate-sodium	psoriasis
-DOID:11119	DB00734	Risperidone	Gilles de la Tourette syndrome
-DOID:3083	DB00983	Formoterol	chronic obstructive pulmonary disease
-DOID:12236	DB00859	Penicillamine	primary biliary cirrhosis
-DOID:8577	DB01014	Balsalazide	ulcerative colitis
-DOID:2998	DB00570	Vinblastine	Testicular cancer
-DOID:1595	DB01149	Nefazodone	endogenous depression
-DOID:1094	DB01576	Dextroamphetamine	attention deficit hyperactivity disorder
-DOID:9352	DB00331	Metformin	type 2 diabetes mellitus
-DOID:10283	DB00014	Goserelin	Prostate cancer
-DOID:3393	DB01020	Isosorbide Mononitrate	coronary artery disease
-DOID:6364	DB00669	Sumatriptan	migraine
-DOID:0050425	DB00190	Carbidopa	restless legs syndrome
-DOID:1686	DB00654	Latanoprost	glaucoma
-DOID:6364	DB00328	Indomethacin	migraine
-DOID:1612	DB00286	Conjugated Estrogens	Breast cancer
-DOID:7148	DB00122	Choline	rheumatoid arthritis
-DOID:1686	DB00575	Clonidine	glaucoma
-DOID:2841	DB00860	Prednisolone	asthma
-DOID:4159	DB00970	Dactinomycin	Skin cancer
-DOID:14330	DB00376	Trihexyphenidyl	Parkinson's disease
-DOID:9970	DB01105	Sibutramine	obesity
-DOID:10763	DB00524	Metolazone	hypertension
-DOID:8398	DB00328	Indomethacin	osteoarthritis
-DOID:12365	DB00908	Quinidine	malaria
-DOID:3571	DB00445	Epirubicin	Liver cancer
-DOID:0060073	DB00290	Bleomycin	Lymphatic system cancer
-DOID:9970	DB01577	Methamphetamine	obesity
-DOID:2355	DB00620	Triamcinolone	anemia
-DOID:7148	DB00859	Penicillamine	rheumatoid arthritis
-DOID:2531	DB00959	Methylprednisolone	Hematologic cancer
-DOID:9074	DB00959	Methylprednisolone	systemic lupus erythematosus
-DOID:10763	DB00484	Brimonidine	hypertension
-DOID:8893	DB00091	Cyclosporine	psoriasis
-DOID:4045	DB00997	Doxorubicin	Muscle cancer
-DOID:1686	DB01210	Levobunolol	glaucoma
-DOID:10283	DB00783	Estradiol	Prostate cancer
-DOID:5419	DB00477	Chlorpromazine	schizophrenia
-DOID:1612	DB08866	Estradiol valerate/Dienogest	Breast cancer
-DOID:12361	DB00550	Propylthiouracil	Graves' disease
-DOID:9008	DB00620	Triamcinolone	psoriatic arthritis
-DOID:10763	DB00691	Moexipril	hypertension
-DOID:3083	DB01001	Salbutamol	chronic obstructive pulmonary disease
-DOID:1826	DB06201	Rufinamide	epilepsy syndrome
-DOID:10763	DB00457	Prazosin	hypertension
-DOID:594	DB00285	Venlafaxine	panic disorder
-DOID:8398	DB00861	Diflunisal	osteoarthritis
-DOID:2531	DB00262	Carmustine	Hematologic cancer
-DOID:10763	DB01162	Terazosin	hypertension
-DOID:9352	DB01132	Pioglitazone	type 2 diabetes mellitus
-DOID:8893	DB02300	Calcipotriol	psoriasis
-DOID:0060073	DB00563	Methotrexate	Lymphatic system cancer
-DOID:7147	DB00860	Prednisolone	ankylosing spondylitis
-DOID:1612	DB00884	Risedronate	Breast cancer
-DOID:10763	DB00594	Amiloride	hypertension
-DOID:11476	DB00999	Hydrochlorothiazide	osteoporosis
-DOID:1686	DB01194	Brinzolamide	glaucoma
-DOID:7148	DB00993	Azathioprine	rheumatoid arthritis
-DOID:2841	DB00983	Formoterol	asthma
-DOID:10763	DB01076	Atorvastatin	hypertension
-DOID:1612	DB00445	Epirubicin	Breast cancer
-DOID:1612	DB00947	Fulvestrant	Breast cancer
-DOID:11054	DB04572	Thiotepa	Urinary bladder cancer
-DOID:3310	DB01234	Dexamethasone	atopic dermatitis
-DOID:1612	DB00380	Dexrazoxane	Breast cancer
-DOID:1612	DB00630	Alendronate	Breast cancer
-DOID:10763	DB00765	Metyrosine	hypertension
-DOID:2531	DB06809	Plerixafor	Hematologic cancer
-DOID:7148	DB00788	Naproxen	rheumatoid arthritis
-DOID:1324	DB01168	Procarbazine	Lung cancer
-DOID:10763	DB00903	Ethacrynic acid	hypertension
-DOID:1324	DB01030	Topotecan	Lung cancer
-DOID:2531	DB00982	Isotretinoin	Hematologic cancer
-DOID:3310	DB00427	Triprolidine	atopic dermatitis
-DOID:1686	DB00964	Apraclonidine	glaucoma
-DOID:1595	DB00313	Valproic Acid	endogenous depression
-DOID:1793	DB00441	Gemcitabine	Pancreatic cancer
-DOID:10283	DB00665	Nilutamide	Prostate cancer
-DOID:263	DB00541	Vincristine	Kidney cancer
-DOID:8893	DB01234	Dexamethasone	psoriasis
-DOID:3571	DB00398	Sorafenib	Liver cancer
-DOID:216	DB00907	Cocaine	dental caries
-DOID:4159	DB01005	Hydroxyurea	Skin cancer
-DOID:2531	DB01204	Mitoxantrone	Hematologic cancer
-DOID:1826	DB00906	Tiagabine	epilepsy syndrome
-DOID:11612	DB00304	Desogestrel	polycystic ovary syndrome
-DOID:1319	DB01168	Procarbazine	Brain cancer
-DOID:0060073	DB00444	Teniposide	Lymphatic system cancer
-DOID:11476	DB00399	Zoledronate	osteoporosis
-DOID:1826	DB00795	Sulfasalazine	epilepsy syndrome
-DOID:4159	DB00290	Bleomycin	Skin cancer
-DOID:2531	DB00997	Doxorubicin	Hematologic cancer
-DOID:9074	DB00635	Prednisone	systemic lupus erythematosus
-DOID:5419	DB00831	Trifluoperazine	schizophrenia
-DOID:10763	DB00869	Dorzolamide	hypertension
-DOID:1115	DB01204	Mitoxantrone	Sarcoma
-DOID:13189	DB00741	Hydrocortisone	gout
-DOID:2531	DB01254	Dasatinib	Hematologic cancer
-DOID:263	DB00530	Erlotinib	Kidney cancer
-DOID:9352	DB00731	Nateglinide	type 2 diabetes mellitus
-DOID:10763	DB01193	Acebutolol	hypertension
-DOID:0060073	DB01073	Fludarabine	Lymphatic system cancer
-DOID:1324	DB00444	Teniposide	Lung cancer
-DOID:0050425	DB00564	Carbamazepine	restless legs syndrome
-DOID:10763	DB01170	Guanethidine	hypertension
-DOID:10763	DB00436	Bendroflumethiazide	hypertension
-DOID:3310	DB00591	Fluocinolone Acetonide	atopic dermatitis
-DOID:8398	DB01068	Clonazepam	osteoarthritis
-DOID:8893	DB00563	Methotrexate	psoriasis
-DOID:263	DB06287	Temsirolimus	Kidney cancer
-DOID:0050741	DB00475	Chlordiazepoxide	alcohol dependence
-DOID:3083	DB01409	Tiotropium	chronic obstructive pulmonary disease
-DOID:2531	DB00515	Cisplatin	Hematologic cancer
-DOID:9352	DB00912	Repaglinide	type 2 diabetes mellitus
-DOID:1612	DB00544	Fluorouracil	Breast cancer
-DOID:3312	DB00477	Chlorpromazine	bipolar disorder
-DOID:2531	DB00443	Betamethasone	Hematologic cancer
-DOID:5419	DB00246	Ziprasidone	schizophrenia
-DOID:4989	DB00572	Atropine	pancreatitis
-DOID:1612	DB01259	Lapatinib	Breast cancer
-DOID:363	DB00997	Doxorubicin	Uterine cancer
-DOID:1595	DB00176	Fluvoxamine	endogenous depression
-DOID:11119	DB01186	Pergolide	Gilles de la Tourette syndrome
-DOID:3310	DB00741	Hydrocortisone	atopic dermatitis
-DOID:4159	DB00262	Carmustine	Skin cancer
-DOID:2841	DB00620	Triamcinolone	asthma
-DOID:8577	DB00741	Hydrocortisone	ulcerative colitis
-DOID:9008	DB00860	Prednisolone	psoriatic arthritis
-DOID:3393	DB01076	Atorvastatin	coronary artery disease
-DOID:2994	DB00563	Methotrexate	Germ cell cancer
-DOID:2377	DB06637	Dalfampridine	multiple sclerosis
-DOID:3312	DB00734	Risperidone	bipolar disorder
-DOID:10763	DB00876	Eprosartan	hypertension
-DOID:10763	DB00195	Betaxolol	hypertension
-DOID:332	DB00740	Riluzole	amyotrophic lateral sclerosis
-DOID:6364	DB00998	Frovatriptan	migraine
-DOID:8577	DB00620	Triamcinolone	ulcerative colitis
-DOID:1324	DB00997	Doxorubicin	Lung cancer
-DOID:1826	DB01174	Phenobarbital	epilepsy syndrome
-DOID:10763	DB00310	Chlorthalidone	hypertension
-DOID:2355	DB00860	Prednisolone	anemia
-DOID:4159	DB08881	Vemurafenib	Skin cancer
-DOID:1094	DB01255	Lisdexamfetamine	attention deficit hyperactivity disorder
-DOID:10652	DB00163	Vitamin E	Alzheimer's disease
-DOID:594	DB01104	Sertraline	panic disorder
-DOID:1781	DB01583	Liotrix	Thyroid cancer
-DOID:1909	DB01005	Hydroxyurea	Melanoma
-DOID:3571	DB00997	Doxorubicin	Liver cancer
-DOID:11119	DB00657	Mecamylamine	Gilles de la Tourette syndrome
-DOID:3083	DB06151	Acetylcysteine	chronic obstructive pulmonary disease
-DOID:1324	DB00530	Erlotinib	Lung cancer
-DOID:1686	DB01214	Metipranolol	glaucoma
-DOID:1459	DB00451	Levothyroxine	hypothyroidism
-DOID:7148	DB00091	Cyclosporine	rheumatoid arthritis
-DOID:10534	DB01101	Capecitabine	Stomach cancer
-DOID:2841	DB00651	Dyphylline	asthma
-DOID:3393	DB00975	Dipyridamole	coronary artery disease
-DOID:594	DB00215	Citalopram	panic disorder
-DOID:8893	DB00394	Beclomethasone	psoriasis
-DOID:635	DB00615	Rifabutin	acquired immunodeficiency syndrome
-DOID:3083	DB01223	Aminophylline	chronic obstructive pulmonary disease
-DOID:363	DB01005	Hydroxyurea	Uterine cancer
-DOID:2531	DB00352	Tioguanine	Hematologic cancer
-DOID:8398	DB00605	Sulindac	osteoarthritis
-DOID:2531	DB00563	Methotrexate	Hematologic cancer
-DOID:14330	DB05271	Rotigotine	Parkinson's disease
-DOID:2531	DB01041	Thalidomide	Hematologic cancer
-DOID:12995	DB00502	Haloperidol	conduct disorder
-DOID:1612	DB00361	Vinorelbine	Breast cancer
-DOID:8893	DB00620	Triamcinolone	psoriasis
-DOID:1686	DB00668	Epinephrine	glaucoma
-DOID:1094	DB00540	Nortriptyline	attention deficit hyperactivity disorder
-DOID:3310	DB00864	Tacrolimus	atopic dermatitis
-DOID:9352	DB00672	Chlorpropamide	type 2 diabetes mellitus
-DOID:11476	DB01077	Etidronic acid	osteoporosis
-DOID:1826	DB00819	Acetazolamide	epilepsy syndrome
-DOID:1909	DB01042	Melphalan	Melanoma
-DOID:10763	DB00374	Treprostinil	hypertension
-DOID:12930	DB01427	Amrinone	dilated cardiomyopathy
-DOID:10534	DB00563	Methotrexate	Stomach cancer
-DOID:2355	DB01234	Dexamethasone	anemia
-DOID:7147	DB00788	Naproxen	ankylosing spondylitis
-DOID:1612	DB00481	Raloxifene	Breast cancer
-DOID:2531	DB00523	Alitretinoin	Hematologic cancer
-DOID:1686	DB00819	Acetazolamide	glaucoma
-DOID:7148	DB01197	Captopril	rheumatoid arthritis
-DOID:6364	DB00696	Ergotamine	migraine
-DOID:10283	DB00286	Conjugated Estrogens	Prostate cancer
-DOID:8893	DB00799	Tazarotene	psoriasis
-DOID:1319	DB00262	Carmustine	Brain cancer
-DOID:2531	DB00553	Methoxsalen	Hematologic cancer
-DOID:2377	DB00697	Tizanidine	multiple sclerosis
-DOID:3393	DB00758	Clopidogrel	coronary artery disease
-DOID:418	DB01240	Epoprostenol	systemic scleroderma
-DOID:2531	DB00361	Vinorelbine	Hematologic cancer
-DOID:10763	DB00178	Ramipril	hypertension
-DOID:1319	DB00773	Etoposide	Brain cancer
-DOID:13189	DB00860	Prednisolone	gout
-DOID:6364	DB00353	Methylergometrine	migraine
-DOID:1612	DB01229	Paclitaxel	Breast cancer
-DOID:9352	DB00412	Rosiglitazone	type 2 diabetes mellitus
-DOID:1094	DB01156	Bupropion	attention deficit hyperactivity disorder
-DOID:2998	DB00997	Doxorubicin	Testicular cancer
-DOID:2994	DB00290	Bleomycin	Germ cell cancer
-DOID:1319	DB00853	Temozolomide	Brain cancer
-DOID:10763	DB00770	Alprostadil	hypertension
-DOID:1115	DB00541	Vincristine	Sarcoma
-DOID:10763	DB00206	Reserpine	hypertension
-DOID:2531	DB01280	Nelarabine	Hematologic cancer
-DOID:1612	DB00441	Gemcitabine	Breast cancer
-DOID:1909	DB00262	Carmustine	Melanoma
-DOID:2377	DB01219	Dantrolene	multiple sclerosis
-DOID:3312	DB01224	Quetiapine	bipolar disorder
-DOID:1826	DB01346	Quinidine barbiturate	epilepsy syndrome
-DOID:6364	DB00321	Amitriptyline	migraine
-DOID:3393	DB01359	Penbutolol	coronary artery disease
-DOID:5041	DB00958	Carboplatin	Esophageal cancer
-DOID:5419	DB00472	Fluoxetine	schizophrenia
-DOID:594	DB00458	Imipramine	panic disorder
-DOID:10534	DB01248	Docetaxel	Stomach cancer
-DOID:2355	DB00949	Felbamate	anemia
-DOID:784	DB00746	Deferoxamine	chronic kidney failure
-DOID:11476	DB00884	Risedronate	osteoporosis
-DOID:14330	DB00424	Hyoscyamine	Parkinson's disease
-DOID:263	DB00399	Zoledronate	Kidney cancer
-DOID:8398	DB01009	Ketoprofen	osteoarthritis
-DOID:1192	DB00982	Isotretinoin	Peripheral nervous system neoplasm
-DOID:1094	DB00745	Modafinil	attention deficit hyperactivity disorder
-DOID:9970	DB00501	Cimetidine	obesity
-DOID:3312	DB00363	Clozapine	bipolar disorder
-DOID:635	DB00196	Fluconazole	acquired immunodeficiency syndrome
-DOID:0060073	DB01204	Mitoxantrone	Lymphatic system cancer
-DOID:12365	DB06697	Artemether	malaria
-DOID:10763	DB01085	Pilocarpine	hypertension
-DOID:7148	DB00741	Hydrocortisone	rheumatoid arthritis
-DOID:2841	DB01223	Aminophylline	asthma
-DOID:10283	DB05812	Abiraterone	Prostate cancer
-DOID:2994	DB00970	Dactinomycin	Germ cell cancer
-DOID:14330	DB01037	Selegiline	Parkinson's disease
-DOID:10763	DB00887	Bumetanide	hypertension
-DOID:5419	DB00363	Clozapine	schizophrenia
-DOID:263	DB01268	Sunitinib	Kidney cancer
-DOID:10763	DB00722	Lisinopril	hypertension
-DOID:594	DB01242	Clomipramine	panic disorder
-DOID:4159	DB00724	Imiquimod	Skin cancer
-DOID:2841	DB00535	Cefdinir	asthma
-DOID:1826	DB00292	Etomidate	epilepsy syndrome
-DOID:0050425	DB01235	L-DOPA	restless legs syndrome
-DOID:10534	DB00997	Doxorubicin	Stomach cancer
-DOID:8398	DB00788	Naproxen	osteoarthritis
-DOID:9352	DB01261	Sitagliptin	type 2 diabetes mellitus
-DOID:1826	DB00349	Clobazam	epilepsy syndrome
-DOID:10763	DB01240	Epoprostenol	hypertension
-DOID:5041	DB00515	Cisplatin	Esophageal cancer
-DOID:3393	DB01098	Rosuvastatin	coronary artery disease
-DOID:2377	DB00514	Dextromethorphan	multiple sclerosis
-DOID:6364	DB00953	Rizatriptan	migraine
-DOID:1686	DB00388	Phenylephrine	glaucoma
-DOID:6364	DB00313	Valproic Acid	migraine
-DOID:10763	DB00692	Phentolamine	hypertension
-DOID:8577	DB00860	Prednisolone	ulcerative colitis
-DOID:8398	DB00959	Methylprednisolone	osteoarthritis
-DOID:10763	DB00435	Nitric Oxide	hypertension
-DOID:2841	DB00443	Betamethasone	asthma
-DOID:6364	DB00918	Almotriptan	migraine
-DOID:1936	DB00175	Pravastatin	atherosclerosis
-DOID:2531	DB00635	Prednisone	Hematologic cancer
-DOID:7148	DB01097	Leflunomide	rheumatoid arthritis
-DOID:263	DB00398	Sorafenib	Kidney cancer
-DOID:10763	DB00373	Timolol	hypertension
-DOID:2998	DB00958	Carboplatin	Testicular cancer
-DOID:9352	DB01083	Orlistat	type 2 diabetes mellitus
-DOID:8893	DB00136	Calcitriol	psoriasis
-DOID:10763	DB00796	Candesartan	hypertension
-DOID:8398	DB00482	Celecoxib	osteoarthritis
-DOID:7148	DB00945	Acetylsalicylic acid	rheumatoid arthritis
-DOID:8398	DB00554	Piroxicam	osteoarthritis
-DOID:1115	DB04572	Thiotepa	Sarcoma
-DOID:10534	DB00544	Fluorouracil	Stomach cancer
-DOID:10763	DB04861	Nebivolol	hypertension
-DOID:8893	DB00169	Cholecalciferol	psoriasis
-DOID:1324	DB00570	Vinblastine	Lung cancer
-DOID:1826	DB00776	Oxcarbazepine	epilepsy syndrome
-DOID:3310	DB00620	Triamcinolone	atopic dermatitis
-DOID:1595	DB00540	Nortriptyline	endogenous depression
-DOID:3565	DB00987	Cytarabine	Meningioma
-DOID:3393	DB01115	Nifedipine	coronary artery disease
-DOID:1324	DB00441	Gemcitabine	Lung cancer
-DOID:7148	DB00860	Prednisolone	rheumatoid arthritis
-DOID:784	DB00136	Calcitriol	chronic kidney failure
-DOID:10763	DB00661	Verapamil	hypertension
-DOID:2531	DB01073	Fludarabine	Hematologic cancer
-DOID:1115	DB01042	Melphalan	Sarcoma
-DOID:11934	DB01248	Docetaxel	Head and neck cancer
-DOID:2355	DB00165	Pyridoxine	anemia
-DOID:1793	DB01268	Sunitinib	Pancreatic cancer
-DOID:2394	DB01357	Mestranol	Ovarian cancer
-DOID:10763	DB01088	Iloprost	hypertension
-DOID:8398	DB00991	Oxaprozin	osteoarthritis
-DOID:10283	DB01101	Capecitabine	Prostate cancer
-DOID:2841	DB00221	Isoetarine	asthma
-DOID:184	DB00399	Zoledronate	Bone cancer
-DOID:14330	DB01367	Rasagiline	Parkinson's disease
-DOID:184	DB00650	Leucovorin	Bone cancer
-DOID:11119	DB00575	Clonidine	Gilles de la Tourette syndrome
-DOID:3393	DB08816	Ticagrelor	coronary artery disease
-DOID:1612	DB01217	Anastrozole	Breast cancer
-DOID:1793	DB01248	Docetaxel	Pancreatic cancer
-DOID:2394	DB01042	Melphalan	Ovarian cancer
-DOID:363	DB00445	Epirubicin	Uterine cancer
-DOID:1686	DB00449	Dipivefrin	glaucoma
-DOID:12365	DB00205	Pyrimethamine	malaria
-DOID:2841	DB00537	Ciprofloxacin	asthma
-DOID:6364	DB00373	Timolol	migraine
-DOID:10283	DB01204	Mitoxantrone	Prostate cancer
-DOID:2531	DB00399	Zoledronate	Hematologic cancer
-DOID:4159	DB01042	Melphalan	Skin cancer
-DOID:7148	DB00554	Piroxicam	rheumatoid arthritis
-DOID:8577	DB01250	Olsalazine	ulcerative colitis
-DOID:4159	DB01206	Lomustine	Skin cancer
-DOID:10763	DB00384	Triamterene	hypertension
-DOID:2841	DB01234	Dexamethasone	asthma
-DOID:10534	DB00762	Irinotecan	Stomach cancer
-DOID:2531	DB01234	Dexamethasone	Hematologic cancer
-DOID:6364	DB00571	Propranolol	migraine
-DOID:3393	DB01583	Liotrix	coronary artery disease
-DOID:8893	DB00553	Methoxsalen	psoriasis
-DOID:10763	DB00797	Tolazoline	hypertension
-DOID:594	DB00404	Alprazolam	panic disorder
-DOID:10763	DB00343	Diltiazem	hypertension
-DOID:7148	DB00861	Diflunisal	rheumatoid arthritis
-DOID:784	DB00258	Calcium Acetate	chronic kidney failure
-DOID:10283	DB00499	Flutamide	Prostate cancer
-DOID:2043	DB00718	Adefovir Dipivoxil	hepatitis B
-DOID:5419	DB01224	Quetiapine	schizophrenia
-DOID:10763	DB00421	Spironolactone	hypertension
-DOID:9835	DB01057	Echothiophate	refractive error
-DOID:2841	DB00180	Flunisolide	asthma
-DOID:2998	DB00563	Methotrexate	Testicular cancer
-DOID:263	DB00441	Gemcitabine	Kidney cancer
-DOID:8893	DB00635	Prednisone	psoriasis
-DOID:1024	DB00250	Dapsone	leprosy
-DOID:1192	DB00445	Epirubicin	Peripheral nervous system neoplasm
-DOID:2377	DB00915	Amantadine	multiple sclerosis
-DOID:10763	DB01136	Carvedilol	hypertension
-DOID:11476	DB00153	Ergocalciferol	osteoporosis
-DOID:1595	DB06684	Vilazodone	endogenous depression
-DOID:8893	DB00688	Mycophenolate mofetil	psoriasis
-DOID:1612	DB00783	Estradiol	Breast cancer
-DOID:6364	DB00996	Gabapentin	migraine
-DOID:3393	DB00295	Morphine	coronary artery disease
-DOID:1319	DB00834	Mifepristone	Brain cancer
-DOID:1826	DB00252	Phenytoin	epilepsy syndrome
-DOID:3393	DB00178	Ramipril	coronary artery disease
-DOID:5408	DB00884	Risedronate	Paget's disease of bone
-DOID:10763	DB00678	Losartan	hypertension
-DOID:11934	DB00570	Vinblastine	Head and neck cancer
-DOID:8893	DB01024	Mycophenolic acid	psoriasis
-DOID:2377	DB00993	Azathioprine	multiple sclerosis
-DOID:1324	DB00773	Etoposide	Lung cancer
-DOID:1793	DB00762	Irinotecan	Pancreatic cancer
-DOID:2531	DB04572	Thiotepa	Hematologic cancer
-DOID:1324	DB01005	Hydroxyurea	Lung cancer
-DOID:1793	DB00530	Erlotinib	Pancreatic cancer
-DOID:1612	DB04845	Ixabepilone	Breast cancer
-DOID:7147	DB00500	Tolmetin	ankylosing spondylitis
-DOID:10763	DB00226	Guanadrel	hypertension
-DOID:1094	DB00458	Imipramine	attention deficit hyperactivity disorder
-DOID:363	DB00958	Carboplatin	Uterine cancer
-DOID:8986	DB00745	Modafinil	narcolepsy
-DOID:8398	DB00316	Acetaminophen	osteoarthritis
-DOID:2394	DB00958	Carboplatin	Ovarian cancer
-DOID:9970	DB00273	Topiramate	obesity
-DOID:6364	DB00945	Acetylsalicylic acid	migraine
-DOID:2377	DB00181	Baclofen	multiple sclerosis
-DOID:0050741	DB00822	Disulfiram	alcohol dependence
-DOID:1909	DB00290	Bleomycin	Melanoma
-DOID:4989	DB00782	Propantheline	pancreatitis
-DOID:2174	DB00958	Carboplatin	Ocular cancer
-DOID:2841	DB00440	Trimethoprim	asthma
-DOID:9970	DB01156	Bupropion	obesity
-DOID:9970	DB00937	Diethylpropion	obesity
-DOID:2841	DB01409	Tiotropium	asthma
-DOID:10283	DB00445	Epirubicin	Prostate cancer
-DOID:10283	DB00399	Zoledronate	Prostate cancer
-DOID:10763	DB00808	Indapamide	hypertension
-DOID:4045	DB00541	Vincristine	Muscle cancer
-DOID:2841	DB01001	Salbutamol	asthma
-DOID:2531	DB00851	Dacarbazine	Hematologic cancer
-DOID:6364	DB00316	Acetaminophen	migraine
-DOID:3310	DB01260	Desonide	atopic dermatitis
-DOID:10534	DB00305	Mitomycin	Stomach cancer
-DOID:12306	DB00600	Monobenzone	vitiligo
-DOID:10763	DB01023	Felodipine	hypertension
-DOID:2998	DB00445	Epirubicin	Testicular cancer
-DOID:10763	DB00657	Mecamylamine	hypertension
-DOID:9970	DB00191	Phentermine	obesity
-DOID:10763	DB00590	Doxazosin	hypertension
-DOID:4989	DB00104	Octreotide	pancreatitis
-DOID:11476	DB00282	Pamidronate	osteoporosis
-DOID:11476	DB00977	Ethinyl Estradiol	osteoporosis
-DOID:1192	DB00755	Tretinoin	Peripheral nervous system neoplasm
-DOID:10763	DB01018	Guanfacine	hypertension
-DOID:2841	DB00959	Methylprednisolone	asthma
-DOID:594	DB01156	Bupropion	panic disorder
-DOID:11054	DB00544	Fluorouracil	Urinary bladder cancer
-DOID:263	DB00570	Vinblastine	Kidney cancer
-DOID:1612	DB01133	Tiludronate	Breast cancer
-DOID:10763	DB00880	Chlorothiazide	hypertension
-DOID:10283	DB00655	Estrone	Prostate cancer
-DOID:10763	DB00968	Methyldopa	hypertension
-DOID:12361	DB00451	Levothyroxine	Graves' disease
-DOID:10283	DB00997	Doxorubicin	Prostate cancer
-DOID:10763	DB00622	Nicardipine	hypertension
-DOID:9074	DB00091	Cyclosporine	systemic lupus erythematosus
-DOID:7148	DB00995	Auranofin	rheumatoid arthritis
-DOID:8398	DB00461	Nabumetone	osteoarthritis
-DOID:2043	DB00442	Entecavir	hepatitis B
-DOID:6364	DB00434	Cyproheptadine	migraine
-DOID:635	DB00705	Delavirdine	acquired immunodeficiency syndrome
-DOID:1936	DB00797	Tolazoline	atherosclerosis
-DOID:8398	DB00712	Flurbiprofen	osteoarthritis
-DOID:11612	DB00977	Ethinyl Estradiol	polycystic ovary syndrome
-DOID:3393	DB00775	Tirofiban	coronary artery disease
-DOID:2531	DB00762	Irinotecan	Hematologic cancer
-DOID:363	DB00917	Dinoprostone	Uterine cancer
-DOID:10763	DB00575	Clonidine	hypertension
-DOID:2394	DB00997	Doxorubicin	Ovarian cancer
-DOID:2355	DB00163	Vitamin E	anemia
-DOID:2531	DB00620	Triamcinolone	Hematologic cancer
-DOID:1781	DB00509	Dextrothyroxine	Thyroid cancer
-DOID:2531	DB02546	Vorinostat	Hematologic cancer
-DOID:635	DB00649	Stavudine	acquired immunodeficiency syndrome
-DOID:10763	DB01119	Diazoxide	hypertension
-DOID:1612	DB00351	Megestrol acetate	Breast cancer
-DOID:11476	DB00621	Oxandrolone	osteoporosis
-DOID:8398	DB00586	Diclofenac	osteoarthritis
-DOID:1595	DB00715	Paroxetine	endogenous depression
-DOID:3312	DB00246	Ziprasidone	bipolar disorder
-DOID:1781	DB00445	Epirubicin	Thyroid cancer
-DOID:332	DB00514	Dextromethorphan	amyotrophic lateral sclerosis
-DOID:10652	DB00989	Rivastigmine	Alzheimer's disease
-DOID:6364	DB01435	Antipyrine	migraine
-DOID:9008	DB00563	Methotrexate	psoriatic arthritis
-DOID:1826	DB00620	Triamcinolone	epilepsy syndrome
-DOID:2531	DB04868	Nilotinib	Hematologic cancer
-DOID:5419	DB01267	Paliperidone	schizophrenia
-DOID:2531	DB00290	Bleomycin	Hematologic cancer
-DOID:219	DB00987	Cytarabine	Colon cancer
-DOID:594	DB00472	Fluoxetine	panic disorder
-DOID:1909	DB01206	Lomustine	Melanoma
-DOID:5419	DB01356	Lithium	schizophrenia
-DOID:1612	DB01420	Testosterone Propionate	Breast cancer
-DOID:8986	DB00182	Amphetamine	narcolepsy
-DOID:10763	DB00790	Perindopril	hypertension
-DOID:1826	DB00490	Buspirone	epilepsy syndrome
-DOID:10763	DB01210	Levobunolol	hypertension
-DOID:3312	DB00313	Valproic Acid	bipolar disorder
-DOID:12365	DB00254	Doxycycline	malaria
-DOID:8893	DB01091	Butenafine	psoriasis
-DOID:6364	DB00788	Naproxen	migraine
-DOID:12365	DB01190	Clindamycin	malaria
-DOID:8398	DB00201	Caffeine	osteoarthritis
-DOID:1612	DB01006	Letrozole	Breast cancer
-DOID:3393	DB01197	Captopril	coronary artery disease
-DOID:3393	DB00790	Perindopril	coronary artery disease
-DOID:7148	DB00959	Methylprednisolone	rheumatoid arthritis
-DOID:635	DB00787	Aciclovir	acquired immunodeficiency syndrome
-DOID:10652	DB00674	Galantamine	Alzheimer's disease
-DOID:1826	DB00794	Primidone	epilepsy syndrome
-DOID:10283	DB01196	Estramustine	Prostate cancer
-DOID:1115	DB00773	Etoposide	Sarcoma
-DOID:1826	DB00350	Minoxidil	epilepsy syndrome
-DOID:219	DB00563	Methotrexate	Colon cancer
-DOID:8893	DB01397	Magnesium salicylate	psoriasis
-DOID:1936	DB01240	Epoprostenol	atherosclerosis
-DOID:635	DB01048	Abacavir	acquired immunodeficiency syndrome
-DOID:10763	DB00774	Hydroflumethiazide	hypertension
-DOID:1612	DB00539	Toremifene	Breast cancer
-DOID:2531	DB00282	Pamidronate	Hematologic cancer
-DOID:1324	DB00642	Pemetrexed	Lung cancer
-DOID:2355	DB00635	Prednisone	anemia
-DOID:2531	DB00188	Bortezomib	Hematologic cancer
-DOID:2355	DB00126	Vitamin C	anemia
-DOID:1115	DB00851	Dacarbazine	Sarcoma
-DOID:8398	DB00814	Meloxicam	osteoarthritis
-DOID:8577	DB00959	Methylprednisolone	ulcerative colitis
-DOID:11054	DB00958	Carboplatin	Urinary bladder cancer
-DOID:12361	DB00279	Liothyronine	Graves' disease
-DOID:219	DB00762	Irinotecan	Colon cancer
-DOID:6364	DB00661	Verapamil	migraine
-DOID:2841	DB00938	Salmeterol	asthma
-DOID:9352	DB00678	Losartan	type 2 diabetes mellitus
-DOID:1781	DB05294	Vandetanib	Thyroid cancer
-DOID:4159	DB01168	Procarbazine	Skin cancer
-DOID:635	DB00445	Epirubicin	acquired immunodeficiency syndrome
-DOID:9970	DB00397	Phenylpropanolamine	obesity
-DOID:1192	DB00970	Dactinomycin	Peripheral nervous system neoplasm
-DOID:1612	DB00603	Medroxyprogesterone Acetate	Breast cancer
-DOID:2841	DB08906	Fluticasone furoate	asthma
-DOID:594	DB00715	Paroxetine	panic disorder
-DOID:0050425	DB00413	Pramipexole	restless legs syndrome
-DOID:10763	DB00598	Labetalol	hypertension
-DOID:2841	DB00920	Ketotifen	asthma
-DOID:2394	DB01229	Paclitaxel	Ovarian cancer
-DOID:3393	DB00783	Estradiol	coronary artery disease
-DOID:1324	DB01248	Docetaxel	Lung cancer
-DOID:3083	DB01656	Roflumilast	chronic obstructive pulmonary disease
-DOID:184	DB00958	Carboplatin	Bone cancer
-DOID:6364	DB00320	Dihydroergotamine	migraine
-DOID:635	DB00900	Didanosine	acquired immunodeficiency syndrome
-DOID:1612	DB00282	Pamidronate	Breast cancer
-DOID:1094	DB00285	Venlafaxine	attention deficit hyperactivity disorder
-DOID:1595	DB01175	Escitalopram	endogenous depression
-DOID:1612	DB01204	Mitoxantrone	Breast cancer
-DOID:0050425	DB00268	Ropinirole	restless legs syndrome
-DOID:7148	DB00586	Diclofenac	rheumatoid arthritis
-DOID:1781	DB00451	Levothyroxine	Thyroid cancer
-DOID:4045	DB00851	Dacarbazine	Muscle cancer
-DOID:10763	DB00584	Enalapril	hypertension
-DOID:263	DB06589	Pazopanib	Kidney cancer
-DOID:184	DB00445	Epirubicin	Bone cancer
-DOID:5408	DB00282	Pamidronate	Paget's disease of bone
-DOID:635	DB00495	Zidovudine	acquired immunodeficiency syndrome
-DOID:12849	DB00734	Risperidone	autistic disorder
-DOID:9074	DB01234	Dexamethasone	systemic lupus erythematosus
-DOID:2531	DB00291	Chlorambucil	Hematologic cancer
-DOID:14268	DB01241	Gemfibrozil	sclerosing cholangitis
-DOID:1909	DB00970	Dactinomycin	Melanoma
-DOID:10763	DB01275	Hydralazine	hypertension
-DOID:10652	DB00268	Ropinirole	Alzheimer's disease
-DOID:1826	DB01320	Fosphenytoin	epilepsy syndrome
-DOID:11119	DB00246	Ziprasidone	Gilles de la Tourette syndrome
-DOID:14330	DB00190	Carbidopa	Parkinson's disease
-DOID:8577	DB00184	Nicotine	ulcerative colitis
-DOID:10283	DB00977	Ethinyl Estradiol	Prostate cancer
-DOID:1324	DB00762	Irinotecan	Lung cancer
-DOID:7147	DB01234	Dexamethasone	ankylosing spondylitis
-DOID:2377	DB00620	Triamcinolone	multiple sclerosis
-DOID:1909	DB00853	Temozolomide	Melanoma
-DOID:2531	DB00437	Allopurinol	Hematologic cancer
-DOID:6364	DB00697	Tizanidine	migraine
-DOID:3393	DB00988	Dopamine	coronary artery disease
-DOID:7148	DB00563	Methotrexate	rheumatoid arthritis
-DOID:10763	DB00381	Amlodipine	hypertension
-DOID:1094	DB00575	Clonidine	attention deficit hyperactivity disorder
-DOID:1612	DB04572	Thiotepa	Breast cancer
-DOID:1612	DB06710	Methyltestosterone	Breast cancer
-DOID:9352	DB01200	Bromocriptine	type 2 diabetes mellitus
-DOID:2998	DB00515	Cisplatin	Testicular cancer
-DOID:11476	DB00717	Norethindrone	osteoporosis
-DOID:1324	DB00563	Methotrexate	Lung cancer
-DOID:2994	DB00515	Cisplatin	Germ cell cancer
-DOID:10283	DB00513	Aminocaproic Acid	Prostate cancer
-DOID:12365	DB01346	Quinidine barbiturate	malaria
-DOID:5419	DB01063	Acetophenazine	schizophrenia
-DOID:1686	DB00905	Bimatoprost	glaucoma
-DOID:2394	DB00445	Epirubicin	Ovarian cancer
-DOID:1595	DB00476	Duloxetine	endogenous depression
-DOID:11476	DB00286	Conjugated Estrogens	osteoporosis
-DOID:10763	DB00364	Sucralfate	hypertension
-DOID:4045	DB00563	Methotrexate	Muscle cancer
-DOID:14227	DB00882	Clomifene	azoospermia
-DOID:3393	DB00175	Pravastatin	coronary artery disease
-DOID:2841	DB00588	Fluticasone Propionate	asthma
-DOID:1909	DB01248	Docetaxel	Melanoma
-DOID:1612	DB01248	Docetaxel	Breast cancer
-DOID:5419	DB00313	Valproic Acid	schizophrenia
-DOID:9352	DB00641	Simvastatin	type 2 diabetes mellitus
-DOID:3393	DB00700	Eplerenone	coronary artery disease
-DOID:13378	DB00945	Acetylsalicylic acid	Kawasaki disease
-DOID:0050741	DB00704	Naltrexone	alcohol dependence
-DOID:13189	DB00328	Indomethacin	gout
-DOID:5419	DB00502	Haloperidol	schizophrenia
-DOID:10763	DB00905	Bimatoprost	hypertension
-DOID:9008	DB00443	Betamethasone	psoriatic arthritis
-DOID:1319	DB01234	Dexamethasone	Brain cancer
-DOID:418	DB00797	Tolazoline	systemic scleroderma
-DOID:3393	DB00519	Trandolapril	coronary artery disease
-DOID:1612	DB08871	Eribulin	Breast cancer
-DOID:2998	DB00970	Dactinomycin	Testicular cancer
-DOID:14330	DB00248	Cabergoline	Parkinson's disease
-DOID:2531	DB00482	Celecoxib	Hematologic cancer
-DOID:11476	DB00258	Calcium Acetate	osteoporosis
-DOID:0060073	DB00262	Carmustine	Lymphatic system cancer
-DOID:6364	DB00241	Butalbital	migraine
-DOID:9352	DB01076	Atorvastatin	type 2 diabetes mellitus
-DOID:8398	DB00945	Acetylsalicylic acid	osteoarthritis
-DOID:2377	DB00860	Prednisolone	multiple sclerosis
-DOID:10763	DB00449	Dipivefrin	hypertension
-DOID:219	DB00544	Fluorouracil	Colon cancer
-DOID:1612	DB00570	Vinblastine	Breast cancer
-DOID:7148	DB00620	Triamcinolone	rheumatoid arthritis
-DOID:3393	DB01039	Fenofibrate	coronary artery disease
-DOID:2531	DB01042	Melphalan	Hematologic cancer
-DOID:4159	DB00851	Dacarbazine	Skin cancer
-DOID:10763	DB00401	Nisoldipine	hypertension
-DOID:9352	DB01029	Irbesartan	type 2 diabetes mellitus
-DOID:2355	DB00158	Folic Acid	anemia
-DOID:2394	DB00361	Vinorelbine	Ovarian cancer
-DOID:7148	DB00500	Tolmetin	rheumatoid arthritis
-DOID:2531	DB00888	Mechlorethamine	Hematologic cancer
-DOID:10652	DB00190	Carbidopa	Alzheimer's disease
-DOID:3312	DB00564	Carbamazepine	bipolar disorder
-DOID:10763	DB00571	Propranolol	hypertension
-DOID:10652	DB00810	Biperiden	Alzheimer's disease
-DOID:2841	DB00394	Beclomethasone	asthma
-DOID:10283	DB01005	Hydroxyurea	Prostate cancer
-DOID:8893	DB00936	Salicylic acid	psoriasis
-DOID:14330	DB00915	Amantadine	Parkinson's disease
-DOID:635	DB01004	Ganciclovir	acquired immunodeficiency syndrome
-DOID:7147	DB00328	Indomethacin	ankylosing spondylitis
-DOID:11054	DB00385	Valrubicin	Urinary bladder cancer
-DOID:1612	DB00675	Tamoxifen	Breast cancer
-DOID:9352	DB00177	Valsartan	type 2 diabetes mellitus
-DOID:2531	DB00480	Lenalidomide	Hematologic cancer
-DOID:2841	DB00764	Mometasone	asthma
-DOID:0050741	DB00215	Citalopram	alcohol dependence
-DOID:263	DB01005	Hydroxyurea	Kidney cancer
-DOID:2043	DB00709	Lamivudine	hepatitis B
-DOID:2394	DB01005	Hydroxyurea	Ovarian cancer
-DOID:1595	DB00215	Citalopram	endogenous depression
-DOID:5419	DB00564	Carbamazepine	schizophrenia
-DOID:0050741	DB00904	Ondansetron	alcohol dependence
-DOID:13189	DB01394	Colchicine	gout
-DOID:2531	DB08877	Ruxolitinib	Hematologic cancer
-DOID:13189	DB01032	Probenecid	gout
-DOID:1826	DB00909	Zonisamide	epilepsy syndrome
-DOID:0050741	DB00659	Acamprosate	alcohol dependence
-DOID:8893	DB00741	Hydrocortisone	psoriasis
-DOID:14330	DB01235	L-DOPA	Parkinson's disease
-DOID:1826	DB01202	Levetiracetam	epilepsy syndrome
-DOID:0050425	DB01068	Clonazepam	restless legs syndrome
-DOID:9352	DB00491	Miglitol	type 2 diabetes mellitus
-DOID:2841	DB00277	Theophylline	asthma
-DOID:10763	DB00654	Latanoprost	hypertension
-DOID:1192	DB01030	Topotecan	Peripheral nervous system neoplasm
-DOID:13189	DB00788	Naproxen	gout
-DOID:7148	DB00795	Sulfasalazine	rheumatoid arthritis
-DOID:11119	DB00334	Olanzapine	Gilles de la Tourette syndrome
-DOID:10763	DB00820	Tadalafil	hypertension
-DOID:2994	DB00773	Etoposide	Germ cell cancer
-DOID:1612	DB00655	Estrone	Breast cancer
-DOID:2841	DB00716	Nedocromil	asthma
-DOID:2994	DB00917	Dinoprostone	Germ cell cancer
-DOID:784	DB00903	Ethacrynic acid	chronic kidney failure
-DOID:1612	DB00624	Testosterone	Breast cancer
-DOID:11934	DB01085	Pilocarpine	Head and neck cancer
-DOID:2531	DB00428	Streptozocin	Hematologic cancer
-DOID:10283	DB06699	Degarelix	Prostate cancer
-DOID:5419	DB00334	Olanzapine	schizophrenia
-DOID:9074	DB00443	Betamethasone	systemic lupus erythematosus
-DOID:10652	DB00387	Procyclidine	Alzheimer's disease
-DOID:1686	DB00703	Methazolamide	glaucoma
-DOID:10763	DB00966	Telmisartan	hypertension
-DOID:14330	DB00268	Ropinirole	Parkinson's disease
-DOID:594	DB00540	Nortriptyline	panic disorder
-DOID:2355	DB08826	Deferiprone	anemia
-DOID:10763	DB00542	Benazepril	hypertension
-DOID:10763	DB01083	Orlistat	hypertension
-DOID:263	DB01101	Capecitabine	Kidney cancer
-DOID:4045	DB00970	Dactinomycin	Muscle cancer
-DOID:1826	DB01068	Clonazepam	epilepsy syndrome
-DOID:7148	DB01401	Trisalicylate-choline	rheumatoid arthritis
-DOID:1612	DB00997	Doxorubicin	Breast cancer
-DOID:2377	DB00242	Cladribine	multiple sclerosis
-DOID:3393	DB00451	Levothyroxine	coronary artery disease
-DOID:1793	DB00675	Tamoxifen	Pancreatic cancer
-DOID:3083	DB00635	Prednisone	chronic obstructive pulmonary disease
-DOID:2377	DB01234	Dexamethasone	multiple sclerosis
-DOID:1324	DB00317	Gefitinib	Lung cancer
-DOID:4989	DB00627	Niacin	pancreatitis
-DOID:2841	DB01003	Cromoglicic acid	asthma
-DOID:14330	DB00413	Pramipexole	Parkinson's disease
-DOID:1781	DB00279	Liothyronine	Thyroid cancer
-DOID:14330	DB00494	Entacapone	Parkinson's disease
-DOID:5419	DB00679	Thioridazine	schizophrenia
-DOID:184	DB00997	Doxorubicin	Bone cancer
-DOID:5408	DB00399	Zoledronate	Paget's disease of bone
-DOID:10763	DB00695	Furosemide	hypertension
-DOID:263	DB01590	Everolimus	Kidney cancer
-DOID:263	DB01229	Paclitaxel	Kidney cancer
-DOID:12236	DB06777	Chenodeoxycholic acid	primary biliary cirrhosis
-DOID:8577	DB01033	Mercaptopurine	ulcerative colitis
-DOID:1936	DB00227	Lovastatin	atherosclerosis
-DOID:5041	DB00563	Methotrexate	Esophageal cancer
-DOID:12365	DB00468	Quinine	malaria
-DOID:5419	DB00555	Lamotrigine	schizophrenia
-DOID:8577	DB00795	Sulfasalazine	ulcerative colitis
-DOID:10763	DB00559	Bosentan	hypertension
-DOID:3310	DB00443	Betamethasone	atopic dermatitis
-DOID:1192	DB00541	Vincristine	Peripheral nervous system neoplasm
-DOID:13189	DB00437	Allopurinol	gout
-DOID:1826	DB00564	Carbamazepine	epilepsy syndrome
-DOID:3312	DB00555	Lamotrigine	bipolar disorder
-DOID:2841	DB00668	Epinephrine	asthma
-DOID:1612	DB00762	Irinotecan	Breast cancer
-DOID:10763	DB00325	Nitroprusside	hypertension
-DOID:263	DB00997	Doxorubicin	Kidney cancer
-DOID:6364	DB00201	Caffeine	migraine
-DOID:11612	DB00331	Metformin	polycystic ovary syndrome
-DOID:5419	DB00933	Mesoridazine	schizophrenia
-DOID:12361	DB00763	Methimazole	Graves' disease
-DOID:784	DB00887	Bumetanide	chronic kidney failure
-DOID:219	DB00650	Leucovorin	Colon cancer
-DOID:2841	DB00871	Terbutaline	asthma
-DOID:9352	DB01120	Gliclazide	type 2 diabetes mellitus
-DOID:1612	DB01185	Fluoxymesterone	Breast cancer
-DOID:10763	DB00492	Fosinopril	hypertension
-DOID:1826	DB01351	Amobarbital	epilepsy syndrome
-DOID:10763	DB00214	Torasemide	hypertension
-DOID:10763	DB01174	Phenobarbital	hypertension
-DOID:9352	DB01124	Tolbutamide	type 2 diabetes mellitus
-DOID:2841	DB00332	Ipratropium bromide	asthma
-DOID:9008	DB01234	Dexamethasone	psoriatic arthritis
-DOID:1826	DB00421	Spironolactone	epilepsy syndrome
-DOID:219	DB01101	Capecitabine	Colon cancer
-DOID:184	DB00563	Methotrexate	Bone cancer
-DOID:0050425	DB00230	Pregabalin	restless legs syndrome
-DOID:3070	DB00853	Temozolomide	Malignant glioma
-DOID:9352	DB00284	Acarbose	type 2 diabetes mellitus
-DOID:12849	DB01238	Aripiprazole	autistic disorder
-DOID:10763	DB00203	Sildenafil	hypertension
-DOID:5419	DB01068	Clonazepam	schizophrenia
-DOID:2841	DB00852	Pseudoephedrine	asthma
-DOID:11119	DB00502	Haloperidol	Gilles de la Tourette syndrome
-DOID:11119	DB00850	Perphenazine	Gilles de la Tourette syndrome
-DOID:11054	DB00563	Methotrexate	Urinary bladder cancer
-DOID:6364	DB00952	Naratriptan	migraine
-DOID:10763	DB00177	Valsartan	hypertension
-DOID:8577	DB01234	Dexamethasone	ulcerative colitis
-DOID:2377	DB00745	Modafinil	multiple sclerosis
-DOID:1686	DB00411	Carbachol	glaucoma
-DOID:3393	DB00343	Diltiazem	coronary artery disease
-DOID:1324	DB01229	Paclitaxel	Lung cancer
-DOID:1826	DB01080	Vigabatrin	epilepsy syndrome
-DOID:3312	DB00334	Olanzapine	bipolar disorder
-DOID:10763	DB01194	Brinzolamide	hypertension
-DOID:3393	DB00883	Isosorbide Dinitrate	coronary artery disease
-DOID:2841	DB00549	Zafirlukast	asthma
-DOID:1612	DB00958	Carboplatin	Breast cancer
-DOID:2841	DB01274	Arformoterol	asthma
-DOID:1686	DB01057	Echothiophate	glaucoma
-DOID:10763	DB01115	Nifedipine	hypertension
-DOID:14330	DB00387	Procyclidine	Parkinson's disease
-DOID:1686	DB00742	Mannitol	glaucoma
-DOID:2531	DB01168	Procarbazine	Hematologic cancer
-DOID:1094	DB01151	Desipramine	attention deficit hyperactivity disorder
-DOID:9352	DB00222	Glimepiride	type 2 diabetes mellitus
-DOID:11119	DB01100	Pimozide	Gilles de la Tourette syndrome
-DOID:1936	DB00973	Ezetimibe	atherosclerosis
-DOID:3393	DB00945	Acetylsalicylic acid	coronary artery disease
-DOID:2394	DB01248	Docetaxel	Ovarian cancer
-DOID:1319	DB00959	Methylprednisolone	Brain cancer
-DOID:10763	DB00519	Trandolapril	hypertension
-DOID:219	DB00482	Celecoxib	Colon cancer
-DOID:363	DB00396	Progesterone	Uterine cancer
-DOID:10283	DB01128	Bicalutamide	Prostate cancer
-DOID:8398	DB00122	Choline	osteoarthritis
-DOID:1826	DB00683	Midazolam	epilepsy syndrome
-DOID:594	DB00934	Maprotiline	panic disorder
-DOID:11054	DB00445	Epirubicin	Urinary bladder cancer
-DOID:784	DB00910	Paricalcitol	chronic kidney failure
-DOID:10763	DB00629	Guanabenz	hypertension
-DOID:1595	DB01238	Aripiprazole	endogenous depression
-DOID:635	DB00503	Ritonavir	acquired immunodeficiency syndrome
-DOID:1459	DB01583	Liotrix	hypothyroidism
-DOID:1595	DB00458	Imipramine	endogenous depression
-DOID:11934	DB00544	Fluorouracil	Head and neck cancer
 DOID:9352	DB01067	Glipizide	type 2 diabetes mellitus
-DOID:1024	DB01041	Thalidomide	leprosy
-DOID:14330	DB01200	Bromocriptine	Parkinson's disease
-DOID:12365	DB00359	Sulfadiazine	malaria
-DOID:10652	DB00747	Scopolamine	Alzheimer's disease
-DOID:8577	DB00169	Cholecalciferol	ulcerative colitis
-DOID:10283	DB08866	Estradiol valerate/Dienogest	Prostate cancer
-DOID:5419	DB00623	Fluphenazine	schizophrenia
-DOID:1936	DB00627	Niacin	atherosclerosis
-DOID:2841	DB05039	Indacaterol	asthma
-DOID:10283	DB00773	Etoposide	Prostate cancer
-DOID:4159	DB00853	Temozolomide	Skin cancer
-DOID:3312	DB00906	Tiagabine	bipolar disorder
-DOID:263	DB00603	Medroxyprogesterone Acetate	Kidney cancer
-DOID:4362	DB01030	Topotecan	Cervical cancer
-DOID:2994	DB00570	Vinblastine	Germ cell cancer
-DOID:7148	DB00814	Meloxicam	rheumatoid arthritis
-DOID:1115	DB00970	Dactinomycin	Sarcoma
-DOID:1319	DB00620	Triamcinolone	Brain cancer
-DOID:635	DB01232	Saquinavir	acquired immunodeficiency syndrome
-DOID:9970	DB00865	Benzphetamine	obesity
-DOID:1793	DB00544	Fluorouracil	Pancreatic cancer
-DOID:11476	DB06710	Methyltestosterone	osteoporosis
-DOID:5419	DB00408	Loxapine	schizophrenia
-DOID:10763	DB01244	Bepridil	hypertension
-DOID:8893	DB01294	Bismuth Subsalicylate	psoriasis
-DOID:1936	DB00758	Clopidogrel	atherosclerosis
-DOID:2841	DB01291	Pirbuterol	asthma
-DOID:8398	DB01296	Glucosamine	osteoarthritis
-DOID:8893	DB01013	Clobetasol propionate	psoriasis
-DOID:2531	DB00619	Imatinib	Hematologic cancer
-DOID:1936	DB01098	Rosuvastatin	atherosclerosis
-DOID:2377	DB00443	Betamethasone	multiple sclerosis
-DOID:2531	DB00541	Vincristine	Hematologic cancer
-DOID:635	DB00238	Nevirapine	acquired immunodeficiency syndrome
-DOID:1094	DB00182	Amphetamine	attention deficit hyperactivity disorder
-DOID:8893	DB01005	Hydroxyurea	psoriasis
-DOID:1909	DB01168	Procarbazine	Melanoma
-DOID:14330	DB00810	Biperiden	Parkinson's disease
-DOID:10763	DB00187	Esmolol	hypertension
-DOID:9970	DB01579	Phendimetrazine	obesity
-DOID:1686	DB00305	Mitomycin	glaucoma
-DOID:12849	DB01224	Quetiapine	autistic disorder
-DOID:2994	DB01181	Ifosfamide	Germ cell cancer
-DOID:10763	DB00521	Carteolol	hypertension
-DOID:3312	DB00715	Paroxetine	bipolar disorder
-DOID:9074	DB00860	Prednisolone	systemic lupus erythematosus
-DOID:7148	DB00635	Prednisone	rheumatoid arthritis
-DOID:10763	DB01346	Quinidine barbiturate	hypertension
-DOID:8986	DB01440	Gamma Hydroxybutyric Acid	narcolepsy
-DOID:6364	DB00586	Diclofenac	migraine
-DOID:635	DB00997	Doxorubicin	acquired immunodeficiency syndrome
-DOID:1686	DB00373	Timolol	glaucoma
-DOID:9352	DB01016	Glyburide	type 2 diabetes mellitus
-DOID:594	DB00829	Diazepam	panic disorder
-DOID:0060073	DB00541	Vincristine	Lymphatic system cancer
-DOID:3393	DB00509	Dextrothyroxine	coronary artery disease
-DOID:3393	DB00678	Losartan	coronary artery disease
-DOID:2841	DB01064	Isoprenaline	asthma
-DOID:784	DB00169	Cholecalciferol	chronic kidney failure
-DOID:12365	DB00806	Pentoxifylline	malaria
-DOID:10283	DB06772	Cabazitaxel	Prostate cancer
-DOID:1324	DB08865	Crizotinib	Lung cancer
-DOID:2841	DB01364	Ephedrine	asthma
-DOID:3070	DB00262	Carmustine	Malignant glioma
-DOID:1781	DB00997	Doxorubicin	Thyroid cancer
-DOID:1312	DB00091	Cyclosporine	focal segmental glomerulosclerosis
-DOID:0060073	DB00888	Mechlorethamine	Lymphatic system cancer
-DOID:10763	DB00653	Magnesium Sulfate	hypertension
-DOID:7148	DB00443	Betamethasone	rheumatoid arthritis
-DOID:9008	DB00635	Prednisone	psoriatic arthritis
-DOID:2531	DB00445	Epirubicin	Hematologic cancer
-DOID:5419	DB00734	Risperidone	schizophrenia
-DOID:8986	DB01577	Methamphetamine	narcolepsy
-DOID:7148	DB01303	Oxtriphylline	rheumatoid arthritis
-DOID:3393	DB00727	Nitroglycerin	coronary artery disease
-DOID:3393	DB01241	Gemfibrozil	coronary artery disease
-DOID:2394	DB00291	Chlorambucil	Ovarian cancer
-DOID:10763	DB00700	Eplerenone	hypertension
-DOID:9352	DB08882	Linagliptin	type 2 diabetes mellitus
-DOID:14330	DB00985	Dimenhydrinate	Parkinson's disease
-DOID:14330	DB00323	Tolcapone	Parkinson's disease
-DOID:2841	DB00744	Zileuton	asthma
-DOID:10763	DB00988	Dopamine	hypertension
-DOID:12995	DB00734	Risperidone	conduct disorder
-DOID:6364	DB00315	Zolmitriptan	migraine
-DOID:3393	DB00966	Telmisartan	coronary artery disease
-DOID:4159	DB00544	Fluorouracil	Skin cancer
-DOID:5041	DB00707	Porfimer	Esophageal cancer
-DOID:635	DB00625	Efavirenz	acquired immunodeficiency syndrome
-DOID:10763	DB00264	Metoprolol	hypertension
-DOID:4159	DB08828	Vismodegib	Skin cancer
-DOID:10652	DB00413	Pramipexole	Alzheimer's disease
-DOID:2998	DB01181	Ifosfamide	Testicular cancer
-DOID:8398	DB00500	Tolmetin	osteoarthritis
-DOID:219	DB00541	Vincristine	Colon cancer
-DOID:2841	DB00741	Hydrocortisone	asthma
-DOID:1826	DB00949	Felbamate	epilepsy syndrome
-DOID:1595	DB01104	Sertraline	endogenous depression
-DOID:2394	DB01030	Topotecan	Ovarian cancer
-DOID:6364	DB00216	Eletriptan	migraine
-DOID:594	DB01068	Clonazepam	panic disorder
-DOID:10652	DB00843	Donepezil	Alzheimer's disease
-DOID:1595	DB00656	Trazodone	endogenous depression
-DOID:14330	DB00989	Rivastigmine	Parkinson's disease
-DOID:10763	DB00800	Fenoldopam	hypertension
-DOID:1826	DB00996	Gabapentin	epilepsy syndrome
-DOID:2174	DB00970	Dactinomycin	Ocular cancer
-DOID:2394	DB00488	Altretamine	Ovarian cancer
-DOID:2841	DB01137	Levofloxacin	asthma
-DOID:2355	DB00959	Methylprednisolone	anemia
-DOID:363	DB00970	Dactinomycin	Uterine cancer
-DOID:1909	DB08881	Vemurafenib	Melanoma
-DOID:2841	DB00816	Orciprenaline	asthma
-DOID:8398	DB00749	Etodolac	osteoarthritis
-DOID:11612	DB00367	Levonorgestrel	polycystic ovary syndrome
-DOID:12995	DB00477	Chlorpromazine	conduct disorder
-DOID:8398	DB01050	Ibuprofen	osteoarthritis
-DOID:9744	DB00104	Octreotide	type 1 diabetes mellitus
-DOID:1612	DB01101	Capecitabine	Breast cancer
-DOID:3393	DB00227	Lovastatin	coronary artery disease
-DOID:11934	DB01005	Hydroxyurea	Head and neck cancer
-DOID:10763	DB00960	Pindolol	hypertension
-DOID:10652	DB00313	Valproic Acid	Alzheimer's disease
-DOID:1909	DB00851	Dacarbazine	Melanoma
-DOID:10763	DB00350	Minoxidil	hypertension
-DOID:6364	DB01233	Metoclopramide	migraine
-DOID:7147	DB00482	Celecoxib	ankylosing spondylitis
-DOID:1115	DB00997	Doxorubicin	Sarcoma
-DOID:2531	DB00444	Teniposide	Hematologic cancer
-DOID:1094	DB01577	Methamphetamine	attention deficit hyperactivity disorder
-DOID:363	DB00783	Estradiol	Uterine cancer
-DOID:3310	DB01142	Doxepin	atopic dermatitis
-DOID:10763	DB00999	Hydrochlorothiazide	hypertension
-DOID:2531	DB00307	Bexarotene	Hematologic cancer
-DOID:12365	DB00250	Dapsone	malaria
-DOID:2531	DB01206	Lomustine	Hematologic cancer
-DOID:784	DB00214	Torasemide	chronic kidney failure
-DOID:1826	DB00230	Pregabalin	epilepsy syndrome
-DOID:2841	DB00635	Prednisone	asthma
-DOID:9074	DB00993	Azathioprine	systemic lupus erythematosus
-DOID:10283	DB01216	Finasteride	Prostate cancer
-DOID:8398	DB00929	Misoprostol	osteoarthritis
-DOID:0050425	DB00193	Tramadol	restless legs syndrome
-DOID:11612	DB00717	Norethindrone	polycystic ovary syndrome
-DOID:6364	DB00273	Topiramate	migraine
-DOID:3393	DB00641	Simvastatin	coronary artery disease
-DOID:4989	DB01241	Gemfibrozil	pancreatitis
+DOID:5041	DB00736	Esomeprazole	Esophageal cancer
+DOID:4159	DB01005	Hydroxyurea	Skin cancer
+DOID:2531	DB08877	Ruxolitinib	Hematologic cancer
+DOID:9206	DB00736	Esomeprazole	Barrett's esophagus
+DOID:8893	DB00169	Cholecalciferol	psoriasis
 DOID:1826	DB00273	Topiramate	epilepsy syndrome
-DOID:8577	DB00537	Ciprofloxacin	ulcerative colitis
-DOID:1319	DB01005	Hydroxyurea	Brain cancer
-DOID:10763	DB00883	Isosorbide Dinitrate	hypertension
-DOID:784	DB00695	Furosemide	chronic kidney failure
-DOID:3393	DB00177	Valsartan	coronary artery disease
-DOID:1612	DB01177	Idarubicin	Breast cancer
-DOID:2531	DB00860	Prednisolone	Hematologic cancer
-DOID:10763	DB00275	Olmesartan	hypertension
-DOID:2531	DB00242	Cladribine	Hematologic cancer
-DOID:10763	DB00945	Acetylsalicylic acid	hypertension
-DOID:12365	DB01131	Proguanil	malaria
-DOID:14330	DB00714	Apomorphine	Parkinson's disease
-DOID:10534	DB00322	Floxuridine	Stomach cancer
-DOID:8398	DB00318	Codeine	osteoarthritis
-DOID:11476	DB00783	Estradiol	osteoporosis
-DOID:1115	DB00445	Epirubicin	Sarcoma
-DOID:2531	DB01005	Hydroxyurea	Hematologic cancer
-DOID:635	DB00220	Nelfinavir	acquired immunodeficiency syndrome
-DOID:3083	DB01274	Arformoterol	chronic obstructive pulmonary disease
-DOID:363	DB00603	Medroxyprogesterone Acetate	Uterine cancer
-DOID:1936	DB00641	Simvastatin	atherosclerosis
-DOID:1459	DB00279	Liothyronine	hypothyroidism
-DOID:3393	DB00627	Niacin	coronary artery disease
-DOID:11476	DB00481	Raloxifene	osteoporosis
-DOID:1793	DB00997	Doxorubicin	Pancreatic cancer
-DOID:8398	DB00573	Fenoprofen	osteoarthritis
-DOID:8893	DB00459	Acitretin	psoriasis
-DOID:1024	DB01045	Rifampicin	leprosy
-DOID:10283	DB01248	Docetaxel	Prostate cancer
-DOID:7147	DB00620	Triamcinolone	ankylosing spondylitis
-DOID:1192	DB00997	Doxorubicin	Peripheral nervous system neoplasm
-DOID:3310	DB00337	Pimecrolimus	atopic dermatitis
-DOID:594	DB01247	Isocarboxazid	panic disorder
-DOID:2355	DB00443	Betamethasone	anemia
-DOID:635	DB00701	Amprenavir	acquired immunodeficiency syndrome
-DOID:2841	DB01410	Ciclesonide	asthma
-DOID:184	DB00515	Cisplatin	Bone cancer
-DOID:10534	DB00445	Epirubicin	Stomach cancer
-DOID:2531	DB01181	Ifosfamide	Hematologic cancer
-DOID:594	DB00490	Buspirone	panic disorder
-DOID:1826	DB00347	Trimethadione	epilepsy syndrome
-DOID:2377	DB00635	Prednisone	multiple sclerosis
-DOID:5408	DB01077	Etidronic acid	Paget's disease of bone
-DOID:7147	DB00586	Diclofenac	ankylosing spondylitis
-DOID:3312	DB00273	Topiramate	bipolar disorder
-DOID:1094	DB00422	Methylphenidate	attention deficit hyperactivity disorder
-DOID:2531	DB00773	Etoposide	Hematologic cancer
-DOID:11476	DB04574	Estropipate	osteoporosis
-DOID:11054	DB00773	Etoposide	Urinary bladder cancer
-DOID:8893	DB00860	Prednisolone	psoriasis
-DOID:3277	DB00104	Octreotide	Thymus cancer
-DOID:11476	DB00630	Alendronate	osteoporosis
-DOID:3393	DB00722	Lisinopril	coronary artery disease
-DOID:12236	DB01586	Ursodeoxycholic acid	primary biliary cirrhosis
-DOID:7148	DB00584	Enalapril	rheumatoid arthritis
-DOID:7148	DB00991	Oxaprozin	rheumatoid arthritis
-DOID:8577	DB00443	Betamethasone	ulcerative colitis
-DOID:4159	DB01248	Docetaxel	Skin cancer
-DOID:363	DB00773	Etoposide	Uterine cancer
-DOID:2531	DB00552	Pentostatin	Hematologic cancer
-DOID:1686	DB00521	Carteolol	glaucoma
-DOID:1826	DB00829	Diazepam	epilepsy syndrome
-DOID:2531	DB01008	Busulfan	Hematologic cancer
-DOID:10763	DB00727	Nitroglycerin	hypertension
-DOID:11476	DB00710	Ibandronate	osteoporosis
-DOID:11612	DB01395	Drospirenone	polycystic ovary syndrome
-DOID:10763	DB00287	Travoprost	hypertension
-DOID:1324	DB00515	Cisplatin	Lung cancer
-DOID:1094	DB01018	Guanfacine	attention deficit hyperactivity disorder
-DOID:14330	DB00747	Scopolamine	Parkinson's disease
-DOID:9008	DB00995	Auranofin	psoriatic arthritis
-DOID:2043	DB01265	Telbivudine	hepatitis B
-DOID:1612	DB00014	Goserelin	Breast cancer
-DOID:2998	DB00291	Chlorambucil	Testicular cancer
-DOID:1612	DB00291	Chlorambucil	Breast cancer
-DOID:11054	DB00997	Doxorubicin	Urinary bladder cancer
-DOID:1324	DB00361	Vinorelbine	Lung cancer
-DOID:0060073	DB00987	Cytarabine	Lymphatic system cancer
-DOID:1319	DB01206	Lomustine	Brain cancer
-DOID:2531	DB00261	Anagrelide	Hematologic cancer
-DOID:2841	DB00471	Montelukast	asthma
-DOID:7147	DB00635	Prednisone	ankylosing spondylitis
-DOID:4989	DB00424	Hyoscyamine	pancreatitis
-DOID:5419	DB01623	Thiothixene	schizophrenia
-DOID:635	DB00709	Lamivudine	acquired immunodeficiency syndrome
-DOID:3312	DB00996	Gabapentin	bipolar disorder
-DOID:14330	DB00245	Benzatropine	Parkinson's disease
-DOID:6364	DB01173	Orphenadrine	migraine
-DOID:2531	DB00694	Daunorubicin	Hematologic cancer
-DOID:11054	DB00305	Mitomycin	Urinary bladder cancer
-DOID:6364	DB00924	Cyclobenzaprine	migraine
-DOID:8893	DB01401	Trisalicylate-choline	psoriasis
-DOID:3312	DB01238	Aripiprazole	bipolar disorder
-DOID:2377	DB00563	Methotrexate	multiple sclerosis
-DOID:1094	DB00289	Atomoxetine	attention deficit hyperactivity disorder
-DOID:13189	DB00635	Prednisone	gout
-DOID:986	DB00620	Triamcinolone	alopecia areata
-DOID:10763	DB01189	Desflurane	hypertension
-DOID:5408	DB00630	Alendronate	Paget's disease of bone
-DOID:8577	DB00244	Mesalazine	ulcerative colitis
-DOID:8986	DB01576	Dextroamphetamine	narcolepsy
-DOID:3565	DB00834	Mifepristone	Meningioma
-DOID:9074	DB00945	Acetylsalicylic acid	systemic lupus erythematosus
-DOID:11054	DB00515	Cisplatin	Urinary bladder cancer
-DOID:1192	DB01042	Melphalan	Peripheral nervous system neoplasm
-DOID:8577	DB00635	Prednisone	ulcerative colitis
-DOID:1686	DB00981	Physostigmine	glaucoma
-DOID:2531	DB00570	Vinblastine	Hematologic cancer
-DOID:10652	DB00245	Benzatropine	Alzheimer's disease
-DOID:8893	DB00591	Fluocinolone Acetonide	psoriasis
-DOID:1612	DB00977	Ethinyl Estradiol	Breast cancer
-DOID:4045	DB01042	Melphalan	Muscle cancer
-DOID:1319	DB00443	Betamethasone	Brain cancer
-DOID:1686	DB01085	Pilocarpine	glaucoma
-DOID:6364	DB00635	Prednisone	migraine
-DOID:1793	DB00445	Epirubicin	Pancreatic cancer
-DOID:1319	DB00958	Carboplatin	Brain cancer
-DOID:3083	DB00860	Prednisolone	chronic obstructive pulmonary disease
-DOID:7147	DB00554	Piroxicam	ankylosing spondylitis
-DOID:3312	DB00776	Oxcarbazepine	bipolar disorder
+DOID:2841	DB00668	Epinephrine	asthma
+DOID:2841	DB01291	Pirbuterol	asthma
+DOID:10283	DB00997	Doxorubicin	Prostate cancer
+DOID:2377	DB00321	Amitriptyline	multiple sclerosis
+DOID:14221	DB00331	Metformin	metabolic syndrome X
+DOID:1826	DB00906	Tiagabine	epilepsy syndrome
+DOID:12849	DB01224	Quetiapine	autistic disorder
+DOID:4989	DB00782	Propantheline	pancreatitis
+DOID:1686	DB00703	Methazolamide	glaucoma
+DOID:1686	DB00449	Dipivefrin	glaucoma
+DOID:3310	DB00443	Betamethasone	atopic dermatitis
+DOID:3393	DB01241	Gemfibrozil	coronary artery disease
+DOID:9074	DB00788	Naproxen	systemic lupus erythematosus
+DOID:1115	DB01042	Melphalan	Sarcoma
+DOID:2531	DB00515	Cisplatin	Hematologic cancer
+DOID:10652	DB00190	Carbidopa	Alzheimer's disease
+DOID:4481	DB00443	Betamethasone	allergic rhinitis
+DOID:0050425	DB00230	Pregabalin	restless legs syndrome
+DOID:1793	DB00441	Gemcitabine	Pancreatic cancer
+DOID:10283	DB00230	Pregabalin	Prostate cancer
+DOID:594	DB00186	Lorazepam	panic disorder
+DOID:2994	DB01181	Ifosfamide	Germ cell cancer
+DOID:8398	DB00122	Choline	osteoarthritis
 DOID:1826	DB00818	Propofol	epilepsy syndrome
-DOID:12236	DB01394	Colchicine	primary biliary cirrhosis
-DOID:10652	DB01043	Memantine	Alzheimer's disease
+DOID:3393	DB00641	Simvastatin	coronary artery disease
+DOID:594	DB00934	Maprotiline	panic disorder
+DOID:10283	DB00126	Vitamin C	Prostate cancer
+DOID:1612	DB00014	Goserelin	Breast cancer
+DOID:10763	DB01136	Carvedilol	hypertension
+DOID:219	DB00762	Irinotecan	Colon cancer
+DOID:10283	DB01065	Melatonin	Prostate cancer
+DOID:8398	DB01068	Clonazepam	osteoarthritis
+DOID:2841	DB00744	Zileuton	asthma
+DOID:9074	DB00993	Azathioprine	systemic lupus erythematosus
+DOID:219	DB00541	Vincristine	Colon cancer
+DOID:14330	DB00747	Scopolamine	Parkinson's disease
+DOID:7148	DB00814	Meloxicam	rheumatoid arthritis
+DOID:8398	DB00316	Acetaminophen	osteoarthritis
+DOID:8778	DB00916	Metronidazole	Crohn's disease
+DOID:5419	DB00734	Risperidone	schizophrenia
+DOID:1686	DB00575	Clonidine	glaucoma
+DOID:14330	DB00810	Biperiden	Parkinson's disease
+DOID:1909	DB00853	Temozolomide	Melanoma
+DOID:1319	DB00958	Carboplatin	Brain cancer
+DOID:1319	DB00773	Etoposide	Brain cancer
+DOID:2531	DB00570	Vinblastine	Hematologic cancer
+DOID:1115	DB00773	Etoposide	Sarcoma
+DOID:3393	DB01359	Penbutolol	coronary artery disease
+DOID:219	DB00482	Celecoxib	Colon cancer
+DOID:1595	DB00476	Duloxetine	endogenous depression
+DOID:4481	DB00935	Oxymetazoline	allergic rhinitis
+DOID:11054	DB00305	Mitomycin	Urinary bladder cancer
+DOID:10763	DB00401	Nisoldipine	hypertension
+DOID:2531	DB00982	Isotretinoin	Hematologic cancer
+DOID:13378	DB00945	Acetylsalicylic acid	Kawasaki disease
+DOID:418	DB01115	Nifedipine	systemic scleroderma
+DOID:10763	DB00559	Bosentan	hypertension
+DOID:2377	DB00993	Azathioprine	multiple sclerosis
+DOID:12849	DB00734	Risperidone	autistic disorder
+DOID:8577	DB00993	Azathioprine	ulcerative colitis
+DOID:7147	DB00924	Cyclobenzaprine	ankylosing spondylitis
+DOID:4045	DB00541	Vincristine	Muscle cancer
+DOID:1686	DB01194	Brinzolamide	glaucoma
+DOID:5419	DB00402	Eszopiclone	schizophrenia
+DOID:7148	DB00735	Naftifine	rheumatoid arthritis
+DOID:10763	DB00945	Acetylsalicylic acid	hypertension
+DOID:14268	DB01241	Gemfibrozil	sclerosing cholangitis
+DOID:2841	DB08906	Fluticasone furoate	asthma
+DOID:8986	DB01576	Dextroamphetamine	narcolepsy
+DOID:0050741	DB00704	Naltrexone	alcohol dependence
+DOID:1612	DB01185	Fluoxymesterone	Breast cancer
+DOID:3393	DB00883	Isosorbide Dinitrate	coronary artery disease
+DOID:219	DB01101	Capecitabine	Colon cancer
+DOID:8398	DB01296	Glucosamine	osteoarthritis
+DOID:1319	DB00853	Temozolomide	Brain cancer
+DOID:3312	DB00734	Risperidone	bipolar disorder
+DOID:2377	DB06637	Dalfampridine	multiple sclerosis
+DOID:14330	DB01104	Sertraline	Parkinson's disease
+DOID:3393	DB00966	Telmisartan	coronary artery disease
+DOID:1612	DB00624	Testosterone	Breast cancer
+DOID:4481	DB00768	Olopatadine	allergic rhinitis
+DOID:2531	DB01204	Mitoxantrone	Hematologic cancer
+DOID:8778	DB01014	Balsalazide	Crohn's disease
+DOID:5041	DB00707	Porfimer	Esophageal cancer
+DOID:7148	DB00281	Lidocaine	rheumatoid arthritis
+DOID:8577	DB01222	Budesonide	ulcerative colitis
+DOID:8398	DB00959	Methylprednisolone	osteoarthritis
 DOID:8893	DB00443	Betamethasone	psoriasis
-DOID:13189	DB00945	Acetylsalicylic acid	gout
-DOID:3310	DB00860	Prednisolone	atopic dermatitis
-DOID:10763	DB00881	Quinapril	hypertension
-DOID:12306	DB00553	Methoxsalen	vitiligo
-DOID:594	DB00176	Fluvoxamine	panic disorder
-DOID:1192	DB00515	Cisplatin	Peripheral nervous system neoplasm
-DOID:10763	DB01203	Nadolol	hypertension
-DOID:3310	DB00959	Methylprednisolone	atopic dermatitis
+DOID:10283	DB06772	Cabazitaxel	Prostate cancer
+DOID:9074	DB00482	Celecoxib	systemic lupus erythematosus
+DOID:10763	DB00364	Sucralfate	hypertension
+DOID:9352	DB01200	Bromocriptine	type 2 diabetes mellitus
+DOID:10763	DB00765	Metyrosine	hypertension
+DOID:5419	DB00245	Benzatropine	schizophrenia
+DOID:1686	DB00411	Carbachol	glaucoma
+DOID:1612	DB01204	Mitoxantrone	Breast cancer
+DOID:10534	DB01248	Docetaxel	Stomach cancer
+DOID:7148	DB00924	Cyclobenzaprine	rheumatoid arthritis
+DOID:219	DB00443	Betamethasone	Colon cancer
+DOID:9074	DB00563	Methotrexate	systemic lupus erythematosus
+DOID:14330	DB00985	Dimenhydrinate	Parkinson's disease
+DOID:1612	DB01006	Letrozole	Breast cancer
+DOID:1319	DB00443	Betamethasone	Brain cancer
+DOID:2531	DB06809	Plerixafor	Hematologic cancer
+DOID:418	DB00203	Sildenafil	systemic scleroderma
+DOID:3393	DB00722	Lisinopril	coronary artery disease
+DOID:635	DB00649	Stavudine	acquired immunodeficiency syndrome
+DOID:5419	DB00623	Fluphenazine	schizophrenia
+DOID:10534	DB00445	Epirubicin	Stomach cancer
+DOID:10763	DB00373	Timolol	hypertension
+DOID:1686	DB01214	Metipranolol	glaucoma
+DOID:1909	DB00970	Dactinomycin	Melanoma
+DOID:9074	DB00620	Triamcinolone	systemic lupus erythematosus
+DOID:7148	DB00443	Betamethasone	rheumatoid arthritis
+DOID:12236	DB06777	Chenodeoxycholic acid	primary biliary cirrhosis
 DOID:1192	DB00851	Dacarbazine	Peripheral nervous system neoplasm
+DOID:3310	DB00591	Fluocinolone Acetonide	atopic dermatitis
+DOID:11476	DB00399	Zoledronate	osteoporosis
+DOID:9074	DB00338	Omeprazole	systemic lupus erythematosus
+DOID:4481	DB00852	Pseudoephedrine	allergic rhinitis
+DOID:1595	DB01238	Aripiprazole	endogenous depression
+DOID:219	DB00987	Cytarabine	Colon cancer
+DOID:2998	DB00563	Methotrexate	Testicular cancer
+DOID:2174	DB00958	Carboplatin	Ocular cancer
+DOID:1192	DB00445	Epirubicin	Peripheral nervous system neoplasm
+DOID:10763	DB00226	Guanadrel	hypertension
+DOID:4045	DB00997	Doxorubicin	Muscle cancer
+DOID:263	DB00741	Hydrocortisone	Kidney cancer
+DOID:1612	DB00570	Vinblastine	Breast cancer
+DOID:10652	DB00674	Galantamine	Alzheimer's disease
+DOID:4159	DB00970	Dactinomycin	Skin cancer
+DOID:14330	DB00745	Modafinil	Parkinson's disease
+DOID:14330	DB00989	Rivastigmine	Parkinson's disease
+DOID:9352	DB00331	Metformin	type 2 diabetes mellitus
+DOID:4989	DB00104	Octreotide	pancreatitis
+DOID:1781	DB00398	Sorafenib	Thyroid cancer
+DOID:2841	DB00741	Hydrocortisone	asthma
+DOID:2998	DB00515	Cisplatin	Testicular cancer
+DOID:10283	DB01128	Bicalutamide	Prostate cancer
+DOID:1595	DB00176	Fluvoxamine	endogenous depression
+DOID:3393	DB01583	Liotrix	coronary artery disease
+DOID:10763	DB00594	Amiloride	hypertension
+DOID:11476	DB00282	Pamidronate	osteoporosis
+DOID:10763	DB00310	Chlorthalidone	hypertension
+DOID:3083	DB01137	Levofloxacin	chronic obstructive pulmonary disease
+DOID:594	DB01247	Isocarboxazid	panic disorder
+DOID:1115	DB00541	Vincristine	Sarcoma
+DOID:10283	DB00482	Celecoxib	Prostate cancer
+DOID:2355	DB00949	Felbamate	anemia
+DOID:4481	DB00455	Loratadine	allergic rhinitis
+DOID:1612	DB00563	Methotrexate	Breast cancer
+DOID:1612	DB00361	Vinorelbine	Breast cancer
+DOID:263	DB01101	Capecitabine	Kidney cancer
+DOID:2377	DB00268	Ropinirole	multiple sclerosis
+DOID:7148	DB00635	Prednisone	rheumatoid arthritis
+DOID:5419	DB01356	Lithium	schizophrenia
+DOID:2841	DB00332	Ipratropium bromide	asthma
+DOID:10283	DB00635	Prednisone	Prostate cancer
+DOID:8778	DB00993	Azathioprine	Crohn's disease
+DOID:5041	DB00958	Carboplatin	Esophageal cancer
+DOID:1115	DB00445	Epirubicin	Sarcoma
+DOID:12365	DB01190	Clindamycin	malaria
+DOID:4159	DB01168	Procarbazine	Skin cancer
+DOID:12236	DB01586	Ursodeoxycholic acid	primary biliary cirrhosis
+DOID:263	DB00338	Omeprazole	Kidney cancer
+DOID:11119	DB00246	Ziprasidone	Gilles de la Tourette syndrome
+DOID:7148	DB00328	Indomethacin	rheumatoid arthritis
+DOID:7148	DB00586	Diclofenac	rheumatoid arthritis
+DOID:1793	DB00851	Dacarbazine	Pancreatic cancer
+DOID:10652	DB00747	Scopolamine	Alzheimer's disease
+DOID:0060073	DB00262	Carmustine	Lymphatic system cancer
+DOID:1094	DB01156	Bupropion	attention deficit hyperactivity disorder
+DOID:2841	DB00620	Triamcinolone	asthma
+DOID:3083	DB00254	Doxycycline	chronic obstructive pulmonary disease
+DOID:2841	DB00764	Mometasone	asthma
+DOID:2377	DB00443	Betamethasone	multiple sclerosis
+DOID:2531	DB00987	Cytarabine	Hematologic cancer
+DOID:2841	DB00635	Prednisone	asthma
+DOID:10763	DB00797	Tolazoline	hypertension
+DOID:263	DB00482	Celecoxib	Kidney cancer
+DOID:10534	DB01101	Capecitabine	Stomach cancer
+DOID:10763	DB00187	Esmolol	hypertension
+DOID:2994	DB00563	Methotrexate	Germ cell cancer
+DOID:10763	DB01118	Amiodarone	hypertension
+DOID:2043	DB00442	Entecavir	hepatitis B
+DOID:0050741	DB00659	Acamprosate	alcohol dependence
+DOID:418	DB00635	Prednisone	systemic scleroderma
+DOID:2377	DB00402	Eszopiclone	multiple sclerosis
+DOID:14330	DB00215	Citalopram	Parkinson's disease
+DOID:8893	DB00688	Mycophenolate mofetil	psoriasis
+DOID:3083	DB06151	Acetylcysteine	chronic obstructive pulmonary disease
+DOID:10763	DB00820	Tadalafil	hypertension
+DOID:3070	DB00262	Carmustine	Malignant glioma
+DOID:5419	DB01068	Clonazepam	schizophrenia
+DOID:1826	DB00909	Zonisamide	epilepsy syndrome
+DOID:1612	DB00351	Megestrol acetate	Breast cancer
+DOID:11476	DB00169	Cholecalciferol	osteoporosis
+DOID:2531	DB01181	Ifosfamide	Hematologic cancer
+DOID:3571	DB00398	Sorafenib	Liver cancer
+DOID:14330	DB00413	Pramipexole	Parkinson's disease
+DOID:10763	DB00629	Guanabenz	hypertension
+DOID:2841	DB00860	Prednisolone	asthma
+DOID:14221	DB00153	Ergocalciferol	metabolic syndrome X
+DOID:3393	DB01020	Isosorbide Mononitrate	coronary artery disease
+DOID:10763	DB00887	Bumetanide	hypertension
+DOID:14330	DB00323	Tolcapone	Parkinson's disease
+DOID:2998	DB00290	Bleomycin	Testicular cancer
+DOID:594	DB00458	Imipramine	panic disorder
+DOID:4045	DB00851	Dacarbazine	Muscle cancer
+DOID:6364	DB00373	Timolol	migraine
+DOID:11476	DB00630	Alendronate	osteoporosis
+DOID:8893	DB01397	Magnesium salicylate	psoriasis
+DOID:8893	DB00741	Hydrocortisone	psoriasis
+DOID:12849	DB01238	Aripiprazole	autistic disorder
+DOID:2531	DB00399	Zoledronate	Hematologic cancer
+DOID:0060073	DB00888	Mechlorethamine	Lymphatic system cancer
+DOID:4045	DB01042	Melphalan	Muscle cancer
+DOID:2841	DB00716	Nedocromil	asthma
+DOID:10763	DB00203	Sildenafil	hypertension
+DOID:9352	DB08882	Linagliptin	type 2 diabetes mellitus
+DOID:10534	DB00997	Doxorubicin	Stomach cancer
+DOID:418	DB00688	Mycophenolate mofetil	systemic scleroderma
+DOID:1595	DB00215	Citalopram	endogenous depression
+DOID:7148	DB00554	Piroxicam	rheumatoid arthritis
+DOID:7148	DB01097	Leflunomide	rheumatoid arthritis
+DOID:11934	DB01005	Hydroxyurea	Head and neck cancer
+DOID:2377	DB00635	Prednisone	multiple sclerosis
+DOID:363	DB00773	Etoposide	Uterine cancer
+DOID:4989	DB00572	Atropine	pancreatitis
+DOID:7148	DB01197	Captopril	rheumatoid arthritis
+DOID:10763	DB00999	Hydrochlorothiazide	hypertension
+DOID:7148	DB00861	Diflunisal	rheumatoid arthritis
+DOID:4362	DB01030	Topotecan	Cervical cancer
+DOID:7148	DB00158	Folic Acid	rheumatoid arthritis
+DOID:3310	DB01075	Diphenhydramine	atopic dermatitis
+DOID:9074	DB00688	Mycophenolate mofetil	systemic lupus erythematosus
+DOID:10763	DB00214	Torasemide	hypertension
+DOID:0050425	DB00996	Gabapentin	restless legs syndrome
+DOID:3393	DB00295	Morphine	coronary artery disease
+DOID:2394	DB00488	Altretamine	Ovarian cancer
+DOID:263	DB00441	Gemcitabine	Kidney cancer
+DOID:4481	DB00967	Desloratadine	allergic rhinitis
+DOID:184	DB00997	Doxorubicin	Bone cancer
+DOID:10763	DB00264	Metoprolol	hypertension
+DOID:8577	DB00620	Triamcinolone	ulcerative colitis
+DOID:14330	DB00980	Ramelteon	Parkinson's disease
+DOID:594	DB00715	Paroxetine	panic disorder
+DOID:10763	DB00343	Diltiazem	hypertension
+DOID:11119	DB00334	Olanzapine	Gilles de la Tourette syndrome
+DOID:10763	DB00761	Potassium Chloride	hypertension
+DOID:5419	DB00831	Trifluoperazine	schizophrenia
+DOID:9970	DB00501	Cimetidine	obesity
+DOID:7148	DB00959	Methylprednisolone	rheumatoid arthritis
+DOID:10283	DB01005	Hydroxyurea	Prostate cancer
+DOID:8577	DB01014	Balsalazide	ulcerative colitis
+DOID:2377	DB00425	Zolpidem	multiple sclerosis
+DOID:10763	DB01083	Orlistat	hypertension
+DOID:3070	DB00853	Temozolomide	Malignant glioma
+DOID:2841	DB00277	Theophylline	asthma
+DOID:5408	DB01077	Etidronic acid	Paget's disease of bone
+DOID:10283	DB06699	Degarelix	Prostate cancer
+DOID:2531	DB00352	Tioguanine	Hematologic cancer
+DOID:8778	DB01033	Mercaptopurine	Crohn's disease
+DOID:1793	DB01248	Docetaxel	Pancreatic cancer
+DOID:418	DB00482	Celecoxib	systemic scleroderma
+DOID:12365	DB00250	Dapsone	malaria
+DOID:8398	DB00635	Prednisone	osteoarthritis
+DOID:0050425	DB00190	Carbidopa	restless legs syndrome
+DOID:1612	DB00655	Estrone	Breast cancer
+DOID:10763	DB01170	Guanethidine	hypertension
+DOID:7147	DB00814	Meloxicam	ankylosing spondylitis
+DOID:2841	DB00983	Formoterol	asthma
+DOID:1024	DB01045	Rifampicin	leprosy
+DOID:1324	DB00773	Etoposide	Lung cancer
+DOID:6364	DB00571	Propranolol	migraine
+DOID:0050425	DB01235	L-DOPA	restless legs syndrome
+DOID:12236	DB00859	Penicillamine	primary biliary cirrhosis
+DOID:418	DB01097	Leflunomide	systemic scleroderma
+DOID:1319	DB00959	Methylprednisolone	Brain cancer
+DOID:1686	DB00305	Mitomycin	glaucoma
+DOID:10763	DB05389	WF10	hypertension
+DOID:1826	DB00292	Etomidate	epilepsy syndrome
+DOID:14330	DB01224	Quetiapine	Parkinson's disease
+DOID:1826	DB00347	Trimethadione	epilepsy syndrome
+DOID:1826	DB00421	Spironolactone	epilepsy syndrome
+DOID:11119	DB01186	Pergolide	Gilles de la Tourette syndrome
+DOID:13189	DB00959	Methylprednisolone	gout
+DOID:4481	DB00985	Dimenhydrinate	allergic rhinitis
+DOID:418	DB00586	Diclofenac	systemic scleroderma
+DOID:1826	DB00555	Lamotrigine	epilepsy syndrome
+DOID:5408	DB00884	Risedronate	Paget's disease of bone
+DOID:4045	DB00773	Etoposide	Muscle cancer
+DOID:2998	DB00291	Chlorambucil	Testicular cancer
+DOID:14330	DB05271	Rotigotine	Parkinson's disease
+DOID:2998	DB00445	Epirubicin	Testicular cancer
+DOID:1936	DB00627	Niacin	atherosclerosis
+DOID:2841	DB00938	Salmeterol	asthma
+DOID:9352	DB01083	Orlistat	type 2 diabetes mellitus
+DOID:10283	DB00445	Epirubicin	Prostate cancer
+DOID:2531	DB00242	Cladribine	Hematologic cancer
+DOID:3393	DB00727	Nitroglycerin	coronary artery disease
+DOID:5041	DB00338	Omeprazole	Esophageal cancer
+DOID:7147	DB00563	Methotrexate	ankylosing spondylitis
+DOID:3393	DB01039	Fenofibrate	coronary artery disease
+DOID:1324	DB00444	Teniposide	Lung cancer
+DOID:1612	DB01248	Docetaxel	Breast cancer
+DOID:2841	DB01234	Dexamethasone	asthma
+DOID:11934	DB01085	Pilocarpine	Head and neck cancer
+DOID:10763	DB00484	Brimonidine	hypertension
+DOID:4481	DB01001	Salbutamol	allergic rhinitis
+DOID:418	DB05389	WF10	systemic scleroderma
+DOID:2377	DB01198	Zopiclone	multiple sclerosis
+DOID:1612	DB08871	Eribulin	Breast cancer
+DOID:14330	DB01175	Escitalopram	Parkinson's disease
+DOID:3310	DB00427	Triprolidine	atopic dermatitis
+DOID:1324	DB00515	Cisplatin	Lung cancer
+DOID:418	DB01233	Metoclopramide	systemic scleroderma
+DOID:784	DB00567	Cephalexin	chronic kidney failure
+DOID:0060073	DB00444	Teniposide	Lymphatic system cancer
+DOID:9074	DB00945	Acetylsalicylic acid	systemic lupus erythematosus
+DOID:10763	DB01189	Desflurane	hypertension
+DOID:14330	DB00387	Procyclidine	Parkinson's disease
+DOID:2394	DB00291	Chlorambucil	Ovarian cancer
+DOID:7148	DB00461	Nabumetone	rheumatoid arthritis
+DOID:263	DB00997	Doxorubicin	Kidney cancer
+DOID:3312	DB00555	Lamotrigine	bipolar disorder
+DOID:1324	DB00441	Gemcitabine	Lung cancer
+DOID:8893	DB02300	Calcipotriol	psoriasis
+DOID:2377	DB00564	Carbamazepine	multiple sclerosis
+DOID:2994	DB00515	Cisplatin	Germ cell cancer
+DOID:2377	DB00959	Methylprednisolone	multiple sclerosis
+DOID:3312	DB00906	Tiagabine	bipolar disorder
+DOID:1686	DB00981	Physostigmine	glaucoma
+DOID:9008	DB01234	Dexamethasone	psoriatic arthritis
 DOID:1826	DB01216	Finasteride	epilepsy syndrome
+DOID:1612	DB00997	Doxorubicin	Breast cancer
+DOID:9352	DB00839	Tolazamide	type 2 diabetes mellitus
+DOID:332	DB00740	Riluzole	amyotrophic lateral sclerosis
+DOID:2841	DB00549	Zafirlukast	asthma
+DOID:2998	DB00773	Etoposide	Testicular cancer
+DOID:2841	DB00816	Orciprenaline	asthma
+DOID:10652	DB00313	Valproic Acid	Alzheimer's disease
+DOID:3393	DB00975	Dipyridamole	coronary artery disease
+DOID:3393	DB00695	Furosemide	coronary artery disease
+DOID:2841	DB00180	Flunisolide	asthma
+DOID:0060073	DB01073	Fludarabine	Lymphatic system cancer
+DOID:6364	DB00945	Acetylsalicylic acid	migraine
+DOID:10283	DB00399	Zoledronate	Prostate cancer
+DOID:1826	DB00819	Acetazolamide	epilepsy syndrome
+DOID:2377	DB00242	Cladribine	multiple sclerosis
+DOID:11476	DB04574	Estropipate	osteoporosis
+DOID:8398	DB00929	Misoprostol	osteoarthritis
+DOID:418	DB00736	Esomeprazole	systemic scleroderma
+DOID:2841	DB01410	Ciclesonide	asthma
+DOID:219	DB00996	Gabapentin	Colon cancer
+DOID:635	DB00787	Aciclovir	acquired immunodeficiency syndrome
+DOID:10763	DB00590	Doxazosin	hypertension
+DOID:1324	DB00361	Vinorelbine	Lung cancer
+DOID:1324	DB00158	Folic Acid	Lung cancer
+DOID:3393	DB00275	Olmesartan	coronary artery disease
+DOID:1793	DB00104	Octreotide	Pancreatic cancer
+DOID:8577	DB00244	Mesalazine	ulcerative colitis
+DOID:10763	DB00575	Clonidine	hypertension
+DOID:12365	DB01131	Proguanil	malaria
+DOID:10763	DB00905	Bimatoprost	hypertension
+DOID:14330	DB01075	Diphenhydramine	Parkinson's disease
+DOID:10283	DB00513	Aminocaproic Acid	Prostate cancer
+DOID:2355	DB00635	Prednisone	anemia
+DOID:8893	DB01294	Bismuth Subsalicylate	psoriasis
+DOID:0060073	DB00563	Methotrexate	Lymphatic system cancer
+DOID:219	DB00544	Fluorouracil	Colon cancer
+DOID:12365	DB00205	Pyrimethamine	malaria
+DOID:8398	DB00861	Diflunisal	osteoarthritis
+DOID:5419	DB00246	Ziprasidone	schizophrenia
+DOID:9744	DB00104	Octreotide	type 1 diabetes mellitus
+DOID:8398	DB00924	Cyclobenzaprine	osteoarthritis
+DOID:1793	DB00997	Doxorubicin	Pancreatic cancer
+DOID:10652	DB00387	Procyclidine	Alzheimer's disease
+DOID:3393	DB01115	Nifedipine	coronary artery disease
+DOID:6364	DB00216	Eletriptan	migraine
+DOID:263	DB00736	Esomeprazole	Kidney cancer
+DOID:8778	DB00424	Hyoscyamine	Crohn's disease
+DOID:0050741	DB00904	Ondansetron	alcohol dependence
+DOID:418	DB00338	Omeprazole	systemic scleroderma
+DOID:1595	DB00313	Valproic Acid	endogenous depression
+DOID:263	DB00970	Dactinomycin	Kidney cancer
+DOID:594	DB01068	Clonazepam	panic disorder
+DOID:5419	DB00477	Chlorpromazine	schizophrenia
+DOID:1024	DB01041	Thalidomide	leprosy
+DOID:10763	DB00178	Ramipril	hypertension
+DOID:10763	DB00774	Hydroflumethiazide	hypertension
+DOID:11476	DB00603	Medroxyprogesterone Acetate	osteoporosis
+DOID:6364	DB01233	Metoclopramide	migraine
+DOID:2531	DB00959	Methylprednisolone	Hematologic cancer
+DOID:2841	DB00959	Methylprednisolone	asthma
+DOID:7147	DB00620	Triamcinolone	ankylosing spondylitis
+DOID:7148	DB01234	Dexamethasone	rheumatoid arthritis
+DOID:3565	DB00834	Mifepristone	Meningioma
+DOID:4481	DB01190	Clindamycin	allergic rhinitis
+DOID:11476	DB00153	Ergocalciferol	osteoporosis
+DOID:1781	DB00509	Dextrothyroxine	Thyroid cancer
+DOID:2377	DB00563	Methotrexate	multiple sclerosis
+DOID:7148	DB01399	Salsalate	rheumatoid arthritis
+DOID:9352	DB00178	Ramipril	type 2 diabetes mellitus
+DOID:10763	DB00374	Treprostinil	hypertension
+DOID:7148	DB00425	Zolpidem	rheumatoid arthritis
+DOID:1324	DB01005	Hydroxyurea	Lung cancer
+DOID:1595	DB01104	Sertraline	endogenous depression
+DOID:1612	DB01177	Idarubicin	Breast cancer
+DOID:4481	DB00668	Epinephrine	allergic rhinitis
+DOID:3310	DB00620	Triamcinolone	atopic dermatitis
+DOID:2355	DB00513	Aminocaproic Acid	anemia
+DOID:635	DB00224	Indinavir	acquired immunodeficiency syndrome
+DOID:2377	DB00230	Pregabalin	multiple sclerosis
+DOID:3083	DB01165	Ofloxacin	chronic obstructive pulmonary disease
+DOID:2841	DB00218	Moxifloxacin	asthma
+DOID:14330	DB00572	Atropine	Parkinson's disease
+DOID:635	DB00238	Nevirapine	acquired immunodeficiency syndrome
+DOID:1595	DB01175	Escitalopram	endogenous depression
+DOID:418	DB00916	Metronidazole	systemic scleroderma
+DOID:4481	DB00338	Omeprazole	allergic rhinitis
+DOID:219	DB01234	Dexamethasone	Colon cancer
+DOID:3393	DB01098	Rosuvastatin	coronary artery disease
+DOID:263	DB00996	Gabapentin	Kidney cancer
+DOID:3083	DB00471	Montelukast	chronic obstructive pulmonary disease
+DOID:3083	DB00635	Prednisone	chronic obstructive pulmonary disease
+DOID:1115	DB00851	Dacarbazine	Sarcoma
+DOID:8398	DB00461	Nabumetone	osteoarthritis
+DOID:0050742	DB00184	Nicotine	nicotine dependence
+DOID:1826	DB01068	Clonazepam	epilepsy syndrome
+DOID:184	DB00399	Zoledronate	Bone cancer
+DOID:3312	DB00715	Paroxetine	bipolar disorder
+DOID:1024	DB00250	Dapsone	leprosy
+DOID:7147	DB00788	Naproxen	ankylosing spondylitis
+DOID:6364	DB00315	Zolmitriptan	migraine
+DOID:418	DB00563	Methotrexate	systemic scleroderma
+DOID:7147	DB00482	Celecoxib	ankylosing spondylitis
+DOID:2531	DB00480	Lenalidomide	Hematologic cancer
+DOID:10763	DB00206	Reserpine	hypertension
+DOID:2394	DB00958	Carboplatin	Ovarian cancer
+DOID:3393	DB01076	Atorvastatin	coronary artery disease
+DOID:1324	DB01248	Docetaxel	Lung cancer
+DOID:1612	DB00603	Medroxyprogesterone Acetate	Breast cancer
+DOID:9074	DB00722	Lisinopril	systemic lupus erythematosus
+DOID:8577	DB00443	Betamethasone	ulcerative colitis
+DOID:8893	DB00136	Calcitriol	psoriasis
+DOID:5419	DB00313	Valproic Acid	schizophrenia
+DOID:10763	DB00325	Nitroprusside	hypertension
+DOID:10763	DB00542	Benazepril	hypertension
+DOID:5419	DB01224	Quetiapine	schizophrenia
+DOID:1686	DB00819	Acetazolamide	glaucoma
+DOID:1324	DB00813	Fentanyl	Lung cancer
+DOID:1826	DB00794	Primidone	epilepsy syndrome
+DOID:2394	DB01357	Mestranol	Ovarian cancer
+DOID:1686	DB01085	Pilocarpine	glaucoma
+DOID:7148	DB00741	Hydrocortisone	rheumatoid arthritis
+DOID:2531	DB00443	Betamethasone	Hematologic cancer
+DOID:10763	DB00876	Eprosartan	hypertension
+DOID:4481	DB00736	Esomeprazole	allergic rhinitis
+DOID:13189	DB00860	Prednisolone	gout
+DOID:2377	DB00953	Rizatriptan	multiple sclerosis
+DOID:8893	DB01398	Salicylate-sodium	psoriasis
+DOID:1612	DB01229	Paclitaxel	Breast cancer
+DOID:11714	DB01016	Glyburide	gestational diabetes
+DOID:5408	DB01133	Tiludronate	Paget's disease of bone
+DOID:10763	DB00657	Mecamylamine	hypertension
+DOID:1826	DB00252	Phenytoin	epilepsy syndrome
+DOID:3310	DB00410	Mupirocin	atopic dermatitis
+DOID:8398	DB00586	Diclofenac	osteoarthritis
+DOID:1686	DB00388	Phenylephrine	glaucoma
+DOID:10763	DB00968	Methyldopa	hypertension
+DOID:4159	DB08828	Vismodegib	Skin cancer
+DOID:1094	DB00422	Methylphenidate	attention deficit hyperactivity disorder
+DOID:2377	DB01589	Quazepam	multiple sclerosis
+DOID:12849	DB00583	L-Carnitine	autistic disorder
+DOID:1936	DB00797	Tolazoline	atherosclerosis
+DOID:10763	DB00598	Labetalol	hypertension
+DOID:1909	DB00851	Dacarbazine	Melanoma
+DOID:8577	DB00860	Prednisolone	ulcerative colitis
+DOID:4481	DB00341	Cetirizine	allergic rhinitis
+DOID:2841	DB01001	Salbutamol	asthma
+DOID:10763	DB00449	Dipivefrin	hypertension
+DOID:10763	DB00641	Simvastatin	hypertension
+DOID:10763	DB00519	Trandolapril	hypertension
+DOID:418	DB01394	Colchicine	systemic scleroderma
+DOID:1192	DB00970	Dactinomycin	Peripheral nervous system neoplasm
+DOID:2531	DB00291	Chlorambucil	Hematologic cancer
+DOID:8893	DB01091	Butenafine	psoriasis
+DOID:418	DB01017	Minocycline	systemic scleroderma
+DOID:4481	DB01075	Diphenhydramine	allergic rhinitis
+DOID:10763	DB00227	Lovastatin	hypertension
+DOID:12930	DB01427	Amrinone	dilated cardiomyopathy
+DOID:8893	DB00635	Prednisone	psoriasis
+DOID:10763	DB00521	Carteolol	hypertension
+DOID:8398	DB00605	Sulindac	osteoarthritis
+DOID:363	DB00970	Dactinomycin	Uterine cancer
+DOID:1936	DB00973	Ezetimibe	atherosclerosis
+DOID:5419	DB00985	Dimenhydrinate	schizophrenia
+DOID:6364	DB00953	Rizatriptan	migraine
+DOID:3393	DB00700	Eplerenone	coronary artery disease
+DOID:8398	DB00281	Lidocaine	osteoarthritis
+DOID:2841	DB00394	Beclomethasone	asthma
+DOID:0060073	DB00290	Bleomycin	Lymphatic system cancer
+DOID:2531	DB00523	Alitretinoin	Hematologic cancer
+DOID:1459	DB00451	Levothyroxine	hypothyroidism
+DOID:2994	DB00570	Vinblastine	Germ cell cancer
+DOID:12361	DB00763	Methimazole	Graves' disease
+DOID:184	DB00563	Methotrexate	Bone cancer
+DOID:9074	DB00996	Gabapentin	systemic lupus erythematosus
+DOID:7147	DB00500	Tolmetin	ankylosing spondylitis
+DOID:10763	DB01076	Atorvastatin	hypertension
+DOID:8398	DB01009	Ketoprofen	osteoarthritis
+DOID:263	DB00443	Betamethasone	Kidney cancer
+DOID:11054	DB00997	Doxorubicin	Urinary bladder cancer
+DOID:8398	DB00991	Oxaprozin	osteoarthritis
+DOID:986	DB00620	Triamcinolone	alopecia areata
+DOID:1595	DB00458	Imipramine	endogenous depression
+DOID:8893	DB01005	Hydroxyurea	psoriasis
+DOID:2841	DB00920	Ketotifen	asthma
+DOID:219	DB00563	Methotrexate	Colon cancer
+DOID:3083	DB01274	Arformoterol	chronic obstructive pulmonary disease
+DOID:1319	DB00834	Mifepristone	Brain cancer
+DOID:263	DB00530	Erlotinib	Kidney cancer
+DOID:10283	DB00783	Estradiol	Prostate cancer
+DOID:12306	DB00553	Methoxsalen	vitiligo
+DOID:3083	DB00218	Moxifloxacin	chronic obstructive pulmonary disease
+DOID:10283	DB00706	Tamsulosin	Prostate cancer
+DOID:1324	DB00317	Gefitinib	Lung cancer
+DOID:7148	DB00991	Oxaprozin	rheumatoid arthritis
+DOID:1595	DB01037	Selegiline	endogenous depression
+DOID:14330	DB00714	Apomorphine	Parkinson's disease
+DOID:10763	DB01194	Brinzolamide	hypertension
+DOID:1826	DB06201	Rufinamide	epilepsy syndrome
+DOID:635	DB00196	Fluconazole	acquired immunodeficiency syndrome
+DOID:12361	DB00550	Propylthiouracil	Graves' disease
+DOID:14330	DB01367	Rasagiline	Parkinson's disease
+DOID:2531	DB00635	Prednisone	Hematologic cancer
+DOID:9206	DB00338	Omeprazole	Barrett's esophagus
+DOID:1324	DB00762	Irinotecan	Lung cancer
+DOID:3310	DB00337	Pimecrolimus	atopic dermatitis
+DOID:6364	DB01173	Orphenadrine	migraine
+DOID:8398	DB00554	Piroxicam	osteoarthritis
+DOID:1793	DB00762	Irinotecan	Pancreatic cancer
+DOID:11476	DB00977	Ethinyl Estradiol	osteoporosis
+DOID:594	DB00215	Citalopram	panic disorder
+DOID:363	DB01005	Hydroxyurea	Uterine cancer
+DOID:8893	DB00091	Cyclosporine	psoriasis
+DOID:2994	DB00290	Bleomycin	Germ cell cancer
+DOID:2994	DB00773	Etoposide	Germ cell cancer
+DOID:12365	DB00468	Quinine	malaria
+DOID:263	DB01590	Everolimus	Kidney cancer
+DOID:7147	DB00635	Prednisone	ankylosing spondylitis
+DOID:10763	DB01119	Diazoxide	hypertension
+DOID:1781	DB01583	Liotrix	Thyroid cancer
+DOID:3083	DB05389	WF10	chronic obstructive pulmonary disease
+DOID:635	DB01601	Lopinavir	acquired immunodeficiency syndrome
+DOID:4481	DB00535	Cefdinir	allergic rhinitis
+DOID:594	DB00285	Venlafaxine	panic disorder
+DOID:6364	DB00661	Verapamil	migraine
+DOID:1686	DB00484	Brimonidine	glaucoma
+DOID:2531	DB00997	Doxorubicin	Hematologic cancer
+DOID:3312	DB01068	Clonazepam	bipolar disorder
+DOID:5408	DB00630	Alendronate	Paget's disease of bone
+DOID:0060073	DB01204	Mitoxantrone	Lymphatic system cancer
+DOID:5419	DB00434	Cyproheptadine	schizophrenia
+DOID:5408	DB00399	Zoledronate	Paget's disease of bone
+DOID:8778	DB00795	Sulfasalazine	Crohn's disease
+DOID:10763	DB00881	Quinapril	hypertension
+DOID:9352	DB00177	Valsartan	type 2 diabetes mellitus
+DOID:594	DB00404	Alprazolam	panic disorder
+DOID:12930	DB00390	Digoxin	dilated cardiomyopathy
+DOID:1192	DB00755	Tretinoin	Peripheral nervous system neoplasm
+DOID:1826	DB00829	Diazepam	epilepsy syndrome
+DOID:3393	DB00678	Losartan	coronary artery disease
+DOID:184	DB00650	Leucovorin	Bone cancer
+DOID:9074	DB00091	Cyclosporine	systemic lupus erythematosus
+DOID:13189	DB00437	Allopurinol	gout
+DOID:12995	DB00477	Chlorpromazine	conduct disorder
+DOID:1192	DB00523	Alitretinoin	Peripheral nervous system neoplasm
+DOID:8398	DB00500	Tolmetin	osteoarthritis
+DOID:4159	DB00262	Carmustine	Skin cancer
+DOID:3565	DB00987	Cytarabine	Meningioma
+DOID:2531	DB01041	Thalidomide	Hematologic cancer
+DOID:9970	DB00397	Phenylpropanolamine	obesity
+DOID:9970	DB01577	Methamphetamine	obesity
+DOID:3393	DB00509	Dextrothyroxine	coronary artery disease
+DOID:1094	DB01577	Methamphetamine	attention deficit hyperactivity disorder
+DOID:10763	DB00790	Perindopril	hypertension
+DOID:263	DB00399	Zoledronate	Kidney cancer
+DOID:7147	DB00338	Omeprazole	ankylosing spondylitis
+DOID:6364	DB00273	Topiramate	migraine
+DOID:2531	DB01073	Fludarabine	Hematologic cancer
+DOID:2531	DB01206	Lomustine	Hematologic cancer
+DOID:418	DB00158	Folic Acid	systemic scleroderma
+DOID:2377	DB00776	Oxcarbazepine	multiple sclerosis
+DOID:6364	DB00586	Diclofenac	migraine
+DOID:7148	DB00321	Amitriptyline	rheumatoid arthritis
+DOID:2531	DB02546	Vorinostat	Hematologic cancer
+DOID:4159	DB00724	Imiquimod	Skin cancer
+DOID:11612	DB00717	Norethindrone	polycystic ovary syndrome
+DOID:9074	DB01234	Dexamethasone	systemic lupus erythematosus
+DOID:12930	DB00695	Furosemide	dilated cardiomyopathy
+DOID:1595	DB00321	Amitriptyline	endogenous depression
+DOID:1686	DB00373	Timolol	glaucoma
+DOID:14330	DB00190	Carbidopa	Parkinson's disease
+DOID:363	DB00997	Doxorubicin	Uterine cancer
+DOID:2377	DB00540	Nortriptyline	multiple sclerosis
+DOID:3393	DB01118	Amiodarone	coronary artery disease
+DOID:1826	DB06218	Lacosamide	epilepsy syndrome
+DOID:3277	DB00104	Octreotide	Thymus cancer
+DOID:1612	DB04845	Ixabepilone	Breast cancer
+DOID:3310	DB00764	Mometasone	atopic dermatitis
+DOID:10652	DB00989	Rivastigmine	Alzheimer's disease
+DOID:11476	DB00884	Risedronate	osteoporosis
+DOID:7148	DB00697	Tizanidine	rheumatoid arthritis
+DOID:8893	DB00459	Acitretin	psoriasis
+DOID:10763	DB01359	Penbutolol	hypertension
+DOID:5408	DB00282	Pamidronate	Paget's disease of bone
+DOID:9352	DB01124	Tolbutamide	type 2 diabetes mellitus
+DOID:10763	DB00421	Spironolactone	hypertension
+DOID:1319	DB01206	Lomustine	Brain cancer
+DOID:11476	DB00258	Calcium Acetate	osteoporosis
+DOID:3310	DB00860	Prednisolone	atopic dermatitis
+DOID:8893	DB00591	Fluocinolone Acetonide	psoriasis
+DOID:6364	DB00696	Ergotamine	migraine
+DOID:8778	DB00244	Mesalazine	Crohn's disease
+DOID:10763	DB01088	Iloprost	hypertension
+DOID:1192	DB00997	Doxorubicin	Peripheral nervous system neoplasm
+DOID:1192	DB00982	Isotretinoin	Peripheral nervous system neoplasm
+DOID:1909	DB01248	Docetaxel	Melanoma
+DOID:219	DB01008	Busulfan	Colon cancer
+DOID:7147	DB00586	Diclofenac	ankylosing spondylitis
+DOID:11612	DB00977	Ethinyl Estradiol	polycystic ovary syndrome
+DOID:8893	DB00394	Beclomethasone	psoriasis
+DOID:7148	DB00945	Acetylsalicylic acid	rheumatoid arthritis
+DOID:3393	DB00758	Clopidogrel	coronary artery disease
+DOID:1459	DB00279	Liothyronine	hypothyroidism
+DOID:3571	DB00445	Epirubicin	Liver cancer
+DOID:10652	DB00502	Haloperidol	Alzheimer's disease
+DOID:13189	DB00328	Indomethacin	gout
+DOID:9352	DB01076	Atorvastatin	type 2 diabetes mellitus
+DOID:635	DB00495	Zidovudine	acquired immunodeficiency syndrome
+DOID:2531	DB00631	Clofarabine	Hematologic cancer
+DOID:418	DB00797	Tolazoline	systemic scleroderma
+DOID:1826	DB01320	Fosphenytoin	epilepsy syndrome
+DOID:10763	DB01193	Acebutolol	hypertension
+DOID:3393	DB00973	Ezetimibe	coronary artery disease
+DOID:2841	DB01409	Tiotropium	asthma
+DOID:8778	DB00572	Atropine	Crohn's disease
+DOID:2841	DB00852	Pseudoephedrine	asthma
+DOID:10763	DB00584	Enalapril	hypertension
+DOID:12930	DB00421	Spironolactone	dilated cardiomyopathy
+DOID:1115	DB04572	Thiotepa	Sarcoma
+DOID:1094	DB01576	Dextroamphetamine	attention deficit hyperactivity disorder
+DOID:594	DB00472	Fluoxetine	panic disorder
+DOID:2841	DB00537	Ciprofloxacin	asthma
+DOID:0050425	DB00268	Ropinirole	restless legs syndrome
+DOID:1612	DB00539	Toremifene	Breast cancer
+DOID:4159	DB08881	Vemurafenib	Skin cancer
+DOID:8778	DB00158	Folic Acid	Crohn's disease
+DOID:10534	DB00544	Fluorouracil	Stomach cancer
+DOID:1612	DB00762	Irinotecan	Breast cancer
+DOID:11119	DB00502	Haloperidol	Gilles de la Tourette syndrome
+DOID:3393	DB00381	Amlodipine	coronary artery disease
+DOID:0050741	DB00215	Citalopram	alcohol dependence
+DOID:4481	DB00741	Hydrocortisone	allergic rhinitis
+DOID:7147	DB00860	Prednisolone	ankylosing spondylitis
+DOID:3393	DB00177	Valsartan	coronary artery disease
+DOID:10283	DB00773	Etoposide	Prostate cancer
+DOID:1686	DB01057	Echothiophate	glaucoma
+DOID:1793	DB00530	Erlotinib	Pancreatic cancer
+DOID:10283	DB00331	Metformin	Prostate cancer
+DOID:4159	DB00853	Temozolomide	Skin cancer
+DOID:7148	DB00795	Sulfasalazine	rheumatoid arthritis
+DOID:2531	DB00860	Prednisolone	Hematologic cancer
+DOID:1612	DB00544	Fluorouracil	Breast cancer
+DOID:8398	DB00945	Acetylsalicylic acid	osteoarthritis
+DOID:10652	DB01224	Quetiapine	Alzheimer's disease
+DOID:3310	DB00959	Methylprednisolone	atopic dermatitis
+DOID:12365	DB06697	Artemether	malaria
+DOID:11476	DB00783	Estradiol	osteoporosis
+DOID:2841	DB00871	Terbutaline	asthma
+DOID:9970	DB00865	Benzphetamine	obesity
+DOID:363	DB00958	Carboplatin	Uterine cancer
+DOID:2531	DB00441	Gemcitabine	Hematologic cancer
+DOID:594	DB00829	Diazepam	panic disorder
+DOID:3083	DB00184	Nicotine	chronic obstructive pulmonary disease
+DOID:1192	DB01030	Topotecan	Peripheral nervous system neoplasm
+DOID:1612	DB00761	Potassium Chloride	Breast cancer
+DOID:11119	DB00850	Perphenazine	Gilles de la Tourette syndrome
+DOID:10534	DB00762	Irinotecan	Stomach cancer
+DOID:418	DB00806	Pentoxifylline	systemic scleroderma
+DOID:216	DB00907	Cocaine	dental caries
+DOID:13189	DB01394	Colchicine	gout
+DOID:1094	DB00575	Clonidine	attention deficit hyperactivity disorder
+DOID:10763	DB01029	Irbesartan	hypertension
+DOID:3312	DB00246	Ziprasidone	bipolar disorder
+DOID:3312	DB01238	Aripiprazole	bipolar disorder
+DOID:3083	DB00820	Tadalafil	chronic obstructive pulmonary disease
+DOID:2531	DB00553	Methoxsalen	Hematologic cancer
+DOID:12361	DB01583	Liotrix	Graves' disease
+DOID:7148	DB00736	Esomeprazole	rheumatoid arthritis
+DOID:7147	DB00736	Esomeprazole	ankylosing spondylitis
+DOID:363	DB00603	Medroxyprogesterone Acetate	Uterine cancer
+DOID:8893	DB01013	Clobetasol propionate	psoriasis
+DOID:7148	DB01401	Trisalicylate-choline	rheumatoid arthritis
+DOID:263	DB00541	Vincristine	Kidney cancer
+DOID:1612	DB00673	Aprepitant	Breast cancer
+DOID:4481	DB00959	Methylprednisolone	allergic rhinitis
+DOID:9008	DB00959	Methylprednisolone	psoriatic arthritis
+DOID:14330	DB00494	Entacapone	Parkinson's disease
+DOID:1612	DB00958	Carboplatin	Breast cancer
+DOID:4045	DB00563	Methotrexate	Muscle cancer
+DOID:7148	DB00153	Ergocalciferol	rheumatoid arthritis
+DOID:5041	DB01101	Capecitabine	Esophageal cancer
+DOID:11054	DB00515	Cisplatin	Urinary bladder cancer
+DOID:11476	DB00710	Ibandronate	osteoporosis
+DOID:10652	DB00843	Donepezil	Alzheimer's disease
+DOID:1826	DB00313	Valproic Acid	epilepsy syndrome
+DOID:8893	DB00860	Prednisolone	psoriasis
+DOID:1612	DB00630	Alendronate	Breast cancer
+DOID:2841	DB01223	Aminophylline	asthma
+DOID:635	DB01048	Abacavir	acquired immunodeficiency syndrome
+DOID:3393	DB00227	Lovastatin	coronary artery disease
+DOID:1826	DB00564	Carbamazepine	epilepsy syndrome
+DOID:9074	DB00443	Betamethasone	systemic lupus erythematosus
+DOID:10763	DB00727	Nitroglycerin	hypertension
+DOID:3312	DB00476	Duloxetine	bipolar disorder
+DOID:10763	DB00384	Triamterene	hypertension
+DOID:9074	DB00924	Cyclobenzaprine	systemic lupus erythematosus
+DOID:2377	DB00697	Tizanidine	multiple sclerosis
+DOID:2377	DB00829	Diazepam	multiple sclerosis
+DOID:8893	DB00563	Methotrexate	psoriasis
+DOID:1686	DB00964	Apraclonidine	glaucoma
+DOID:10652	DB00268	Ropinirole	Alzheimer's disease
+DOID:635	DB01004	Ganciclovir	acquired immunodeficiency syndrome
+DOID:9352	DB00731	Nateglinide	type 2 diabetes mellitus
+DOID:594	DB01156	Bupropion	panic disorder
+DOID:4481	DB00471	Montelukast	allergic rhinitis
+DOID:2531	DB00619	Imatinib	Hematologic cancer
+DOID:0050741	DB00475	Chlordiazepoxide	alcohol dependence
+DOID:2377	DB00620	Triamcinolone	multiple sclerosis
+DOID:10283	DB01248	Docetaxel	Prostate cancer
+DOID:3312	DB00477	Chlorpromazine	bipolar disorder
+DOID:10283	DB01204	Mitoxantrone	Prostate cancer
+DOID:10283	DB01101	Capecitabine	Prostate cancer
+DOID:10763	DB00436	Bendroflumethiazide	hypertension
+DOID:1936	DB00758	Clopidogrel	atherosclerosis
+DOID:10283	DB00813	Fentanyl	Prostate cancer
+DOID:10763	DB01115	Nifedipine	hypertension
+DOID:1826	DB00776	Oxcarbazepine	epilepsy syndrome
+DOID:1909	DB01042	Melphalan	Melanoma
+DOID:11476	DB00717	Norethindrone	osteoporosis
+DOID:263	DB00758	Clopidogrel	Kidney cancer
+DOID:1319	DB00262	Carmustine	Brain cancer
+DOID:11476	DB00286	Conjugated Estrogens	osteoporosis
+DOID:784	DB00746	Deferoxamine	chronic kidney failure
+DOID:2531	DB01280	Nelarabine	Hematologic cancer
+DOID:14330	DB00248	Cabergoline	Parkinson's disease
+DOID:8577	DB01033	Mercaptopurine	ulcerative colitis
+DOID:3310	DB01260	Desonide	atopic dermatitis
+DOID:1793	DB00544	Fluorouracil	Pancreatic cancer
+DOID:9074	DB00321	Amitriptyline	systemic lupus erythematosus
+DOID:2531	DB00290	Bleomycin	Hematologic cancer
+DOID:7147	DB00443	Betamethasone	ankylosing spondylitis
+DOID:11119	DB00657	Mecamylamine	Gilles de la Tourette syndrome
+DOID:1826	DB00490	Buspirone	epilepsy syndrome
+DOID:2531	DB00444	Teniposide	Hematologic cancer
+DOID:4159	DB01248	Docetaxel	Skin cancer
+DOID:10763	DB00443	Betamethasone	hypertension
+DOID:10763	DB00350	Minoxidil	hypertension
+DOID:11054	DB00441	Gemcitabine	Urinary bladder cancer
+DOID:9970	DB01156	Bupropion	obesity
+DOID:13189	DB00635	Prednisone	gout
+DOID:1612	DB01042	Melphalan	Breast cancer
+DOID:2531	DB00541	Vincristine	Hematologic cancer
+DOID:3393	DB00627	Niacin	coronary artery disease
+DOID:10763	DB01162	Terazosin	hypertension
+DOID:3083	DB01409	Tiotropium	chronic obstructive pulmonary disease
+DOID:10763	DB00869	Dorzolamide	hypertension
+DOID:12361	DB00509	Dextrothyroxine	Graves' disease
+DOID:10763	DB00678	Losartan	hypertension
+DOID:10763	DB00661	Verapamil	hypertension
+DOID:5419	DB00408	Loxapine	schizophrenia
+DOID:9008	DB00443	Betamethasone	psoriatic arthritis
+DOID:9970	DB01579	Phendimetrazine	obesity
+DOID:10763	DB01346	Quinidine barbiturate	hypertension
+DOID:1612	DB00380	Dexrazoxane	Breast cancer
+DOID:1612	DB06710	Methyltestosterone	Breast cancer
+DOID:5419	DB00555	Lamotrigine	schizophrenia
+DOID:2841	DB01364	Ephedrine	asthma
+DOID:184	DB00515	Cisplatin	Bone cancer
+DOID:9008	DB00995	Auranofin	psoriatic arthritis
+DOID:1324	DB00997	Doxorubicin	Lung cancer
+DOID:2998	DB01181	Ifosfamide	Testicular cancer
+DOID:5419	DB01075	Diphenhydramine	schizophrenia
+DOID:8398	DB00712	Flurbiprofen	osteoarthritis
+DOID:418	DB00404	Alprazolam	systemic scleroderma
+DOID:9074	DB00635	Prednisone	systemic lupus erythematosus
+DOID:2355	DB00163	Vitamin E	anemia
+DOID:263	DB01268	Sunitinib	Kidney cancer
+DOID:263	DB06287	Temsirolimus	Kidney cancer
+DOID:635	DB00705	Delavirdine	acquired immunodeficiency syndrome
+DOID:10763	DB00492	Fosinopril	hypertension
+DOID:2841	DB00471	Montelukast	asthma
+DOID:784	DB00910	Paricalcitol	chronic kidney failure
+DOID:7148	DB00620	Triamcinolone	rheumatoid arthritis
+DOID:9074	DB00736	Esomeprazole	systemic lupus erythematosus
+DOID:7147	DB00959	Methylprednisolone	ankylosing spondylitis
+DOID:11476	DB01077	Etidronic acid	osteoporosis
+DOID:2531	DB00694	Daunorubicin	Hematologic cancer
+DOID:2377	DB00915	Amantadine	multiple sclerosis
+DOID:14330	DB00996	Gabapentin	Parkinson's disease
+DOID:1094	DB00285	Venlafaxine	attention deficit hyperactivity disorder
+DOID:263	DB01229	Paclitaxel	Kidney cancer
+DOID:2355	DB01234	Dexamethasone	anemia
+DOID:12849	DB00245	Benzatropine	autistic disorder
+DOID:10763	DB00218	Moxifloxacin	hypertension
+DOID:10763	DB00808	Indapamide	hypertension
+DOID:10763	DB01275	Hydralazine	hypertension
+DOID:0050425	DB01068	Clonazepam	restless legs syndrome
+DOID:10283	DB00877	Sirolimus	Prostate cancer
+DOID:3571	DB00997	Doxorubicin	Liver cancer
+DOID:0050425	DB00564	Carbamazepine	restless legs syndrome
+DOID:263	DB00570	Vinblastine	Kidney cancer
+DOID:8577	DB00158	Folic Acid	ulcerative colitis
+DOID:7148	DB01085	Pilocarpine	rheumatoid arthritis
+DOID:263	DB01206	Lomustine	Kidney cancer
+DOID:1781	DB00279	Liothyronine	Thyroid cancer
+DOID:10652	DB01037	Selegiline	Alzheimer's disease
+DOID:1686	DB00905	Bimatoprost	glaucoma
+DOID:1612	DB01259	Lapatinib	Breast cancer
+DOID:5419	DB00334	Olanzapine	schizophrenia
+DOID:9970	DB00273	Topiramate	obesity
+DOID:4481	DB01364	Ephedrine	allergic rhinitis
+DOID:784	DB00903	Ethacrynic acid	chronic kidney failure
+DOID:10763	DB01174	Phenobarbital	hypertension
+DOID:3310	DB01142	Doxepin	atopic dermatitis
+DOID:594	DB00490	Buspirone	panic disorder
+DOID:263	DB00398	Sorafenib	Kidney cancer
+DOID:2998	DB00970	Dactinomycin	Testicular cancer
+DOID:418	DB01240	Epoprostenol	systemic scleroderma
+DOID:3393	DB00945	Acetylsalicylic acid	coronary artery disease
+DOID:1612	DB00282	Pamidronate	Breast cancer
+DOID:585	DB00999	Hydrochlorothiazide	nephrolithiasis
+DOID:1826	DB00996	Gabapentin	epilepsy syndrome
+DOID:10283	DB00499	Flutamide	Prostate cancer
+DOID:2377	DB01204	Mitoxantrone	multiple sclerosis
+DOID:2531	DB00620	Triamcinolone	Hematologic cancer
+DOID:8577	DB00537	Ciprofloxacin	ulcerative colitis
+DOID:8893	DB01401	Trisalicylate-choline	psoriasis
+DOID:1115	DB01204	Mitoxantrone	Sarcoma
+DOID:418	DB00924	Cyclobenzaprine	systemic scleroderma
+DOID:7148	DB00122	Choline	rheumatoid arthritis
+DOID:10763	DB00758	Clopidogrel	hypertension
+DOID:784	DB00887	Bumetanide	chronic kidney failure
+DOID:2377	DB00203	Sildenafil	multiple sclerosis
+DOID:6364	DB00321	Amitriptyline	migraine
+DOID:1826	DB00620	Triamcinolone	epilepsy syndrome
+DOID:3083	DB00425	Zolpidem	chronic obstructive pulmonary disease
+DOID:635	DB00445	Epirubicin	acquired immunodeficiency syndrome
+DOID:11612	DB00304	Desogestrel	polycystic ovary syndrome
+DOID:2531	DB04572	Thiotepa	Hematologic cancer
+DOID:1595	DB00715	Paroxetine	endogenous depression
+DOID:1324	DB00563	Methotrexate	Lung cancer
+DOID:8986	DB00745	Modafinil	narcolepsy
+DOID:1793	DB01268	Sunitinib	Pancreatic cancer
+DOID:2531	DB00563	Methotrexate	Hematologic cancer
+DOID:2531	DB00755	Tretinoin	Hematologic cancer
+DOID:363	DB00917	Dinoprostone	Uterine cancer
+DOID:3393	DB00343	Diltiazem	coronary artery disease
+DOID:10763	DB00695	Furosemide	hypertension
+DOID:3312	DB00313	Valproic Acid	bipolar disorder
+DOID:10763	DB00903	Ethacrynic acid	hypertension
+DOID:784	DB00214	Torasemide	chronic kidney failure
+DOID:2394	DB01248	Docetaxel	Ovarian cancer
+DOID:12849	DB01104	Sertraline	autistic disorder
+DOID:10763	DB01210	Levobunolol	hypertension
+DOID:2531	DB00851	Dacarbazine	Hematologic cancer
+DOID:3083	DB00983	Formoterol	chronic obstructive pulmonary disease
+DOID:2355	DB01262	Decitabine	anemia
+DOID:14330	DB00424	Hyoscyamine	Parkinson's disease
+DOID:635	DB00625	Efavirenz	acquired immunodeficiency syndrome
+DOID:2394	DB00997	Doxorubicin	Ovarian cancer
+DOID:2998	DB00570	Vinblastine	Testicular cancer
+DOID:7148	DB00859	Penicillamine	rheumatoid arthritis
+DOID:13189	DB00741	Hydrocortisone	gout
+DOID:2377	DB01068	Clonazepam	multiple sclerosis
+DOID:1612	DB00291	Chlorambucil	Breast cancer
+DOID:332	DB00514	Dextromethorphan	amyotrophic lateral sclerosis
+DOID:1094	DB00289	Atomoxetine	attention deficit hyperactivity disorder
+DOID:8577	DB00635	Prednisone	ulcerative colitis
+DOID:5419	DB00502	Haloperidol	schizophrenia
+DOID:5419	DB01238	Aripiprazole	schizophrenia
+DOID:1909	DB01168	Procarbazine	Melanoma
+DOID:10534	DB00305	Mitomycin	Stomach cancer
+DOID:0050425	DB00193	Tramadol	restless legs syndrome
+DOID:13189	DB01032	Probenecid	gout
+DOID:10763	DB00381	Amlodipine	hypertension
+DOID:14330	DB01235	L-DOPA	Parkinson's disease
+DOID:10763	DB04861	Nebivolol	hypertension
+DOID:10763	DB00966	Telmisartan	hypertension
+DOID:10763	DB01001	Salbutamol	hypertension
+DOID:10763	DB01203	Nadolol	hypertension
+DOID:2531	DB00428	Streptozocin	Hematologic cancer
+DOID:363	DB00445	Epirubicin	Uterine cancer
+DOID:263	DB01234	Dexamethasone	Kidney cancer
+DOID:3393	DB01197	Captopril	coronary artery disease
+DOID:9352	DB00284	Acarbose	type 2 diabetes mellitus
+DOID:1324	DB08865	Crizotinib	Lung cancer
+DOID:7148	DB00338	Omeprazole	rheumatoid arthritis
+DOID:12361	DB00279	Liothyronine	Graves' disease
+DOID:8398	DB00318	Codeine	osteoarthritis
+DOID:6364	DB00320	Dihydroergotamine	migraine
+DOID:1612	DB00445	Epirubicin	Breast cancer
+DOID:10763	DB01085	Pilocarpine	hypertension
+DOID:12930	DB00722	Lisinopril	dilated cardiomyopathy
+DOID:1909	DB00290	Bleomycin	Melanoma
+DOID:7148	DB00374	Treprostinil	rheumatoid arthritis
+DOID:5419	DB01267	Paliperidone	schizophrenia
+DOID:10763	DB00287	Travoprost	hypertension
+DOID:1324	DB00642	Pemetrexed	Lung cancer
+DOID:2841	DB01274	Arformoterol	asthma
+DOID:1909	DB01005	Hydroxyurea	Melanoma
+DOID:3393	DB00451	Levothyroxine	coronary artery disease
+DOID:10283	DB00286	Conjugated Estrogens	Prostate cancer
+DOID:3312	DB00273	Topiramate	bipolar disorder
+DOID:3393	DB00373	Timolol	coronary artery disease
+DOID:10283	DB00736	Esomeprazole	Prostate cancer
+DOID:3312	DB00334	Olanzapine	bipolar disorder
+DOID:6364	DB00996	Gabapentin	migraine
+DOID:5419	DB00933	Mesoridazine	schizophrenia
+DOID:6364	DB00924	Cyclobenzaprine	migraine
+DOID:1319	DB01005	Hydroxyurea	Brain cancer
+DOID:11054	DB00958	Carboplatin	Urinary bladder cancer
+DOID:13189	DB00788	Naproxen	gout
+DOID:3312	DB01175	Escitalopram	bipolar disorder
+DOID:263	DB00603	Medroxyprogesterone Acetate	Kidney cancer
+DOID:10763	DB00796	Candesartan	hypertension
+DOID:9970	DB01083	Orlistat	obesity
+DOID:12995	DB00734	Risperidone	conduct disorder
+DOID:8577	DB00741	Hydrocortisone	ulcerative colitis
+DOID:3393	DB08816	Ticagrelor	coronary artery disease
+DOID:14227	DB00882	Clomifene	azoospermia
+DOID:418	DB00820	Tadalafil	systemic scleroderma
+DOID:5419	DB01198	Zopiclone	schizophrenia
+DOID:594	DB00176	Fluvoxamine	panic disorder
+DOID:2355	DB00443	Betamethasone	anemia
+DOID:1319	DB01168	Procarbazine	Brain cancer
+DOID:7147	DB00554	Piroxicam	ankylosing spondylitis
+DOID:1459	DB00509	Dextrothyroxine	hypothyroidism
+DOID:1192	DB00541	Vincristine	Peripheral nervous system neoplasm
+DOID:10763	DB00622	Nicardipine	hypertension
+DOID:1612	DB00399	Zoledronate	Breast cancer
+DOID:7148	DB00584	Enalapril	rheumatoid arthritis
+DOID:1459	DB01583	Liotrix	hypothyroidism
+DOID:2377	DB00996	Gabapentin	multiple sclerosis
+DOID:1192	DB00515	Cisplatin	Peripheral nervous system neoplasm
+DOID:1909	DB08881	Vemurafenib	Melanoma
+DOID:418	DB00695	Furosemide	systemic scleroderma
+DOID:10534	DB00563	Methotrexate	Stomach cancer
+DOID:2394	DB00445	Epirubicin	Ovarian cancer
+DOID:1781	DB05294	Vandetanib	Thyroid cancer
+DOID:14330	DB01037	Selegiline	Parkinson's disease
+DOID:11119	DB00575	Clonidine	Gilles de la Tourette syndrome
+DOID:5041	DB00563	Methotrexate	Esophageal cancer
+DOID:9352	DB00641	Simvastatin	type 2 diabetes mellitus
+DOID:1936	DB00175	Pravastatin	atherosclerosis
+DOID:5419	DB00656	Trazodone	schizophrenia
+DOID:2377	DB01234	Dexamethasone	multiple sclerosis
+DOID:1115	DB00997	Doxorubicin	Sarcoma
+DOID:1319	DB01234	Dexamethasone	Brain cancer
+DOID:2531	DB00773	Etoposide	Hematologic cancer
+DOID:10763	DB00524	Metolazone	hypertension
+DOID:14330	DB01068	Clonazepam	Parkinson's disease
+DOID:3393	DB00281	Lidocaine	coronary artery disease
+DOID:2377	DB01591	Solifenacin	multiple sclerosis
+DOID:2355	DB08826	Deferiprone	anemia
+DOID:10763	DB01240	Epoprostenol	hypertension
+DOID:3312	DB00656	Trazodone	bipolar disorder
+DOID:1686	DB00287	Travoprost	glaucoma
+DOID:3312	DB00564	Carbamazepine	bipolar disorder
+DOID:10283	DB00655	Estrone	Prostate cancer
+DOID:1612	DB00977	Ethinyl Estradiol	Breast cancer
+DOID:9352	DB00912	Repaglinide	type 2 diabetes mellitus
+DOID:10534	DB00322	Floxuridine	Stomach cancer
+DOID:1793	DB00675	Tamoxifen	Pancreatic cancer
+DOID:1612	DB00286	Conjugated Estrogens	Breast cancer
+DOID:3393	DB00584	Enalapril	coronary artery disease
+DOID:4989	DB00627	Niacin	pancreatitis
+DOID:3393	DB00761	Potassium Chloride	coronary artery disease
+DOID:418	DB00281	Lidocaine	systemic scleroderma
+DOID:6364	DB00313	Valproic Acid	migraine
+DOID:1612	DB00947	Fulvestrant	Breast cancer
+DOID:5419	DB00472	Fluoxetine	schizophrenia
+DOID:1612	DB01133	Tiludronate	Breast cancer
+DOID:2841	DB00221	Isoetarine	asthma
+DOID:5419	DB00363	Clozapine	schizophrenia
+DOID:1612	DB00441	Gemcitabine	Breast cancer
+DOID:10763	DB00722	Lisinopril	hypertension
+DOID:4481	DB00620	Triamcinolone	allergic rhinitis
+DOID:418	DB00764	Mometasone	systemic scleroderma
+DOID:12236	DB01394	Colchicine	primary biliary cirrhosis
+DOID:3393	DB00783	Estradiol	coronary artery disease
+DOID:1826	DB01351	Amobarbital	epilepsy syndrome
+DOID:0050425	DB00575	Clonidine	restless legs syndrome
+DOID:3393	DB00390	Digoxin	coronary artery disease
+DOID:12849	DB01068	Clonazepam	autistic disorder
+DOID:9074	DB00230	Pregabalin	systemic lupus erythematosus
+DOID:3312	DB00776	Oxcarbazepine	bipolar disorder
+DOID:9352	DB01120	Gliclazide	type 2 diabetes mellitus
+DOID:418	DB01197	Captopril	systemic scleroderma
+DOID:1612	DB00990	Exemestane	Breast cancer
+DOID:4989	DB00424	Hyoscyamine	pancreatitis
+DOID:7148	DB00996	Gabapentin	rheumatoid arthritis
+DOID:10283	DB01233	Metoclopramide	Prostate cancer
+DOID:1595	DB00540	Nortriptyline	endogenous depression
+DOID:8398	DB00814	Meloxicam	osteoarthritis
+DOID:9970	DB01105	Sibutramine	obesity
+DOID:594	DB01104	Sertraline	panic disorder
+DOID:14330	DB00915	Amantadine	Parkinson's disease
+DOID:9074	DB00959	Methylprednisolone	systemic lupus erythematosus
+DOID:11612	DB01395	Drospirenone	polycystic ovary syndrome
+DOID:11612	DB00331	Metformin	polycystic ovary syndrome
+DOID:11054	DB00445	Epirubicin	Urinary bladder cancer
+DOID:7147	DB00795	Sulfasalazine	ankylosing spondylitis
+DOID:418	DB01024	Mycophenolic acid	systemic scleroderma
+DOID:10763	DB01244	Bepridil	hypertension
+DOID:1612	DB00783	Estradiol	Breast cancer
+DOID:10283	DB00443	Betamethasone	Prostate cancer
+DOID:10652	DB00810	Biperiden	Alzheimer's disease
+DOID:8893	DB00620	Triamcinolone	psoriasis
+DOID:7148	DB00500	Tolmetin	rheumatoid arthritis
+DOID:11054	DB00563	Methotrexate	Urinary bladder cancer
+DOID:14330	DB01200	Bromocriptine	Parkinson's disease
+DOID:4159	DB00851	Dacarbazine	Skin cancer
+DOID:1781	DB00451	Levothyroxine	Thyroid cancer
+DOID:2043	DB01265	Telbivudine	hepatitis B
+DOID:12995	DB00502	Haloperidol	conduct disorder
+DOID:11054	DB00385	Valrubicin	Urinary bladder cancer
+DOID:3393	DB00988	Dopamine	coronary artery disease
+DOID:2531	DB00307	Bexarotene	Hematologic cancer
+DOID:7148	DB00995	Auranofin	rheumatoid arthritis
+DOID:1612	DB00433	Prochlorperazine	Breast cancer
+DOID:8986	DB00182	Amphetamine	narcolepsy
+DOID:1612	DB00481	Raloxifene	Breast cancer
+DOID:2355	DB00165	Pyridoxine	anemia
+DOID:2377	DB00514	Dextromethorphan	multiple sclerosis
+DOID:8986	DB01440	Gamma Hydroxybutyric Acid	narcolepsy
+DOID:9074	DB00814	Meloxicam	systemic lupus erythematosus
+DOID:10763	DB00960	Pindolol	hypertension
+DOID:1192	DB00773	Etoposide	Peripheral nervous system neoplasm
+DOID:635	DB00900	Didanosine	acquired immunodeficiency syndrome
+DOID:2394	DB01030	Topotecan	Ovarian cancer
+DOID:10763	DB00800	Fenoldopam	hypertension
+DOID:6364	DB00328	Indomethacin	migraine
+DOID:4481	DB01234	Dexamethasone	allergic rhinitis
+DOID:1612	DB00675	Tamoxifen	Breast cancer
+DOID:10763	DB01197	Captopril	hypertension
+DOID:2531	DB01008	Busulfan	Hematologic cancer
+DOID:2377	DB00181	Baclofen	multiple sclerosis
+DOID:184	DB00445	Epirubicin	Bone cancer
+DOID:2355	DB00620	Triamcinolone	anemia
+DOID:1909	DB01206	Lomustine	Melanoma
+DOID:1324	DB01030	Topotecan	Lung cancer
+DOID:2841	DB05039	Indacaterol	asthma
+DOID:1826	DB01346	Quinidine barbiturate	epilepsy syndrome
+DOID:1319	DB00620	Triamcinolone	Brain cancer
+DOID:4481	DB00180	Flunisolide	allergic rhinitis
+DOID:635	DB00615	Rifabutin	acquired immunodeficiency syndrome
+DOID:1686	DB00668	Epinephrine	glaucoma
+DOID:2531	DB01168	Procarbazine	Hematologic cancer
+DOID:3083	DB01223	Aminophylline	chronic obstructive pulmonary disease
+DOID:594	DB00540	Nortriptyline	panic disorder
+DOID:784	DB00136	Calcitriol	chronic kidney failure
+DOID:1936	DB00227	Lovastatin	atherosclerosis
+DOID:1094	DB00540	Nortriptyline	attention deficit hyperactivity disorder
+DOID:2531	DB00888	Mechlorethamine	Hematologic cancer
+DOID:3310	DB00985	Dimenhydrinate	atopic dermatitis
+DOID:11476	DB06710	Methyltestosterone	osteoporosis
+DOID:9008	DB00635	Prednisone	psoriatic arthritis
+DOID:4481	DB00860	Prednisolone	allergic rhinitis
+DOID:2841	DB00455	Loratadine	asthma
+DOID:1595	DB06684	Vilazodone	endogenous depression
+DOID:11119	DB01100	Pimozide	Gilles de la Tourette syndrome
+DOID:1936	DB00641	Simvastatin	atherosclerosis
+DOID:11934	DB00544	Fluorouracil	Head and neck cancer
+DOID:1192	DB01042	Melphalan	Peripheral nervous system neoplasm
+DOID:10763	DB00692	Phentolamine	hypertension
+DOID:9352	DB01016	Glyburide	type 2 diabetes mellitus
+DOID:635	DB00709	Lamivudine	acquired immunodeficiency syndrome
+DOID:11119	DB00734	Risperidone	Gilles de la Tourette syndrome
+DOID:12365	DB00254	Doxycycline	malaria
+DOID:2355	DB00126	Vitamin C	anemia
+DOID:8398	DB00482	Celecoxib	osteoarthritis
+DOID:10763	DB00883	Isosorbide Dinitrate	hypertension
+DOID:10763	DB00457	Prazosin	hypertension
+DOID:10763	DB01234	Dexamethasone	hypertension
+DOID:1686	DB00521	Carteolol	glaucoma
+DOID:14330	DB00268	Ropinirole	Parkinson's disease
+DOID:1781	DB00445	Epirubicin	Thyroid cancer
+DOID:3393	DB00178	Ramipril	coronary artery disease
+DOID:9008	DB00860	Prednisolone	psoriatic arthritis
+DOID:2394	DB01229	Paclitaxel	Ovarian cancer
+DOID:3310	DB00864	Tacrolimus	atopic dermatitis
+DOID:9352	DB01132	Pioglitazone	type 2 diabetes mellitus
+DOID:5419	DB00564	Carbamazepine	schizophrenia
+DOID:8577	DB00959	Methylprednisolone	ulcerative colitis
+DOID:0050742	DB01273	Varenicline	nicotine dependence
+DOID:14330	DB00245	Benzatropine	Parkinson's disease
+DOID:9352	DB00491	Miglitol	type 2 diabetes mellitus
+DOID:3310	DB01234	Dexamethasone	atopic dermatitis
+DOID:2394	DB01005	Hydroxyurea	Ovarian cancer
+DOID:2531	DB01177	Idarubicin	Hematologic cancer
+DOID:2377	DB00860	Prednisolone	multiple sclerosis
+DOID:418	DB00425	Zolpidem	systemic scleroderma
+DOID:1826	DB00349	Clobazam	epilepsy syndrome
+DOID:2531	DB01005	Hydroxyurea	Hematologic cancer
+DOID:2531	DB00262	Carmustine	Hematologic cancer
+DOID:10283	DB01216	Finasteride	Prostate cancer
+DOID:5419	DB01063	Acetophenazine	schizophrenia
+DOID:10763	DB00770	Alprostadil	hypertension
+DOID:8893	DB01024	Mycophenolic acid	psoriasis
+DOID:1094	DB00745	Modafinil	attention deficit hyperactivity disorder
+DOID:6364	DB00434	Cyproheptadine	migraine
+DOID:5419	DB01104	Sertraline	schizophrenia
+DOID:12306	DB00600	Monobenzone	vitiligo
+DOID:2531	DB01033	Mercaptopurine	Hematologic cancer
+DOID:8893	DB01047	Fluocinonide	psoriasis
+DOID:7148	DB00993	Azathioprine	rheumatoid arthritis
+DOID:1686	DB00654	Latanoprost	glaucoma
+DOID:2377	DB00252	Phenytoin	multiple sclerosis
+DOID:784	DB00695	Furosemide	chronic kidney failure
+DOID:14330	DB01043	Memantine	Parkinson's disease
+DOID:2841	DB01064	Isoprenaline	asthma
+DOID:10763	DB00195	Betaxolol	hypertension
+DOID:11054	DB04572	Thiotepa	Urinary bladder cancer
+DOID:3393	DB00519	Trandolapril	coronary artery disease
+DOID:2531	DB00762	Irinotecan	Hematologic cancer
+DOID:3083	DB01656	Roflumilast	chronic obstructive pulmonary disease
+DOID:2841	DB01222	Budesonide	asthma
+DOID:11934	DB01248	Docetaxel	Head and neck cancer
+DOID:1612	DB08866	Estradiol valerate/Dienogest	Breast cancer
+DOID:10283	DB00665	Nilutamide	Prostate cancer
+DOID:8893	DB00936	Salicylic acid	psoriasis
+DOID:3310	DB00635	Prednisone	atopic dermatitis
+DOID:2531	DB00361	Vinorelbine	Hematologic cancer
+DOID:1612	DB01101	Capecitabine	Breast cancer
+DOID:11934	DB00570	Vinblastine	Head and neck cancer
+DOID:3312	DB01224	Quetiapine	bipolar disorder
+DOID:10283	DB01234	Dexamethasone	Prostate cancer
+DOID:3310	DB01047	Fluocinonide	atopic dermatitis
+DOID:184	DB00958	Carboplatin	Bone cancer
+DOID:2998	DB00997	Doxorubicin	Testicular cancer
+DOID:2841	DB01137	Levofloxacin	asthma
+DOID:0050425	DB00413	Pramipexole	restless legs syndrome
+DOID:263	DB00722	Lisinopril	Kidney cancer
+DOID:2394	DB00361	Vinorelbine	Ovarian cancer
+DOID:363	DB00783	Estradiol	Uterine cancer
+DOID:363	DB00396	Progesterone	Uterine cancer
+DOID:3310	DB00455	Loratadine	atopic dermatitis
+DOID:10652	DB00413	Pramipexole	Alzheimer's disease
+DOID:635	DB01232	Saquinavir	acquired immunodeficiency syndrome
+DOID:1686	DB00195	Betaxolol	glaucoma
+DOID:9074	DB00860	Prednisolone	systemic lupus erythematosus
+DOID:9008	DB00563	Methotrexate	psoriatic arthritis
+DOID:2531	DB00282	Pamidronate	Hematologic cancer
+DOID:8577	DB01234	Dexamethasone	ulcerative colitis
+DOID:2531	DB01254	Dasatinib	Hematologic cancer
+DOID:1324	DB00530	Erlotinib	Lung cancer
+DOID:10763	DB00435	Nitric Oxide	hypertension
+DOID:4159	DB00290	Bleomycin	Skin cancer
+DOID:8398	DB01050	Ibuprofen	osteoarthritis
+DOID:9074	DB00250	Dapsone	systemic lupus erythematosus
+DOID:0050741	DB00822	Disulfiram	alcohol dependence
+DOID:12361	DB00451	Levothyroxine	Graves' disease
+DOID:7148	DB00860	Prednisolone	rheumatoid arthritis
+DOID:7147	DB00158	Folic Acid	ankylosing spondylitis
+DOID:2394	DB01042	Melphalan	Ovarian cancer
+DOID:9352	DB00678	Losartan	type 2 diabetes mellitus
+DOID:6364	DB00201	Caffeine	migraine
+DOID:2531	DB00261	Anagrelide	Hematologic cancer
+DOID:1826	DB01202	Levetiracetam	epilepsy syndrome
+DOID:4481	DB00434	Cyproheptadine	allergic rhinitis
+DOID:1612	DB01234	Dexamethasone	Breast cancer
+DOID:8986	DB01577	Methamphetamine	narcolepsy
+DOID:1826	DB00683	Midazolam	epilepsy syndrome
+DOID:3312	DB00996	Gabapentin	bipolar disorder
+DOID:784	DB01012	Cinacalcet	chronic kidney failure
+DOID:2377	DB00745	Modafinil	multiple sclerosis
+DOID:6364	DB00998	Frovatriptan	migraine
+DOID:9352	DB00222	Glimepiride	type 2 diabetes mellitus
+DOID:1612	DB01420	Testosterone Propionate	Breast cancer
+DOID:2531	DB00482	Celecoxib	Hematologic cancer
+DOID:10652	DB01043	Memantine	Alzheimer's disease
+DOID:9352	DB01261	Sitagliptin	type 2 diabetes mellitus
+DOID:1936	DB01240	Epoprostenol	atherosclerosis
+DOID:8398	DB00573	Fenoprofen	osteoarthritis
+DOID:635	DB00997	Doxorubicin	acquired immunodeficiency syndrome
+DOID:10763	DB00275	Olmesartan	hypertension
+DOID:1826	DB00230	Pregabalin	epilepsy syndrome
+DOID:1686	DB00869	Dorzolamide	glaucoma
+DOID:2531	DB04868	Nilotinib	Hematologic cancer
+DOID:2377	DB01219	Dantrolene	multiple sclerosis
+DOID:2531	DB00552	Pentostatin	Hematologic cancer
+DOID:8778	DB00635	Prednisone	Crohn's disease
+DOID:2841	DB00651	Dyphylline	asthma
+DOID:1324	DB00570	Vinblastine	Lung cancer
+DOID:10763	DB00653	Magnesium Sulfate	hypertension
+DOID:3083	DB00537	Ciprofloxacin	chronic obstructive pulmonary disease
+DOID:10763	DB00700	Eplerenone	hypertension
+DOID:1909	DB00262	Carmustine	Melanoma
+DOID:1686	DB01210	Levobunolol	glaucoma
+DOID:1826	DB01080	Vigabatrin	epilepsy syndrome
+DOID:8577	DB00169	Cholecalciferol	ulcerative colitis
+DOID:2841	DB00443	Betamethasone	asthma
+DOID:9970	DB00937	Diethylpropion	obesity
+DOID:10283	DB00537	Ciprofloxacin	Prostate cancer
+DOID:8398	DB00749	Etodolac	osteoarthritis
+DOID:14330	DB00425	Zolpidem	Parkinson's disease
+DOID:1612	DB01217	Anastrozole	Breast cancer
+DOID:10283	DB00014	Goserelin	Prostate cancer
+DOID:14330	DB01186	Pergolide	Parkinson's disease
+DOID:10763	DB01018	Guanfacine	hypertension
+DOID:3393	DB08860	Pitavastatin	coronary artery disease
+DOID:6364	DB00918	Almotriptan	migraine
+DOID:9744	DB00178	Ramipril	type 1 diabetes mellitus
+DOID:6364	DB00952	Naratriptan	migraine
+DOID:11476	DB00136	Calcitriol	osteoporosis
+DOID:1781	DB00997	Doxorubicin	Thyroid cancer
+DOID:1094	DB00458	Imipramine	attention deficit hyperactivity disorder
+DOID:2998	DB00958	Carboplatin	Testicular cancer
+DOID:1115	DB00970	Dactinomycin	Sarcoma
+DOID:2355	DB00158	Folic Acid	anemia
+DOID:10283	DB00338	Omeprazole	Prostate cancer
+DOID:4045	DB00970	Dactinomycin	Muscle cancer
+DOID:1094	DB01151	Desipramine	attention deficit hyperactivity disorder
+DOID:3393	DB00175	Pravastatin	coronary artery disease
+DOID:8398	DB00328	Indomethacin	osteoarthritis
+DOID:1686	DB00742	Mannitol	glaucoma
+DOID:418	DB00993	Azathioprine	systemic scleroderma
+DOID:11054	DB00773	Etoposide	Urinary bladder cancer
+DOID:784	DB00258	Calcium Acetate	chronic kidney failure
+DOID:3310	DB00741	Hydrocortisone	atopic dermatitis
+DOID:1793	DB00445	Epirubicin	Pancreatic cancer
+DOID:12849	DB00575	Clonidine	autistic disorder
+DOID:2531	DB01042	Melphalan	Hematologic cancer
+DOID:594	DB01242	Clomipramine	panic disorder
+DOID:13189	DB00945	Acetylsalicylic acid	gout
+DOID:6364	DB00316	Acetaminophen	migraine
+DOID:8893	DB01234	Dexamethasone	psoriasis
+DOID:9744	DB00203	Sildenafil	type 1 diabetes mellitus
+DOID:7148	DB01303	Oxtriphylline	rheumatoid arthritis
+DOID:10763	DB00988	Dopamine	hypertension
+DOID:3571	DB00331	Metformin	Liver cancer
+DOID:9074	DB00158	Folic Acid	systemic lupus erythematosus
+DOID:2841	DB00535	Cefdinir	asthma
+DOID:2531	DB01234	Dexamethasone	Hematologic cancer
+DOID:635	DB00701	Amprenavir	acquired immunodeficiency syndrome
+DOID:1686	DB01144	Diclofenamide	glaucoma
+DOID:1612	DB04572	Thiotepa	Breast cancer
+DOID:8893	DB00553	Methoxsalen	psoriasis
+DOID:3312	DB00215	Citalopram	bipolar disorder
+DOID:9074	DB01097	Leflunomide	systemic lupus erythematosus
+DOID:6364	DB00697	Tizanidine	migraine
+DOID:8398	DB00788	Naproxen	osteoarthritis
+DOID:10652	DB00163	Vitamin E	Alzheimer's disease
+DOID:10283	DB00175	Pravastatin	Prostate cancer
+DOID:2531	DB00188	Bortezomib	Hematologic cancer
+DOID:7148	DB00482	Celecoxib	rheumatoid arthritis
+DOID:219	DB00650	Leucovorin	Colon cancer
+DOID:10283	DB00741	Hydrocortisone	Prostate cancer
+DOID:2355	DB00860	Prednisolone	anemia
+DOID:1826	DB00949	Felbamate	epilepsy syndrome
+DOID:10283	DB05812	Abiraterone	Prostate cancer
+DOID:1312	DB00091	Cyclosporine	focal segmental glomerulosclerosis
+DOID:9008	DB00620	Triamcinolone	psoriatic arthritis
+DOID:2531	DB00437	Allopurinol	Hematologic cancer
+DOID:14330	DB00687	Fludrocortisone	Parkinson's disease
+DOID:2355	DB00959	Methylprednisolone	anemia
+DOID:12365	DB01346	Quinidine barbiturate	malaria
+DOID:6364	DB00788	Naproxen	migraine
+DOID:1094	DB00182	Amphetamine	attention deficit hyperactivity disorder
+DOID:1826	DB01174	Phenobarbital	epilepsy syndrome
+DOID:9970	DB00191	Phentermine	obesity
+DOID:7148	DB00563	Methotrexate	rheumatoid arthritis
+DOID:10283	DB08866	Estradiol valerate/Dienogest	Prostate cancer
+DOID:11476	DB00481	Raloxifene	osteoporosis
+DOID:12849	DB00289	Atomoxetine	autistic disorder
+DOID:3083	DB00860	Prednisolone	chronic obstructive pulmonary disease
+DOID:10283	DB00977	Ethinyl Estradiol	Prostate cancer
+DOID:2377	DB08868	Fingolimod	multiple sclerosis
+DOID:4159	DB01206	Lomustine	Skin cancer
+DOID:2043	DB00709	Lamivudine	hepatitis B
+DOID:1094	DB01255	Lisdexamfetamine	attention deficit hyperactivity disorder
+DOID:594	DB00334	Olanzapine	panic disorder
+DOID:1826	DB00795	Sulfasalazine	epilepsy syndrome
+DOID:1612	DB00884	Risedronate	Breast cancer
+DOID:3393	DB00775	Tirofiban	coronary artery disease
+DOID:2377	DB01036	Tolterodine	multiple sclerosis
+DOID:6364	DB00241	Butalbital	migraine
+DOID:8893	DB00799	Tazarotene	psoriasis
+DOID:10763	DB01023	Felodipine	hypertension
+DOID:7147	DB00328	Indomethacin	ankylosing spondylitis
+DOID:12365	DB00908	Quinidine	malaria
+DOID:12365	DB00806	Pentoxifylline	malaria
+DOID:3083	DB01001	Salbutamol	chronic obstructive pulmonary disease
+DOID:2043	DB00718	Adefovir Dipivoxil	hepatitis B
+DOID:5041	DB00515	Cisplatin	Esophageal cancer
+DOID:3312	DB00363	Clozapine	bipolar disorder
+DOID:12365	DB00359	Sulfadiazine	malaria
+DOID:1324	DB01229	Paclitaxel	Lung cancer
+DOID:9352	DB01029	Irbesartan	type 2 diabetes mellitus
+DOID:5419	DB01623	Thiothixene	schizophrenia
+DOID:10763	DB00691	Moexipril	hypertension
+DOID:14330	DB00376	Trihexyphenidyl	Parkinson's disease
+DOID:9352	DB00672	Chlorpropamide	type 2 diabetes mellitus
+DOID:6364	DB00635	Prednisone	migraine
+DOID:418	DB01166	Cilostazol	systemic scleroderma
+DOID:11476	DB00999	Hydrochlorothiazide	osteoporosis
+DOID:2841	DB01003	Cromoglicic acid	asthma
+DOID:635	DB00503	Ritonavir	acquired immunodeficiency syndrome
+DOID:1826	DB00158	Folic Acid	epilepsy syndrome
+DOID:11476	DB00621	Oxandrolone	osteoporosis
+DOID:2531	DB00445	Epirubicin	Hematologic cancer
+DOID:263	DB06589	Pazopanib	Kidney cancer
+DOID:824	DB00417	Penicillin V	periodontitis
+DOID:784	DB00169	Cholecalciferol	chronic kidney failure
+DOID:10763	DB00880	Chlorothiazide	hypertension
+DOID:8577	DB00184	Nicotine	ulcerative colitis
+DOID:6364	DB00353	Methylergometrine	migraine
+DOID:8577	DB01250	Olsalazine	ulcerative colitis
+DOID:1595	DB01149	Nefazodone	endogenous depression
+DOID:1094	DB01018	Guanfacine	attention deficit hyperactivity disorder
+DOID:9352	DB01273	Varenicline	type 2 diabetes mellitus
+DOID:9074	DB00741	Hydrocortisone	systemic lupus erythematosus
+DOID:2841	DB00440	Trimethoprim	asthma
+DOID:6364	DB00669	Sumatriptan	migraine
+DOID:0060073	DB00541	Vincristine	Lymphatic system cancer
+DOID:11054	DB00544	Fluorouracil	Urinary bladder cancer
+DOID:2174	DB00970	Dactinomycin	Ocular cancer
+DOID:4989	DB01241	Gemfibrozil	pancreatitis
+DOID:219	DB00673	Aprepitant	Colon cancer
+DOID:3393	DB00790	Perindopril	coronary artery disease
+DOID:1595	DB00656	Trazodone	endogenous depression
+DOID:10283	DB01196	Estramustine	Prostate cancer
+DOID:263	DB00331	Metformin	Kidney cancer
+DOID:1936	DB01098	Rosuvastatin	atherosclerosis
+DOID:7147	DB01234	Dexamethasone	ankylosing spondylitis
+DOID:8398	DB00201	Caffeine	osteoarthritis
+DOID:1324	DB01168	Procarbazine	Lung cancer
+DOID:10763	DB00177	Valsartan	hypertension
+DOID:10763	DB00571	Propranolol	hypertension
+DOID:6364	DB01435	Antipyrine	migraine
+DOID:2994	DB00917	Dinoprostone	Germ cell cancer
+DOID:263	DB01005	Hydroxyurea	Kidney cancer
+DOID:1612	DB00443	Betamethasone	Breast cancer
+DOID:0060073	DB00987	Cytarabine	Lymphatic system cancer
+DOID:1826	DB00350	Minoxidil	epilepsy syndrome
+DOID:11612	DB00367	Levonorgestrel	polycystic ovary syndrome
+DOID:635	DB00220	Nelfinavir	acquired immunodeficiency syndrome
+DOID:10652	DB00245	Benzatropine	Alzheimer's disease
+DOID:2994	DB00970	Dactinomycin	Germ cell cancer
+DOID:418	DB00814	Meloxicam	systemic scleroderma
+DOID:4159	DB01042	Melphalan	Skin cancer
+DOID:8577	DB00795	Sulfasalazine	ulcerative colitis
+DOID:418	DB00722	Lisinopril	systemic scleroderma
+DOID:10763	DB00270	Isradipine	hypertension
+DOID:263	DB01065	Melatonin	Kidney cancer
+DOID:4159	DB00544	Fluorouracil	Skin cancer
+DOID:10763	DB00654	Latanoprost	hypertension
+DOID:5419	DB00679	Thioridazine	schizophrenia
+DOID:9835	DB01057	Echothiophate	refractive error
+DOID:2841	DB00588	Fluticasone Propionate	asthma
+DOID:2841	DB05389	WF10	asthma
+DOID:3310	DB01190	Clindamycin	atopic dermatitis
+DOID:7148	DB00788	Naproxen	rheumatoid arthritis
+DOID:7148	DB00091	Cyclosporine	rheumatoid arthritis
+DOID:9352	DB00412	Rosiglitazone	type 2 diabetes mellitus

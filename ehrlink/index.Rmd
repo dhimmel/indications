@@ -1,0 +1,62 @@
+---
+title: "Processing ehrlink"
+output:
+  html_document:
+    theme: cosmo
+    highlight: pygments
+---
+
+```{r, message=FALSE}
+library(dplyr)
+library(DT)
+library(ggplot2)
+
+options(stringsAsFactors=FALSE)
+```
+
+```{r}
+# read ehrlink problem-medication pairs
+ehrlink.df <- file.path('download', 'amiajnl-2012-000852-s1.tsv') %>%
+  read.delim()
+
+# read rxnorm concept to rxnorm active ingredient mapping
+ingredient_map.df <- file.path('data', 'rxnorm-as-ingredient.tsv') %>%
+  read.delim()
+
+# read ehrlink medication to rxnorm mapping
+medication_map.df <- 'https://raw.githubusercontent.com/antoine-lizee/RRxNorm/531bfcb892ca82ba3a60e9ba42b09373977f08ef/Output/allResolvedMatches.csv' %>%
+  read.csv(na.strings = '')
+
+# read ehrlink problem to DO (disease ontology) mapping
+problem_map.df <- file.path('data', 'problem-to-doid.tsv') %>%
+  read.delim(na.strings = '')
+```
+
+```{r}
+
+mapped.df <- ehrlink.df %>% dplyr::inner_join(
+  medication_map.df %>%
+    dplyr::filter(score >= 55) %>%
+    dplyr::select(medication_definition_id, rxcui)
+) %>% dplyr::inner_join(
+  ingredient_map.df %>%
+    dplyr::filter(n_ingredients == 1) %>%
+    dplyr::transmute(rxcui = input_rxcui, ingredient_rxcui, ingredient_name)
+) %>% dplyr::inner_join(
+  problem_map.df %>%
+    dplyr::filter(! is.na(doid)) %>%
+    dplyr::distinct(problem_definition_id, doid) %>%
+    dplyr::transmute(problem_definition_id, doid_code = doid, doid_name = name)
+)
+
+mapped.df %>%
+  write.table(file.path('data', 'indications.tsv'), quote=FALSE, row.names=FALSE, sep='\t')
+
+mapped.df %>% DT::datatable()
+
+# DT::datatable(ehrlink.df)
+# DT::datatable(ingredient_map.df)
+# DT::datatable(medication_map.df)
+# DT::datatable(problem_map.df)
+# DT::datatable(doslim_map.df)
+```
