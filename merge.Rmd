@@ -176,14 +176,6 @@ indication.df %>% DT::datatable()
 ## Convert to a single row per compound-disease pair
 
 ```{r}
-indication.df %>%
-  dplyr::filter(resource != 'medi_lps') %>%
-  dplyr::select(-resource) %>%
-  dplyr::distinct() %>%
-  dplyr::sample_frac(1) %>%
-  write.table('data/indications-slim.tsv', sep='\t', row.names=FALSE, quote=FALSE)
-
-
 hc.sources <- c('medi_hps', 'ehrlink', 'labeledin', 'predict')
 lc.sources <- c('medi_lps')
 
