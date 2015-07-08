@@ -176,7 +176,7 @@ indication.df %>% DT::datatable(rownames=F)
 ```
 
 ## Convert to a single row per compound-disease pair
-<a>name="indication-table"</a>
+<a name="indication-table"></a>
 
 ```{r}
 hc.sources <- c('medi_hps', 'ehrlink', 'labeledin', 'predict')
