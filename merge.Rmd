@@ -18,7 +18,7 @@ options(stringsAsFactors = FALSE)
 
 ```{r}
 # read the file of approved, SM, structured drugbank compounds
-drugbank.df <- 'http://git.dhimmel.com/drugbank/data/drugbank-slim.tsv' %>%
+drugbank.df <- 'https://raw.githubusercontent.com/dhimmel/drugbank/3e87872db5fca5ac427ce27464ab945c0ceb4ec6/data/drugbank-slim.tsv' %>%
   read.delim(stringsAsFactors=FALSE, na.strings='') %>%
   dplyr::transmute(drugbank_id, drugbank_name = name)
 
@@ -26,7 +26,7 @@ drugbank.df <- 'http://git.dhimmel.com/drugbank/data/drugbank-slim.tsv' %>%
 rxnorm.df <- dplyr::inner_join(
   file.path('data', 'rxcui-unii-map.tsv') %>%
     read.delim(),
-  'http://git.dhimmel.com/drugbank/data/mapping/fdasrs.tsv' %>%
+  'https://raw.githubusercontent.com/dhimmel/drugbank/3e87872db5fca5ac427ce27464ab945c0ceb4ec6/data/mapping/fdasrs.tsv' %>%
     read.delim()
 )
 
@@ -36,17 +36,19 @@ rxnorm.df <- dplyr::inner_join(
 
 ```{r}
 # read the file with DO slim terms
-do.df <- 'http://git.dhimmel.com/disease-ontology/data/slim-terms.tsv' %>%
+do.df <- 
+  'https://raw.githubusercontent.com/dhimmel/disease-ontology/72614ade9f1cc5a5317b8f6836e1e464b31d5587/data/slim-terms.tsv' %>%
   read.delim() %>%
   dplyr::transmute(doid_code = doid, doid_name = name)
 
 # read disease ontology slim term propagations
-doslim.df <- 'http://git.dhimmel.com/disease-ontology/data/slim-terms-prop.tsv' %>%
+doslim.df <- 
+  'https://raw.githubusercontent.com/dhimmel/disease-ontology/72614ade9f1cc5a5317b8f6836e1e464b31d5587/data/slim-terms-prop.tsv' %>%
   read.delim()
 
 # read disease ontology slim mappings
 domap.df <- 
-  'http://git.dhimmel.com/disease-ontology/data/xrefs-prop-slim.tsv' %>%
+  'https://raw.githubusercontent.com/dhimmel/disease-ontology/72614ade9f1cc5a5317b8f6836e1e464b31d5587/data/xrefs-prop-slim.tsv' %>%
    read.delim()
 
 # extract the DO to UMLS mapping
@@ -170,10 +172,11 @@ indication.df <- indication.df %>%
 path <- file.path('data', 'indications-with-source.tsv')
 write.table(indication.df, path, sep='\t', row.names=FALSE, quote=FALSE)
 
-indication.df %>% DT::datatable()
+indication.df %>% DT::datatable(rownames=F)
 ```
 
 ## Convert to a single row per compound-disease pair
+<a>name="indication-table"</a>
 
 ```{r}
 hc.sources <- c('medi_hps', 'ehrlink', 'labeledin', 'predict')
@@ -191,7 +194,7 @@ indication_no_source.df <- indication.df %>%
 path <- file.path('data', 'indications.tsv')
 write.table(indication_no_source.df, path, sep='\t', row.names=FALSE, quote=FALSE)
 
-indication_no_source.df %>% DT::datatable()
+indication_no_source.df %>% DT::datatable(rownames=F)
 ```
 
 ## Indications per disease
@@ -202,7 +205,7 @@ indication_no_source.df %>%
   dplyr::summarize(
     'n_hc' = sum(confidence == 'high'),
     'n_lc' = sum(confidence == 'low')) %>%
-  DT::datatable()
+  DT::datatable(rownames=F)
 ```
 
 ## Indications per compound
@@ -213,6 +216,5 @@ indication_no_source.df %>%
   dplyr::summarize(
     'n_hc' = sum(confidence == 'high'),
     'n_lc' = sum(confidence == 'low')) %>%
-  DT::datatable()
+  DT::datatable(rownames=F)
 ```
-

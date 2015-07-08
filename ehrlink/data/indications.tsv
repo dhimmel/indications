@@ -87,8 +87,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 3316	PredniSONE 10 MG Oral Tablet	70384	Gout	7	0.388889	198145	8640	Prednisone	DOID:13189	gout
 3316	PredniSONE 10 MG Oral Tablet	70455	Rheumatoid Arthritis	23	0.46	198145	8640	Prednisone	DOID:7148	rheumatoid arthritis
 3316	PredniSONE 10 MG Oral Tablet	70472	Systemic Lupus Erythematosus	28	0.491228	198145	8640	Prednisone	DOID:9074	systemic lupus erythematosus
-3316	PredniSONE 10 MG Oral Tablet	70475	Scleroderma	9	0.36	198145	8640	Prednisone	DOID:419	scleroderma
 3316	PredniSONE 10 MG Oral Tablet	70475	Scleroderma	9	0.36	198145	8640	Prednisone	DOID:418	Scleroderma
+3316	PredniSONE 10 MG Oral Tablet	70475	Scleroderma	9	0.36	198145	8640	Prednisone	DOID:419	scleroderma
 3316	PredniSONE 10 MG Oral Tablet	70500	Polymyalgia Rheumatica	2	0.222222	198145	8640	Prednisone	DOID:853	polymyalgia rheumatica
 3316	PredniSONE 10 MG Oral Tablet	70620	Sarcoidosis	12	0.545455	198145	8640	Prednisone	DOID:11335	sarcoidosis
 3316	PredniSONE 10 MG Oral Tablet	70638	Temporal Arteritis	4	0.8	198145	8640	Prednisone	DOID:13375	temporal arteritis
@@ -103,8 +103,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 3317	PredniSONE 2.5 MG Oral Tablet	70461	Juvenile Rheumatoid Arthritis	2	1	198146	8640	Prednisone	DOID:676	juvenile rheumatoid arthritis
 3317	PredniSONE 2.5 MG Oral Tablet	70472	Systemic Lupus Erythematosus	21	0.75	198146	8640	Prednisone	DOID:9074	systemic lupus erythematosus
 3317	PredniSONE 2.5 MG Oral Tablet	70474	Mixed Connective Tissue Disease	2	0.666667	198146	8640	Prednisone	DOID:3492	mixed connective tissue disease
-3317	PredniSONE 2.5 MG Oral Tablet	70475	Scleroderma	2	0.222222	198146	8640	Prednisone	DOID:419	scleroderma
 3317	PredniSONE 2.5 MG Oral Tablet	70475	Scleroderma	2	0.222222	198146	8640	Prednisone	DOID:418	Scleroderma
+3317	PredniSONE 2.5 MG Oral Tablet	70475	Scleroderma	2	0.222222	198146	8640	Prednisone	DOID:419	scleroderma
 3317	PredniSONE 2.5 MG Oral Tablet	70500	Polymyalgia Rheumatica	12	0.75	198146	8640	Prednisone	DOID:853	polymyalgia rheumatica
 3317	PredniSONE 2.5 MG Oral Tablet	70620	Sarcoidosis	4	0.8	198146	8640	Prednisone	DOID:11335	sarcoidosis
 3317	PredniSONE 2.5 MG Oral Tablet	70638	Temporal Arteritis	4	0.8	198146	8640	Prednisone	DOID:13375	temporal arteritis
@@ -122,8 +122,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 3319	PredniSONE 5 MG Oral Tablet	70461	Juvenile Rheumatoid Arthritis	4	0.8	312617	8640	Prednisone	DOID:676	juvenile rheumatoid arthritis
 3319	PredniSONE 5 MG Oral Tablet	70472	Systemic Lupus Erythematosus	118	0.732919	312617	8640	Prednisone	DOID:9074	systemic lupus erythematosus
 3319	PredniSONE 5 MG Oral Tablet	70474	Mixed Connective Tissue Disease	4	0.5	312617	8640	Prednisone	DOID:3492	mixed connective tissue disease
-3319	PredniSONE 5 MG Oral Tablet	70475	Scleroderma	52	0.619048	312617	8640	Prednisone	DOID:419	scleroderma
 3319	PredniSONE 5 MG Oral Tablet	70475	Scleroderma	52	0.619048	312617	8640	Prednisone	DOID:418	Scleroderma
+3319	PredniSONE 5 MG Oral Tablet	70475	Scleroderma	52	0.619048	312617	8640	Prednisone	DOID:419	scleroderma
 3319	PredniSONE 5 MG Oral Tablet	70476	CREST Syndrome	6	0.6	312617	8640	Prednisone	DOID:0060218	CREST syndrome
 3319	PredniSONE 5 MG Oral Tablet	70478	Sjogren's Syndrome	22	0.385965	312617	8640	Prednisone	DOID:12894	Sjogren's syndrome
 3319	PredniSONE 5 MG Oral Tablet	70479	Sicca Syndrome	6	0.333333	312617	8640	Prednisone	DOID:12894	Sicca syndrome
@@ -203,8 +203,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 12611	Allopurinol 100 MG Oral Tablet	70384	Gout	56	0.56	197319	519	Allopurinol	DOID:13189	gout
 12612	Allopurinol 300 MG Oral Tablet	70384	Gout	75	0.6	197320	519	Allopurinol	DOID:13189	gout
 12616	ALPRAZolam 0.25 MG Oral Tablet	76536	Generalized Anxiety Disorder	2	0.333333	308047	596	Alprazolam	DOID:14320	generalized anxiety disorder
-12617	ALPRAZolam 0.5 MG Oral Tablet	70475	Scleroderma	2	0.4	308048	596	Alprazolam	DOID:419	scleroderma
 12617	ALPRAZolam 0.5 MG Oral Tablet	70475	Scleroderma	2	0.4	308048	596	Alprazolam	DOID:418	Scleroderma
+12617	ALPRAZolam 0.5 MG Oral Tablet	70475	Scleroderma	2	0.4	308048	596	Alprazolam	DOID:419	scleroderma
 12617	ALPRAZolam 0.5 MG Oral Tablet	76272	Schizoaffective Disorder	2	1	308048	596	Alprazolam	DOID:5418	schizoaffective disorder
 12617	ALPRAZolam 0.5 MG Oral Tablet	76536	Generalized Anxiety Disorder	2	0.4	308048	596	Alprazolam	DOID:14320	generalized anxiety disorder
 12617	ALPRAZolam 0.5 MG Oral Tablet	251600	Dementia	2	0.285714	308048	596	Alprazolam	DOID:1307	dementia
@@ -389,8 +389,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 14858	Folic Acid 1 MG Oral Tablet	70461	Juvenile Rheumatoid Arthritis	3	0.75	310410	4511	Folic Acid	DOID:676	juvenile rheumatoid arthritis
 14858	Folic Acid 1 MG Oral Tablet	70472	Systemic Lupus Erythematosus	14	0.388889	310410	4511	Folic Acid	DOID:9074	systemic lupus erythematosus
 14858	Folic Acid 1 MG Oral Tablet	70474	Mixed Connective Tissue Disease	2	0.4	310410	4511	Folic Acid	DOID:3492	mixed connective tissue disease
-14858	Folic Acid 1 MG Oral Tablet	70475	Scleroderma	26	0.530612	310410	4511	Folic Acid	DOID:419	scleroderma
 14858	Folic Acid 1 MG Oral Tablet	70475	Scleroderma	26	0.530612	310410	4511	Folic Acid	DOID:418	Scleroderma
+14858	Folic Acid 1 MG Oral Tablet	70475	Scleroderma	26	0.530612	310410	4511	Folic Acid	DOID:419	scleroderma
 14858	Folic Acid 1 MG Oral Tablet	70479	Sicca Syndrome	2	0.333333	310410	4511	Folic Acid	DOID:12894	Sicca syndrome
 14858	Folic Acid 1 MG Oral Tablet	70500	Polymyalgia Rheumatica	7	0.5	310410	4511	Folic Acid	DOID:853	polymyalgia rheumatica
 14858	Folic Acid 1 MG Oral Tablet	70550	Relapsing Polychondritis	2	1	310410	4511	Folic Acid	DOID:2556	relapsing polychondritis
@@ -398,6 +398,7 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 14858	Folic Acid 1 MG Oral Tablet	70640	Wegener's Granulomatosis	2	0.285714	310410	4511	Folic Acid	DOID:12132	Wegener's granulomatosis
 14858	Folic Acid 1 MG Oral Tablet	70706	Ankylosing Spondylitis	5	0.714286	310410	4511	Folic Acid	DOID:7147	ankylosing spondylitis
 14858	Folic Acid 1 MG Oral Tablet	70722	Spondylitis	2	0.666667	310410	4511	Folic Acid	DOID:6590	spondylitis
+14858	Folic Acid 1 MG Oral Tablet	75964	Alcoholism	2	0.4	310410	4511	Folic Acid	DOID:0050741	alcoholism
 14858	Folic Acid 1 MG Oral Tablet	78011	Sickle Cell Anemia	8	0.32	310410	4511	Folic Acid	DOID:10923	sickle cell anemia
 14858	Folic Acid 1 MG Oral Tablet	257996	Arthritis	6	0.12	310410	4511	Folic Acid	DOID:848	arthritis
 14858	Folic Acid 1 MG Oral Tablet	278781	Lung Cancer	2	0.285714	310410	4511	Folic Acid	DOID:1324	lung cancer
@@ -411,8 +412,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 14887	Furosemide 20 MG Oral Tablet	63470	Benign Essential Hypertension	42	0.24	310429	4603	Furosemide	DOID:10913	benign essential hypertension
 14887	Furosemide 20 MG Oral Tablet	63471	Accelerated Essential Hypertension	2	0.285714	310429	4603	Furosemide	DOID:10823	Accelerated essential hypertension
 14887	Furosemide 20 MG Oral Tablet	63484	Pulmonary Hypertension	7	0.304348	310429	4603	Furosemide	DOID:6432	pulmonary hypertension
-14887	Furosemide 20 MG Oral Tablet	70475	Scleroderma	2	0.285714	310429	4603	Furosemide	DOID:419	scleroderma
 14887	Furosemide 20 MG Oral Tablet	70475	Scleroderma	2	0.285714	310429	4603	Furosemide	DOID:418	Scleroderma
+14887	Furosemide 20 MG Oral Tablet	70475	Scleroderma	2	0.285714	310429	4603	Furosemide	DOID:419	scleroderma
 14887	Furosemide 20 MG Oral Tablet	274711	End Stage Renal Disease	2	0.2	310429	4603	Furosemide	DOID:783	end stage renal disease
 14888	Furosemide 40 MG Oral Tablet	62975	Coronary Artery Disease	30	0.136364	313988	4603	Furosemide	DOID:3393	coronary artery disease
 14888	Furosemide 40 MG Oral Tablet	63173	Cardiomyopathy	12	0.342857	313988	4603	Furosemide	DOID:0050700	cardiomyopathy
@@ -424,8 +425,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 14888	Furosemide 40 MG Oral Tablet	63470	Benign Essential Hypertension	34	0.197674	313988	4603	Furosemide	DOID:10913	benign essential hypertension
 14888	Furosemide 40 MG Oral Tablet	63484	Pulmonary Hypertension	4	0.133333	313988	4603	Furosemide	DOID:6432	pulmonary hypertension
 14888	Furosemide 40 MG Oral Tablet	65286	Cirrhosis	3	0.136364	313988	4603	Furosemide	DOID:5082	Cirrhosis
-14888	Furosemide 40 MG Oral Tablet	70475	Scleroderma	2	0.4	313988	4603	Furosemide	DOID:419	scleroderma
 14888	Furosemide 40 MG Oral Tablet	70475	Scleroderma	2	0.4	313988	4603	Furosemide	DOID:418	Scleroderma
+14888	Furosemide 40 MG Oral Tablet	70475	Scleroderma	2	0.4	313988	4603	Furosemide	DOID:419	scleroderma
 14924	Depakote 250 MG Oral Tablet Delayed Release	251600	Dementia	2	1	1099679	40254	Valproate	DOID:1307	dementia
 14924	Depakote 250 MG Oral Tablet Delayed Release	297231	Epilepsy	2	0.285714	1099679	40254	Valproate	DOID:1826	epilepsy
 14925	Depakote Sprinkles 125 MG Oral Capsule Sprinkle	297231	Epilepsy	4	0.8	1099598	40254	Valproate	DOID:1826	epilepsy
@@ -500,8 +501,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 15244	HydrOXYzine HCl 25 MG Oral Tablet	69941	Urticaria	6	0.6	995258	5553	Hydroxyzine	DOID:1555	urticaria
 15244	HydrOXYzine HCl 25 MG Oral Tablet	69942	Allergic Urticaria	4	0.571429	995258	5553	Hydroxyzine	DOID:10612	allergic urticaria
 15244	HydrOXYzine HCl 25 MG Oral Tablet	70112	Atopic Dermatitis	3	0.5	995258	5553	Hydroxyzine	DOID:3310	atopic dermatitis
-15244	HydrOXYzine HCl 25 MG Oral Tablet	70475	Scleroderma	3	0.75	995258	5553	Hydroxyzine	DOID:419	scleroderma
 15244	HydrOXYzine HCl 25 MG Oral Tablet	70475	Scleroderma	3	0.75	995258	5553	Hydroxyzine	DOID:418	Scleroderma
+15244	HydrOXYzine HCl 25 MG Oral Tablet	70475	Scleroderma	3	0.75	995258	5553	Hydroxyzine	DOID:419	scleroderma
 15244	HydrOXYzine HCl 25 MG Oral Tablet	76232	Paranoid Schizophrenia	3	0.75	995258	5553	Hydroxyzine	DOID:1229	paranoid schizophrenia
 15244	HydrOXYzine HCl 25 MG Oral Tablet	76431	Borderline Personality Disorder	2	0.333333	995258	5553	Hydroxyzine	DOID:10930	borderline personality disorder
 15244	HydrOXYzine HCl 25 MG Oral Tablet	77704	Scabies	2	0.666667	995258	5553	Hydroxyzine	DOID:8295	scabies
@@ -578,8 +579,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 16017	Methotrexate 2.5 MG Oral Tablet	70461	Juvenile Rheumatoid Arthritis	4	1	105585	6851	Methotrexate	DOID:676	juvenile rheumatoid arthritis
 16017	Methotrexate 2.5 MG Oral Tablet	70472	Systemic Lupus Erythematosus	18	0.580645	105585	6851	Methotrexate	DOID:9074	systemic lupus erythematosus
 16017	Methotrexate 2.5 MG Oral Tablet	70474	Mixed Connective Tissue Disease	2	0.666667	105585	6851	Methotrexate	DOID:3492	mixed connective tissue disease
-16017	Methotrexate 2.5 MG Oral Tablet	70475	Scleroderma	23	0.522727	105585	6851	Methotrexate	DOID:419	scleroderma
 16017	Methotrexate 2.5 MG Oral Tablet	70475	Scleroderma	23	0.522727	105585	6851	Methotrexate	DOID:418	Scleroderma
+16017	Methotrexate 2.5 MG Oral Tablet	70475	Scleroderma	23	0.522727	105585	6851	Methotrexate	DOID:419	scleroderma
 16017	Methotrexate 2.5 MG Oral Tablet	70500	Polymyalgia Rheumatica	7	0.538462	105585	6851	Methotrexate	DOID:853	polymyalgia rheumatica
 16017	Methotrexate 2.5 MG Oral Tablet	70550	Relapsing Polychondritis	3	1	105585	6851	Methotrexate	DOID:2556	relapsing polychondritis
 16017	Methotrexate 2.5 MG Oral Tablet	70620	Sarcoidosis	7	0.636364	105585	6851	Methotrexate	DOID:11335	sarcoidosis
@@ -600,12 +601,12 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 16117	MethylPREDNISolone 4 MG Oral Tablet	70455	Rheumatoid Arthritis	5	0.833333	259966	6902	Methylprednisolone	DOID:7148	rheumatoid arthritis
 16124	MetroNIDAZOLE 250 MG Oral Tablet	64632	Giardiasis	2	1	314106	6922	Metronidazole	DOID:10718	giardiasis
 16124	MetroNIDAZOLE 250 MG Oral Tablet	64980	Crohn's Disease	2	0.4	314106	6922	Metronidazole	DOID:8778	Crohn's disease
-16124	MetroNIDAZOLE 250 MG Oral Tablet	70475	Scleroderma	3	0.6	314106	6922	Metronidazole	DOID:419	scleroderma
 16124	MetroNIDAZOLE 250 MG Oral Tablet	70475	Scleroderma	3	0.6	314106	6922	Metronidazole	DOID:418	Scleroderma
+16124	MetroNIDAZOLE 250 MG Oral Tablet	70475	Scleroderma	3	0.6	314106	6922	Metronidazole	DOID:419	scleroderma
 16124	MetroNIDAZOLE 250 MG Oral Tablet	77692	Amebiasis	2	1	314106	6922	Metronidazole	DOID:9181	amebiasis
 16124	MetroNIDAZOLE 250 MG Oral Tablet	166767	Infectious Diarrhea	2	0.666667	314106	6922	Metronidazole	DOID:12384	Infectious diarrhea
-16158	Minocin 100 MG Oral Capsule	70475	Scleroderma	2	1	207356	6980	Minocycline	DOID:419	scleroderma
 16158	Minocin 100 MG Oral Capsule	70475	Scleroderma	2	1	207356	6980	Minocycline	DOID:418	Scleroderma
+16158	Minocin 100 MG Oral Capsule	70475	Scleroderma	2	1	207356	6980	Minocycline	DOID:419	scleroderma
 16159	Minoxidil 10 MG Oral Tablet	63467	Hypertension	4	0.307692	197986	6984	Minoxidil	DOID:10763	hypertension
 16159	Minoxidil 10 MG Oral Tablet	63470	Benign Essential Hypertension	2	0.333333	197986	6984	Minoxidil	DOID:10913	benign essential hypertension
 16160	Minoxidil 2.5 MG Oral Tablet	63467	Hypertension	11	0.354839	197987	6984	Minoxidil	DOID:10763	hypertension
@@ -633,8 +634,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 16522	Nitroglycerin 0.4 MG SUBL	62975	Coronary Artery Disease	8	0.2	198039	4917	Nitroglycerin	DOID:3393	coronary artery disease
 16556	Norvasc 10 MG Oral Tablet	63467	Hypertension	15	0.120968	212575	17767	Amlodipine	DOID:10763	hypertension
 16556	Norvasc 10 MG Oral Tablet	63470	Benign Essential Hypertension	7	0.194444	212575	17767	Amlodipine	DOID:10913	benign essential hypertension
-16556	Norvasc 10 MG Oral Tablet	70475	Scleroderma	2	1	212575	17767	Amlodipine	DOID:419	scleroderma
 16556	Norvasc 10 MG Oral Tablet	70475	Scleroderma	2	1	212575	17767	Amlodipine	DOID:418	Scleroderma
+16556	Norvasc 10 MG Oral Tablet	70475	Scleroderma	2	1	212575	17767	Amlodipine	DOID:419	scleroderma
 16558	Norvasc 5 MG Oral Tablet	63468	Essential Hypertension	6	0.176471	212549	17767	Amlodipine	DOID:10825	essential hypertension
 16558	Norvasc 5 MG Oral Tablet	63470	Benign Essential Hypertension	3	0.166667	212549	17767	Amlodipine	DOID:10913	benign essential hypertension
 16558	Norvasc 5 MG Oral Tablet	63758	Raynaud's Disease	2	0.5	212549	17767	Amlodipine	DOID:10300	Raynaud's disease
@@ -770,8 +771,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 17535	Klor-Con 20 MEQ Oral Packet	63467	Hypertension	4	0.137931	897139	8591	Potassium Chloride	DOID:10763	hypertension
 17535	Klor-Con 20 MEQ Oral Packet	63470	Benign Essential Hypertension	2	0.285714	897139	8591	Potassium Chloride	DOID:10913	benign essential hypertension
 17535	Klor-Con 20 MEQ Oral Packet	68089	Hypokalemia	2	1	897139	8591	Potassium Chloride	DOID:4500	hypokalemia
-17560	Reglan 5 MG Oral Tablet	70475	Scleroderma	3	0.6	207265	6915	Metoclopramide	DOID:419	scleroderma
 17560	Reglan 5 MG Oral Tablet	70475	Scleroderma	3	0.6	207265	6915	Metoclopramide	DOID:418	Scleroderma
+17560	Reglan 5 MG Oral Tablet	70475	Scleroderma	3	0.6	207265	6915	Metoclopramide	DOID:419	scleroderma
 17783	Simethicone 80 MG Oral Tablet Chewable	166777	Constipation	2	0.285714	314216	9796	Simethicone	DOID:2089	constipation
 17833	Levothroid 25 MCG Oral Tablet	69258	Hypothyroidism	9	0.642857	966156	10582	levothyroxine	DOID:1459	hypothyroidism
 17834	Levothroid 112 MCG Oral Tablet	69258	Hypothyroidism	9	0.6	966183	10582	levothyroxine	DOID:1459	hypothyroidism
@@ -836,8 +837,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 18385	Metoclopramide HCl 10 MG Oral Tablet	64748	Gastroparesis	4	0.285714	311666	6915	Metoclopramide	DOID:11914	gastroparesis
 18385	Metoclopramide HCl 10 MG Oral Tablet	278812	Prostate Cancer	2	0.4	311666	6915	Metoclopramide	DOID:10283	prostate cancer
 18386	Metoclopramide HCl 5 MG Oral Tablet	64748	Gastroparesis	5	0.5	311668	6915	Metoclopramide	DOID:11914	gastroparesis
-18386	Metoclopramide HCl 5 MG Oral Tablet	70475	Scleroderma	6	0.375	311668	6915	Metoclopramide	DOID:419	scleroderma
 18386	Metoclopramide HCl 5 MG Oral Tablet	70475	Scleroderma	6	0.375	311668	6915	Metoclopramide	DOID:418	Scleroderma
+18386	Metoclopramide HCl 5 MG Oral Tablet	70475	Scleroderma	6	0.375	311668	6915	Metoclopramide	DOID:419	scleroderma
 18387	Metoprolol Tartrate 100 MG Oral Tablet	62916	Atrial Fibrillation	7	0.28	866511	6918	Metoprolol	DOID:0060224	atrial fibrillation
 18387	Metoprolol Tartrate 100 MG Oral Tablet	62975	Coronary Artery Disease	5	0.111111	866511	6918	Metoprolol	DOID:3393	coronary artery disease
 18387	Metoprolol Tartrate 100 MG Oral Tablet	63467	Hypertension	41	0.310606	866511	6918	Metoprolol	DOID:10763	hypertension
@@ -965,8 +966,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 19598	ClonazePAM 0.5 MG Oral Tablet	275496	Autistic Disorder	2	0.25	197527	2598	Clonazepam	DOID:12849	autistic disorder
 19598	ClonazePAM 0.5 MG Oral Tablet	275592	Post-traumatic Stress Disorder	9	0.321429	197527	2598	Clonazepam	DOID:2055	post-traumatic stress disorder
 19598	ClonazePAM 0.5 MG Oral Tablet	297231	Epilepsy	2	0.25	197527	2598	Clonazepam	DOID:1826	epilepsy
-19603	Cyclophosphamide 25 MG Oral Tablet	70475	Scleroderma	3	0.6	197549	3002	Cyclophosphamide	DOID:419	scleroderma
 19603	Cyclophosphamide 25 MG Oral Tablet	70475	Scleroderma	3	0.6	197549	3002	Cyclophosphamide	DOID:418	Scleroderma
+19603	Cyclophosphamide 25 MG Oral Tablet	70475	Scleroderma	3	0.6	197549	3002	Cyclophosphamide	DOID:419	scleroderma
 19606	Desmopressin Acetate 4 MCG/ML Injection Solution	69542	Central Diabetes Insipidus	2	1	849501	3251	desmopressin	DOID:12388	central diabetes insipidus
 19640	Phenazopyridine HCl 100 MG Oral Tablet	65753	Acute Cystitis	2	0.666667	1094107	8120	Phenazopyridine	DOID:13148	acute cystitis
 19640	Phenazopyridine HCl 100 MG Oral Tablet	65762	Urinary Tract Infection	12	0.75	1094107	8120	Phenazopyridine	DOID:13148	urinary tract infection
@@ -974,8 +975,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 19641	Phenazopyridine HCl 200 MG Oral Tablet	65856	Urethral Stricture	3	0.6	1094104	8120	Phenazopyridine	DOID:1829	urethral stricture
 19651	PHENobarbital 20 MG/5ML Oral Elixir	297231	Epilepsy	2	0.5	702519	8134	Phenobarbital	DOID:1826	epilepsy
 19652	PHENobarbital 100 MG Oral Tablet	297231	Epilepsy	2	1	198083	8134	Phenobarbital	DOID:1826	epilepsy
-19665	Estradiol 1 MG Oral Tablet	167200	Premature Menopause	5	0.714286	197658	4083	Estradiol	DOID:10787	premature menopause
 19665	Estradiol 1 MG Oral Tablet	167200	Premature Menopause	5	0.714286	197658	4083	Estradiol	DOID:5426	premature menopause
+19665	Estradiol 1 MG Oral Tablet	167200	Premature Menopause	5	0.714286	197658	4083	Estradiol	DOID:10787	premature menopause
 19668	Ethambutol HCl 400 MG Oral Tablet	77275	Tuberculosis	2	0.333333	995607	4110	Ethambutol	DOID:399	tuberculosis
 19670	Famotidine 20 MG Oral Tablet	64763	Gastritis	8	0.5	310273	4278	Famotidine	DOID:4029	gastritis
 19670	Famotidine 20 MG Oral Tablet	65674	Nephrotic Syndrome	2	0.4	310273	4278	Famotidine	DOID:1184	nephrotic syndrome
@@ -987,8 +988,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 19694	Hydroxychloroquine Sulfate 200 MG Oral Tablet	70461	Juvenile Rheumatoid Arthritis	2	1	979092	5521	Hydroxychloroquine	DOID:676	juvenile rheumatoid arthritis
 19694	Hydroxychloroquine Sulfate 200 MG Oral Tablet	70472	Systemic Lupus Erythematosus	158	0.840426	979092	5521	Hydroxychloroquine	DOID:9074	systemic lupus erythematosus
 19694	Hydroxychloroquine Sulfate 200 MG Oral Tablet	70474	Mixed Connective Tissue Disease	3	0.428571	979092	5521	Hydroxychloroquine	DOID:3492	mixed connective tissue disease
-19694	Hydroxychloroquine Sulfate 200 MG Oral Tablet	70475	Scleroderma	21	0.617647	979092	5521	Hydroxychloroquine	DOID:419	scleroderma
 19694	Hydroxychloroquine Sulfate 200 MG Oral Tablet	70475	Scleroderma	21	0.617647	979092	5521	Hydroxychloroquine	DOID:418	Scleroderma
+19694	Hydroxychloroquine Sulfate 200 MG Oral Tablet	70475	Scleroderma	21	0.617647	979092	5521	Hydroxychloroquine	DOID:419	scleroderma
 19694	Hydroxychloroquine Sulfate 200 MG Oral Tablet	70478	Sjogren's Syndrome	50	0.675676	979092	5521	Hydroxychloroquine	DOID:12894	Sjogren's syndrome
 19694	Hydroxychloroquine Sulfate 200 MG Oral Tablet	70479	Sicca Syndrome	9	0.529412	979092	5521	Hydroxychloroquine	DOID:12894	Sicca syndrome
 19694	Hydroxychloroquine Sulfate 200 MG Oral Tablet	70550	Relapsing Polychondritis	2	1	979092	5521	Hydroxychloroquine	DOID:2556	relapsing polychondritis
@@ -1023,8 +1024,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 19718	Phenytoin Sodium Extended 100 MG Oral Capsule	297231	Epilepsy	7	0.583333	855671	8183	Phenytoin	DOID:1826	epilepsy
 19746	Plaquenil 200 MG Oral Tablet	70455	Rheumatoid Arthritis	15	0.652174	979094	5521	Hydroxychloroquine	DOID:7148	rheumatoid arthritis
 19746	Plaquenil 200 MG Oral Tablet	70472	Systemic Lupus Erythematosus	24	0.571429	979094	5521	Hydroxychloroquine	DOID:9074	systemic lupus erythematosus
-19746	Plaquenil 200 MG Oral Tablet	70475	Scleroderma	2	0.4	979094	5521	Hydroxychloroquine	DOID:419	scleroderma
 19746	Plaquenil 200 MG Oral Tablet	70475	Scleroderma	2	0.4	979094	5521	Hydroxychloroquine	DOID:418	Scleroderma
+19746	Plaquenil 200 MG Oral Tablet	70475	Scleroderma	2	0.4	979094	5521	Hydroxychloroquine	DOID:419	scleroderma
 19746	Plaquenil 200 MG Oral Tablet	70478	Sjogren's Syndrome	4	0.25	979094	5521	Hydroxychloroquine	DOID:12894	Sjogren's syndrome
 19830	Ranitidine HCl 150 MG Oral Tablet	69941	Urticaria	2	1	198191	9143	Ranitidine	DOID:1555	urticaria
 19833	Rifampin 300 MG Oral Capsule	69968	Carbuncle	4	1	198202	9384	Rifampin	DOID:2176	carbuncle
@@ -1047,8 +1048,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 19945	Povidone-Iodine 10 % External Solution	62588	Chronic Ethmoidal Sinusitis	2	0.5	312564	8611	Povidone-Iodine	DOID:9312	chronic ethmoidal sinusitis
 19960	PredniSONE 1 MG Oral Tablet	70455	Rheumatoid Arthritis	38	0.808511	198144	8640	Prednisone	DOID:7148	rheumatoid arthritis
 19960	PredniSONE 1 MG Oral Tablet	70472	Systemic Lupus Erythematosus	18	0.666667	198144	8640	Prednisone	DOID:9074	systemic lupus erythematosus
-19960	PredniSONE 1 MG Oral Tablet	70475	Scleroderma	2	0.666667	198144	8640	Prednisone	DOID:419	scleroderma
 19960	PredniSONE 1 MG Oral Tablet	70475	Scleroderma	2	0.666667	198144	8640	Prednisone	DOID:418	Scleroderma
+19960	PredniSONE 1 MG Oral Tablet	70475	Scleroderma	2	0.666667	198144	8640	Prednisone	DOID:419	scleroderma
 19960	PredniSONE 1 MG Oral Tablet	70478	Sjogren's Syndrome	2	0.222222	198144	8640	Prednisone	DOID:12894	Sjogren's syndrome
 19960	PredniSONE 1 MG Oral Tablet	70500	Polymyalgia Rheumatica	31	0.815789	198144	8640	Prednisone	DOID:853	polymyalgia rheumatica
 19960	PredniSONE 1 MG Oral Tablet	70550	Relapsing Polychondritis	3	0.75	198144	8640	Prednisone	DOID:2556	relapsing polychondritis
@@ -1068,8 +1069,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 19961	PredniSONE 20 MG Oral Tablet	70112	Atopic Dermatitis	3	0.166667	312615	8640	Prednisone	DOID:3310	atopic dermatitis
 19961	PredniSONE 20 MG Oral Tablet	70384	Gout	10	0.384615	312615	8640	Prednisone	DOID:13189	gout
 19961	PredniSONE 20 MG Oral Tablet	70472	Systemic Lupus Erythematosus	13	0.351351	312615	8640	Prednisone	DOID:9074	systemic lupus erythematosus
-19961	PredniSONE 20 MG Oral Tablet	70475	Scleroderma	2	0.333333	312615	8640	Prednisone	DOID:419	scleroderma
 19961	PredniSONE 20 MG Oral Tablet	70475	Scleroderma	2	0.333333	312615	8640	Prednisone	DOID:418	Scleroderma
+19961	PredniSONE 20 MG Oral Tablet	70475	Scleroderma	2	0.333333	312615	8640	Prednisone	DOID:419	scleroderma
 19961	PredniSONE 20 MG Oral Tablet	70478	Sjogren's Syndrome	3	0.25	312615	8640	Prednisone	DOID:12894	Sjogren's syndrome
 19961	PredniSONE 20 MG Oral Tablet	70620	Sarcoidosis	11	0.458333	312615	8640	Prednisone	DOID:11335	sarcoidosis
 19961	PredniSONE 20 MG Oral Tablet	70638	Temporal Arteritis	5	1	312615	8640	Prednisone	DOID:13375	temporal arteritis
@@ -1208,8 +1209,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 23823	Tazorac 0.05 % External Gel	69606	Acne	2	1	212437	83947	tazarotene	DOID:6543	acne
 23886	Mirapex 0.25 MG Oral Tablet	75054	Restless Legs Syndrome	2	0.4	859042	746741	Pramipexole	DOID:0050425	restless legs syndrome
 23887	Mirapex 1 MG Oral Tablet	75080	Parkinson's Disease	2	0.25	859054	746741	Pramipexole	DOID:14330	Parkinson's disease
-23919	CellCept 500 MG Oral Tablet	70475	Scleroderma	2	1	616435	68149	mycophenolate mofetil	DOID:419	scleroderma
 23919	CellCept 500 MG Oral Tablet	70475	Scleroderma	2	1	616435	68149	mycophenolate mofetil	DOID:418	Scleroderma
+23919	CellCept 500 MG Oral Tablet	70475	Scleroderma	2	1	616435	68149	mycophenolate mofetil	DOID:419	scleroderma
 23992	Femara 2.5 MG Oral Tablet	278808	Breast Cancer	3	0.3	153124	72965	letrozole	DOID:1612	breast cancer
 24025	Niaspan 750 MG Oral Tablet Extended Release	67988	Familial Hypertriglyceridemia	2	1	317015	7393	Niacin	DOID:0050527	familial hypertriglyceridemia
 24025	Niaspan 750 MG Oral Tablet Extended Release	291485	Dyslipidemia	2	0.5	317015	7393	Niacin	DOID:3146	dyslipidemia
@@ -1367,8 +1368,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 26316	AzaTHIOprine 50 MG Oral Tablet	64980	Crohn's Disease	8	0.571429	197388	1256	Azathioprine	DOID:8778	Crohn's disease
 26316	AzaTHIOprine 50 MG Oral Tablet	65041	Ulcerative Colitis	2	0.5	197388	1256	Azathioprine	DOID:8577	ulcerative colitis
 26316	AzaTHIOprine 50 MG Oral Tablet	70472	Systemic Lupus Erythematosus	24	0.705882	197388	1256	Azathioprine	DOID:9074	systemic lupus erythematosus
-26316	AzaTHIOprine 50 MG Oral Tablet	70475	Scleroderma	7	0.466667	197388	1256	Azathioprine	DOID:419	scleroderma
 26316	AzaTHIOprine 50 MG Oral Tablet	70475	Scleroderma	7	0.466667	197388	1256	Azathioprine	DOID:418	Scleroderma
+26316	AzaTHIOprine 50 MG Oral Tablet	70475	Scleroderma	7	0.466667	197388	1256	Azathioprine	DOID:419	scleroderma
 26316	AzaTHIOprine 50 MG Oral Tablet	70620	Sarcoidosis	3	0.75	197388	1256	Azathioprine	DOID:11335	sarcoidosis
 26316	AzaTHIOprine 50 MG Oral Tablet	70640	Wegener's Granulomatosis	10	0.833333	197388	1256	Azathioprine	DOID:12132	Wegener's granulomatosis
 26316	AzaTHIOprine 50 MG Oral Tablet	75733	Myasthenia Gravis	9	1	197388	1256	Azathioprine	DOID:437	myasthenia gravis
@@ -1378,8 +1379,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 26318	Benazepril HCl 10 MG Oral Tablet	63470	Benign Essential Hypertension	6	0.545455	898687	18867	benazepril	DOID:10913	benign essential hypertension
 26323	Bromocriptine Mesylate 2.5 MG Oral Tablet	278177	Hyperprolactinemia	9	0.75	197411	1760	Bromocriptine	DOID:12700	hyperprolactinemia
 26344	Captopril 12.5 MG Oral Tablet	63467	Hypertension	2	1	308963	1998	Captopril	DOID:10763	hypertension
-26345	Captopril 50 MG Oral Tablet	70475	Scleroderma	2	1	308964	1998	Captopril	DOID:419	scleroderma
 26345	Captopril 50 MG Oral Tablet	70475	Scleroderma	2	1	308964	1998	Captopril	DOID:418	Scleroderma
+26345	Captopril 50 MG Oral Tablet	70475	Scleroderma	2	1	308964	1998	Captopril	DOID:419	scleroderma
 26355	Cholestyramine 4 GM/DOSE Oral Powder	64978	Short Bowel Syndrome	2	1	848943	2447	Cholestyramine Resin	DOID:10605	short bowel syndrome
 26361	Clobetasol Propionate 0.05 % External Cream	69901	Psoriasis	2	0.285714	861495	2590	Clobetasol	DOID:8893	psoriasis
 26363	ClomiPRAMINE HCl 25 MG Oral Capsule	76546	Obsessive Compulsive Disorder	3	1	857297	2597	Clomipramine	DOID:10933	obsessive compulsive disorder
@@ -1543,8 +1544,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 29840	Pentoxifylline CR 400 MG Oral Tablet Extended Release	63722	Intermittent Claudication	2	0.25	312301	8013	Pentoxifylline	DOID:3669	intermittent claudication
 29840	Pentoxifylline CR 400 MG Oral Tablet Extended Release	63738	Peripheral Vascular Disease	6	0.428571	312301	8013	Pentoxifylline	DOID:341	peripheral vascular disease
 29840	Pentoxifylline CR 400 MG Oral Tablet Extended Release	63758	Raynaud's Disease	3	0.272727	312301	8013	Pentoxifylline	DOID:10300	Raynaud's disease
-29840	Pentoxifylline CR 400 MG Oral Tablet Extended Release	70475	Scleroderma	5	0.416667	312301	8013	Pentoxifylline	DOID:419	scleroderma
 29840	Pentoxifylline CR 400 MG Oral Tablet Extended Release	70475	Scleroderma	5	0.416667	312301	8013	Pentoxifylline	DOID:418	Scleroderma
+29840	Pentoxifylline CR 400 MG Oral Tablet Extended Release	70475	Scleroderma	5	0.416667	312301	8013	Pentoxifylline	DOID:419	scleroderma
 29840	Pentoxifylline CR 400 MG Oral Tablet Extended Release	282672	Venous Insufficiency	2	0.25	312301	8013	Pentoxifylline	DOID:10128	venous insufficiency
 29868	Warfarin Sodium 4 MG Oral Tablet	62916	Atrial Fibrillation	14	0.466667	855324	11289	Warfarin	DOID:0060224	atrial fibrillation
 29868	Warfarin Sodium 4 MG Oral Tablet	64277	Pulmonary Embolism	3	0.6	855324	11289	Warfarin	DOID:9477	pulmonary embolism
@@ -1623,8 +1624,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 30761	CeleBREX 200 MG Oral Capsule	70222	Osteoarthrosis	3	0.6	213469	140587	celecoxib	DOID:8398	osteoarthrosis
 30761	CeleBREX 200 MG Oral Capsule	70455	Rheumatoid Arthritis	31	0.607843	213469	140587	celecoxib	DOID:7148	rheumatoid arthritis
 30761	CeleBREX 200 MG Oral Capsule	70472	Systemic Lupus Erythematosus	2	0.25	213469	140587	celecoxib	DOID:9074	systemic lupus erythematosus
-30761	CeleBREX 200 MG Oral Capsule	70475	Scleroderma	2	0.333333	213469	140587	celecoxib	DOID:419	scleroderma
 30761	CeleBREX 200 MG Oral Capsule	70475	Scleroderma	2	0.333333	213469	140587	celecoxib	DOID:418	Scleroderma
+30761	CeleBREX 200 MG Oral Capsule	70475	Scleroderma	2	0.333333	213469	140587	celecoxib	DOID:419	scleroderma
 30761	CeleBREX 200 MG Oral Capsule	70706	Ankylosing Spondylitis	23	0.766667	213469	140587	celecoxib	DOID:7147	ankylosing spondylitis
 30761	CeleBREX 200 MG Oral Capsule	70722	Spondylitis	7	0.7	213469	140587	celecoxib	DOID:6590	spondylitis
 30761	CeleBREX 200 MG Oral Capsule	80847	Renal Cell Carcinoma	2	1	213469	140587	celecoxib	DOID:4450	renal cell carcinoma
@@ -1661,13 +1662,13 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 31137	Actos 45 MG Oral Tablet	69381	Type II Diabetes Mellitus	11	0.354839	261268	33738	pioglitazone	DOID:9352	type II diabetes mellitus
 31309	Lidoderm 5 % External Patch	70146	Osteoarthritis	16	0.4	1011705	6387	Lidocaine	DOID:8398	osteoarthritis
 31309	Lidoderm 5 % External Patch	70455	Rheumatoid Arthritis	9	0.346154	1011705	6387	Lidocaine	DOID:7148	rheumatoid arthritis
-31309	Lidoderm 5 % External Patch	70475	Scleroderma	2	0.666667	1011705	6387	Lidocaine	DOID:419	scleroderma
 31309	Lidoderm 5 % External Patch	70475	Scleroderma	2	0.666667	1011705	6387	Lidocaine	DOID:418	Scleroderma
+31309	Lidoderm 5 % External Patch	70475	Scleroderma	2	0.666667	1011705	6387	Lidocaine	DOID:419	scleroderma
 31309	Lidoderm 5 % External Patch	75601	Polyneuropathy	2	0.25	1011705	6387	Lidocaine	DOID:1389	polyneuropathy
 31309	Lidoderm 5 % External Patch	257996	Arthritis	9	0.25	1011705	6387	Lidocaine	DOID:848	arthritis
 31482	Prometrium 200 MG Oral Capsule	66139	Amenorrhea	4	0.8	261319	8727	Progesterone	DOID:13938	amenorrhea
-31482	Prometrium 200 MG Oral Capsule	167200	Premature Menopause	4	0.8	261319	8727	Progesterone	DOID:10787	premature menopause
 31482	Prometrium 200 MG Oral Capsule	167200	Premature Menopause	4	0.8	261319	8727	Progesterone	DOID:5426	premature menopause
+31482	Prometrium 200 MG Oral Capsule	167200	Premature Menopause	4	0.8	261319	8727	Progesterone	DOID:10787	premature menopause
 31483	Tamiflu 75 MG Oral Capsule	64119	Influenza	33	0.622642	261315	260101	Oseltamivir	DOID:8469	influenza
 31483	Tamiflu 75 MG Oral Capsule	76702	Viral Infection	5	0.714286	261315	260101	Oseltamivir	DOID:934	Viral Infection
 31541	Lodosyn 25 MG Oral Tablet	75080	Parkinson's Disease	2	0.666667	261330	2019	Carbidopa	DOID:14330	Parkinson's disease
@@ -1892,8 +1893,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 98652	NexIUM 40 MG Oral Capsule Delayed Release	64826	Gastric Ulcer	4	0.190476	606731	283742	Esomeprazole	DOID:10808	gastric ulcer
 98652	NexIUM 40 MG Oral Capsule Delayed Release	70455	Rheumatoid Arthritis	15	0.192308	606731	283742	Esomeprazole	DOID:7148	rheumatoid arthritis
 98652	NexIUM 40 MG Oral Capsule Delayed Release	70472	Systemic Lupus Erythematosus	9	0.157895	606731	283742	Esomeprazole	DOID:9074	systemic lupus erythematosus
-98652	NexIUM 40 MG Oral Capsule Delayed Release	70475	Scleroderma	22	0.354839	606731	283742	Esomeprazole	DOID:419	scleroderma
 98652	NexIUM 40 MG Oral Capsule Delayed Release	70475	Scleroderma	22	0.354839	606731	283742	Esomeprazole	DOID:418	Scleroderma
+98652	NexIUM 40 MG Oral Capsule Delayed Release	70475	Scleroderma	22	0.354839	606731	283742	Esomeprazole	DOID:419	scleroderma
 98652	NexIUM 40 MG Oral Capsule Delayed Release	70640	Wegener's Granulomatosis	3	0.75	606731	283742	Esomeprazole	DOID:12132	Wegener's granulomatosis
 98652	NexIUM 40 MG Oral Capsule Delayed Release	70706	Ankylosing Spondylitis	2	0.333333	606731	283742	Esomeprazole	DOID:7147	ankylosing spondylitis
 98652	NexIUM 40 MG Oral Capsule Delayed Release	80847	Renal Cell Carcinoma	3	0.25	606731	283742	Esomeprazole	DOID:4450	renal cell carcinoma
@@ -1963,8 +1964,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 100217	Lisinopril 20 MG Oral Tablet	63468	Essential Hypertension	185	0.528571	314077	29046	Lisinopril	DOID:10825	essential hypertension
 100217	Lisinopril 20 MG Oral Tablet	63470	Benign Essential Hypertension	162	0.529412	314077	29046	Lisinopril	DOID:10913	benign essential hypertension
 100217	Lisinopril 20 MG Oral Tablet	63471	Accelerated Essential Hypertension	3	0.272727	314077	29046	Lisinopril	DOID:10823	Accelerated essential hypertension
-100217	Lisinopril 20 MG Oral Tablet	70475	Scleroderma	3	0.333333	314077	29046	Lisinopril	DOID:419	scleroderma
 100217	Lisinopril 20 MG Oral Tablet	70475	Scleroderma	3	0.333333	314077	29046	Lisinopril	DOID:418	Scleroderma
+100217	Lisinopril 20 MG Oral Tablet	70475	Scleroderma	3	0.333333	314077	29046	Lisinopril	DOID:419	scleroderma
 100220	Mineral Oil Rectal Enema	166777	Constipation	2	1	205121	6972	Mineral Oil	DOID:2089	constipation
 100228	SulfaSALAzine 500 MG Oral Tablet Delayed Release	70455	Rheumatoid Arthritis	12	0.923077	313142	9524	Sulfasalazine	DOID:7148	rheumatoid arthritis
 100228	SulfaSALAzine 500 MG Oral Tablet Delayed Release	70706	Ankylosing Spondylitis	8	1	313142	9524	Sulfasalazine	DOID:7147	ankylosing spondylitis
@@ -2007,8 +2008,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 100255	Lisinopril 5 MG Oral Tablet	63470	Benign Essential Hypertension	77	0.531034	311354	29046	Lisinopril	DOID:10913	benign essential hypertension
 100255	Lisinopril 5 MG Oral Tablet	65674	Nephrotic Syndrome	3	0.333333	311354	29046	Lisinopril	DOID:1184	nephrotic syndrome
 100255	Lisinopril 5 MG Oral Tablet	69380	Diabetes Mellitus	17	0.062963	311354	29046	Lisinopril	DOID:9351	diabetes mellitus
-100255	Lisinopril 5 MG Oral Tablet	70475	Scleroderma	3	0.3	311354	29046	Lisinopril	DOID:419	scleroderma
 100255	Lisinopril 5 MG Oral Tablet	70475	Scleroderma	3	0.3	311354	29046	Lisinopril	DOID:418	Scleroderma
+100255	Lisinopril 5 MG Oral Tablet	70475	Scleroderma	3	0.3	311354	29046	Lisinopril	DOID:419	scleroderma
 100255	Lisinopril 5 MG Oral Tablet	80847	Renal Cell Carcinoma	2	0.666667	311354	29046	Lisinopril	DOID:4450	renal cell carcinoma
 100259	MetFORMIN HCl 500 MG Oral Tablet	69380	Diabetes Mellitus	296	0.372796	861007	6809	Metformin	DOID:9351	diabetes mellitus
 100259	MetFORMIN HCl 500 MG Oral Tablet	69381	Type II Diabetes Mellitus	129	0.369628	861007	6809	Metformin	DOID:9352	type II diabetes mellitus
@@ -2040,8 +2041,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 100274	TraMADol HCl 50 MG Oral Tablet	70384	Gout	4	0.148148	835603	10689	Tramadol	DOID:13189	gout
 100274	TraMADol HCl 50 MG Oral Tablet	70455	Rheumatoid Arthritis	52	0.611765	835603	10689	Tramadol	DOID:7148	rheumatoid arthritis
 100274	TraMADol HCl 50 MG Oral Tablet	70472	Systemic Lupus Erythematosus	21	0.466667	835603	10689	Tramadol	DOID:9074	systemic lupus erythematosus
-100274	TraMADol HCl 50 MG Oral Tablet	70475	Scleroderma	17	0.566667	835603	10689	Tramadol	DOID:419	scleroderma
 100274	TraMADol HCl 50 MG Oral Tablet	70475	Scleroderma	17	0.566667	835603	10689	Tramadol	DOID:418	Scleroderma
+100274	TraMADol HCl 50 MG Oral Tablet	70475	Scleroderma	17	0.566667	835603	10689	Tramadol	DOID:419	scleroderma
 100274	TraMADol HCl 50 MG Oral Tablet	70479	Sicca Syndrome	2	0.5	835603	10689	Tramadol	DOID:12894	Sicca syndrome
 100274	TraMADol HCl 50 MG Oral Tablet	70500	Polymyalgia Rheumatica	3	0.15	835603	10689	Tramadol	DOID:853	polymyalgia rheumatica
 100274	TraMADol HCl 50 MG Oral Tablet	70706	Ankylosing Spondylitis	4	0.5	835603	10689	Tramadol	DOID:7147	ankylosing spondylitis
@@ -2156,8 +2157,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 103838	Omeprazole 20 MG Oral Capsule Delayed Release	64678	Esophagitis	2	0.333333	198051	7646	Omeprazole	DOID:11963	esophagitis
 103838	Omeprazole 20 MG Oral Capsule Delayed Release	64763	Gastritis	12	0.352941	198051	7646	Omeprazole	DOID:4029	gastritis
 103838	Omeprazole 20 MG Oral Capsule Delayed Release	70455	Rheumatoid Arthritis	9	0.375	198051	7646	Omeprazole	DOID:7148	rheumatoid arthritis
-103838	Omeprazole 20 MG Oral Capsule Delayed Release	70475	Scleroderma	6	0.428571	198051	7646	Omeprazole	DOID:419	scleroderma
 103838	Omeprazole 20 MG Oral Capsule Delayed Release	70475	Scleroderma	6	0.428571	198051	7646	Omeprazole	DOID:418	Scleroderma
+103838	Omeprazole 20 MG Oral Capsule Delayed Release	70475	Scleroderma	6	0.428571	198051	7646	Omeprazole	DOID:419	scleroderma
 103838	Omeprazole 20 MG Oral Capsule Delayed Release	75125	Multiple Sclerosis	3	0.230769	198051	7646	Omeprazole	DOID:2377	multiple sclerosis
 103838	Omeprazole 20 MG Oral Capsule Delayed Release	282704	Acute Gastritis	2	0.25	198051	7646	Omeprazole	DOID:4029	acute Gastritis
 103901	Epivir 300 MG Oral Tablet	76835	HIV Infection	6	0.75	352230	68244	Lamivudine	DOID:526	HIV infection
@@ -2379,8 +2380,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 115214	NIFEdipine CR Osmotic 90 MG Oral Tablet Extended Release 24 Hour	63470	Benign Essential Hypertension	16	0.470588	198036	7417	Nifedipine	DOID:10913	benign essential hypertension
 115214	NIFEdipine CR Osmotic 90 MG Oral Tablet Extended Release 24 Hour	63471	Accelerated Essential Hypertension	2	0.666667	198036	7417	Nifedipine	DOID:10823	Accelerated essential hypertension
 115214	NIFEdipine CR Osmotic 90 MG Oral Tablet Extended Release 24 Hour	63758	Raynaud's Disease	2	0.666667	198036	7417	Nifedipine	DOID:10300	Raynaud's disease
-115214	NIFEdipine CR Osmotic 90 MG Oral Tablet Extended Release 24 Hour	70475	Scleroderma	2	0.5	198036	7417	Nifedipine	DOID:419	scleroderma
 115214	NIFEdipine CR Osmotic 90 MG Oral Tablet Extended Release 24 Hour	70475	Scleroderma	2	0.5	198036	7417	Nifedipine	DOID:418	Scleroderma
+115214	NIFEdipine CR Osmotic 90 MG Oral Tablet Extended Release 24 Hour	70475	Scleroderma	2	0.5	198036	7417	Nifedipine	DOID:419	scleroderma
 115247	Procardia XL 30 MG Oral Tablet Extended Release 24 Hour	63467	Hypertension	3	0.230769	207772	7417	Nifedipine	DOID:10763	hypertension
 115247	Procardia XL 30 MG Oral Tablet Extended Release 24 Hour	63468	Essential Hypertension	2	0.333333	207772	7417	Nifedipine	DOID:10825	essential hypertension
 115247	Procardia XL 30 MG Oral Tablet Extended Release 24 Hour	63470	Benign Essential Hypertension	3	0.428571	207772	7417	Nifedipine	DOID:10913	benign essential hypertension
@@ -2412,8 +2413,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 115358	Nifedical XL 30 MG Oral Tablet Extended Release 24 Hour	63468	Essential Hypertension	3	0.25	360394	7417	Nifedipine	DOID:10825	essential hypertension
 115358	Nifedical XL 30 MG Oral Tablet Extended Release 24 Hour	63470	Benign Essential Hypertension	4	0.4	360394	7417	Nifedipine	DOID:10913	benign essential hypertension
 115358	Nifedical XL 30 MG Oral Tablet Extended Release 24 Hour	63758	Raynaud's Disease	4	0.5	360394	7417	Nifedipine	DOID:10300	Raynaud's disease
-115358	Nifedical XL 30 MG Oral Tablet Extended Release 24 Hour	70475	Scleroderma	2	0.222222	360394	7417	Nifedipine	DOID:419	scleroderma
 115358	Nifedical XL 30 MG Oral Tablet Extended Release 24 Hour	70475	Scleroderma	2	0.222222	360394	7417	Nifedipine	DOID:418	Scleroderma
+115358	Nifedical XL 30 MG Oral Tablet Extended Release 24 Hour	70475	Scleroderma	2	0.222222	360394	7417	Nifedipine	DOID:419	scleroderma
 115362	GlipiZIDE 10 MG Oral Tablet Extended Release 24 Hour	69380	Diabetes Mellitus	11	0.354839	315107	4821	Glipizide	DOID:9351	diabetes mellitus
 115362	GlipiZIDE 10 MG Oral Tablet Extended Release 24 Hour	69381	Type II Diabetes Mellitus	13	0.52	315107	4821	Glipizide	DOID:9352	type II diabetes mellitus
 115368	Nitrofurantoin Monohyd Macro 100 MG Oral Capsule	65752	Cystitis	6	0.26087	311992	7454	Nitrofurantoin	DOID:1679	cystitis
@@ -2447,8 +2448,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 115559	Benazepril HCl 40 MG Oral Tablet	63468	Essential Hypertension	5	0.3125	898719	18867	benazepril	DOID:10825	essential hypertension
 115559	Benazepril HCl 40 MG Oral Tablet	63470	Benign Essential Hypertension	4	0.444444	898719	18867	benazepril	DOID:10913	benign essential hypertension
 115577	Budeprion SR 100 MG Oral Tablet Extended Release 12 Hour	76536	Generalized Anxiety Disorder	2	0.666667	993505	42347	Bupropion	DOID:14320	generalized anxiety disorder
-115581	Myfortic 180 MG Oral Tablet Delayed Release	70475	Scleroderma	2	1	616450	7145	Mycophenolic Acid	DOID:419	scleroderma
 115581	Myfortic 180 MG Oral Tablet Delayed Release	70475	Scleroderma	2	1	616450	7145	Mycophenolic Acid	DOID:418	Scleroderma
+115581	Myfortic 180 MG Oral Tablet Delayed Release	70475	Scleroderma	2	1	616450	7145	Mycophenolic Acid	DOID:419	scleroderma
 116112	Viracept 625 MG Oral Tablet	76835	HIV Infection	6	0.666667	542370	134527	Nelfinavir	DOID:526	HIV infection
 122516	Quinapril HCl 40 MG Oral Tablet	63467	Hypertension	9	0.209302	314203	35208	quinapril	DOID:10763	hypertension
 122516	Quinapril HCl 40 MG Oral Tablet	63468	Essential Hypertension	11	0.478261	314203	35208	quinapril	DOID:10825	essential hypertension
@@ -2480,8 +2481,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 122600	Gabapentin 600 MG Oral Tablet	288933	Peripheral Neuropathy	9	0.5	310433	25480	gabapentin	DOID:0060053	peripheral neuropathy
 122600	Gabapentin 600 MG Oral Tablet	288977	Fibromyalgia	2	0.285714	310433	25480	gabapentin	DOID:631	fibromyalgia
 122617	Halobetasol Propionate 0.05 % External Ointment	70112	Atopic Dermatitis	2	1	977978	41208	halobetasol	DOID:3310	atopic dermatitis
-122617	Halobetasol Propionate 0.05 % External Ointment	70475	Scleroderma	2	1	977978	41208	halobetasol	DOID:419	scleroderma
 122617	Halobetasol Propionate 0.05 % External Ointment	70475	Scleroderma	2	1	977978	41208	halobetasol	DOID:418	Scleroderma
+122617	Halobetasol Propionate 0.05 % External Ointment	70475	Scleroderma	2	1	977978	41208	halobetasol	DOID:419	scleroderma
 122623	Citalopram Hydrobromide 20 MG Oral Tablet	75032	Vascular Dementia	2	0.4	200371	2556	Citalopram	DOID:8725	vascular dementia
 122623	Citalopram Hydrobromide 20 MG Oral Tablet	76213	Schizophrenia	3	0.333333	200371	2556	Citalopram	DOID:5419	schizophrenia
 122623	Citalopram Hydrobromide 20 MG Oral Tablet	76272	Schizoaffective Disorder	4	0.8	200371	2556	Citalopram	DOID:5418	schizoaffective disorder
@@ -2544,8 +2545,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 122953	Gabapentin 100 MG Oral Capsule	288933	Peripheral Neuropathy	14	0.358974	310430	25480	gabapentin	DOID:0060053	peripheral neuropathy
 122970	Mometasone Furoate 0.1 % External Cream	69710	Contact Dermatitis	3	0.6	311753	108118	Mometasone	DOID:2773	contact dermatitis
 122970	Mometasone Furoate 0.1 % External Cream	70112	Atopic Dermatitis	2	0.5	311753	108118	Mometasone	DOID:3310	atopic dermatitis
-122970	Mometasone Furoate 0.1 % External Cream	70475	Scleroderma	2	1	311753	108118	Mometasone	DOID:419	scleroderma
 122970	Mometasone Furoate 0.1 % External Cream	70475	Scleroderma	2	1	311753	108118	Mometasone	DOID:418	Scleroderma
+122970	Mometasone Furoate 0.1 % External Cream	70475	Scleroderma	2	1	311753	108118	Mometasone	DOID:419	scleroderma
 122970	Mometasone Furoate 0.1 % External Cream	278350	Eczema	3	0.5	311753	108118	Mometasone	DOID:2723	eczema
 122986	FentaNYL 25 MCG/HR Transdermal Patch 72 Hour	278812	Prostate Cancer	2	0.666667	245134	4337	Fentanyl	DOID:10283	prostate cancer
 123028	Flovent HFA 220 MCG/ACT Inhalation Aerosol	64118	Acute Bronchitis	2	0.333333	896006	41126	fluticasone	DOID:6132	acute Bronchitis
@@ -2574,8 +2575,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 123120	Lunesta 3 MG Oral Tablet	75125	Multiple Sclerosis	2	0.2	540411	461016	Eszopiclone	DOID:2377	multiple sclerosis
 123120	Lunesta 3 MG Oral Tablet	76232	Paranoid Schizophrenia	2	1	540411	461016	Eszopiclone	DOID:1229	paranoid schizophrenia
 123126	Cilostazol 100 MG Oral Tablet	63738	Peripheral Vascular Disease	9	0.529412	242461	21107	cilostazol	DOID:341	peripheral vascular disease
-123126	Cilostazol 100 MG Oral Tablet	70475	Scleroderma	3	0.6	242461	21107	cilostazol	DOID:419	scleroderma
 123126	Cilostazol 100 MG Oral Tablet	70475	Scleroderma	3	0.6	242461	21107	cilostazol	DOID:418	Scleroderma
+123126	Cilostazol 100 MG Oral Tablet	70475	Scleroderma	3	0.6	242461	21107	cilostazol	DOID:419	scleroderma
 123177	Clarithromycin 250 MG Oral Tablet	62588	Chronic Ethmoidal Sinusitis	4	0.8	197516	21212	Clarithromycin	DOID:9312	chronic ethmoidal sinusitis
 123177	Clarithromycin 250 MG Oral Tablet	62611	Chronic Rhinitis	2	1	197516	21212	Clarithromycin	DOID:8252	chronic rhinitis
 123198	FentaNYL 50 MCG/HR Transdermal Patch 72 Hour	278781	Lung Cancer	2	1	245135	4337	Fentanyl	DOID:1324	lung cancer
@@ -2640,8 +2641,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 128474	NIFEdipine 30 MG Oral Tablet Extended Release 24 Hour	63468	Essential Hypertension	7	0.269231	198034	7417	Nifedipine	DOID:10825	essential hypertension
 128474	NIFEdipine 30 MG Oral Tablet Extended Release 24 Hour	63470	Benign Essential Hypertension	11	0.458333	198034	7417	Nifedipine	DOID:10913	benign essential hypertension
 128474	NIFEdipine 30 MG Oral Tablet Extended Release 24 Hour	63758	Raynaud's Disease	3	0.5	198034	7417	Nifedipine	DOID:10300	Raynaud's disease
-128474	NIFEdipine 30 MG Oral Tablet Extended Release 24 Hour	70475	Scleroderma	2	0.285714	198034	7417	Nifedipine	DOID:419	scleroderma
 128474	NIFEdipine 30 MG Oral Tablet Extended Release 24 Hour	70475	Scleroderma	2	0.285714	198034	7417	Nifedipine	DOID:418	Scleroderma
+128474	NIFEdipine 30 MG Oral Tablet Extended Release 24 Hour	70475	Scleroderma	2	0.285714	198034	7417	Nifedipine	DOID:419	scleroderma
 128520	Dilt-CD 180 MG Oral Capsule Extended Release 24 Hour	62916	Atrial Fibrillation	2	0.666667	831252	3443	Diltiazem	DOID:0060224	atrial fibrillation
 128526	Didanosine 200 MG Oral Capsule Delayed Release	76835	HIV Infection	6	1	284185	3364	Didanosine	DOID:526	HIV infection
 128556	VESIcare 10 MG Oral Tablet	65769	Neurogenic Bladder	2	0.285714	539815	322167	Solifenacin	DOID:12143	neurogenic bladder
@@ -2712,13 +2713,13 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 130743	Revatio 20 MG Oral Tablet	63484	Pulmonary Hypertension	19	0.59375	581645	136411	sildenafil	DOID:6432	pulmonary hypertension
 130743	Revatio 20 MG Oral Tablet	63485	Primary Pulmonary Hypertension	3	1	581645	136411	sildenafil	DOID:14557	primary pulmonary hypertension
 130743	Revatio 20 MG Oral Tablet	63758	Raynaud's Disease	7	0.4375	581645	136411	sildenafil	DOID:10300	Raynaud's disease
-130743	Revatio 20 MG Oral Tablet	70475	Scleroderma	9	0.3	581645	136411	sildenafil	DOID:419	scleroderma
 130743	Revatio 20 MG Oral Tablet	70475	Scleroderma	9	0.3	581645	136411	sildenafil	DOID:418	Scleroderma
+130743	Revatio 20 MG Oral Tablet	70475	Scleroderma	9	0.3	581645	136411	sildenafil	DOID:419	scleroderma
 130744	CefTRIAXone Sodium 250 MG Injection Solution Reconstituted	65847	Urethritis	3	0.6	309092	2193	Ceftriaxone	DOID:1343	urethritis
 130744	CefTRIAXone Sodium 250 MG Injection Solution Reconstituted	77872	Pelvic Inflammatory Disease	2	1	309092	2193	Ceftriaxone	DOID:1003	pelvic inflammatory disease
 130842	Leflunomide 20 MG Oral Tablet	70455	Rheumatoid Arthritis	60	0.869565	205285	27169	leflunomide	DOID:7148	rheumatoid arthritis
-130842	Leflunomide 20 MG Oral Tablet	70475	Scleroderma	4	0.444444	205285	27169	leflunomide	DOID:419	scleroderma
 130842	Leflunomide 20 MG Oral Tablet	70475	Scleroderma	4	0.444444	205285	27169	leflunomide	DOID:418	Scleroderma
+130842	Leflunomide 20 MG Oral Tablet	70475	Scleroderma	4	0.444444	205285	27169	leflunomide	DOID:419	scleroderma
 130842	Leflunomide 20 MG Oral Tablet	70722	Spondylitis	2	0.666667	205285	27169	leflunomide	DOID:6590	spondylitis
 130859	Acetaminophen 650 MG Oral Tablet Extended Release	70146	Osteoarthritis	3	0.75	1148399	161	Acetaminophen	DOID:8398	osteoarthritis
 130860	Lyrica 100 MG Oral Capsule	75125	Multiple Sclerosis	5	0.5	607018	187832	pregabalin	DOID:2377	multiple sclerosis
@@ -2810,8 +2811,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 133170	Cyclobenzaprine HCl 5 MG Oral Tablet	70146	Osteoarthritis	8	0.228571	828320	21949	cyclobenzaprine	DOID:8398	osteoarthritis
 133170	Cyclobenzaprine HCl 5 MG Oral Tablet	70455	Rheumatoid Arthritis	16	0.470588	828320	21949	cyclobenzaprine	DOID:7148	rheumatoid arthritis
 133170	Cyclobenzaprine HCl 5 MG Oral Tablet	70472	Systemic Lupus Erythematosus	7	0.304348	828320	21949	cyclobenzaprine	DOID:9074	systemic lupus erythematosus
-133170	Cyclobenzaprine HCl 5 MG Oral Tablet	70475	Scleroderma	2	0.5	828320	21949	cyclobenzaprine	DOID:419	scleroderma
 133170	Cyclobenzaprine HCl 5 MG Oral Tablet	70475	Scleroderma	2	0.5	828320	21949	cyclobenzaprine	DOID:418	Scleroderma
+133170	Cyclobenzaprine HCl 5 MG Oral Tablet	70475	Scleroderma	2	0.5	828320	21949	cyclobenzaprine	DOID:419	scleroderma
 133170	Cyclobenzaprine HCl 5 MG Oral Tablet	70640	Wegener's Granulomatosis	2	1	828320	21949	cyclobenzaprine	DOID:12132	Wegener's granulomatosis
 133170	Cyclobenzaprine HCl 5 MG Oral Tablet	70706	Ankylosing Spondylitis	7	0.636364	828320	21949	cyclobenzaprine	DOID:7147	ankylosing spondylitis
 133170	Cyclobenzaprine HCl 5 MG Oral Tablet	75594	Spinal Stenosis	3	0.5	828320	21949	cyclobenzaprine	DOID:6725	spinal stenosis
@@ -2918,8 +2919,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 134107	Meloxicam 15 MG Oral Tablet	70146	Osteoarthritis	12	0.413793	152695	41493	meloxicam	DOID:8398	osteoarthritis
 134107	Meloxicam 15 MG Oral Tablet	70455	Rheumatoid Arthritis	16	0.615385	152695	41493	meloxicam	DOID:7148	rheumatoid arthritis
 134107	Meloxicam 15 MG Oral Tablet	70472	Systemic Lupus Erythematosus	4	0.571429	152695	41493	meloxicam	DOID:9074	systemic lupus erythematosus
-134107	Meloxicam 15 MG Oral Tablet	70475	Scleroderma	2	1	152695	41493	meloxicam	DOID:419	scleroderma
 134107	Meloxicam 15 MG Oral Tablet	70475	Scleroderma	2	1	152695	41493	meloxicam	DOID:418	Scleroderma
+134107	Meloxicam 15 MG Oral Tablet	70475	Scleroderma	2	1	152695	41493	meloxicam	DOID:419	scleroderma
 134107	Meloxicam 15 MG Oral Tablet	70706	Ankylosing Spondylitis	7	0.777778	152695	41493	meloxicam	DOID:7147	ankylosing spondylitis
 134107	Meloxicam 15 MG Oral Tablet	70722	Spondylitis	5	1	152695	41493	meloxicam	DOID:6590	spondylitis
 134107	Meloxicam 15 MG Oral Tablet	257996	Arthritis	5	0.238095	152695	41493	meloxicam	DOID:848	arthritis
@@ -2928,8 +2929,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 134188	Lantus for OptiClik 100 UNIT/ML SOLN	69380	Diabetes Mellitus	2	0.5	285018	274783	Insulin Glargine	DOID:9351	diabetes mellitus
 134194	Meloxicam 7.5 MG Oral Tablet	70146	Osteoarthritis	18	0.5625	311486	41493	meloxicam	DOID:8398	osteoarthritis
 134194	Meloxicam 7.5 MG Oral Tablet	70455	Rheumatoid Arthritis	15	0.714286	311486	41493	meloxicam	DOID:7148	rheumatoid arthritis
-134194	Meloxicam 7.5 MG Oral Tablet	70475	Scleroderma	2	0.4	311486	41493	meloxicam	DOID:419	scleroderma
 134194	Meloxicam 7.5 MG Oral Tablet	70475	Scleroderma	2	0.4	311486	41493	meloxicam	DOID:418	Scleroderma
+134194	Meloxicam 7.5 MG Oral Tablet	70475	Scleroderma	2	0.4	311486	41493	meloxicam	DOID:419	scleroderma
 134194	Meloxicam 7.5 MG Oral Tablet	70478	Sjogren's Syndrome	3	0.428571	311486	41493	meloxicam	DOID:12894	Sjogren's syndrome
 134194	Meloxicam 7.5 MG Oral Tablet	70706	Ankylosing Spondylitis	3	0.75	311486	41493	meloxicam	DOID:7147	ankylosing spondylitis
 134194	Meloxicam 7.5 MG Oral Tablet	70722	Spondylitis	2	1	311486	41493	meloxicam	DOID:6590	spondylitis
@@ -2978,8 +2979,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 134968	Oxygen	64181	Asthma	5	0.263158	7806	7806	Oxygen	DOID:2841	asthma
 134968	Oxygen	64205	Chronic Obstructive Pulmonary Disease	11	0.366667	7806	7806	Oxygen	DOID:3083	chronic obstructive pulmonary disease
 134968	Oxygen	64294	Pulmonary Fibrosis	4	0.333333	7806	7806	Oxygen	DOID:3770	pulmonary fibrosis
-134968	Oxygen	70475	Scleroderma	2	0.285714	7806	7806	Oxygen	DOID:419	scleroderma
 134968	Oxygen	70475	Scleroderma	2	0.285714	7806	7806	Oxygen	DOID:418	Scleroderma
+134968	Oxygen	70475	Scleroderma	2	0.285714	7806	7806	Oxygen	DOID:419	scleroderma
 134968	Oxygen	173466	Obstructive Sleep Apnea	3	0.2	7806	7806	Oxygen	DOID:0050848	obstructive sleep apnea
 135135	Claritin 5 MG Oral Tablet Chewable	62598	Allergic Rhinitis	15	0.46875	668469	28889	Loratadine	DOID:4481	allergic rhinitis
 135172	Januvia 100 MG Oral Tablet	69380	Diabetes Mellitus	34	0.295652	665036	593411	sitagliptin	DOID:9351	diabetes mellitus
@@ -3036,8 +3037,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 136143	AmLODIPine Besylate 2.5 MG Oral Tablet	63470	Benign Essential Hypertension	25	0.510204	308136	17767	Amlodipine	DOID:10913	benign essential hypertension
 136143	AmLODIPine Besylate 2.5 MG Oral Tablet	63758	Raynaud's Disease	13	0.65	308136	17767	Amlodipine	DOID:10300	Raynaud's disease
 136143	AmLODIPine Besylate 2.5 MG Oral Tablet	70472	Systemic Lupus Erythematosus	2	0.333333	308136	17767	Amlodipine	DOID:9074	systemic lupus erythematosus
-136143	AmLODIPine Besylate 2.5 MG Oral Tablet	70475	Scleroderma	6	0.272727	308136	17767	Amlodipine	DOID:419	scleroderma
 136143	AmLODIPine Besylate 2.5 MG Oral Tablet	70475	Scleroderma	6	0.272727	308136	17767	Amlodipine	DOID:418	Scleroderma
+136143	AmLODIPine Besylate 2.5 MG Oral Tablet	70475	Scleroderma	6	0.272727	308136	17767	Amlodipine	DOID:419	scleroderma
 136143	AmLODIPine Besylate 2.5 MG Oral Tablet	70476	CREST Syndrome	4	0.666667	308136	17767	Amlodipine	DOID:0060218	CREST syndrome
 136160	Coreg CR 80 MG Oral Capsule Extended Release 24 Hour	63468	Essential Hypertension	2	0.333333	860534	20352	carvedilol	DOID:10825	essential hypertension
 136190	Coreg CR 40 MG Oral Capsule Extended Release 24 Hour	63467	Hypertension	4	0.222222	860524	20352	carvedilol	DOID:10763	hypertension
@@ -3068,15 +3069,15 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 136409	AmLODIPine Besylate 5 MG Oral Tablet	63470	Benign Essential Hypertension	200	0.588235	197361	17767	Amlodipine	DOID:10913	benign essential hypertension
 136409	AmLODIPine Besylate 5 MG Oral Tablet	63471	Accelerated Essential Hypertension	6	0.6	197361	17767	Amlodipine	DOID:10823	Accelerated essential hypertension
 136409	AmLODIPine Besylate 5 MG Oral Tablet	63758	Raynaud's Disease	27	0.771429	197361	17767	Amlodipine	DOID:10300	Raynaud's disease
-136409	AmLODIPine Besylate 5 MG Oral Tablet	70475	Scleroderma	14	0.269231	197361	17767	Amlodipine	DOID:419	scleroderma
 136409	AmLODIPine Besylate 5 MG Oral Tablet	70475	Scleroderma	14	0.269231	197361	17767	Amlodipine	DOID:418	Scleroderma
+136409	AmLODIPine Besylate 5 MG Oral Tablet	70475	Scleroderma	14	0.269231	197361	17767	Amlodipine	DOID:419	scleroderma
 136417	AmLODIPine Besylate 10 MG Oral Tablet	63467	Hypertension	375	0.417595	308135	17767	Amlodipine	DOID:10763	hypertension
 136417	AmLODIPine Besylate 10 MG Oral Tablet	63468	Essential Hypertension	184	0.539589	308135	17767	Amlodipine	DOID:10825	essential hypertension
 136417	AmLODIPine Besylate 10 MG Oral Tablet	63470	Benign Essential Hypertension	219	0.58871	308135	17767	Amlodipine	DOID:10913	benign essential hypertension
 136417	AmLODIPine Besylate 10 MG Oral Tablet	63471	Accelerated Essential Hypertension	9	0.473684	308135	17767	Amlodipine	DOID:10823	Accelerated essential hypertension
 136417	AmLODIPine Besylate 10 MG Oral Tablet	63758	Raynaud's Disease	10	0.588235	308135	17767	Amlodipine	DOID:10300	Raynaud's disease
-136417	AmLODIPine Besylate 10 MG Oral Tablet	70475	Scleroderma	8	0.307692	308135	17767	Amlodipine	DOID:419	scleroderma
 136417	AmLODIPine Besylate 10 MG Oral Tablet	70475	Scleroderma	8	0.307692	308135	17767	Amlodipine	DOID:418	Scleroderma
+136417	AmLODIPine Besylate 10 MG Oral Tablet	70475	Scleroderma	8	0.307692	308135	17767	Amlodipine	DOID:419	scleroderma
 136728	Hydrocortisone 5 MG Oral Tablet	69214	Hypopituitarism	3	0.5	197787	5492	Hydrocortisone	DOID:9406	hypopituitarism
 136728	Hydrocortisone 5 MG Oral Tablet	69464	Congenital Adrenal Hyperplasia	6	0.857143	197787	5492	Hydrocortisone	DOID:0050811	congenital adrenal hyperplasia
 136741	Hydrocortisone 10 MG Oral Tablet	69214	Hypopituitarism	8	0.727273	197782	5492	Hydrocortisone	DOID:9406	hypopituitarism
@@ -3086,8 +3087,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 136885	Hyper-Sal 7 % Inhalation Nebulization Solution	32925	Chronic Respiratory Failure	3	0.75	707347	9863	Sodium Chloride	DOID:11162	chronic respiratory failure
 136885	Hyper-Sal 7 % Inhalation Nebulization Solution	67695	Cystic Fibrosis	5	0.833333	707347	9863	Sodium Chloride	DOID:1485	cystic fibrosis
 136889	Zolpidem Tartrate 5 MG Oral Tablet	70455	Rheumatoid Arthritis	3	0.176471	854876	39993	zolpidem	DOID:7148	rheumatoid arthritis
-136889	Zolpidem Tartrate 5 MG Oral Tablet	70475	Scleroderma	2	0.5	854876	39993	zolpidem	DOID:419	scleroderma
 136889	Zolpidem Tartrate 5 MG Oral Tablet	70475	Scleroderma	2	0.5	854876	39993	zolpidem	DOID:418	Scleroderma
+136889	Zolpidem Tartrate 5 MG Oral Tablet	70475	Scleroderma	2	0.5	854876	39993	zolpidem	DOID:419	scleroderma
 136889	Zolpidem Tartrate 5 MG Oral Tablet	75080	Parkinson's Disease	2	0.5	854876	39993	zolpidem	DOID:14330	Parkinson's disease
 136889	Zolpidem Tartrate 5 MG Oral Tablet	75125	Multiple Sclerosis	3	0.428571	854876	39993	zolpidem	DOID:2377	multiple sclerosis
 136889	Zolpidem Tartrate 5 MG Oral Tablet	76536	Generalized Anxiety Disorder	3	0.375	854876	39993	zolpidem	DOID:14320	generalized anxiety disorder
@@ -3243,8 +3244,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 139120	Pantoprazole Sodium 40 MG Oral Tablet Delayed Release	64826	Gastric Ulcer	2	0.285714	314200	40790	pantoprazole	DOID:10808	gastric ulcer
 139120	Pantoprazole Sodium 40 MG Oral Tablet Delayed Release	64980	Crohn's Disease	3	0.5	314200	40790	pantoprazole	DOID:8778	Crohn's disease
 139120	Pantoprazole Sodium 40 MG Oral Tablet Delayed Release	70455	Rheumatoid Arthritis	4	0.285714	314200	40790	pantoprazole	DOID:7148	rheumatoid arthritis
-139120	Pantoprazole Sodium 40 MG Oral Tablet Delayed Release	70475	Scleroderma	5	0.454545	314200	40790	pantoprazole	DOID:419	scleroderma
 139120	Pantoprazole Sodium 40 MG Oral Tablet Delayed Release	70475	Scleroderma	5	0.454545	314200	40790	pantoprazole	DOID:418	Scleroderma
+139120	Pantoprazole Sodium 40 MG Oral Tablet Delayed Release	70475	Scleroderma	5	0.454545	314200	40790	pantoprazole	DOID:419	scleroderma
 139120	Pantoprazole Sodium 40 MG Oral Tablet Delayed Release	70706	Ankylosing Spondylitis	2	0.4	314200	40790	pantoprazole	DOID:7147	ankylosing spondylitis
 139120	Pantoprazole Sodium 40 MG Oral Tablet Delayed Release	80847	Renal Cell Carcinoma	5	0.454545	314200	40790	pantoprazole	DOID:4450	renal cell carcinoma
 139120	Pantoprazole Sodium 40 MG Oral Tablet Delayed Release	260898	Kidney Cancer	4	0.571429	314200	40790	pantoprazole	DOID:263	kidney cancer
@@ -3315,8 +3316,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 143227	Patanase 0.6 % Nasal Solution	62611	Chronic Rhinitis	5	0.294118	1111337	135391	olopatadine	DOID:8252	chronic rhinitis
 143229	Voltaren 1 % GEL	70146	Osteoarthritis	12	0.545455	855635	3355	Diclofenac	DOID:8398	osteoarthritis
 143229	Voltaren 1 % GEL	70455	Rheumatoid Arthritis	8	0.380952	855635	3355	Diclofenac	DOID:7148	rheumatoid arthritis
-143229	Voltaren 1 % GEL	70475	Scleroderma	4	0.5	855635	3355	Diclofenac	DOID:419	scleroderma
 143229	Voltaren 1 % GEL	70475	Scleroderma	4	0.5	855635	3355	Diclofenac	DOID:418	Scleroderma
+143229	Voltaren 1 % GEL	70475	Scleroderma	4	0.5	855635	3355	Diclofenac	DOID:419	scleroderma
 143229	Voltaren 1 % GEL	73564	Lateral Epicondylitis	2	1	855635	3355	Diclofenac	DOID:14087	Lateral epicondylitis
 143235	Allegra ODT 30 MG TBDP	62598	Allergic Rhinitis	5	0.833333	997484	87636	fexofenadine	DOID:4481	allergic rhinitis
 143235	Allegra ODT 30 MG TBDP	64181	Asthma	3	0.375	997484	87636	fexofenadine	DOID:2841	asthma
@@ -3402,8 +3403,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 147552	Omeprazole 40 MG Oral Capsule Delayed Release	64826	Gastric Ulcer	2	0.222222	200329	7646	Omeprazole	DOID:10808	gastric ulcer
 147552	Omeprazole 40 MG Oral Capsule Delayed Release	65286	Cirrhosis	2	0.25	200329	7646	Omeprazole	DOID:5082	Cirrhosis
 147552	Omeprazole 40 MG Oral Capsule Delayed Release	70455	Rheumatoid Arthritis	6	0.272727	200329	7646	Omeprazole	DOID:7148	rheumatoid arthritis
-147552	Omeprazole 40 MG Oral Capsule Delayed Release	70475	Scleroderma	6	0.285714	200329	7646	Omeprazole	DOID:419	scleroderma
 147552	Omeprazole 40 MG Oral Capsule Delayed Release	70475	Scleroderma	6	0.285714	200329	7646	Omeprazole	DOID:418	Scleroderma
+147552	Omeprazole 40 MG Oral Capsule Delayed Release	70475	Scleroderma	6	0.285714	200329	7646	Omeprazole	DOID:419	scleroderma
 147552	Omeprazole 40 MG Oral Capsule Delayed Release	70476	CREST Syndrome	2	0.5	200329	7646	Omeprazole	DOID:0060218	CREST syndrome
 147552	Omeprazole 40 MG Oral Capsule Delayed Release	70706	Ankylosing Spondylitis	3	0.75	200329	7646	Omeprazole	DOID:7147	ankylosing spondylitis
 147552	Omeprazole 40 MG Oral Capsule Delayed Release	282704	Acute Gastritis	4	0.4	200329	7646	Omeprazole	DOID:4029	acute Gastritis
@@ -3500,14 +3501,14 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 152122	Nuvigil 250 MG Oral Tablet	75080	Parkinson's Disease	2	0.666667	805661	641465	armodafinil	DOID:14330	Parkinson's disease
 152122	Nuvigil 250 MG Oral Tablet	76409	Narcolepsy	3	0.6	805661	641465	armodafinil	DOID:8986	narcolepsy
 152122	Nuvigil 250 MG Oral Tablet	173466	Obstructive Sleep Apnea	3	0.375	805661	641465	armodafinil	DOID:0050848	obstructive sleep apnea
-152224	Mycophenolate Mofetil 250 MG Oral Capsule	70475	Scleroderma	3	0.75	199058	68149	mycophenolate mofetil	DOID:419	scleroderma
 152224	Mycophenolate Mofetil 250 MG Oral Capsule	70475	Scleroderma	3	0.75	199058	68149	mycophenolate mofetil	DOID:418	Scleroderma
+152224	Mycophenolate Mofetil 250 MG Oral Capsule	70475	Scleroderma	3	0.75	199058	68149	mycophenolate mofetil	DOID:419	scleroderma
 152224	Mycophenolate Mofetil 250 MG Oral Capsule	288804	Encephalitis	2	1	199058	68149	mycophenolate mofetil	DOID:9588	encephalitis
 152251	Mycophenolate Mofetil 500 MG Oral Tablet	34588	Proteinuria	4	0.166667	200060	68149	mycophenolate mofetil	DOID:576	proteinuria
 152251	Mycophenolate Mofetil 500 MG Oral Tablet	65674	Nephrotic Syndrome	4	0.571429	200060	68149	mycophenolate mofetil	DOID:1184	nephrotic syndrome
 152251	Mycophenolate Mofetil 500 MG Oral Tablet	70472	Systemic Lupus Erythematosus	40	0.754717	200060	68149	mycophenolate mofetil	DOID:9074	systemic lupus erythematosus
-152251	Mycophenolate Mofetil 500 MG Oral Tablet	70475	Scleroderma	11	0.733333	200060	68149	mycophenolate mofetil	DOID:419	scleroderma
 152251	Mycophenolate Mofetil 500 MG Oral Tablet	70475	Scleroderma	11	0.733333	200060	68149	mycophenolate mofetil	DOID:418	Scleroderma
+152251	Mycophenolate Mofetil 500 MG Oral Tablet	70475	Scleroderma	11	0.733333	200060	68149	mycophenolate mofetil	DOID:419	scleroderma
 152251	Mycophenolate Mofetil 500 MG Oral Tablet	70478	Sjogren's Syndrome	2	0.333333	200060	68149	mycophenolate mofetil	DOID:12894	Sjogren's syndrome
 152251	Mycophenolate Mofetil 500 MG Oral Tablet	70640	Wegener's Granulomatosis	4	1	200060	68149	mycophenolate mofetil	DOID:12132	Wegener's granulomatosis
 152371	LaMICtal ODT 100 MG Oral Tablet Dispersible	297231	Epilepsy	2	0.666667	849049	28439	lamotrigine	DOID:1826	epilepsy
@@ -3515,15 +3516,15 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 152386	LaMICtal ODT 25 MG Oral Tablet Dispersible	297231	Epilepsy	3	0.75	849051	28439	lamotrigine	DOID:1826	epilepsy
 152412	Cimzia 2 X 200 MG/ML Subcutaneous Kit	70455	Rheumatoid Arthritis	4	1	849599	709271	certolizumab pegol	DOID:7148	rheumatoid arthritis
 152429	Ursodiol 500 MG Oral Tablet	65292	Primary Biliary Cirrhosis	2	0.5	858733	62427	Ursodeoxycholate	DOID:12236	primary biliary cirrhosis
-152429	Ursodiol 500 MG Oral Tablet	70475	Scleroderma	2	0.5	858733	62427	Ursodeoxycholate	DOID:419	scleroderma
 152429	Ursodiol 500 MG Oral Tablet	70475	Scleroderma	2	0.5	858733	62427	Ursodeoxycholate	DOID:418	Scleroderma
+152429	Ursodiol 500 MG Oral Tablet	70475	Scleroderma	2	0.5	858733	62427	Ursodeoxycholate	DOID:419	scleroderma
 152650	LaMICtal XR 100 MG Oral Tablet Extended Release 24 Hour	297231	Epilepsy	3	0.75	900145	28439	lamotrigine	DOID:1826	epilepsy
 152663	Cetraxal 0.2 % Otic Solution	62322	Otitis Externa	2	1	848960	2551	Ciprofloxacin	DOID:9463	otitis externa
 153075	Benzoyl Peroxide Wash 7 % External Liquid	69606	Acne	2	1	845988	1418	Benzoyl Peroxide	DOID:6543	acne
 153077	Adcirca 20 MG Oral Tablet	63484	Pulmonary Hypertension	9	0.75	849866	358263	tadalafil	DOID:6432	pulmonary hypertension
 153077	Adcirca 20 MG Oral Tablet	64205	Chronic Obstructive Pulmonary Disease	2	0.4	849866	358263	tadalafil	DOID:3083	chronic obstructive pulmonary disease
-153077	Adcirca 20 MG Oral Tablet	70475	Scleroderma	2	0.5	849866	358263	tadalafil	DOID:419	scleroderma
 153077	Adcirca 20 MG Oral Tablet	70475	Scleroderma	2	0.5	849866	358263	tadalafil	DOID:418	Scleroderma
+153077	Adcirca 20 MG Oral Tablet	70475	Scleroderma	2	0.5	849866	358263	tadalafil	DOID:419	scleroderma
 153126	Multaq 400 MG Oral Tablet	62916	Atrial Fibrillation	16	0.372093	854859	233698	dronedarone	DOID:0060224	atrial fibrillation
 153132	Bicalutamide 50 MG Oral Tablet	278812	Prostate Cancer	32	0.727273	199123	83008	bicalutamide	DOID:10283	prostate cancer
 153161	Effient 10 MG Oral Tablet	62975	Coronary Artery Disease	9	0.391304	855816	613391	prasugrel	DOID:3393	coronary artery disease
@@ -3534,8 +3535,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 153415	Onglyza 5 MG Oral Tablet	69381	Type II Diabetes Mellitus	12	0.6	858040	857974	saxagliptin	DOID:9352	type II diabetes mellitus
 153592	Colcrys 0.6 MG Oral Tablet	70384	Gout	28	0.666667	858071	2683	Colchicine	DOID:13189	gout
 153592	Colcrys 0.6 MG Oral Tablet	70406	Pseudogout	2	0.666667	858071	2683	Colchicine	DOID:1156	pseudogout
-153592	Colcrys 0.6 MG Oral Tablet	70475	Scleroderma	2	1	858071	2683	Colchicine	DOID:419	scleroderma
 153592	Colcrys 0.6 MG Oral Tablet	70475	Scleroderma	2	1	858071	2683	Colchicine	DOID:418	Scleroderma
+153592	Colcrys 0.6 MG Oral Tablet	70475	Scleroderma	2	1	858071	2683	Colchicine	DOID:419	scleroderma
 153655	Ventavis 20 MCG/ML Inhalation Solution	63484	Pulmonary Hypertension	2	0.666667	861966	40138	Iloprost	DOID:6432	pulmonary hypertension
 153753	Astepro 0.15 % Nasal Solution	62598	Allergic Rhinitis	15	0.454545	862042	18603	azelastine	DOID:4481	allergic rhinitis
 153753	Astepro 0.15 % Nasal Solution	62611	Chronic Rhinitis	3	0.428571	862042	18603	azelastine	DOID:8252	chronic rhinitis
@@ -3578,8 +3579,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 154855	Lansoprazole 30 MG Oral Capsule Delayed Release	64869	Duodenal Ulcer	3	1	311277	17128	lansoprazole	DOID:1724	duodenal ulcer
 154855	Lansoprazole 30 MG Oral Capsule Delayed Release	64980	Crohn's Disease	3	0.5	311277	17128	lansoprazole	DOID:8778	Crohn's disease
 154855	Lansoprazole 30 MG Oral Capsule Delayed Release	65041	Ulcerative Colitis	2	0.5	311277	17128	lansoprazole	DOID:8577	ulcerative colitis
-154855	Lansoprazole 30 MG Oral Capsule Delayed Release	70475	Scleroderma	3	0.25	311277	17128	lansoprazole	DOID:419	scleroderma
 154855	Lansoprazole 30 MG Oral Capsule Delayed Release	70475	Scleroderma	3	0.25	311277	17128	lansoprazole	DOID:418	Scleroderma
+154855	Lansoprazole 30 MG Oral Capsule Delayed Release	70475	Scleroderma	3	0.25	311277	17128	lansoprazole	DOID:419	scleroderma
 154855	Lansoprazole 30 MG Oral Capsule Delayed Release	70478	Sjogren's Syndrome	2	0.25	311277	17128	lansoprazole	DOID:12894	Sjogren's syndrome
 154855	Lansoprazole 30 MG Oral Capsule Delayed Release	282704	Acute Gastritis	3	0.5	311277	17128	lansoprazole	DOID:4029	acute Gastritis
 154880	TraMADol HCl 100 MG Oral Tablet Extended Release 24 Hour	63217	Congestive Heart Failure	2	0.5	833709	10689	Tramadol	DOID:6000	congestive heart failure
@@ -3607,8 +3608,8 @@ medication_definition_id	medication	problem_definition_id	problem	patient_link_f
 155509	Slow Iron 160 (50 Fe) MG Oral Tablet Extended Release	77962	Anemia	2	0.666667	210095	24947	ferrous sulfate	DOID:2355	anemia
 155528	Voltaren 1 % Transdermal Gel	70146	Osteoarthritis	8	0.470588	855635	3355	Diclofenac	DOID:8398	osteoarthritis
 155528	Voltaren 1 % Transdermal Gel	70455	Rheumatoid Arthritis	8	0.533333	855635	3355	Diclofenac	DOID:7148	rheumatoid arthritis
-155528	Voltaren 1 % Transdermal Gel	70475	Scleroderma	3	0.6	855635	3355	Diclofenac	DOID:419	scleroderma
 155528	Voltaren 1 % Transdermal Gel	70475	Scleroderma	3	0.6	855635	3355	Diclofenac	DOID:418	Scleroderma
+155528	Voltaren 1 % Transdermal Gel	70475	Scleroderma	3	0.6	855635	3355	Diclofenac	DOID:419	scleroderma
 155528	Voltaren 1 % Transdermal Gel	257996	Arthritis	3	0.5	855635	3355	Diclofenac	DOID:848	arthritis
 156017	Ampyra 10 MG Oral Tablet Extended Release 12 Hour	75125	Multiple Sclerosis	26	0.722222	897025	897018	dalfampridine	DOID:2377	multiple sclerosis
 156037	Norvir 100 MG Oral Tablet	76835	HIV Infection	23	0.657143	900577	85762	Ritonavir	DOID:526	HIV infection

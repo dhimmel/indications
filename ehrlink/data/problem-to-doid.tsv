@@ -20,8 +20,8 @@ problem_definition_id	problem	indications	name_lower	doid	name	type
 67970	Hyperlipidemia	69	hyperlipidemia			
 76357	Major Depression, Recurrent	67	major depression, recurrent			
 75080	Parkinson's Disease	64	parkinson's disease	DOID:14330	Parkinson's disease	name
-70475	Scleroderma	63	scleroderma	DOID:419	scleroderma	name
 70475	Scleroderma	63	scleroderma	DOID:418	Scleroderma	exact-synonym
+70475	Scleroderma	63	scleroderma	DOID:419	scleroderma	name
 63217	Congestive Heart Failure	61	congestive heart failure	DOID:6000	congestive heart failure	name
 64688	Esophageal Reflux	61	esophageal reflux			
 91089	Lower Back Pain	60	lower back pain			
@@ -931,9 +931,9 @@ problem_definition_id	problem	indications	name_lower	doid	name	type
 168628	Tinea Facialis	2	tinea facialis			
 168612	Cellulitis Of The Right Leg	2	cellulitis of the right leg			
 168530	Chronic Nondecubitus Ulcer Of The Ankle	2	chronic nondecubitus ulcer of the ankle			
+167200	Premature Menopause	2	premature menopause	DOID:5426	premature menopause	exact-synonym
 167200	Premature Menopause	2	premature menopause	DOID:10787	premature menopause	name
 167200	Premature Menopause	2	premature menopause	DOID:10787	Premature menopause	exact-synonym
-167200	Premature Menopause	2	premature menopause	DOID:5426	premature menopause	exact-synonym
 63746	Venous Thrombosis	2	venous thrombosis			
 63765	Carotid Artery Stenosis	2	carotid artery stenosis			
 63912	Varicose Veins With Inflammation	2	varicose veins with inflammation			
@@ -1393,7 +1393,7 @@ problem_definition_id	problem	indications	name_lower	doid	name	type
 93474	Taking Medication - Steroids	1	taking medication - steroids			
 64158	Atypical Mycobacterial Pneumonia	1	atypical mycobacterial pneumonia			
 66490	Pregnancy Complicated By Asymptomatic Bacteriuria	1	pregnancy complicated by asymptomatic bacteriuria			
-75964	Alcoholism	1	alcoholism			
+75964	Alcoholism	1	alcoholism	DOID:0050741	alcoholism	exact-synonym
 75960	Alcohol Abuse - In Remission	1	alcohol abuse - in remission			
 64120	Influenza Type A	1	influenza type a			
 76276	Schizoaffective Disorder Chronic (With Residual Symptoms)	1	schizoaffective disorder chronic (with residual symptoms)			

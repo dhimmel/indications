@@ -1,20 +1,22 @@
 doid_code	drugbank_id	doid_name	drugbank_name	n_hc_resources	n_lc_resources	confidence
+DOID:0050156	DB00860	idiopathic pulmonary fibrosis	Prednisolone	1	1	high
 DOID:0050425	DB00190	restless legs syndrome	Carbidopa	1	0	high
 DOID:0050425	DB00193	restless legs syndrome	Tramadol	1	0	high
 DOID:0050425	DB00230	restless legs syndrome	Pregabalin	1	0	high
-DOID:0050425	DB00268	restless legs syndrome	Ropinirole	3	0	high
-DOID:0050425	DB00413	restless legs syndrome	Pramipexole	3	0	high
+DOID:0050425	DB00268	restless legs syndrome	Ropinirole	4	0	high
+DOID:0050425	DB00413	restless legs syndrome	Pramipexole	4	0	high
 DOID:0050425	DB00564	restless legs syndrome	Carbamazepine	2	0	high
 DOID:0050425	DB00575	restless legs syndrome	Clonidine	1	1	high
 DOID:0050425	DB00647	restless legs syndrome	Dextropropoxyphene	0	1	low
 DOID:0050425	DB00829	restless legs syndrome	Diazepam	0	1	low
 DOID:0050425	DB00988	restless legs syndrome	Dopamine	0	1	low
-DOID:0050425	DB00996	restless legs syndrome	Gabapentin	2	1	high
+DOID:0050425	DB00996	restless legs syndrome	Gabapentin	3	1	high
 DOID:0050425	DB01068	restless legs syndrome	Clonazepam	3	0	high
 DOID:0050425	DB01186	restless legs syndrome	Pergolide	0	1	low
 DOID:0050425	DB01235	restless legs syndrome	L-DOPA	1	1	high
 DOID:0050425	DB01367	restless legs syndrome	Rasagiline	0	1	low
 DOID:0050425	DB05271	restless legs syndrome	Rotigotine	0	1	low
+DOID:0050741	DB00158	alcohol dependence	Folic Acid	1	0	high
 DOID:0050741	DB00215	alcohol dependence	Citalopram	1	0	high
 DOID:0050741	DB00475	alcohol dependence	Chlordiazepoxide	1	0	high
 DOID:0050741	DB00659	alcohol dependence	Acamprosate	1	0	high
@@ -22,6 +24,7 @@ DOID:0050741	DB00704	alcohol dependence	Naltrexone	1	0	high
 DOID:0050741	DB00822	alcohol dependence	Disulfiram	1	0	high
 DOID:0050741	DB00904	alcohol dependence	Ondansetron	1	0	high
 DOID:0050742	DB00184	nicotine dependence	Nicotine	1	0	high
+DOID:0050742	DB00659	nicotine dependence	Acamprosate	0	1	low
 DOID:0050742	DB01273	nicotine dependence	Varenicline	1	0	high
 DOID:0060073	DB00262	Lymphatic system cancer	Carmustine	1	0	high
 DOID:0060073	DB00290	Lymphatic system cancer	Bleomycin	1	0	high

@@ -52,7 +52,7 @@ mapped.df <- ehrlink.df %>% dplyr::inner_join(
 mapped.df %>%
   write.table(file.path('data', 'indications.tsv'), quote=FALSE, row.names=FALSE, sep='\t')
 
-mapped.df %>% DT::datatable()
+mapped.df %>% DT::datatable(rownames=F)
 
 # DT::datatable(ehrlink.df)
 # DT::datatable(ingredient_map.df)

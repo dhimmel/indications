@@ -66,6 +66,7 @@ DOID:6364	DB00216	labeledin	Eletriptan	migraine
 DOID:3312	DB00477	labeledin	Chlorpromazine	bipolar disorder
 DOID:12995	DB00477	labeledin	Chlorpromazine	conduct disorder
 DOID:1826	DB00996	labeledin	Gabapentin	epilepsy syndrome
+DOID:0050425	DB00996	labeledin	Gabapentin	restless legs syndrome
 DOID:9352	DB00222	labeledin	Glimepiride	type 2 diabetes mellitus
 DOID:1612	DB00990	labeledin	Exemestane	Breast cancer
 DOID:1826	DB01068	labeledin	Clonazepam	epilepsy syndrome
@@ -199,6 +200,7 @@ DOID:3393	DB00295	labeledin	Morphine	coronary artery disease
 DOID:1612	DB00481	labeledin	Raloxifene	Breast cancer
 DOID:11476	DB00481	labeledin	Raloxifene	osteoporosis
 DOID:14330	DB00268	labeledin	Ropinirole	Parkinson's disease
+DOID:0050425	DB00268	labeledin	Ropinirole	restless legs syndrome
 DOID:1612	DB01248	labeledin	Docetaxel	Breast cancer
 DOID:1324	DB01248	labeledin	Docetaxel	Lung cancer
 DOID:10283	DB01248	labeledin	Docetaxel	Prostate cancer
@@ -209,6 +211,7 @@ DOID:3393	DB00627	labeledin	Niacin	coronary artery disease
 DOID:4989	DB00627	labeledin	Niacin	pancreatitis
 DOID:10763	DB01115	labeledin	Nifedipine	hypertension
 DOID:14330	DB00413	labeledin	Pramipexole	Parkinson's disease
+DOID:0050425	DB00413	labeledin	Pramipexole	restless legs syndrome
 DOID:1595	DB00540	labeledin	Nortriptyline	endogenous depression
 DOID:2531	DB00399	labeledin	Zoledronate	Hematologic cancer
 DOID:5408	DB00399	labeledin	Zoledronate	Paget's disease of bone
@@ -239,6 +242,7 @@ DOID:13189	DB00860	labeledin	Prednisolone	gout
 DOID:3083	DB00860	labeledin	Prednisolone	chronic obstructive pulmonary disease
 DOID:2377	DB00860	labeledin	Prednisolone	multiple sclerosis
 DOID:8893	DB00860	labeledin	Prednisolone	psoriasis
+DOID:0050156	DB00860	labeledin	Prednisolone	idiopathic pulmonary fibrosis
 DOID:2355	DB00635	labeledin	Prednisone	anemia
 DOID:13189	DB00635	labeledin	Prednisone	gout
 DOID:9008	DB00635	labeledin	Prednisone	psoriatic arthritis
@@ -272,6 +276,7 @@ DOID:14330	DB01037	labeledin	Selegiline	Parkinson's disease
 DOID:8986	DB01440	labeledin	Gamma Hydroxybutyric Acid	narcolepsy
 DOID:2355	DB00513	labeledin	Aminocaproic Acid	anemia
 DOID:10763	DB00421	labeledin	Spironolactone	hypertension
+DOID:0050156	DB00860	medi_lps	Prednisolone	idiopathic pulmonary fibrosis
 DOID:0050425	DB00268	medi_hps	Ropinirole	restless legs syndrome
 DOID:0050425	DB00413	medi_hps	Pramipexole	restless legs syndrome
 DOID:0050425	DB00564	medi_hps	Carbamazepine	restless legs syndrome
@@ -285,6 +290,7 @@ DOID:0050425	DB01186	medi_lps	Pergolide	restless legs syndrome
 DOID:0050425	DB01235	medi_lps	L-DOPA	restless legs syndrome
 DOID:0050425	DB01367	medi_lps	Rasagiline	restless legs syndrome
 DOID:0050425	DB05271	medi_lps	Rotigotine	restless legs syndrome
+DOID:0050742	DB00659	medi_lps	Acamprosate	nicotine dependence
 DOID:0060073	DB00291	medi_lps	Chlorambucil	Lymphatic system cancer
 DOID:0060073	DB00888	medi_hps	Mechlorethamine	Lymphatic system cancer
 DOID:1024	DB00201	medi_lps	Caffeine	leprosy
@@ -2724,6 +2730,16 @@ DOID:1686	DB00195	predict	Betaxolol	glaucoma
 DOID:1686	DB01210	predict	Levobunolol	glaucoma
 DOID:1686	DB01194	predict	Brinzolamide	glaucoma
 DOID:1686	DB00869	predict	Dorzolamide	glaucoma
+DOID:0050425	DB00575	predict	Clonidine	restless legs syndrome
+DOID:0050425	DB01068	predict	Clonazepam	restless legs syndrome
+DOID:0050425	DB00413	predict	Pramipexole	restless legs syndrome
+DOID:0050425	DB00193	predict	Tramadol	restless legs syndrome
+DOID:0050425	DB00564	predict	Carbamazepine	restless legs syndrome
+DOID:0050425	DB01235	predict	L-DOPA	restless legs syndrome
+DOID:0050425	DB00268	predict	Ropinirole	restless legs syndrome
+DOID:0050425	DB00230	predict	Pregabalin	restless legs syndrome
+DOID:0050425	DB00190	predict	Carbidopa	restless legs syndrome
+DOID:0050425	DB00996	predict	Gabapentin	restless legs syndrome
 DOID:11476	DB00717	predict	Norethindrone	osteoporosis
 DOID:11476	DB00783	predict	Estradiol	osteoporosis
 DOID:11476	DB00630	predict	Alendronate	osteoporosis
@@ -2812,16 +2828,6 @@ DOID:5419	DB01224	predict	Quetiapine	schizophrenia
 DOID:5419	DB00679	predict	Thioridazine	schizophrenia
 DOID:5419	DB00831	predict	Trifluoperazine	schizophrenia
 DOID:5419	DB01267	predict	Paliperidone	schizophrenia
-DOID:0050425	DB00575	predict	Clonidine	restless legs syndrome
-DOID:0050425	DB01068	predict	Clonazepam	restless legs syndrome
-DOID:0050425	DB00413	predict	Pramipexole	restless legs syndrome
-DOID:0050425	DB00193	predict	Tramadol	restless legs syndrome
-DOID:0050425	DB00564	predict	Carbamazepine	restless legs syndrome
-DOID:0050425	DB01235	predict	L-DOPA	restless legs syndrome
-DOID:0050425	DB00268	predict	Ropinirole	restless legs syndrome
-DOID:0050425	DB00230	predict	Pregabalin	restless legs syndrome
-DOID:0050425	DB00190	predict	Carbidopa	restless legs syndrome
-DOID:0050425	DB00996	predict	Gabapentin	restless legs syndrome
 DOID:0050741	DB00215	predict	Citalopram	alcohol dependence
 DOID:0050741	DB00704	predict	Naltrexone	alcohol dependence
 DOID:0050741	DB00659	predict	Acamprosate	alcohol dependence
@@ -2957,6 +2963,7 @@ DOID:7148	DB00158	ehrlink	Folic Acid	rheumatoid arthritis
 DOID:9074	DB00158	ehrlink	Folic Acid	systemic lupus erythematosus
 DOID:418	DB00158	ehrlink	Folic Acid	systemic scleroderma
 DOID:7147	DB00158	ehrlink	Folic Acid	ankylosing spondylitis
+DOID:0050741	DB00158	ehrlink	Folic Acid	alcohol dependence
 DOID:1324	DB00158	ehrlink	Folic Acid	Lung cancer
 DOID:1826	DB00158	ehrlink	Folic Acid	epilepsy syndrome
 DOID:2355	DB00158	ehrlink	Folic Acid	anemia
