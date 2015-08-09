@@ -7,64 +7,69 @@ output:
 ---
 
 ```{r, message=FALSE}
+library(readr)
 library(dplyr)
 library(DT)
-
-options(stringsAsFactors = FALSE)
 ```
 
 
 ## Read input for compound mapping
 
 ```{r}
-# read the file of approved, SM, structured drugbank compounds
-drugbank.df <- 'https://raw.githubusercontent.com/dhimmel/drugbank/3e87872db5fca5ac427ce27464ab945c0ceb4ec6/data/drugbank-slim.tsv' %>%
-  read.delim(stringsAsFactors=FALSE, na.strings='') %>%
+# Read DrugBank
+drugbank_df <- 'https://raw.githubusercontent.com/dhimmel/drugbank/3e87872db5fca5ac427ce27464ab945c0ceb4ec6/data/drugbank.tsv' %>%
+  readr::read_tsv() %>%
   dplyr::transmute(drugbank_id, drugbank_name = name)
 
-# construct a rxnorm to drugbank mapping (through FDA-SRS UNII)
-rxnorm.df <- dplyr::inner_join(
-  file.path('data', 'rxcui-unii-map.tsv') %>%
-    read.delim(),
-  'https://raw.githubusercontent.com/dhimmel/drugbank/3e87872db5fca5ac427ce27464ab945c0ceb4ec6/data/mapping/fdasrs.tsv' %>%
-    read.delim()
-)
+# Retreive DrugBank Slim compounds
+drugbank_slim <- readr::read_tsv('https://raw.githubusercontent.com/dhimmel/drugbank/3e87872db5fca5ac427ce27464ab945c0ceb4ec6/data/drugbank-slim.tsv')$drugbank_id
 
+# Construct a rxnorm to drugbank mapping (through FDA-SRS UNII)
+rxnorm_df <- dplyr::inner_join(
+  file.path('data', 'rxcui-unii-map.tsv') %>%
+    readr::read_tsv(),
+  'https://raw.githubusercontent.com/dhimmel/drugbank/3e87872db5fca5ac427ce27464ab945c0ceb4ec6/data/mapping/fdasrs.tsv' %>%
+    readr::read_tsv()
+)
 ```
 
 ## Read input for disease mapping
 
 ```{r}
-# read the file with DO slim terms
-do.df <- 
-  'https://raw.githubusercontent.com/dhimmel/disease-ontology/72614ade9f1cc5a5317b8f6836e1e464b31d5587/data/slim-terms.tsv' %>%
-  read.delim() %>%
+# read the file of Disease Ontology terms
+do_df <- 
+  'https://raw.githubusercontent.com/dhimmel/disease-ontology/72614ade9f1cc5a5317b8f6836e1e464b31d5587/data/term-names.tsv' %>%
+  readr::read_tsv() %>%
+  dplyr::filter(type == 'name') %>%
   dplyr::transmute(doid_code = doid, doid_name = name)
 
-# read disease ontology slim term propagations
-doslim.df <- 
-  'https://raw.githubusercontent.com/dhimmel/disease-ontology/72614ade9f1cc5a5317b8f6836e1e464b31d5587/data/slim-terms-prop.tsv' %>%
-  read.delim()
+# Retreive DO Slim diseases
+do_slim <- readr::read_tsv('https://raw.githubusercontent.com/dhimmel/disease-ontology/72614ade9f1cc5a5317b8f6836e1e464b31d5587/data/slim-terms-prop.tsv')$subsumed_id %>% unique()
 
-# read disease ontology slim mappings
-domap.df <- 
-  'https://raw.githubusercontent.com/dhimmel/disease-ontology/72614ade9f1cc5a5317b8f6836e1e464b31d5587/data/xrefs-prop-slim.tsv' %>%
-   read.delim()
+# read disease ontology slim term propagations
+doslim_map_df <- 
+  'https://raw.githubusercontent.com/dhimmel/disease-ontology/72614ade9f1cc5a5317b8f6836e1e464b31d5587/data/slim-terms-prop.tsv' %>%
+  readr::read_tsv()
+
+# read disease ontology mappings
+domap_df <- 
+  'https://raw.githubusercontent.com/dhimmel/disease-ontology/72614ade9f1cc5a5317b8f6836e1e464b31d5587/data/xrefs.tsv' %>%
+   readr::read_tsv()
 
 # extract the DO to UMLS mapping
-umls.df <- domap.df %>%
+umls_df <- domap_df %>%
   dplyr::filter(resource == 'UMLS') %>%
   dplyr::select(-resource) %>%
   dplyr::rename(disease_cui = resource_id)
 
 # extract the DO to ICD9 mapping
-icd9.df <- domap.df %>%
+icd9_df <- domap_df %>%
   dplyr::filter(resource == 'ICD9') %>%
   dplyr::select(-resource) %>%
   dplyr::rename(disease_icd9 = resource_id)
 
 # extract the DO to OMIM mapping
-omim.df <- domap.df %>%
+omim_df <- domap_df %>%
   dplyr::filter(resource == 'OMIM') %>%
   dplyr::select(-resource) %>%
   dplyr::rename(disease_omim = resource_id) %>%
@@ -74,147 +79,184 @@ omim.df <- domap.df %>%
 ## Read and map labeledin
 
 ```{r}
-labin.df <-
+labin_df <-
   # read labeledin data
   file.path('labeledin', 'data', 'indications.tsv') %>%
-  read.delim() %>%
-  # remove combo drugs
+  readr::read_tsv(col_types = list(rxnorm_id = readr::col_character())) %>%
+  # removes combo drugs which do not convert to integer
   dplyr::mutate(rxnorm_id = as.integer(rxnorm_id)) %>%
   dplyr::filter(! is.na(rxnorm_id)) %>%
   # map umls diseases to DO
-  dplyr::inner_join(umls.df) %>%
+  dplyr::inner_join(umls_df) %>%
   # map rxnorm compounds to drugbank
-  dplyr::inner_join(rxnorm.df)
+  dplyr::inner_join(rxnorm_df)
 ```
 
 ## Read and map MEDI
 
 ```{r}
-medi.df <- 
+medi_df <- 
   file.path('medi', 'data', 'medi-umls.tsv') %>%
-  read.delim() %>%
-  dplyr::inner_join(rxnorm.df)
+  readr::read_tsv() %>%
+  dplyr::inner_join(rxnorm_df)
 
-medi.df <- dplyr::bind_rows(
-  umls.df %>%
-    dplyr::inner_join(medi.df),
-  icd9.df %>%
-    dplyr::inner_join(medi.df)
+medi_df <- dplyr::bind_rows(
+  umls_df %>%
+    dplyr::inner_join(medi_df),
+  icd9_df %>%
+    dplyr::inner_join(medi_df)
 )
-
 ```
 
 ## Read and map PREDICT
 
 ```{r}
-predict.df <- 
+predict_df <- 
   file.path('msb-predict', 'data', 'indications-umls.tsv') %>%
-  read.delim() %>%
+  readr::read_tsv() %>%
   dplyr::rename(disease_cui = umls_cui, disease_omim = omim_id)
 
-predict.df <- dplyr::bind_rows(
-  umls.df %>%
-    dplyr::inner_join(predict.df),
-  omim.df %>%
-    dplyr::inner_join(predict.df)
+predict_df <- dplyr::bind_rows(
+  umls_df %>%
+    dplyr::inner_join(predict_df),
+  omim_df %>%
+    dplyr::inner_join(predict_df)
 )
 ```
 
 ## Read and map ehrlink
 
 ```{r}
-ehrlink.df <- 
+ehrlink_df <- 
   file.path('ehrlink', 'data', 'indications.tsv') %>%
-  read.delim()
-
-ehrlink.df <- ehrlink.df %>%
-  dplyr::rename(subsumed_id = doid_code, subsumed_name = doid_name) %>%
-  dplyr::inner_join(
-    doslim.df %>% dplyr::transmute(subsumed_id, doid_code = slim_id, doid_name = slim_name)
-  ) %>%
-  dplyr::inner_join(rxnorm.df %>% dplyr::rename(ingredient_rxcui = rxnorm_id))
+  readr::read_tsv() %>%
+  dplyr::rename(rxnorm_id = ingredient_rxcui) %>%
+  dplyr::inner_join(rxnorm_df)
+# ehrlink.df <- ehrlink.df %>%
+#   dplyr::rename(subsumed_id = doid_code, subsumed_name = doid_name) %>%
+#   dplyr::inner_join(
+#     doslim.df %>% dplyr::transmute(subsumed_id, doid_code = slim_id, doid_name = slim_name)
+#   ) %>%
+#   dplyr::inner_join(rxnorm.df %>% dplyr::rename(ingredient_rxcui = rxnorm_id))
 ```
 
 ## Join resources
 
 ```{r}
-indication.df <- dplyr::bind_rows(
+indication_df <- dplyr::bind_rows(
   # LabeledIn
-  labin.df %>%
+  labin_df %>%
     dplyr::select(doid_code, drugbank_id) %>%
     dplyr::distinct() %>%
     dplyr::mutate(resource = 'labeledin'),
   # MEDI
-  medi.df %>%
+  medi_df %>%
     dplyr::group_by(doid_code, drugbank_id) %>%
     dplyr::summarize(
       resource = ifelse(max(hps), 'medi_hps', 'medi_lps')
     ) %>%
     dplyr::ungroup(),
   # PREDICT
-  predict.df %>%
+  predict_df %>%
     dplyr::select(doid_code, drugbank_id) %>%
     dplyr::distinct() %>%
     dplyr::mutate(resource = 'predict'),
   # ehrlink
-  ehrlink.df %>%
+  ehrlink_df %>%
     dplyr::select(doid_code, drugbank_id) %>%
     dplyr::distinct() %>%
     dplyr::mutate(resource = 'ehrlink')
-)
+) %>%
+  dplyr::arrange(doid_code, drugbank_id, resource)
 
 # add compound and disease names
-indication.df <- indication.df %>%
-  dplyr::inner_join(drugbank.df) %>%
-  dplyr::left_join(do.df)
+indication_df <- indication_df %>%
+  dplyr::inner_join(drugbank_df) %>%
+  dplyr::left_join(do_df)
 
-# save sourced indications
-path <- file.path('data', 'indications-with-source.tsv')
-write.table(indication.df, path, sep='\t', row.names=FALSE, quote=FALSE)
+# save
+indication_df %>% readr::write_tsv(file.path('data', 'indications-verbose.tsv'))
 
-indication.df %>% DT::datatable(rownames=F)
+indication_df %>% DT::datatable(rownames=F)
 ```
 
-## Convert to a single row per compound-disease pair
+```{r}
+indication_slim_df <- indication_df %>% 
+  dplyr::filter(drugbank_id %in% drugbank_slim) %>%
+  dplyr::filter(doid_code %in% do_slim) %>%
+  dplyr::rename(do_subsumed_id = doid_code, do_subsumed_name = doid_name) %>%
+  dplyr::inner_join(
+    doslim_map_df %>%
+      dplyr::transmute(do_slim_id = slim_id, do_slim_name = slim_name, do_subsumed_id = subsumed_id)
+  ) %>%
+  dplyr::select(drugbank_id, drugbank_name, do_slim_id, do_slim_name, do_subsumed_id, do_subsumed_name, resource) %>%
+  dplyr::arrange(drugbank_id, do_slim_id, do_subsumed_id, resource)
+
+# save sourced indications
+indication_slim_df %>% readr::write_tsv(file.path('data', 'indications-slim-verbose.tsv'))
+```
+
+## Convert to a single row per compound-disease pair. Include only high confidence indications
 <a name="indication-table"></a>
 
 ```{r}
-hc.sources <- c('medi_hps', 'ehrlink', 'labeledin', 'predict')
-lc.sources <- c('medi_lps')
+hc_sources <- c('medi_hps', 'ehrlink', 'labeledin', 'predict')
 
-indication_no_source.df <- indication.df %>%
-  dplyr::group_by(doid_code, drugbank_id, doid_name, drugbank_name) %>%
+collapsed_df <- indication_slim_df %>%
+  dplyr::filter(resource %in% hc_sources) %>%
+  dplyr::rename(doid_id = do_slim_id, doid_name = do_slim_name) %>%
+  dplyr::group_by(drugbank_id, drugbank_name, doid_id, doid_name) %>%
   dplyr::summarize(
-    n_hc_resources = length(intersect(resource, hc.sources)),
-    n_lc_resources = length(intersect(resource, lc.sources))
-    ) %>%
-  dplyr::ungroup() %>%
-  dplyr::mutate(confidence = ifelse(n_hc_resources > 0, 'high', 'low'))
+    distinct_resources = n_distinct(resource),
+    total_resources = n()
+  ) %>% dplyr::ungroup()
 
-path <- file.path('data', 'indications.tsv')
-write.table(indication_no_source.df, path, sep='\t', row.names=FALSE, quote=FALSE)
+# save
+collapsed_df %>% readr::write_tsv(file.path('data', 'indications-slim-collapsed.tsv'))
 
-indication_no_source.df %>% DT::datatable(rownames=F)
+collapsed_df %>% DT::datatable(rownames=F)
 ```
 
 ## Indications per disease
 
 ```{r}
-indication_no_source.df %>%
-  dplyr::group_by(doid_code, doid_name) %>%
+collapsed_df %>%
+  dplyr::group_by(doid_id, doid_name) %>%
   dplyr::summarize(
-    'n_hc' = sum(confidence == 'high'),
-    'n_lc' = sum(confidence == 'low')) %>%
+    'n_indications' = n()
+  ) %>% 
   DT::datatable(rownames=F)
 ```
 
 ## Indications per compound
 
 ```{r}
-indication_no_source.df %>%
+collapsed_df %>%
   dplyr::group_by(drugbank_id, drugbank_name) %>%
   dplyr::summarize(
-    'n_hc' = sum(confidence == 'high'),
-    'n_lc' = sum(confidence == 'low')) %>%
+    'n_indications' = n()
+  ) %>%
   DT::datatable(rownames=F)
+```
+
+## Create a dataset for the curators
+
+```{r}
+curation_df <- collapsed_df %>%
+  dplyr::transmute(
+    drug = drugbank_name,
+    disease = doid_name,
+    classification = '',
+    notes = '',
+    drug_url = paste0('http://www.drugbank.ca/drugs/', drugbank_id),
+    disease_url = paste0('http://www.disease-ontology.org/term/', URLencode(doid_id, TRUE))
+  ) %>% dplyr::arrange(drug, disease)
+
+curation_df %>% readr::write_tsv(file.path('data', 'curation.tsv'))
+
+set.seed(0)
+curation_df %>%
+  dplyr::sample_n(50) %>%
+  dplyr::arrange(drug, disease) %>%
+  readr::write_tsv(file.path('data', 'curation-subset.tsv'))
 ```

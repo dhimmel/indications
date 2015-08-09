@@ -1,0 +1,1389 @@
+drug	disease	classification	notes	drug_url	disease_url
+Abacavir	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB01048	http://www.disease-ontology.org/term/DOID%3A10283
+Abiraterone	prostate cancer			http://www.drugbank.ca/drugs/DB05812	http://www.disease-ontology.org/term/DOID%3A10283
+Acamprosate	alcohol dependence			http://www.drugbank.ca/drugs/DB00659	http://www.disease-ontology.org/term/DOID%3A10283
+Acarbose	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00284	http://www.disease-ontology.org/term/DOID%3A10283
+Acebutolol	hypertension			http://www.drugbank.ca/drugs/DB01193	http://www.disease-ontology.org/term/DOID%3A10283
+Acetaminophen	migraine			http://www.drugbank.ca/drugs/DB00316	http://www.disease-ontology.org/term/DOID%3A10283
+Acetaminophen	osteoarthritis			http://www.drugbank.ca/drugs/DB00316	http://www.disease-ontology.org/term/DOID%3A10283
+Acetazolamide	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00819	http://www.disease-ontology.org/term/DOID%3A10283
+Acetazolamide	glaucoma			http://www.drugbank.ca/drugs/DB00819	http://www.disease-ontology.org/term/DOID%3A10283
+Acetophenazine	schizophrenia			http://www.drugbank.ca/drugs/DB01063	http://www.disease-ontology.org/term/DOID%3A10283
+Acetylcysteine	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB06151	http://www.disease-ontology.org/term/DOID%3A10283
+Acetylsalicylic acid	Kawasaki disease			http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A10283
+Acetylsalicylic acid	coronary artery disease			http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A10283
+Acetylsalicylic acid	gout			http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A10283
+Acetylsalicylic acid	hypertension			http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A10283
+Acetylsalicylic acid	migraine			http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A10283
+Acetylsalicylic acid	osteoarthritis			http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A10283
+Acetylsalicylic acid	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A10283
+Acetylsalicylic acid	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A10283
+Aciclovir	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00787	http://www.disease-ontology.org/term/DOID%3A10283
+Acitretin	psoriasis			http://www.drugbank.ca/drugs/DB00459	http://www.disease-ontology.org/term/DOID%3A10283
+Adefovir Dipivoxil	hepatitis B			http://www.drugbank.ca/drugs/DB00718	http://www.disease-ontology.org/term/DOID%3A10283
+Alendronate	Paget's disease of bone			http://www.drugbank.ca/drugs/DB00630	http://www.disease-ontology.org/term/DOID%3A10283
+Alendronate	breast cancer			http://www.drugbank.ca/drugs/DB00630	http://www.disease-ontology.org/term/DOID%3A10283
+Alendronate	osteoporosis			http://www.drugbank.ca/drugs/DB00630	http://www.disease-ontology.org/term/DOID%3A10283
+Alitretinoin	hematologic cancer			http://www.drugbank.ca/drugs/DB00523	http://www.disease-ontology.org/term/DOID%3A10283
+Alitretinoin	peripheral nervous system neoplasm			http://www.drugbank.ca/drugs/DB00523	http://www.disease-ontology.org/term/DOID%3A10283
+Allopurinol	gout			http://www.drugbank.ca/drugs/DB00437	http://www.disease-ontology.org/term/DOID%3A10283
+Allopurinol	hematologic cancer			http://www.drugbank.ca/drugs/DB00437	http://www.disease-ontology.org/term/DOID%3A10283
+Almotriptan	migraine			http://www.drugbank.ca/drugs/DB00918	http://www.disease-ontology.org/term/DOID%3A10283
+Alprazolam	panic disorder			http://www.drugbank.ca/drugs/DB00404	http://www.disease-ontology.org/term/DOID%3A10283
+Alprazolam	systemic scleroderma			http://www.drugbank.ca/drugs/DB00404	http://www.disease-ontology.org/term/DOID%3A10283
+Alprostadil	hypertension			http://www.drugbank.ca/drugs/DB00770	http://www.disease-ontology.org/term/DOID%3A10283
+Altretamine	ovarian cancer			http://www.drugbank.ca/drugs/DB00488	http://www.disease-ontology.org/term/DOID%3A10283
+Amantadine	Parkinson's disease			http://www.drugbank.ca/drugs/DB00915	http://www.disease-ontology.org/term/DOID%3A10283
+Amantadine	multiple sclerosis			http://www.drugbank.ca/drugs/DB00915	http://www.disease-ontology.org/term/DOID%3A10283
+Amiloride	hypertension			http://www.drugbank.ca/drugs/DB00594	http://www.disease-ontology.org/term/DOID%3A10283
+Aminocaproic Acid	anemia			http://www.drugbank.ca/drugs/DB00513	http://www.disease-ontology.org/term/DOID%3A10283
+Aminocaproic Acid	prostate cancer			http://www.drugbank.ca/drugs/DB00513	http://www.disease-ontology.org/term/DOID%3A10283
+Aminophylline	asthma			http://www.drugbank.ca/drugs/DB01223	http://www.disease-ontology.org/term/DOID%3A10283
+Aminophylline	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB01223	http://www.disease-ontology.org/term/DOID%3A10283
+Amiodarone	coronary artery disease			http://www.drugbank.ca/drugs/DB01118	http://www.disease-ontology.org/term/DOID%3A10283
+Amiodarone	hypertension			http://www.drugbank.ca/drugs/DB01118	http://www.disease-ontology.org/term/DOID%3A10283
+Amitriptyline	endogenous depression			http://www.drugbank.ca/drugs/DB00321	http://www.disease-ontology.org/term/DOID%3A10283
+Amitriptyline	migraine			http://www.drugbank.ca/drugs/DB00321	http://www.disease-ontology.org/term/DOID%3A10283
+Amitriptyline	multiple sclerosis			http://www.drugbank.ca/drugs/DB00321	http://www.disease-ontology.org/term/DOID%3A10283
+Amitriptyline	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00321	http://www.disease-ontology.org/term/DOID%3A10283
+Amitriptyline	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00321	http://www.disease-ontology.org/term/DOID%3A10283
+Amlodipine	coronary artery disease			http://www.drugbank.ca/drugs/DB00381	http://www.disease-ontology.org/term/DOID%3A10283
+Amlodipine	hypertension			http://www.drugbank.ca/drugs/DB00381	http://www.disease-ontology.org/term/DOID%3A10283
+Amobarbital	epilepsy syndrome			http://www.drugbank.ca/drugs/DB01351	http://www.disease-ontology.org/term/DOID%3A10283
+Amphetamine	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB00182	http://www.disease-ontology.org/term/DOID%3A10283
+Amphetamine	narcolepsy			http://www.drugbank.ca/drugs/DB00182	http://www.disease-ontology.org/term/DOID%3A10283
+Amprenavir	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00701	http://www.disease-ontology.org/term/DOID%3A10283
+Amrinone	dilated cardiomyopathy			http://www.drugbank.ca/drugs/DB01427	http://www.disease-ontology.org/term/DOID%3A10283
+Anagrelide	hematologic cancer			http://www.drugbank.ca/drugs/DB00261	http://www.disease-ontology.org/term/DOID%3A10283
+Anastrozole	breast cancer			http://www.drugbank.ca/drugs/DB01217	http://www.disease-ontology.org/term/DOID%3A10283
+Antipyrine	migraine			http://www.drugbank.ca/drugs/DB01435	http://www.disease-ontology.org/term/DOID%3A10283
+Apomorphine	Parkinson's disease			http://www.drugbank.ca/drugs/DB00714	http://www.disease-ontology.org/term/DOID%3A10283
+Apraclonidine	glaucoma			http://www.drugbank.ca/drugs/DB00964	http://www.disease-ontology.org/term/DOID%3A10283
+Aprepitant	breast cancer			http://www.drugbank.ca/drugs/DB00673	http://www.disease-ontology.org/term/DOID%3A10283
+Aprepitant	colon cancer			http://www.drugbank.ca/drugs/DB00673	http://www.disease-ontology.org/term/DOID%3A10283
+Arformoterol	asthma			http://www.drugbank.ca/drugs/DB01274	http://www.disease-ontology.org/term/DOID%3A10283
+Arformoterol	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB01274	http://www.disease-ontology.org/term/DOID%3A10283
+Aripiprazole	autistic disorder			http://www.drugbank.ca/drugs/DB01238	http://www.disease-ontology.org/term/DOID%3A10283
+Aripiprazole	bipolar disorder			http://www.drugbank.ca/drugs/DB01238	http://www.disease-ontology.org/term/DOID%3A10283
+Aripiprazole	endogenous depression			http://www.drugbank.ca/drugs/DB01238	http://www.disease-ontology.org/term/DOID%3A10283
+Aripiprazole	schizophrenia			http://www.drugbank.ca/drugs/DB01238	http://www.disease-ontology.org/term/DOID%3A10283
+Artemether	malaria			http://www.drugbank.ca/drugs/DB06697	http://www.disease-ontology.org/term/DOID%3A10283
+Atomoxetine	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB00289	http://www.disease-ontology.org/term/DOID%3A10283
+Atomoxetine	autistic disorder			http://www.drugbank.ca/drugs/DB00289	http://www.disease-ontology.org/term/DOID%3A10283
+Atorvastatin	coronary artery disease			http://www.drugbank.ca/drugs/DB01076	http://www.disease-ontology.org/term/DOID%3A10283
+Atorvastatin	hypertension			http://www.drugbank.ca/drugs/DB01076	http://www.disease-ontology.org/term/DOID%3A10283
+Atorvastatin	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB01076	http://www.disease-ontology.org/term/DOID%3A10283
+Atropine	Crohn's disease			http://www.drugbank.ca/drugs/DB00572	http://www.disease-ontology.org/term/DOID%3A10283
+Atropine	Parkinson's disease			http://www.drugbank.ca/drugs/DB00572	http://www.disease-ontology.org/term/DOID%3A10283
+Atropine	pancreatitis			http://www.drugbank.ca/drugs/DB00572	http://www.disease-ontology.org/term/DOID%3A10283
+Auranofin	psoriatic arthritis			http://www.drugbank.ca/drugs/DB00995	http://www.disease-ontology.org/term/DOID%3A10283
+Auranofin	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00995	http://www.disease-ontology.org/term/DOID%3A10283
+Azathioprine	Crohn's disease			http://www.drugbank.ca/drugs/DB00993	http://www.disease-ontology.org/term/DOID%3A10283
+Azathioprine	multiple sclerosis			http://www.drugbank.ca/drugs/DB00993	http://www.disease-ontology.org/term/DOID%3A10283
+Azathioprine	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00993	http://www.disease-ontology.org/term/DOID%3A10283
+Azathioprine	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00993	http://www.disease-ontology.org/term/DOID%3A10283
+Azathioprine	systemic scleroderma			http://www.drugbank.ca/drugs/DB00993	http://www.disease-ontology.org/term/DOID%3A10283
+Azathioprine	ulcerative colitis			http://www.drugbank.ca/drugs/DB00993	http://www.disease-ontology.org/term/DOID%3A10283
+Baclofen	multiple sclerosis			http://www.drugbank.ca/drugs/DB00181	http://www.disease-ontology.org/term/DOID%3A10283
+Balsalazide	Crohn's disease			http://www.drugbank.ca/drugs/DB01014	http://www.disease-ontology.org/term/DOID%3A10283
+Balsalazide	ulcerative colitis			http://www.drugbank.ca/drugs/DB01014	http://www.disease-ontology.org/term/DOID%3A10283
+Beclomethasone	asthma			http://www.drugbank.ca/drugs/DB00394	http://www.disease-ontology.org/term/DOID%3A10283
+Beclomethasone	psoriasis			http://www.drugbank.ca/drugs/DB00394	http://www.disease-ontology.org/term/DOID%3A10283
+Benazepril	hypertension			http://www.drugbank.ca/drugs/DB00542	http://www.disease-ontology.org/term/DOID%3A10283
+Bendroflumethiazide	hypertension			http://www.drugbank.ca/drugs/DB00436	http://www.disease-ontology.org/term/DOID%3A10283
+Benzatropine	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00245	http://www.disease-ontology.org/term/DOID%3A10283
+Benzatropine	Parkinson's disease			http://www.drugbank.ca/drugs/DB00245	http://www.disease-ontology.org/term/DOID%3A10283
+Benzatropine	autistic disorder			http://www.drugbank.ca/drugs/DB00245	http://www.disease-ontology.org/term/DOID%3A10283
+Benzatropine	schizophrenia			http://www.drugbank.ca/drugs/DB00245	http://www.disease-ontology.org/term/DOID%3A10283
+Benzphetamine	obesity			http://www.drugbank.ca/drugs/DB00865	http://www.disease-ontology.org/term/DOID%3A10283
+Bepridil	hypertension			http://www.drugbank.ca/drugs/DB01244	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	allergic rhinitis			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	anemia			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	asthma			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	atopic dermatitis			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	brain cancer			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	breast cancer			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	colon cancer			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	hematologic cancer			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	hypertension			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	kidney cancer			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	multiple sclerosis			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	prostate cancer			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	psoriasis			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	psoriatic arthritis			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betamethasone	ulcerative colitis			http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283
+Betaxolol	glaucoma			http://www.drugbank.ca/drugs/DB00195	http://www.disease-ontology.org/term/DOID%3A10283
+Betaxolol	hypertension			http://www.drugbank.ca/drugs/DB00195	http://www.disease-ontology.org/term/DOID%3A10283
+Bexarotene	hematologic cancer			http://www.drugbank.ca/drugs/DB00307	http://www.disease-ontology.org/term/DOID%3A10283
+Bicalutamide	prostate cancer			http://www.drugbank.ca/drugs/DB01128	http://www.disease-ontology.org/term/DOID%3A10283
+Bimatoprost	glaucoma			http://www.drugbank.ca/drugs/DB00905	http://www.disease-ontology.org/term/DOID%3A10283
+Bimatoprost	hypertension			http://www.drugbank.ca/drugs/DB00905	http://www.disease-ontology.org/term/DOID%3A10283
+Biperiden	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00810	http://www.disease-ontology.org/term/DOID%3A10283
+Biperiden	Parkinson's disease			http://www.drugbank.ca/drugs/DB00810	http://www.disease-ontology.org/term/DOID%3A10283
+Bismuth Subsalicylate	psoriasis			http://www.drugbank.ca/drugs/DB01294	http://www.disease-ontology.org/term/DOID%3A10283
+Bleomycin	germ cell cancer			http://www.drugbank.ca/drugs/DB00290	http://www.disease-ontology.org/term/DOID%3A10283
+Bleomycin	hematologic cancer			http://www.drugbank.ca/drugs/DB00290	http://www.disease-ontology.org/term/DOID%3A10283
+Bleomycin	lymphatic system cancer			http://www.drugbank.ca/drugs/DB00290	http://www.disease-ontology.org/term/DOID%3A10283
+Bleomycin	melanoma			http://www.drugbank.ca/drugs/DB00290	http://www.disease-ontology.org/term/DOID%3A10283
+Bleomycin	skin cancer			http://www.drugbank.ca/drugs/DB00290	http://www.disease-ontology.org/term/DOID%3A10283
+Bleomycin	testicular cancer			http://www.drugbank.ca/drugs/DB00290	http://www.disease-ontology.org/term/DOID%3A10283
+Bortezomib	hematologic cancer			http://www.drugbank.ca/drugs/DB00188	http://www.disease-ontology.org/term/DOID%3A10283
+Bosentan	hypertension			http://www.drugbank.ca/drugs/DB00559	http://www.disease-ontology.org/term/DOID%3A10283
+Brimonidine	glaucoma			http://www.drugbank.ca/drugs/DB00484	http://www.disease-ontology.org/term/DOID%3A10283
+Brimonidine	hypertension			http://www.drugbank.ca/drugs/DB00484	http://www.disease-ontology.org/term/DOID%3A10283
+Brinzolamide	glaucoma			http://www.drugbank.ca/drugs/DB01194	http://www.disease-ontology.org/term/DOID%3A10283
+Brinzolamide	hypertension			http://www.drugbank.ca/drugs/DB01194	http://www.disease-ontology.org/term/DOID%3A10283
+Bromocriptine	Parkinson's disease			http://www.drugbank.ca/drugs/DB01200	http://www.disease-ontology.org/term/DOID%3A10283
+Bromocriptine	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB01200	http://www.disease-ontology.org/term/DOID%3A10283
+Budesonide	asthma			http://www.drugbank.ca/drugs/DB01222	http://www.disease-ontology.org/term/DOID%3A10283
+Budesonide	ulcerative colitis			http://www.drugbank.ca/drugs/DB01222	http://www.disease-ontology.org/term/DOID%3A10283
+Bumetanide	chronic kidney failure			http://www.drugbank.ca/drugs/DB00887	http://www.disease-ontology.org/term/DOID%3A10283
+Bumetanide	hypertension			http://www.drugbank.ca/drugs/DB00887	http://www.disease-ontology.org/term/DOID%3A10283
+Bupropion	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB01156	http://www.disease-ontology.org/term/DOID%3A10283
+Bupropion	obesity			http://www.drugbank.ca/drugs/DB01156	http://www.disease-ontology.org/term/DOID%3A10283
+Bupropion	panic disorder			http://www.drugbank.ca/drugs/DB01156	http://www.disease-ontology.org/term/DOID%3A10283
+Buspirone	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00490	http://www.disease-ontology.org/term/DOID%3A10283
+Buspirone	panic disorder			http://www.drugbank.ca/drugs/DB00490	http://www.disease-ontology.org/term/DOID%3A10283
+Busulfan	colon cancer			http://www.drugbank.ca/drugs/DB01008	http://www.disease-ontology.org/term/DOID%3A10283
+Busulfan	hematologic cancer			http://www.drugbank.ca/drugs/DB01008	http://www.disease-ontology.org/term/DOID%3A10283
+Butalbital	migraine			http://www.drugbank.ca/drugs/DB00241	http://www.disease-ontology.org/term/DOID%3A10283
+Butenafine	psoriasis			http://www.drugbank.ca/drugs/DB01091	http://www.disease-ontology.org/term/DOID%3A10283
+Cabazitaxel	prostate cancer			http://www.drugbank.ca/drugs/DB06772	http://www.disease-ontology.org/term/DOID%3A10283
+Cabergoline	Parkinson's disease			http://www.drugbank.ca/drugs/DB00248	http://www.disease-ontology.org/term/DOID%3A10283
+Caffeine	migraine			http://www.drugbank.ca/drugs/DB00201	http://www.disease-ontology.org/term/DOID%3A10283
+Caffeine	osteoarthritis			http://www.drugbank.ca/drugs/DB00201	http://www.disease-ontology.org/term/DOID%3A10283
+Calcipotriol	psoriasis			http://www.drugbank.ca/drugs/DB02300	http://www.disease-ontology.org/term/DOID%3A10283
+Calcitriol	chronic kidney failure			http://www.drugbank.ca/drugs/DB00136	http://www.disease-ontology.org/term/DOID%3A10283
+Calcitriol	osteoporosis			http://www.drugbank.ca/drugs/DB00136	http://www.disease-ontology.org/term/DOID%3A10283
+Calcitriol	psoriasis			http://www.drugbank.ca/drugs/DB00136	http://www.disease-ontology.org/term/DOID%3A10283
+Calcium Acetate	chronic kidney failure			http://www.drugbank.ca/drugs/DB00258	http://www.disease-ontology.org/term/DOID%3A10283
+Calcium Acetate	osteoporosis			http://www.drugbank.ca/drugs/DB00258	http://www.disease-ontology.org/term/DOID%3A10283
+Candesartan	hypertension			http://www.drugbank.ca/drugs/DB00796	http://www.disease-ontology.org/term/DOID%3A10283
+Capecitabine	breast cancer			http://www.drugbank.ca/drugs/DB01101	http://www.disease-ontology.org/term/DOID%3A10283
+Capecitabine	colon cancer			http://www.drugbank.ca/drugs/DB01101	http://www.disease-ontology.org/term/DOID%3A10283
+Capecitabine	esophageal cancer			http://www.drugbank.ca/drugs/DB01101	http://www.disease-ontology.org/term/DOID%3A10283
+Capecitabine	kidney cancer			http://www.drugbank.ca/drugs/DB01101	http://www.disease-ontology.org/term/DOID%3A10283
+Capecitabine	prostate cancer			http://www.drugbank.ca/drugs/DB01101	http://www.disease-ontology.org/term/DOID%3A10283
+Capecitabine	stomach cancer			http://www.drugbank.ca/drugs/DB01101	http://www.disease-ontology.org/term/DOID%3A10283
+Captopril	coronary artery disease			http://www.drugbank.ca/drugs/DB01197	http://www.disease-ontology.org/term/DOID%3A10283
+Captopril	hypertension			http://www.drugbank.ca/drugs/DB01197	http://www.disease-ontology.org/term/DOID%3A10283
+Captopril	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB01197	http://www.disease-ontology.org/term/DOID%3A10283
+Captopril	systemic scleroderma			http://www.drugbank.ca/drugs/DB01197	http://www.disease-ontology.org/term/DOID%3A10283
+Carbachol	glaucoma			http://www.drugbank.ca/drugs/DB00411	http://www.disease-ontology.org/term/DOID%3A10283
+Carbamazepine	bipolar disorder			http://www.drugbank.ca/drugs/DB00564	http://www.disease-ontology.org/term/DOID%3A10283
+Carbamazepine	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00564	http://www.disease-ontology.org/term/DOID%3A10283
+Carbamazepine	multiple sclerosis			http://www.drugbank.ca/drugs/DB00564	http://www.disease-ontology.org/term/DOID%3A10283
+Carbamazepine	restless legs syndrome			http://www.drugbank.ca/drugs/DB00564	http://www.disease-ontology.org/term/DOID%3A10283
+Carbamazepine	schizophrenia			http://www.drugbank.ca/drugs/DB00564	http://www.disease-ontology.org/term/DOID%3A10283
+Carbidopa	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00190	http://www.disease-ontology.org/term/DOID%3A10283
+Carbidopa	Parkinson's disease			http://www.drugbank.ca/drugs/DB00190	http://www.disease-ontology.org/term/DOID%3A10283
+Carbidopa	restless legs syndrome			http://www.drugbank.ca/drugs/DB00190	http://www.disease-ontology.org/term/DOID%3A10283
+Carboplatin	bone cancer			http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A10283
+Carboplatin	brain cancer			http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A10283
+Carboplatin	breast cancer			http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A10283
+Carboplatin	esophageal cancer			http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A10283
+Carboplatin	ocular cancer			http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A10283
+Carboplatin	ovarian cancer			http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A10283
+Carboplatin	testicular cancer			http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A10283
+Carboplatin	urinary bladder cancer			http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A10283
+Carboplatin	uterine cancer			http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A10283
+Carmustine	brain cancer			http://www.drugbank.ca/drugs/DB00262	http://www.disease-ontology.org/term/DOID%3A10283
+Carmustine	hematologic cancer			http://www.drugbank.ca/drugs/DB00262	http://www.disease-ontology.org/term/DOID%3A10283
+Carmustine	lymphatic system cancer			http://www.drugbank.ca/drugs/DB00262	http://www.disease-ontology.org/term/DOID%3A10283
+Carmustine	malignant glioma			http://www.drugbank.ca/drugs/DB00262	http://www.disease-ontology.org/term/DOID%3A10283
+Carmustine	melanoma			http://www.drugbank.ca/drugs/DB00262	http://www.disease-ontology.org/term/DOID%3A10283
+Carmustine	skin cancer			http://www.drugbank.ca/drugs/DB00262	http://www.disease-ontology.org/term/DOID%3A10283
+Carteolol	glaucoma			http://www.drugbank.ca/drugs/DB00521	http://www.disease-ontology.org/term/DOID%3A10283
+Carteolol	hypertension			http://www.drugbank.ca/drugs/DB00521	http://www.disease-ontology.org/term/DOID%3A10283
+Carvedilol	hypertension			http://www.drugbank.ca/drugs/DB01136	http://www.disease-ontology.org/term/DOID%3A10283
+Cefdinir	allergic rhinitis			http://www.drugbank.ca/drugs/DB00535	http://www.disease-ontology.org/term/DOID%3A10283
+Cefdinir	asthma			http://www.drugbank.ca/drugs/DB00535	http://www.disease-ontology.org/term/DOID%3A10283
+Celecoxib	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A10283
+Celecoxib	colon cancer			http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A10283
+Celecoxib	hematologic cancer			http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A10283
+Celecoxib	kidney cancer			http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A10283
+Celecoxib	osteoarthritis			http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A10283
+Celecoxib	prostate cancer			http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A10283
+Celecoxib	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A10283
+Celecoxib	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A10283
+Celecoxib	systemic scleroderma			http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A10283
+Cephalexin	chronic kidney failure			http://www.drugbank.ca/drugs/DB00567	http://www.disease-ontology.org/term/DOID%3A10283
+Cetirizine	allergic rhinitis			http://www.drugbank.ca/drugs/DB00341	http://www.disease-ontology.org/term/DOID%3A10283
+Chenodeoxycholic acid	primary biliary cirrhosis			http://www.drugbank.ca/drugs/DB06777	http://www.disease-ontology.org/term/DOID%3A10283
+Chlorambucil	breast cancer			http://www.drugbank.ca/drugs/DB00291	http://www.disease-ontology.org/term/DOID%3A10283
+Chlorambucil	hematologic cancer			http://www.drugbank.ca/drugs/DB00291	http://www.disease-ontology.org/term/DOID%3A10283
+Chlorambucil	ovarian cancer			http://www.drugbank.ca/drugs/DB00291	http://www.disease-ontology.org/term/DOID%3A10283
+Chlorambucil	testicular cancer			http://www.drugbank.ca/drugs/DB00291	http://www.disease-ontology.org/term/DOID%3A10283
+Chlordiazepoxide	alcohol dependence			http://www.drugbank.ca/drugs/DB00475	http://www.disease-ontology.org/term/DOID%3A10283
+Chlorothiazide	hypertension			http://www.drugbank.ca/drugs/DB00880	http://www.disease-ontology.org/term/DOID%3A10283
+Chlorpromazine	bipolar disorder			http://www.drugbank.ca/drugs/DB00477	http://www.disease-ontology.org/term/DOID%3A10283
+Chlorpromazine	conduct disorder			http://www.drugbank.ca/drugs/DB00477	http://www.disease-ontology.org/term/DOID%3A10283
+Chlorpromazine	schizophrenia			http://www.drugbank.ca/drugs/DB00477	http://www.disease-ontology.org/term/DOID%3A10283
+Chlorpropamide	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00672	http://www.disease-ontology.org/term/DOID%3A10283
+Chlorthalidone	hypertension			http://www.drugbank.ca/drugs/DB00310	http://www.disease-ontology.org/term/DOID%3A10283
+Cholecalciferol	chronic kidney failure			http://www.drugbank.ca/drugs/DB00169	http://www.disease-ontology.org/term/DOID%3A10283
+Cholecalciferol	osteoporosis			http://www.drugbank.ca/drugs/DB00169	http://www.disease-ontology.org/term/DOID%3A10283
+Cholecalciferol	psoriasis			http://www.drugbank.ca/drugs/DB00169	http://www.disease-ontology.org/term/DOID%3A10283
+Cholecalciferol	ulcerative colitis			http://www.drugbank.ca/drugs/DB00169	http://www.disease-ontology.org/term/DOID%3A10283
+Choline	osteoarthritis			http://www.drugbank.ca/drugs/DB00122	http://www.disease-ontology.org/term/DOID%3A10283
+Choline	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00122	http://www.disease-ontology.org/term/DOID%3A10283
+Ciclesonide	asthma			http://www.drugbank.ca/drugs/DB01410	http://www.disease-ontology.org/term/DOID%3A10283
+Cilostazol	systemic scleroderma			http://www.drugbank.ca/drugs/DB01166	http://www.disease-ontology.org/term/DOID%3A10283
+Cimetidine	obesity			http://www.drugbank.ca/drugs/DB00501	http://www.disease-ontology.org/term/DOID%3A10283
+Cinacalcet	chronic kidney failure			http://www.drugbank.ca/drugs/DB01012	http://www.disease-ontology.org/term/DOID%3A10283
+Ciprofloxacin	asthma			http://www.drugbank.ca/drugs/DB00537	http://www.disease-ontology.org/term/DOID%3A10283
+Ciprofloxacin	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB00537	http://www.disease-ontology.org/term/DOID%3A10283
+Ciprofloxacin	prostate cancer			http://www.drugbank.ca/drugs/DB00537	http://www.disease-ontology.org/term/DOID%3A10283
+Ciprofloxacin	ulcerative colitis			http://www.drugbank.ca/drugs/DB00537	http://www.disease-ontology.org/term/DOID%3A10283
+Cisplatin	bone cancer			http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A10283
+Cisplatin	esophageal cancer			http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A10283
+Cisplatin	germ cell cancer			http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A10283
+Cisplatin	hematologic cancer			http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A10283
+Cisplatin	lung cancer			http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A10283
+Cisplatin	peripheral nervous system neoplasm			http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A10283
+Cisplatin	testicular cancer			http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A10283
+Cisplatin	urinary bladder cancer			http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A10283
+Citalopram	Parkinson's disease			http://www.drugbank.ca/drugs/DB00215	http://www.disease-ontology.org/term/DOID%3A10283
+Citalopram	alcohol dependence			http://www.drugbank.ca/drugs/DB00215	http://www.disease-ontology.org/term/DOID%3A10283
+Citalopram	bipolar disorder			http://www.drugbank.ca/drugs/DB00215	http://www.disease-ontology.org/term/DOID%3A10283
+Citalopram	endogenous depression			http://www.drugbank.ca/drugs/DB00215	http://www.disease-ontology.org/term/DOID%3A10283
+Citalopram	panic disorder			http://www.drugbank.ca/drugs/DB00215	http://www.disease-ontology.org/term/DOID%3A10283
+Cladribine	hematologic cancer			http://www.drugbank.ca/drugs/DB00242	http://www.disease-ontology.org/term/DOID%3A10283
+Cladribine	multiple sclerosis			http://www.drugbank.ca/drugs/DB00242	http://www.disease-ontology.org/term/DOID%3A10283
+Clindamycin	allergic rhinitis			http://www.drugbank.ca/drugs/DB01190	http://www.disease-ontology.org/term/DOID%3A10283
+Clindamycin	atopic dermatitis			http://www.drugbank.ca/drugs/DB01190	http://www.disease-ontology.org/term/DOID%3A10283
+Clindamycin	malaria			http://www.drugbank.ca/drugs/DB01190	http://www.disease-ontology.org/term/DOID%3A10283
+Clobazam	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00349	http://www.disease-ontology.org/term/DOID%3A10283
+Clobetasol propionate	psoriasis			http://www.drugbank.ca/drugs/DB01013	http://www.disease-ontology.org/term/DOID%3A10283
+Clofarabine	hematologic cancer			http://www.drugbank.ca/drugs/DB00631	http://www.disease-ontology.org/term/DOID%3A10283
+Clomifene	azoospermia			http://www.drugbank.ca/drugs/DB00882	http://www.disease-ontology.org/term/DOID%3A10283
+Clomipramine	panic disorder			http://www.drugbank.ca/drugs/DB01242	http://www.disease-ontology.org/term/DOID%3A10283
+Clonazepam	Parkinson's disease			http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A10283
+Clonazepam	autistic disorder			http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A10283
+Clonazepam	bipolar disorder			http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A10283
+Clonazepam	epilepsy syndrome			http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A10283
+Clonazepam	multiple sclerosis			http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A10283
+Clonazepam	osteoarthritis			http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A10283
+Clonazepam	panic disorder			http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A10283
+Clonazepam	restless legs syndrome			http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A10283
+Clonazepam	schizophrenia			http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A10283
+Clonidine	Gilles de la Tourette syndrome			http://www.drugbank.ca/drugs/DB00575	http://www.disease-ontology.org/term/DOID%3A10283
+Clonidine	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB00575	http://www.disease-ontology.org/term/DOID%3A10283
+Clonidine	autistic disorder			http://www.drugbank.ca/drugs/DB00575	http://www.disease-ontology.org/term/DOID%3A10283
+Clonidine	glaucoma			http://www.drugbank.ca/drugs/DB00575	http://www.disease-ontology.org/term/DOID%3A10283
+Clonidine	hypertension			http://www.drugbank.ca/drugs/DB00575	http://www.disease-ontology.org/term/DOID%3A10283
+Clonidine	restless legs syndrome			http://www.drugbank.ca/drugs/DB00575	http://www.disease-ontology.org/term/DOID%3A10283
+Clopidogrel	atherosclerosis			http://www.drugbank.ca/drugs/DB00758	http://www.disease-ontology.org/term/DOID%3A10283
+Clopidogrel	coronary artery disease			http://www.drugbank.ca/drugs/DB00758	http://www.disease-ontology.org/term/DOID%3A10283
+Clopidogrel	hypertension			http://www.drugbank.ca/drugs/DB00758	http://www.disease-ontology.org/term/DOID%3A10283
+Clopidogrel	kidney cancer			http://www.drugbank.ca/drugs/DB00758	http://www.disease-ontology.org/term/DOID%3A10283
+Clozapine	bipolar disorder			http://www.drugbank.ca/drugs/DB00363	http://www.disease-ontology.org/term/DOID%3A10283
+Clozapine	schizophrenia			http://www.drugbank.ca/drugs/DB00363	http://www.disease-ontology.org/term/DOID%3A10283
+Cocaine	dental caries			http://www.drugbank.ca/drugs/DB00907	http://www.disease-ontology.org/term/DOID%3A10283
+Codeine	osteoarthritis			http://www.drugbank.ca/drugs/DB00318	http://www.disease-ontology.org/term/DOID%3A10283
+Colchicine	gout			http://www.drugbank.ca/drugs/DB01394	http://www.disease-ontology.org/term/DOID%3A10283
+Colchicine	primary biliary cirrhosis			http://www.drugbank.ca/drugs/DB01394	http://www.disease-ontology.org/term/DOID%3A10283
+Colchicine	systemic scleroderma			http://www.drugbank.ca/drugs/DB01394	http://www.disease-ontology.org/term/DOID%3A10283
+Conjugated Estrogens	breast cancer			http://www.drugbank.ca/drugs/DB00286	http://www.disease-ontology.org/term/DOID%3A10283
+Conjugated Estrogens	osteoporosis			http://www.drugbank.ca/drugs/DB00286	http://www.disease-ontology.org/term/DOID%3A10283
+Conjugated Estrogens	prostate cancer			http://www.drugbank.ca/drugs/DB00286	http://www.disease-ontology.org/term/DOID%3A10283
+Crizotinib	lung cancer			http://www.drugbank.ca/drugs/DB08865	http://www.disease-ontology.org/term/DOID%3A10283
+Cromoglicic acid	asthma			http://www.drugbank.ca/drugs/DB01003	http://www.disease-ontology.org/term/DOID%3A10283
+Cyclobenzaprine	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00924	http://www.disease-ontology.org/term/DOID%3A10283
+Cyclobenzaprine	migraine			http://www.drugbank.ca/drugs/DB00924	http://www.disease-ontology.org/term/DOID%3A10283
+Cyclobenzaprine	osteoarthritis			http://www.drugbank.ca/drugs/DB00924	http://www.disease-ontology.org/term/DOID%3A10283
+Cyclobenzaprine	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00924	http://www.disease-ontology.org/term/DOID%3A10283
+Cyclobenzaprine	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00924	http://www.disease-ontology.org/term/DOID%3A10283
+Cyclobenzaprine	systemic scleroderma			http://www.drugbank.ca/drugs/DB00924	http://www.disease-ontology.org/term/DOID%3A10283
+Cyclosporine	focal segmental glomerulosclerosis			http://www.drugbank.ca/drugs/DB00091	http://www.disease-ontology.org/term/DOID%3A10283
+Cyclosporine	psoriasis			http://www.drugbank.ca/drugs/DB00091	http://www.disease-ontology.org/term/DOID%3A10283
+Cyclosporine	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00091	http://www.disease-ontology.org/term/DOID%3A10283
+Cyclosporine	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00091	http://www.disease-ontology.org/term/DOID%3A10283
+Cyproheptadine	allergic rhinitis			http://www.drugbank.ca/drugs/DB00434	http://www.disease-ontology.org/term/DOID%3A10283
+Cyproheptadine	migraine			http://www.drugbank.ca/drugs/DB00434	http://www.disease-ontology.org/term/DOID%3A10283
+Cyproheptadine	schizophrenia			http://www.drugbank.ca/drugs/DB00434	http://www.disease-ontology.org/term/DOID%3A10283
+Cytarabine	colon cancer			http://www.drugbank.ca/drugs/DB00987	http://www.disease-ontology.org/term/DOID%3A10283
+Cytarabine	hematologic cancer			http://www.drugbank.ca/drugs/DB00987	http://www.disease-ontology.org/term/DOID%3A10283
+Cytarabine	lymphatic system cancer			http://www.drugbank.ca/drugs/DB00987	http://www.disease-ontology.org/term/DOID%3A10283
+Cytarabine	meningioma			http://www.drugbank.ca/drugs/DB00987	http://www.disease-ontology.org/term/DOID%3A10283
+Dacarbazine	hematologic cancer			http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A10283
+Dacarbazine	melanoma			http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A10283
+Dacarbazine	muscle cancer			http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A10283
+Dacarbazine	pancreatic cancer			http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A10283
+Dacarbazine	peripheral nervous system neoplasm			http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A10283
+Dacarbazine	sarcoma			http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A10283
+Dacarbazine	skin cancer			http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A10283
+Dactinomycin	germ cell cancer			http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A10283
+Dactinomycin	kidney cancer			http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A10283
+Dactinomycin	melanoma			http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A10283
+Dactinomycin	muscle cancer			http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A10283
+Dactinomycin	ocular cancer			http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A10283
+Dactinomycin	peripheral nervous system neoplasm			http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A10283
+Dactinomycin	sarcoma			http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A10283
+Dactinomycin	skin cancer			http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A10283
+Dactinomycin	testicular cancer			http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A10283
+Dactinomycin	uterine cancer			http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A10283
+Dalfampridine	multiple sclerosis			http://www.drugbank.ca/drugs/DB06637	http://www.disease-ontology.org/term/DOID%3A10283
+Dantrolene	multiple sclerosis			http://www.drugbank.ca/drugs/DB01219	http://www.disease-ontology.org/term/DOID%3A10283
+Dapsone	leprosy			http://www.drugbank.ca/drugs/DB00250	http://www.disease-ontology.org/term/DOID%3A10283
+Dapsone	malaria			http://www.drugbank.ca/drugs/DB00250	http://www.disease-ontology.org/term/DOID%3A10283
+Dapsone	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00250	http://www.disease-ontology.org/term/DOID%3A10283
+Dasatinib	hematologic cancer			http://www.drugbank.ca/drugs/DB01254	http://www.disease-ontology.org/term/DOID%3A10283
+Daunorubicin	hematologic cancer			http://www.drugbank.ca/drugs/DB00694	http://www.disease-ontology.org/term/DOID%3A10283
+Decitabine	anemia			http://www.drugbank.ca/drugs/DB01262	http://www.disease-ontology.org/term/DOID%3A10283
+Deferiprone	anemia			http://www.drugbank.ca/drugs/DB08826	http://www.disease-ontology.org/term/DOID%3A10283
+Deferoxamine	chronic kidney failure			http://www.drugbank.ca/drugs/DB00746	http://www.disease-ontology.org/term/DOID%3A10283
+Degarelix	prostate cancer			http://www.drugbank.ca/drugs/DB06699	http://www.disease-ontology.org/term/DOID%3A10283
+Delavirdine	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00705	http://www.disease-ontology.org/term/DOID%3A10283
+Desflurane	hypertension			http://www.drugbank.ca/drugs/DB01189	http://www.disease-ontology.org/term/DOID%3A10283
+Desipramine	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB01151	http://www.disease-ontology.org/term/DOID%3A10283
+Desloratadine	allergic rhinitis			http://www.drugbank.ca/drugs/DB00967	http://www.disease-ontology.org/term/DOID%3A10283
+Desogestrel	polycystic ovary syndrome			http://www.drugbank.ca/drugs/DB00304	http://www.disease-ontology.org/term/DOID%3A10283
+Desonide	atopic dermatitis			http://www.drugbank.ca/drugs/DB01260	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	allergic rhinitis			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	anemia			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	asthma			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	atopic dermatitis			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	brain cancer			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	breast cancer			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	colon cancer			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	hematologic cancer			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	hypertension			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	kidney cancer			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	multiple sclerosis			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	prostate cancer			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	psoriasis			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	psoriatic arthritis			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexamethasone	ulcerative colitis			http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283
+Dexrazoxane	breast cancer			http://www.drugbank.ca/drugs/DB00380	http://www.disease-ontology.org/term/DOID%3A10283
+Dextroamphetamine	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB01576	http://www.disease-ontology.org/term/DOID%3A10283
+Dextroamphetamine	narcolepsy			http://www.drugbank.ca/drugs/DB01576	http://www.disease-ontology.org/term/DOID%3A10283
+Dextromethorphan	amyotrophic lateral sclerosis			http://www.drugbank.ca/drugs/DB00514	http://www.disease-ontology.org/term/DOID%3A10283
+Dextromethorphan	multiple sclerosis			http://www.drugbank.ca/drugs/DB00514	http://www.disease-ontology.org/term/DOID%3A10283
+Dextrothyroxine	Graves' disease			http://www.drugbank.ca/drugs/DB00509	http://www.disease-ontology.org/term/DOID%3A10283
+Dextrothyroxine	coronary artery disease			http://www.drugbank.ca/drugs/DB00509	http://www.disease-ontology.org/term/DOID%3A10283
+Dextrothyroxine	hypothyroidism			http://www.drugbank.ca/drugs/DB00509	http://www.disease-ontology.org/term/DOID%3A10283
+Dextrothyroxine	thyroid cancer			http://www.drugbank.ca/drugs/DB00509	http://www.disease-ontology.org/term/DOID%3A10283
+Diazepam	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00829	http://www.disease-ontology.org/term/DOID%3A10283
+Diazepam	multiple sclerosis			http://www.drugbank.ca/drugs/DB00829	http://www.disease-ontology.org/term/DOID%3A10283
+Diazepam	panic disorder			http://www.drugbank.ca/drugs/DB00829	http://www.disease-ontology.org/term/DOID%3A10283
+Diazoxide	hypertension			http://www.drugbank.ca/drugs/DB01119	http://www.disease-ontology.org/term/DOID%3A10283
+Diclofenac	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00586	http://www.disease-ontology.org/term/DOID%3A10283
+Diclofenac	migraine			http://www.drugbank.ca/drugs/DB00586	http://www.disease-ontology.org/term/DOID%3A10283
+Diclofenac	osteoarthritis			http://www.drugbank.ca/drugs/DB00586	http://www.disease-ontology.org/term/DOID%3A10283
+Diclofenac	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00586	http://www.disease-ontology.org/term/DOID%3A10283
+Diclofenac	systemic scleroderma			http://www.drugbank.ca/drugs/DB00586	http://www.disease-ontology.org/term/DOID%3A10283
+Diclofenamide	glaucoma			http://www.drugbank.ca/drugs/DB01144	http://www.disease-ontology.org/term/DOID%3A10283
+Didanosine	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00900	http://www.disease-ontology.org/term/DOID%3A10283
+Diethylpropion	obesity			http://www.drugbank.ca/drugs/DB00937	http://www.disease-ontology.org/term/DOID%3A10283
+Diflunisal	osteoarthritis			http://www.drugbank.ca/drugs/DB00861	http://www.disease-ontology.org/term/DOID%3A10283
+Diflunisal	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00861	http://www.disease-ontology.org/term/DOID%3A10283
+Digoxin	coronary artery disease			http://www.drugbank.ca/drugs/DB00390	http://www.disease-ontology.org/term/DOID%3A10283
+Digoxin	dilated cardiomyopathy			http://www.drugbank.ca/drugs/DB00390	http://www.disease-ontology.org/term/DOID%3A10283
+Dihydroergotamine	migraine			http://www.drugbank.ca/drugs/DB00320	http://www.disease-ontology.org/term/DOID%3A10283
+Diltiazem	coronary artery disease			http://www.drugbank.ca/drugs/DB00343	http://www.disease-ontology.org/term/DOID%3A10283
+Diltiazem	hypertension			http://www.drugbank.ca/drugs/DB00343	http://www.disease-ontology.org/term/DOID%3A10283
+Dimenhydrinate	Parkinson's disease			http://www.drugbank.ca/drugs/DB00985	http://www.disease-ontology.org/term/DOID%3A10283
+Dimenhydrinate	allergic rhinitis			http://www.drugbank.ca/drugs/DB00985	http://www.disease-ontology.org/term/DOID%3A10283
+Dimenhydrinate	atopic dermatitis			http://www.drugbank.ca/drugs/DB00985	http://www.disease-ontology.org/term/DOID%3A10283
+Dimenhydrinate	schizophrenia			http://www.drugbank.ca/drugs/DB00985	http://www.disease-ontology.org/term/DOID%3A10283
+Dinoprostone	germ cell cancer			http://www.drugbank.ca/drugs/DB00917	http://www.disease-ontology.org/term/DOID%3A10283
+Dinoprostone	uterine cancer			http://www.drugbank.ca/drugs/DB00917	http://www.disease-ontology.org/term/DOID%3A10283
+Diphenhydramine	Parkinson's disease			http://www.drugbank.ca/drugs/DB01075	http://www.disease-ontology.org/term/DOID%3A10283
+Diphenhydramine	allergic rhinitis			http://www.drugbank.ca/drugs/DB01075	http://www.disease-ontology.org/term/DOID%3A10283
+Diphenhydramine	atopic dermatitis			http://www.drugbank.ca/drugs/DB01075	http://www.disease-ontology.org/term/DOID%3A10283
+Diphenhydramine	schizophrenia			http://www.drugbank.ca/drugs/DB01075	http://www.disease-ontology.org/term/DOID%3A10283
+Dipivefrin	glaucoma			http://www.drugbank.ca/drugs/DB00449	http://www.disease-ontology.org/term/DOID%3A10283
+Dipivefrin	hypertension			http://www.drugbank.ca/drugs/DB00449	http://www.disease-ontology.org/term/DOID%3A10283
+Dipyridamole	coronary artery disease			http://www.drugbank.ca/drugs/DB00975	http://www.disease-ontology.org/term/DOID%3A10283
+Disulfiram	alcohol dependence			http://www.drugbank.ca/drugs/DB00822	http://www.disease-ontology.org/term/DOID%3A10283
+Docetaxel	breast cancer			http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A10283
+Docetaxel	head and neck cancer			http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A10283
+Docetaxel	lung cancer			http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A10283
+Docetaxel	melanoma			http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A10283
+Docetaxel	ovarian cancer			http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A10283
+Docetaxel	pancreatic cancer			http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A10283
+Docetaxel	prostate cancer			http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A10283
+Docetaxel	skin cancer			http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A10283
+Docetaxel	stomach cancer			http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A10283
+Donepezil	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00843	http://www.disease-ontology.org/term/DOID%3A10283
+Dopamine	coronary artery disease			http://www.drugbank.ca/drugs/DB00988	http://www.disease-ontology.org/term/DOID%3A10283
+Dopamine	hypertension			http://www.drugbank.ca/drugs/DB00988	http://www.disease-ontology.org/term/DOID%3A10283
+Dorzolamide	glaucoma			http://www.drugbank.ca/drugs/DB00869	http://www.disease-ontology.org/term/DOID%3A10283
+Dorzolamide	hypertension			http://www.drugbank.ca/drugs/DB00869	http://www.disease-ontology.org/term/DOID%3A10283
+Doxazosin	hypertension			http://www.drugbank.ca/drugs/DB00590	http://www.disease-ontology.org/term/DOID%3A10283
+Doxepin	atopic dermatitis			http://www.drugbank.ca/drugs/DB01142	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	bone cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	breast cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	hematologic cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	kidney cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	liver cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	lung cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	muscle cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	ovarian cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	pancreatic cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	peripheral nervous system neoplasm			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	prostate cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	sarcoma			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	stomach cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	testicular cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	thyroid cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	urinary bladder cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxorubicin	uterine cancer			http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283
+Doxycycline	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB00254	http://www.disease-ontology.org/term/DOID%3A10283
+Doxycycline	malaria			http://www.drugbank.ca/drugs/DB00254	http://www.disease-ontology.org/term/DOID%3A10283
+Drospirenone	polycystic ovary syndrome			http://www.drugbank.ca/drugs/DB01395	http://www.disease-ontology.org/term/DOID%3A10283
+Duloxetine	bipolar disorder			http://www.drugbank.ca/drugs/DB00476	http://www.disease-ontology.org/term/DOID%3A10283
+Duloxetine	endogenous depression			http://www.drugbank.ca/drugs/DB00476	http://www.disease-ontology.org/term/DOID%3A10283
+Dyphylline	asthma			http://www.drugbank.ca/drugs/DB00651	http://www.disease-ontology.org/term/DOID%3A10283
+Echothiophate	glaucoma			http://www.drugbank.ca/drugs/DB01057	http://www.disease-ontology.org/term/DOID%3A10283
+Echothiophate	refractive error			http://www.drugbank.ca/drugs/DB01057	http://www.disease-ontology.org/term/DOID%3A10283
+Efavirenz	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00625	http://www.disease-ontology.org/term/DOID%3A10283
+Eletriptan	migraine			http://www.drugbank.ca/drugs/DB00216	http://www.disease-ontology.org/term/DOID%3A10283
+Enalapril	coronary artery disease			http://www.drugbank.ca/drugs/DB00584	http://www.disease-ontology.org/term/DOID%3A10283
+Enalapril	hypertension			http://www.drugbank.ca/drugs/DB00584	http://www.disease-ontology.org/term/DOID%3A10283
+Enalapril	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00584	http://www.disease-ontology.org/term/DOID%3A10283
+Entacapone	Parkinson's disease			http://www.drugbank.ca/drugs/DB00494	http://www.disease-ontology.org/term/DOID%3A10283
+Entecavir	hepatitis B			http://www.drugbank.ca/drugs/DB00442	http://www.disease-ontology.org/term/DOID%3A10283
+Ephedrine	allergic rhinitis			http://www.drugbank.ca/drugs/DB01364	http://www.disease-ontology.org/term/DOID%3A10283
+Ephedrine	asthma			http://www.drugbank.ca/drugs/DB01364	http://www.disease-ontology.org/term/DOID%3A10283
+Epinephrine	allergic rhinitis			http://www.drugbank.ca/drugs/DB00668	http://www.disease-ontology.org/term/DOID%3A10283
+Epinephrine	asthma			http://www.drugbank.ca/drugs/DB00668	http://www.disease-ontology.org/term/DOID%3A10283
+Epinephrine	glaucoma			http://www.drugbank.ca/drugs/DB00668	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	bone cancer			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	breast cancer			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	hematologic cancer			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	liver cancer			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	ovarian cancer			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	pancreatic cancer			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	peripheral nervous system neoplasm			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	prostate cancer			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	sarcoma			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	stomach cancer			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	testicular cancer			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	thyroid cancer			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	urinary bladder cancer			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Epirubicin	uterine cancer			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283
+Eplerenone	coronary artery disease			http://www.drugbank.ca/drugs/DB00700	http://www.disease-ontology.org/term/DOID%3A10283
+Eplerenone	hypertension			http://www.drugbank.ca/drugs/DB00700	http://www.disease-ontology.org/term/DOID%3A10283
+Epoprostenol	atherosclerosis			http://www.drugbank.ca/drugs/DB01240	http://www.disease-ontology.org/term/DOID%3A10283
+Epoprostenol	hypertension			http://www.drugbank.ca/drugs/DB01240	http://www.disease-ontology.org/term/DOID%3A10283
+Epoprostenol	systemic scleroderma			http://www.drugbank.ca/drugs/DB01240	http://www.disease-ontology.org/term/DOID%3A10283
+Eprosartan	hypertension			http://www.drugbank.ca/drugs/DB00876	http://www.disease-ontology.org/term/DOID%3A10283
+Ergocalciferol	metabolic syndrome X			http://www.drugbank.ca/drugs/DB00153	http://www.disease-ontology.org/term/DOID%3A10283
+Ergocalciferol	osteoporosis			http://www.drugbank.ca/drugs/DB00153	http://www.disease-ontology.org/term/DOID%3A10283
+Ergocalciferol	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00153	http://www.disease-ontology.org/term/DOID%3A10283
+Ergotamine	migraine			http://www.drugbank.ca/drugs/DB00696	http://www.disease-ontology.org/term/DOID%3A10283
+Eribulin	breast cancer			http://www.drugbank.ca/drugs/DB08871	http://www.disease-ontology.org/term/DOID%3A10283
+Erlotinib	kidney cancer			http://www.drugbank.ca/drugs/DB00530	http://www.disease-ontology.org/term/DOID%3A10283
+Erlotinib	lung cancer			http://www.drugbank.ca/drugs/DB00530	http://www.disease-ontology.org/term/DOID%3A10283
+Erlotinib	pancreatic cancer			http://www.drugbank.ca/drugs/DB00530	http://www.disease-ontology.org/term/DOID%3A10283
+Escitalopram	Parkinson's disease			http://www.drugbank.ca/drugs/DB01175	http://www.disease-ontology.org/term/DOID%3A10283
+Escitalopram	bipolar disorder			http://www.drugbank.ca/drugs/DB01175	http://www.disease-ontology.org/term/DOID%3A10283
+Escitalopram	endogenous depression			http://www.drugbank.ca/drugs/DB01175	http://www.disease-ontology.org/term/DOID%3A10283
+Esmolol	hypertension			http://www.drugbank.ca/drugs/DB00187	http://www.disease-ontology.org/term/DOID%3A10283
+Esomeprazole	Barrett's esophagus			http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A10283
+Esomeprazole	allergic rhinitis			http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A10283
+Esomeprazole	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A10283
+Esomeprazole	esophageal cancer			http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A10283
+Esomeprazole	kidney cancer			http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A10283
+Esomeprazole	prostate cancer			http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A10283
+Esomeprazole	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A10283
+Esomeprazole	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A10283
+Esomeprazole	systemic scleroderma			http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A10283
+Estradiol	breast cancer			http://www.drugbank.ca/drugs/DB00783	http://www.disease-ontology.org/term/DOID%3A10283
+Estradiol	coronary artery disease			http://www.drugbank.ca/drugs/DB00783	http://www.disease-ontology.org/term/DOID%3A10283
+Estradiol	osteoporosis			http://www.drugbank.ca/drugs/DB00783	http://www.disease-ontology.org/term/DOID%3A10283
+Estradiol	prostate cancer			http://www.drugbank.ca/drugs/DB00783	http://www.disease-ontology.org/term/DOID%3A10283
+Estradiol	uterine cancer			http://www.drugbank.ca/drugs/DB00783	http://www.disease-ontology.org/term/DOID%3A10283
+Estradiol valerate/Dienogest	breast cancer			http://www.drugbank.ca/drugs/DB08866	http://www.disease-ontology.org/term/DOID%3A10283
+Estradiol valerate/Dienogest	prostate cancer			http://www.drugbank.ca/drugs/DB08866	http://www.disease-ontology.org/term/DOID%3A10283
+Estramustine	prostate cancer			http://www.drugbank.ca/drugs/DB01196	http://www.disease-ontology.org/term/DOID%3A10283
+Estrone	breast cancer			http://www.drugbank.ca/drugs/DB00655	http://www.disease-ontology.org/term/DOID%3A10283
+Estrone	prostate cancer			http://www.drugbank.ca/drugs/DB00655	http://www.disease-ontology.org/term/DOID%3A10283
+Estropipate	osteoporosis			http://www.drugbank.ca/drugs/DB04574	http://www.disease-ontology.org/term/DOID%3A10283
+Eszopiclone	multiple sclerosis			http://www.drugbank.ca/drugs/DB00402	http://www.disease-ontology.org/term/DOID%3A10283
+Eszopiclone	schizophrenia			http://www.drugbank.ca/drugs/DB00402	http://www.disease-ontology.org/term/DOID%3A10283
+Ethacrynic acid	chronic kidney failure			http://www.drugbank.ca/drugs/DB00903	http://www.disease-ontology.org/term/DOID%3A10283
+Ethacrynic acid	hypertension			http://www.drugbank.ca/drugs/DB00903	http://www.disease-ontology.org/term/DOID%3A10283
+Ethinyl Estradiol	breast cancer			http://www.drugbank.ca/drugs/DB00977	http://www.disease-ontology.org/term/DOID%3A10283
+Ethinyl Estradiol	osteoporosis			http://www.drugbank.ca/drugs/DB00977	http://www.disease-ontology.org/term/DOID%3A10283
+Ethinyl Estradiol	polycystic ovary syndrome			http://www.drugbank.ca/drugs/DB00977	http://www.disease-ontology.org/term/DOID%3A10283
+Ethinyl Estradiol	prostate cancer			http://www.drugbank.ca/drugs/DB00977	http://www.disease-ontology.org/term/DOID%3A10283
+Etidronic acid	Paget's disease of bone			http://www.drugbank.ca/drugs/DB01077	http://www.disease-ontology.org/term/DOID%3A10283
+Etidronic acid	osteoporosis			http://www.drugbank.ca/drugs/DB01077	http://www.disease-ontology.org/term/DOID%3A10283
+Etodolac	osteoarthritis			http://www.drugbank.ca/drugs/DB00749	http://www.disease-ontology.org/term/DOID%3A10283
+Etomidate	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00292	http://www.disease-ontology.org/term/DOID%3A10283
+Etoposide	brain cancer			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A10283
+Etoposide	germ cell cancer			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A10283
+Etoposide	hematologic cancer			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A10283
+Etoposide	lung cancer			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A10283
+Etoposide	muscle cancer			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A10283
+Etoposide	peripheral nervous system neoplasm			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A10283
+Etoposide	prostate cancer			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A10283
+Etoposide	sarcoma			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A10283
+Etoposide	testicular cancer			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A10283
+Etoposide	urinary bladder cancer			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A10283
+Etoposide	uterine cancer			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A10283
+Everolimus	kidney cancer			http://www.drugbank.ca/drugs/DB01590	http://www.disease-ontology.org/term/DOID%3A10283
+Exemestane	breast cancer			http://www.drugbank.ca/drugs/DB00990	http://www.disease-ontology.org/term/DOID%3A10283
+Ezetimibe	atherosclerosis			http://www.drugbank.ca/drugs/DB00973	http://www.disease-ontology.org/term/DOID%3A10283
+Ezetimibe	coronary artery disease			http://www.drugbank.ca/drugs/DB00973	http://www.disease-ontology.org/term/DOID%3A10283
+Felbamate	anemia			http://www.drugbank.ca/drugs/DB00949	http://www.disease-ontology.org/term/DOID%3A10283
+Felbamate	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00949	http://www.disease-ontology.org/term/DOID%3A10283
+Felodipine	hypertension			http://www.drugbank.ca/drugs/DB01023	http://www.disease-ontology.org/term/DOID%3A10283
+Fenofibrate	coronary artery disease			http://www.drugbank.ca/drugs/DB01039	http://www.disease-ontology.org/term/DOID%3A10283
+Fenoldopam	hypertension			http://www.drugbank.ca/drugs/DB00800	http://www.disease-ontology.org/term/DOID%3A10283
+Fenoprofen	osteoarthritis			http://www.drugbank.ca/drugs/DB00573	http://www.disease-ontology.org/term/DOID%3A10283
+Fentanyl	lung cancer			http://www.drugbank.ca/drugs/DB00813	http://www.disease-ontology.org/term/DOID%3A10283
+Fentanyl	prostate cancer			http://www.drugbank.ca/drugs/DB00813	http://www.disease-ontology.org/term/DOID%3A10283
+Finasteride	epilepsy syndrome			http://www.drugbank.ca/drugs/DB01216	http://www.disease-ontology.org/term/DOID%3A10283
+Finasteride	prostate cancer			http://www.drugbank.ca/drugs/DB01216	http://www.disease-ontology.org/term/DOID%3A10283
+Fingolimod	multiple sclerosis			http://www.drugbank.ca/drugs/DB08868	http://www.disease-ontology.org/term/DOID%3A10283
+Floxuridine	stomach cancer			http://www.drugbank.ca/drugs/DB00322	http://www.disease-ontology.org/term/DOID%3A10283
+Fluconazole	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00196	http://www.disease-ontology.org/term/DOID%3A10283
+Fludarabine	hematologic cancer			http://www.drugbank.ca/drugs/DB01073	http://www.disease-ontology.org/term/DOID%3A10283
+Fludarabine	lymphatic system cancer			http://www.drugbank.ca/drugs/DB01073	http://www.disease-ontology.org/term/DOID%3A10283
+Fludrocortisone	Parkinson's disease			http://www.drugbank.ca/drugs/DB00687	http://www.disease-ontology.org/term/DOID%3A10283
+Flunisolide	allergic rhinitis			http://www.drugbank.ca/drugs/DB00180	http://www.disease-ontology.org/term/DOID%3A10283
+Flunisolide	asthma			http://www.drugbank.ca/drugs/DB00180	http://www.disease-ontology.org/term/DOID%3A10283
+Fluocinolone Acetonide	atopic dermatitis			http://www.drugbank.ca/drugs/DB00591	http://www.disease-ontology.org/term/DOID%3A10283
+Fluocinolone Acetonide	psoriasis			http://www.drugbank.ca/drugs/DB00591	http://www.disease-ontology.org/term/DOID%3A10283
+Fluocinonide	atopic dermatitis			http://www.drugbank.ca/drugs/DB01047	http://www.disease-ontology.org/term/DOID%3A10283
+Fluocinonide	psoriasis			http://www.drugbank.ca/drugs/DB01047	http://www.disease-ontology.org/term/DOID%3A10283
+Fluorouracil	breast cancer			http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A10283
+Fluorouracil	colon cancer			http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A10283
+Fluorouracil	head and neck cancer			http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A10283
+Fluorouracil	pancreatic cancer			http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A10283
+Fluorouracil	skin cancer			http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A10283
+Fluorouracil	stomach cancer			http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A10283
+Fluorouracil	urinary bladder cancer			http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A10283
+Fluoxetine	panic disorder			http://www.drugbank.ca/drugs/DB00472	http://www.disease-ontology.org/term/DOID%3A10283
+Fluoxetine	schizophrenia			http://www.drugbank.ca/drugs/DB00472	http://www.disease-ontology.org/term/DOID%3A10283
+Fluoxymesterone	breast cancer			http://www.drugbank.ca/drugs/DB01185	http://www.disease-ontology.org/term/DOID%3A10283
+Fluphenazine	schizophrenia			http://www.drugbank.ca/drugs/DB00623	http://www.disease-ontology.org/term/DOID%3A10283
+Flurbiprofen	osteoarthritis			http://www.drugbank.ca/drugs/DB00712	http://www.disease-ontology.org/term/DOID%3A10283
+Flutamide	prostate cancer			http://www.drugbank.ca/drugs/DB00499	http://www.disease-ontology.org/term/DOID%3A10283
+Fluticasone Propionate	asthma			http://www.drugbank.ca/drugs/DB00588	http://www.disease-ontology.org/term/DOID%3A10283
+Fluticasone furoate	asthma			http://www.drugbank.ca/drugs/DB08906	http://www.disease-ontology.org/term/DOID%3A10283
+Fluvoxamine	endogenous depression			http://www.drugbank.ca/drugs/DB00176	http://www.disease-ontology.org/term/DOID%3A10283
+Fluvoxamine	panic disorder			http://www.drugbank.ca/drugs/DB00176	http://www.disease-ontology.org/term/DOID%3A10283
+Folic Acid	Crohn's disease			http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A10283
+Folic Acid	alcohol dependence			http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A10283
+Folic Acid	anemia			http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A10283
+Folic Acid	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A10283
+Folic Acid	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A10283
+Folic Acid	lung cancer			http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A10283
+Folic Acid	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A10283
+Folic Acid	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A10283
+Folic Acid	systemic scleroderma			http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A10283
+Folic Acid	ulcerative colitis			http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A10283
+Formoterol	asthma			http://www.drugbank.ca/drugs/DB00983	http://www.disease-ontology.org/term/DOID%3A10283
+Formoterol	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB00983	http://www.disease-ontology.org/term/DOID%3A10283
+Fosinopril	hypertension			http://www.drugbank.ca/drugs/DB00492	http://www.disease-ontology.org/term/DOID%3A10283
+Fosphenytoin	epilepsy syndrome			http://www.drugbank.ca/drugs/DB01320	http://www.disease-ontology.org/term/DOID%3A10283
+Frovatriptan	migraine			http://www.drugbank.ca/drugs/DB00998	http://www.disease-ontology.org/term/DOID%3A10283
+Fulvestrant	breast cancer			http://www.drugbank.ca/drugs/DB00947	http://www.disease-ontology.org/term/DOID%3A10283
+Furosemide	chronic kidney failure			http://www.drugbank.ca/drugs/DB00695	http://www.disease-ontology.org/term/DOID%3A10283
+Furosemide	coronary artery disease			http://www.drugbank.ca/drugs/DB00695	http://www.disease-ontology.org/term/DOID%3A10283
+Furosemide	dilated cardiomyopathy			http://www.drugbank.ca/drugs/DB00695	http://www.disease-ontology.org/term/DOID%3A10283
+Furosemide	hypertension			http://www.drugbank.ca/drugs/DB00695	http://www.disease-ontology.org/term/DOID%3A10283
+Furosemide	systemic scleroderma			http://www.drugbank.ca/drugs/DB00695	http://www.disease-ontology.org/term/DOID%3A10283
+Gabapentin	Parkinson's disease			http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A10283
+Gabapentin	bipolar disorder			http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A10283
+Gabapentin	colon cancer			http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A10283
+Gabapentin	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A10283
+Gabapentin	kidney cancer			http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A10283
+Gabapentin	migraine			http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A10283
+Gabapentin	multiple sclerosis			http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A10283
+Gabapentin	restless legs syndrome			http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A10283
+Gabapentin	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A10283
+Gabapentin	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A10283
+Galantamine	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00674	http://www.disease-ontology.org/term/DOID%3A10283
+Gamma Hydroxybutyric Acid	narcolepsy			http://www.drugbank.ca/drugs/DB01440	http://www.disease-ontology.org/term/DOID%3A10283
+Ganciclovir	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB01004	http://www.disease-ontology.org/term/DOID%3A10283
+Gefitinib	lung cancer			http://www.drugbank.ca/drugs/DB00317	http://www.disease-ontology.org/term/DOID%3A10283
+Gemcitabine	breast cancer			http://www.drugbank.ca/drugs/DB00441	http://www.disease-ontology.org/term/DOID%3A10283
+Gemcitabine	hematologic cancer			http://www.drugbank.ca/drugs/DB00441	http://www.disease-ontology.org/term/DOID%3A10283
+Gemcitabine	kidney cancer			http://www.drugbank.ca/drugs/DB00441	http://www.disease-ontology.org/term/DOID%3A10283
+Gemcitabine	lung cancer			http://www.drugbank.ca/drugs/DB00441	http://www.disease-ontology.org/term/DOID%3A10283
+Gemcitabine	pancreatic cancer			http://www.drugbank.ca/drugs/DB00441	http://www.disease-ontology.org/term/DOID%3A10283
+Gemcitabine	urinary bladder cancer			http://www.drugbank.ca/drugs/DB00441	http://www.disease-ontology.org/term/DOID%3A10283
+Gemfibrozil	coronary artery disease			http://www.drugbank.ca/drugs/DB01241	http://www.disease-ontology.org/term/DOID%3A10283
+Gemfibrozil	pancreatitis			http://www.drugbank.ca/drugs/DB01241	http://www.disease-ontology.org/term/DOID%3A10283
+Gemfibrozil	sclerosing cholangitis			http://www.drugbank.ca/drugs/DB01241	http://www.disease-ontology.org/term/DOID%3A10283
+Gliclazide	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB01120	http://www.disease-ontology.org/term/DOID%3A10283
+Glimepiride	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00222	http://www.disease-ontology.org/term/DOID%3A10283
+Glipizide	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB01067	http://www.disease-ontology.org/term/DOID%3A10283
+Glucosamine	osteoarthritis			http://www.drugbank.ca/drugs/DB01296	http://www.disease-ontology.org/term/DOID%3A10283
+Glyburide	gestational diabetes			http://www.drugbank.ca/drugs/DB01016	http://www.disease-ontology.org/term/DOID%3A10283
+Glyburide	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB01016	http://www.disease-ontology.org/term/DOID%3A10283
+Goserelin	breast cancer			http://www.drugbank.ca/drugs/DB00014	http://www.disease-ontology.org/term/DOID%3A10283
+Goserelin	prostate cancer			http://www.drugbank.ca/drugs/DB00014	http://www.disease-ontology.org/term/DOID%3A10283
+Guanabenz	hypertension			http://www.drugbank.ca/drugs/DB00629	http://www.disease-ontology.org/term/DOID%3A10283
+Guanadrel	hypertension			http://www.drugbank.ca/drugs/DB00226	http://www.disease-ontology.org/term/DOID%3A10283
+Guanethidine	hypertension			http://www.drugbank.ca/drugs/DB01170	http://www.disease-ontology.org/term/DOID%3A10283
+Guanfacine	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB01018	http://www.disease-ontology.org/term/DOID%3A10283
+Guanfacine	hypertension			http://www.drugbank.ca/drugs/DB01018	http://www.disease-ontology.org/term/DOID%3A10283
+Haloperidol	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00502	http://www.disease-ontology.org/term/DOID%3A10283
+Haloperidol	Gilles de la Tourette syndrome			http://www.drugbank.ca/drugs/DB00502	http://www.disease-ontology.org/term/DOID%3A10283
+Haloperidol	conduct disorder			http://www.drugbank.ca/drugs/DB00502	http://www.disease-ontology.org/term/DOID%3A10283
+Haloperidol	schizophrenia			http://www.drugbank.ca/drugs/DB00502	http://www.disease-ontology.org/term/DOID%3A10283
+Hydralazine	hypertension			http://www.drugbank.ca/drugs/DB01275	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrochlorothiazide	hypertension			http://www.drugbank.ca/drugs/DB00999	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrochlorothiazide	nephrolithiasis			http://www.drugbank.ca/drugs/DB00999	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrochlorothiazide	osteoporosis			http://www.drugbank.ca/drugs/DB00999	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrocortisone	allergic rhinitis			http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrocortisone	asthma			http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrocortisone	atopic dermatitis			http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrocortisone	gout			http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrocortisone	kidney cancer			http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrocortisone	prostate cancer			http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrocortisone	psoriasis			http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrocortisone	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrocortisone	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A10283
+Hydrocortisone	ulcerative colitis			http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A10283
+Hydroflumethiazide	hypertension			http://www.drugbank.ca/drugs/DB00774	http://www.disease-ontology.org/term/DOID%3A10283
+Hydroxyurea	brain cancer			http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A10283
+Hydroxyurea	head and neck cancer			http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A10283
+Hydroxyurea	hematologic cancer			http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A10283
+Hydroxyurea	kidney cancer			http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A10283
+Hydroxyurea	lung cancer			http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A10283
+Hydroxyurea	melanoma			http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A10283
+Hydroxyurea	ovarian cancer			http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A10283
+Hydroxyurea	prostate cancer			http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A10283
+Hydroxyurea	psoriasis			http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A10283
+Hydroxyurea	skin cancer			http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A10283
+Hydroxyurea	uterine cancer			http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A10283
+Hyoscyamine	Crohn's disease			http://www.drugbank.ca/drugs/DB00424	http://www.disease-ontology.org/term/DOID%3A10283
+Hyoscyamine	Parkinson's disease			http://www.drugbank.ca/drugs/DB00424	http://www.disease-ontology.org/term/DOID%3A10283
+Hyoscyamine	pancreatitis			http://www.drugbank.ca/drugs/DB00424	http://www.disease-ontology.org/term/DOID%3A10283
+Ibandronate	osteoporosis			http://www.drugbank.ca/drugs/DB00710	http://www.disease-ontology.org/term/DOID%3A10283
+Ibuprofen	osteoarthritis			http://www.drugbank.ca/drugs/DB01050	http://www.disease-ontology.org/term/DOID%3A10283
+Idarubicin	breast cancer			http://www.drugbank.ca/drugs/DB01177	http://www.disease-ontology.org/term/DOID%3A10283
+Idarubicin	hematologic cancer			http://www.drugbank.ca/drugs/DB01177	http://www.disease-ontology.org/term/DOID%3A10283
+Ifosfamide	germ cell cancer			http://www.drugbank.ca/drugs/DB01181	http://www.disease-ontology.org/term/DOID%3A10283
+Ifosfamide	hematologic cancer			http://www.drugbank.ca/drugs/DB01181	http://www.disease-ontology.org/term/DOID%3A10283
+Ifosfamide	testicular cancer			http://www.drugbank.ca/drugs/DB01181	http://www.disease-ontology.org/term/DOID%3A10283
+Iloprost	hypertension			http://www.drugbank.ca/drugs/DB01088	http://www.disease-ontology.org/term/DOID%3A10283
+Imatinib	hematologic cancer			http://www.drugbank.ca/drugs/DB00619	http://www.disease-ontology.org/term/DOID%3A10283
+Imipramine	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB00458	http://www.disease-ontology.org/term/DOID%3A10283
+Imipramine	endogenous depression			http://www.drugbank.ca/drugs/DB00458	http://www.disease-ontology.org/term/DOID%3A10283
+Imipramine	panic disorder			http://www.drugbank.ca/drugs/DB00458	http://www.disease-ontology.org/term/DOID%3A10283
+Imiquimod	skin cancer			http://www.drugbank.ca/drugs/DB00724	http://www.disease-ontology.org/term/DOID%3A10283
+Indacaterol	asthma			http://www.drugbank.ca/drugs/DB05039	http://www.disease-ontology.org/term/DOID%3A10283
+Indapamide	hypertension			http://www.drugbank.ca/drugs/DB00808	http://www.disease-ontology.org/term/DOID%3A10283
+Indinavir	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00224	http://www.disease-ontology.org/term/DOID%3A10283
+Indomethacin	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00328	http://www.disease-ontology.org/term/DOID%3A10283
+Indomethacin	gout			http://www.drugbank.ca/drugs/DB00328	http://www.disease-ontology.org/term/DOID%3A10283
+Indomethacin	migraine			http://www.drugbank.ca/drugs/DB00328	http://www.disease-ontology.org/term/DOID%3A10283
+Indomethacin	osteoarthritis			http://www.drugbank.ca/drugs/DB00328	http://www.disease-ontology.org/term/DOID%3A10283
+Indomethacin	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00328	http://www.disease-ontology.org/term/DOID%3A10283
+Ipratropium bromide	asthma			http://www.drugbank.ca/drugs/DB00332	http://www.disease-ontology.org/term/DOID%3A10283
+Irbesartan	hypertension			http://www.drugbank.ca/drugs/DB01029	http://www.disease-ontology.org/term/DOID%3A10283
+Irbesartan	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB01029	http://www.disease-ontology.org/term/DOID%3A10283
+Irinotecan	breast cancer			http://www.drugbank.ca/drugs/DB00762	http://www.disease-ontology.org/term/DOID%3A10283
+Irinotecan	colon cancer			http://www.drugbank.ca/drugs/DB00762	http://www.disease-ontology.org/term/DOID%3A10283
+Irinotecan	hematologic cancer			http://www.drugbank.ca/drugs/DB00762	http://www.disease-ontology.org/term/DOID%3A10283
+Irinotecan	lung cancer			http://www.drugbank.ca/drugs/DB00762	http://www.disease-ontology.org/term/DOID%3A10283
+Irinotecan	pancreatic cancer			http://www.drugbank.ca/drugs/DB00762	http://www.disease-ontology.org/term/DOID%3A10283
+Irinotecan	stomach cancer			http://www.drugbank.ca/drugs/DB00762	http://www.disease-ontology.org/term/DOID%3A10283
+Isocarboxazid	panic disorder			http://www.drugbank.ca/drugs/DB01247	http://www.disease-ontology.org/term/DOID%3A10283
+Isoetarine	asthma			http://www.drugbank.ca/drugs/DB00221	http://www.disease-ontology.org/term/DOID%3A10283
+Isoprenaline	asthma			http://www.drugbank.ca/drugs/DB01064	http://www.disease-ontology.org/term/DOID%3A10283
+Isosorbide Dinitrate	coronary artery disease			http://www.drugbank.ca/drugs/DB00883	http://www.disease-ontology.org/term/DOID%3A10283
+Isosorbide Dinitrate	hypertension			http://www.drugbank.ca/drugs/DB00883	http://www.disease-ontology.org/term/DOID%3A10283
+Isosorbide Mononitrate	coronary artery disease			http://www.drugbank.ca/drugs/DB01020	http://www.disease-ontology.org/term/DOID%3A10283
+Isotretinoin	hematologic cancer			http://www.drugbank.ca/drugs/DB00982	http://www.disease-ontology.org/term/DOID%3A10283
+Isotretinoin	peripheral nervous system neoplasm			http://www.drugbank.ca/drugs/DB00982	http://www.disease-ontology.org/term/DOID%3A10283
+Isradipine	hypertension			http://www.drugbank.ca/drugs/DB00270	http://www.disease-ontology.org/term/DOID%3A10283
+Ixabepilone	breast cancer			http://www.drugbank.ca/drugs/DB04845	http://www.disease-ontology.org/term/DOID%3A10283
+Ketoprofen	osteoarthritis			http://www.drugbank.ca/drugs/DB01009	http://www.disease-ontology.org/term/DOID%3A10283
+Ketotifen	asthma			http://www.drugbank.ca/drugs/DB00920	http://www.disease-ontology.org/term/DOID%3A10283
+L-Carnitine	autistic disorder			http://www.drugbank.ca/drugs/DB00583	http://www.disease-ontology.org/term/DOID%3A10283
+L-DOPA	Parkinson's disease			http://www.drugbank.ca/drugs/DB01235	http://www.disease-ontology.org/term/DOID%3A10283
+L-DOPA	restless legs syndrome			http://www.drugbank.ca/drugs/DB01235	http://www.disease-ontology.org/term/DOID%3A10283
+Labetalol	hypertension			http://www.drugbank.ca/drugs/DB00598	http://www.disease-ontology.org/term/DOID%3A10283
+Lacosamide	epilepsy syndrome			http://www.drugbank.ca/drugs/DB06218	http://www.disease-ontology.org/term/DOID%3A10283
+Lamivudine	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00709	http://www.disease-ontology.org/term/DOID%3A10283
+Lamivudine	hepatitis B			http://www.drugbank.ca/drugs/DB00709	http://www.disease-ontology.org/term/DOID%3A10283
+Lamotrigine	bipolar disorder			http://www.drugbank.ca/drugs/DB00555	http://www.disease-ontology.org/term/DOID%3A10283
+Lamotrigine	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00555	http://www.disease-ontology.org/term/DOID%3A10283
+Lamotrigine	schizophrenia			http://www.drugbank.ca/drugs/DB00555	http://www.disease-ontology.org/term/DOID%3A10283
+Lapatinib	breast cancer			http://www.drugbank.ca/drugs/DB01259	http://www.disease-ontology.org/term/DOID%3A10283
+Latanoprost	glaucoma			http://www.drugbank.ca/drugs/DB00654	http://www.disease-ontology.org/term/DOID%3A10283
+Latanoprost	hypertension			http://www.drugbank.ca/drugs/DB00654	http://www.disease-ontology.org/term/DOID%3A10283
+Leflunomide	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB01097	http://www.disease-ontology.org/term/DOID%3A10283
+Leflunomide	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB01097	http://www.disease-ontology.org/term/DOID%3A10283
+Leflunomide	systemic scleroderma			http://www.drugbank.ca/drugs/DB01097	http://www.disease-ontology.org/term/DOID%3A10283
+Lenalidomide	hematologic cancer			http://www.drugbank.ca/drugs/DB00480	http://www.disease-ontology.org/term/DOID%3A10283
+Letrozole	breast cancer			http://www.drugbank.ca/drugs/DB01006	http://www.disease-ontology.org/term/DOID%3A10283
+Leucovorin	bone cancer			http://www.drugbank.ca/drugs/DB00650	http://www.disease-ontology.org/term/DOID%3A10283
+Leucovorin	colon cancer			http://www.drugbank.ca/drugs/DB00650	http://www.disease-ontology.org/term/DOID%3A10283
+Levetiracetam	epilepsy syndrome			http://www.drugbank.ca/drugs/DB01202	http://www.disease-ontology.org/term/DOID%3A10283
+Levobunolol	glaucoma			http://www.drugbank.ca/drugs/DB01210	http://www.disease-ontology.org/term/DOID%3A10283
+Levobunolol	hypertension			http://www.drugbank.ca/drugs/DB01210	http://www.disease-ontology.org/term/DOID%3A10283
+Levofloxacin	asthma			http://www.drugbank.ca/drugs/DB01137	http://www.disease-ontology.org/term/DOID%3A10283
+Levofloxacin	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB01137	http://www.disease-ontology.org/term/DOID%3A10283
+Levonorgestrel	polycystic ovary syndrome			http://www.drugbank.ca/drugs/DB00367	http://www.disease-ontology.org/term/DOID%3A10283
+Levothyroxine	Graves' disease			http://www.drugbank.ca/drugs/DB00451	http://www.disease-ontology.org/term/DOID%3A10283
+Levothyroxine	coronary artery disease			http://www.drugbank.ca/drugs/DB00451	http://www.disease-ontology.org/term/DOID%3A10283
+Levothyroxine	hypothyroidism			http://www.drugbank.ca/drugs/DB00451	http://www.disease-ontology.org/term/DOID%3A10283
+Levothyroxine	thyroid cancer			http://www.drugbank.ca/drugs/DB00451	http://www.disease-ontology.org/term/DOID%3A10283
+Lidocaine	coronary artery disease			http://www.drugbank.ca/drugs/DB00281	http://www.disease-ontology.org/term/DOID%3A10283
+Lidocaine	osteoarthritis			http://www.drugbank.ca/drugs/DB00281	http://www.disease-ontology.org/term/DOID%3A10283
+Lidocaine	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00281	http://www.disease-ontology.org/term/DOID%3A10283
+Lidocaine	systemic scleroderma			http://www.drugbank.ca/drugs/DB00281	http://www.disease-ontology.org/term/DOID%3A10283
+Linagliptin	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB08882	http://www.disease-ontology.org/term/DOID%3A10283
+Liothyronine	Graves' disease			http://www.drugbank.ca/drugs/DB00279	http://www.disease-ontology.org/term/DOID%3A10283
+Liothyronine	hypothyroidism			http://www.drugbank.ca/drugs/DB00279	http://www.disease-ontology.org/term/DOID%3A10283
+Liothyronine	thyroid cancer			http://www.drugbank.ca/drugs/DB00279	http://www.disease-ontology.org/term/DOID%3A10283
+Liotrix	Graves' disease			http://www.drugbank.ca/drugs/DB01583	http://www.disease-ontology.org/term/DOID%3A10283
+Liotrix	coronary artery disease			http://www.drugbank.ca/drugs/DB01583	http://www.disease-ontology.org/term/DOID%3A10283
+Liotrix	hypothyroidism			http://www.drugbank.ca/drugs/DB01583	http://www.disease-ontology.org/term/DOID%3A10283
+Liotrix	thyroid cancer			http://www.drugbank.ca/drugs/DB01583	http://www.disease-ontology.org/term/DOID%3A10283
+Lisdexamfetamine	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB01255	http://www.disease-ontology.org/term/DOID%3A10283
+Lisinopril	coronary artery disease			http://www.drugbank.ca/drugs/DB00722	http://www.disease-ontology.org/term/DOID%3A10283
+Lisinopril	dilated cardiomyopathy			http://www.drugbank.ca/drugs/DB00722	http://www.disease-ontology.org/term/DOID%3A10283
+Lisinopril	hypertension			http://www.drugbank.ca/drugs/DB00722	http://www.disease-ontology.org/term/DOID%3A10283
+Lisinopril	kidney cancer			http://www.drugbank.ca/drugs/DB00722	http://www.disease-ontology.org/term/DOID%3A10283
+Lisinopril	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00722	http://www.disease-ontology.org/term/DOID%3A10283
+Lisinopril	systemic scleroderma			http://www.drugbank.ca/drugs/DB00722	http://www.disease-ontology.org/term/DOID%3A10283
+Lithium	schizophrenia			http://www.drugbank.ca/drugs/DB01356	http://www.disease-ontology.org/term/DOID%3A10283
+Lomustine	brain cancer			http://www.drugbank.ca/drugs/DB01206	http://www.disease-ontology.org/term/DOID%3A10283
+Lomustine	hematologic cancer			http://www.drugbank.ca/drugs/DB01206	http://www.disease-ontology.org/term/DOID%3A10283
+Lomustine	kidney cancer			http://www.drugbank.ca/drugs/DB01206	http://www.disease-ontology.org/term/DOID%3A10283
+Lomustine	melanoma			http://www.drugbank.ca/drugs/DB01206	http://www.disease-ontology.org/term/DOID%3A10283
+Lomustine	skin cancer			http://www.drugbank.ca/drugs/DB01206	http://www.disease-ontology.org/term/DOID%3A10283
+Lopinavir	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB01601	http://www.disease-ontology.org/term/DOID%3A10283
+Loratadine	allergic rhinitis			http://www.drugbank.ca/drugs/DB00455	http://www.disease-ontology.org/term/DOID%3A10283
+Loratadine	asthma			http://www.drugbank.ca/drugs/DB00455	http://www.disease-ontology.org/term/DOID%3A10283
+Loratadine	atopic dermatitis			http://www.drugbank.ca/drugs/DB00455	http://www.disease-ontology.org/term/DOID%3A10283
+Lorazepam	panic disorder			http://www.drugbank.ca/drugs/DB00186	http://www.disease-ontology.org/term/DOID%3A10283
+Losartan	coronary artery disease			http://www.drugbank.ca/drugs/DB00678	http://www.disease-ontology.org/term/DOID%3A10283
+Losartan	hypertension			http://www.drugbank.ca/drugs/DB00678	http://www.disease-ontology.org/term/DOID%3A10283
+Losartan	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00678	http://www.disease-ontology.org/term/DOID%3A10283
+Lovastatin	atherosclerosis			http://www.drugbank.ca/drugs/DB00227	http://www.disease-ontology.org/term/DOID%3A10283
+Lovastatin	coronary artery disease			http://www.drugbank.ca/drugs/DB00227	http://www.disease-ontology.org/term/DOID%3A10283
+Lovastatin	hypertension			http://www.drugbank.ca/drugs/DB00227	http://www.disease-ontology.org/term/DOID%3A10283
+Loxapine	schizophrenia			http://www.drugbank.ca/drugs/DB00408	http://www.disease-ontology.org/term/DOID%3A10283
+Magnesium Sulfate	hypertension			http://www.drugbank.ca/drugs/DB00653	http://www.disease-ontology.org/term/DOID%3A10283
+Magnesium salicylate	psoriasis			http://www.drugbank.ca/drugs/DB01397	http://www.disease-ontology.org/term/DOID%3A10283
+Mannitol	glaucoma			http://www.drugbank.ca/drugs/DB00742	http://www.disease-ontology.org/term/DOID%3A10283
+Maprotiline	panic disorder			http://www.drugbank.ca/drugs/DB00934	http://www.disease-ontology.org/term/DOID%3A10283
+Mecamylamine	Gilles de la Tourette syndrome			http://www.drugbank.ca/drugs/DB00657	http://www.disease-ontology.org/term/DOID%3A10283
+Mecamylamine	hypertension			http://www.drugbank.ca/drugs/DB00657	http://www.disease-ontology.org/term/DOID%3A10283
+Mechlorethamine	hematologic cancer			http://www.drugbank.ca/drugs/DB00888	http://www.disease-ontology.org/term/DOID%3A10283
+Mechlorethamine	lymphatic system cancer			http://www.drugbank.ca/drugs/DB00888	http://www.disease-ontology.org/term/DOID%3A10283
+Medroxyprogesterone Acetate	breast cancer			http://www.drugbank.ca/drugs/DB00603	http://www.disease-ontology.org/term/DOID%3A10283
+Medroxyprogesterone Acetate	kidney cancer			http://www.drugbank.ca/drugs/DB00603	http://www.disease-ontology.org/term/DOID%3A10283
+Medroxyprogesterone Acetate	osteoporosis			http://www.drugbank.ca/drugs/DB00603	http://www.disease-ontology.org/term/DOID%3A10283
+Medroxyprogesterone Acetate	uterine cancer			http://www.drugbank.ca/drugs/DB00603	http://www.disease-ontology.org/term/DOID%3A10283
+Megestrol acetate	breast cancer			http://www.drugbank.ca/drugs/DB00351	http://www.disease-ontology.org/term/DOID%3A10283
+Melatonin	kidney cancer			http://www.drugbank.ca/drugs/DB01065	http://www.disease-ontology.org/term/DOID%3A10283
+Melatonin	prostate cancer			http://www.drugbank.ca/drugs/DB01065	http://www.disease-ontology.org/term/DOID%3A10283
+Meloxicam	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00814	http://www.disease-ontology.org/term/DOID%3A10283
+Meloxicam	osteoarthritis			http://www.drugbank.ca/drugs/DB00814	http://www.disease-ontology.org/term/DOID%3A10283
+Meloxicam	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00814	http://www.disease-ontology.org/term/DOID%3A10283
+Meloxicam	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00814	http://www.disease-ontology.org/term/DOID%3A10283
+Meloxicam	systemic scleroderma			http://www.drugbank.ca/drugs/DB00814	http://www.disease-ontology.org/term/DOID%3A10283
+Melphalan	breast cancer			http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A10283
+Melphalan	hematologic cancer			http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A10283
+Melphalan	melanoma			http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A10283
+Melphalan	muscle cancer			http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A10283
+Melphalan	ovarian cancer			http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A10283
+Melphalan	peripheral nervous system neoplasm			http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A10283
+Melphalan	sarcoma			http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A10283
+Melphalan	skin cancer			http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A10283
+Memantine	Alzheimer's disease			http://www.drugbank.ca/drugs/DB01043	http://www.disease-ontology.org/term/DOID%3A10283
+Memantine	Parkinson's disease			http://www.drugbank.ca/drugs/DB01043	http://www.disease-ontology.org/term/DOID%3A10283
+Mercaptopurine	Crohn's disease			http://www.drugbank.ca/drugs/DB01033	http://www.disease-ontology.org/term/DOID%3A10283
+Mercaptopurine	hematologic cancer			http://www.drugbank.ca/drugs/DB01033	http://www.disease-ontology.org/term/DOID%3A10283
+Mercaptopurine	ulcerative colitis			http://www.drugbank.ca/drugs/DB01033	http://www.disease-ontology.org/term/DOID%3A10283
+Mesalazine	Crohn's disease			http://www.drugbank.ca/drugs/DB00244	http://www.disease-ontology.org/term/DOID%3A10283
+Mesalazine	ulcerative colitis			http://www.drugbank.ca/drugs/DB00244	http://www.disease-ontology.org/term/DOID%3A10283
+Mesoridazine	schizophrenia			http://www.drugbank.ca/drugs/DB00933	http://www.disease-ontology.org/term/DOID%3A10283
+Mestranol	ovarian cancer			http://www.drugbank.ca/drugs/DB01357	http://www.disease-ontology.org/term/DOID%3A10283
+Metformin	kidney cancer			http://www.drugbank.ca/drugs/DB00331	http://www.disease-ontology.org/term/DOID%3A10283
+Metformin	liver cancer			http://www.drugbank.ca/drugs/DB00331	http://www.disease-ontology.org/term/DOID%3A10283
+Metformin	metabolic syndrome X			http://www.drugbank.ca/drugs/DB00331	http://www.disease-ontology.org/term/DOID%3A10283
+Metformin	polycystic ovary syndrome			http://www.drugbank.ca/drugs/DB00331	http://www.disease-ontology.org/term/DOID%3A10283
+Metformin	prostate cancer			http://www.drugbank.ca/drugs/DB00331	http://www.disease-ontology.org/term/DOID%3A10283
+Metformin	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00331	http://www.disease-ontology.org/term/DOID%3A10283
+Methamphetamine	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB01577	http://www.disease-ontology.org/term/DOID%3A10283
+Methamphetamine	narcolepsy			http://www.drugbank.ca/drugs/DB01577	http://www.disease-ontology.org/term/DOID%3A10283
+Methamphetamine	obesity			http://www.drugbank.ca/drugs/DB01577	http://www.disease-ontology.org/term/DOID%3A10283
+Methazolamide	glaucoma			http://www.drugbank.ca/drugs/DB00703	http://www.disease-ontology.org/term/DOID%3A10283
+Methimazole	Graves' disease			http://www.drugbank.ca/drugs/DB00763	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	bone cancer			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	breast cancer			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	colon cancer			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	esophageal cancer			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	germ cell cancer			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	hematologic cancer			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	lung cancer			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	lymphatic system cancer			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	multiple sclerosis			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	muscle cancer			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	psoriasis			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	psoriatic arthritis			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	stomach cancer			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	systemic scleroderma			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	testicular cancer			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methotrexate	urinary bladder cancer			http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10283
+Methoxsalen	hematologic cancer			http://www.drugbank.ca/drugs/DB00553	http://www.disease-ontology.org/term/DOID%3A10283
+Methoxsalen	psoriasis			http://www.drugbank.ca/drugs/DB00553	http://www.disease-ontology.org/term/DOID%3A10283
+Methoxsalen	vitiligo			http://www.drugbank.ca/drugs/DB00553	http://www.disease-ontology.org/term/DOID%3A10283
+Methyldopa	hypertension			http://www.drugbank.ca/drugs/DB00968	http://www.disease-ontology.org/term/DOID%3A10283
+Methylergometrine	migraine			http://www.drugbank.ca/drugs/DB00353	http://www.disease-ontology.org/term/DOID%3A10283
+Methylphenidate	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB00422	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	allergic rhinitis			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	anemia			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	asthma			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	atopic dermatitis			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	brain cancer			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	gout			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	hematologic cancer			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	multiple sclerosis			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	osteoarthritis			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	psoriatic arthritis			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methylprednisolone	ulcerative colitis			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A10283
+Methyltestosterone	breast cancer			http://www.drugbank.ca/drugs/DB06710	http://www.disease-ontology.org/term/DOID%3A10283
+Methyltestosterone	osteoporosis			http://www.drugbank.ca/drugs/DB06710	http://www.disease-ontology.org/term/DOID%3A10283
+Metipranolol	glaucoma			http://www.drugbank.ca/drugs/DB01214	http://www.disease-ontology.org/term/DOID%3A10283
+Metoclopramide	migraine			http://www.drugbank.ca/drugs/DB01233	http://www.disease-ontology.org/term/DOID%3A10283
+Metoclopramide	prostate cancer			http://www.drugbank.ca/drugs/DB01233	http://www.disease-ontology.org/term/DOID%3A10283
+Metoclopramide	systemic scleroderma			http://www.drugbank.ca/drugs/DB01233	http://www.disease-ontology.org/term/DOID%3A10283
+Metolazone	hypertension			http://www.drugbank.ca/drugs/DB00524	http://www.disease-ontology.org/term/DOID%3A10283
+Metoprolol	hypertension			http://www.drugbank.ca/drugs/DB00264	http://www.disease-ontology.org/term/DOID%3A10283
+Metronidazole	Crohn's disease			http://www.drugbank.ca/drugs/DB00916	http://www.disease-ontology.org/term/DOID%3A10283
+Metronidazole	systemic scleroderma			http://www.drugbank.ca/drugs/DB00916	http://www.disease-ontology.org/term/DOID%3A10283
+Metyrosine	hypertension			http://www.drugbank.ca/drugs/DB00765	http://www.disease-ontology.org/term/DOID%3A10283
+Midazolam	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00683	http://www.disease-ontology.org/term/DOID%3A10283
+Mifepristone	brain cancer			http://www.drugbank.ca/drugs/DB00834	http://www.disease-ontology.org/term/DOID%3A10283
+Mifepristone	meningioma			http://www.drugbank.ca/drugs/DB00834	http://www.disease-ontology.org/term/DOID%3A10283
+Miglitol	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00491	http://www.disease-ontology.org/term/DOID%3A10283
+Minocycline	systemic scleroderma			http://www.drugbank.ca/drugs/DB01017	http://www.disease-ontology.org/term/DOID%3A10283
+Minoxidil	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00350	http://www.disease-ontology.org/term/DOID%3A10283
+Minoxidil	hypertension			http://www.drugbank.ca/drugs/DB00350	http://www.disease-ontology.org/term/DOID%3A10283
+Misoprostol	osteoarthritis			http://www.drugbank.ca/drugs/DB00929	http://www.disease-ontology.org/term/DOID%3A10283
+Mitomycin	glaucoma			http://www.drugbank.ca/drugs/DB00305	http://www.disease-ontology.org/term/DOID%3A10283
+Mitomycin	stomach cancer			http://www.drugbank.ca/drugs/DB00305	http://www.disease-ontology.org/term/DOID%3A10283
+Mitomycin	urinary bladder cancer			http://www.drugbank.ca/drugs/DB00305	http://www.disease-ontology.org/term/DOID%3A10283
+Mitoxantrone	breast cancer			http://www.drugbank.ca/drugs/DB01204	http://www.disease-ontology.org/term/DOID%3A10283
+Mitoxantrone	hematologic cancer			http://www.drugbank.ca/drugs/DB01204	http://www.disease-ontology.org/term/DOID%3A10283
+Mitoxantrone	lymphatic system cancer			http://www.drugbank.ca/drugs/DB01204	http://www.disease-ontology.org/term/DOID%3A10283
+Mitoxantrone	multiple sclerosis			http://www.drugbank.ca/drugs/DB01204	http://www.disease-ontology.org/term/DOID%3A10283
+Mitoxantrone	prostate cancer			http://www.drugbank.ca/drugs/DB01204	http://www.disease-ontology.org/term/DOID%3A10283
+Mitoxantrone	sarcoma			http://www.drugbank.ca/drugs/DB01204	http://www.disease-ontology.org/term/DOID%3A10283
+Modafinil	Parkinson's disease			http://www.drugbank.ca/drugs/DB00745	http://www.disease-ontology.org/term/DOID%3A10283
+Modafinil	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB00745	http://www.disease-ontology.org/term/DOID%3A10283
+Modafinil	multiple sclerosis			http://www.drugbank.ca/drugs/DB00745	http://www.disease-ontology.org/term/DOID%3A10283
+Modafinil	narcolepsy			http://www.drugbank.ca/drugs/DB00745	http://www.disease-ontology.org/term/DOID%3A10283
+Moexipril	hypertension			http://www.drugbank.ca/drugs/DB00691	http://www.disease-ontology.org/term/DOID%3A10283
+Mometasone	asthma			http://www.drugbank.ca/drugs/DB00764	http://www.disease-ontology.org/term/DOID%3A10283
+Mometasone	atopic dermatitis			http://www.drugbank.ca/drugs/DB00764	http://www.disease-ontology.org/term/DOID%3A10283
+Mometasone	systemic scleroderma			http://www.drugbank.ca/drugs/DB00764	http://www.disease-ontology.org/term/DOID%3A10283
+Monobenzone	vitiligo			http://www.drugbank.ca/drugs/DB00600	http://www.disease-ontology.org/term/DOID%3A10283
+Montelukast	allergic rhinitis			http://www.drugbank.ca/drugs/DB00471	http://www.disease-ontology.org/term/DOID%3A10283
+Montelukast	asthma			http://www.drugbank.ca/drugs/DB00471	http://www.disease-ontology.org/term/DOID%3A10283
+Montelukast	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB00471	http://www.disease-ontology.org/term/DOID%3A10283
+Morphine	coronary artery disease			http://www.drugbank.ca/drugs/DB00295	http://www.disease-ontology.org/term/DOID%3A10283
+Moxifloxacin	asthma			http://www.drugbank.ca/drugs/DB00218	http://www.disease-ontology.org/term/DOID%3A10283
+Moxifloxacin	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB00218	http://www.disease-ontology.org/term/DOID%3A10283
+Moxifloxacin	hypertension			http://www.drugbank.ca/drugs/DB00218	http://www.disease-ontology.org/term/DOID%3A10283
+Mupirocin	atopic dermatitis			http://www.drugbank.ca/drugs/DB00410	http://www.disease-ontology.org/term/DOID%3A10283
+Mycophenolate mofetil	psoriasis			http://www.drugbank.ca/drugs/DB00688	http://www.disease-ontology.org/term/DOID%3A10283
+Mycophenolate mofetil	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00688	http://www.disease-ontology.org/term/DOID%3A10283
+Mycophenolate mofetil	systemic scleroderma			http://www.drugbank.ca/drugs/DB00688	http://www.disease-ontology.org/term/DOID%3A10283
+Mycophenolic acid	psoriasis			http://www.drugbank.ca/drugs/DB01024	http://www.disease-ontology.org/term/DOID%3A10283
+Mycophenolic acid	systemic scleroderma			http://www.drugbank.ca/drugs/DB01024	http://www.disease-ontology.org/term/DOID%3A10283
+Nabumetone	osteoarthritis			http://www.drugbank.ca/drugs/DB00461	http://www.disease-ontology.org/term/DOID%3A10283
+Nabumetone	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00461	http://www.disease-ontology.org/term/DOID%3A10283
+Nadolol	hypertension			http://www.drugbank.ca/drugs/DB01203	http://www.disease-ontology.org/term/DOID%3A10283
+Naftifine	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00735	http://www.disease-ontology.org/term/DOID%3A10283
+Naltrexone	alcohol dependence			http://www.drugbank.ca/drugs/DB00704	http://www.disease-ontology.org/term/DOID%3A10283
+Naproxen	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00788	http://www.disease-ontology.org/term/DOID%3A10283
+Naproxen	gout			http://www.drugbank.ca/drugs/DB00788	http://www.disease-ontology.org/term/DOID%3A10283
+Naproxen	migraine			http://www.drugbank.ca/drugs/DB00788	http://www.disease-ontology.org/term/DOID%3A10283
+Naproxen	osteoarthritis			http://www.drugbank.ca/drugs/DB00788	http://www.disease-ontology.org/term/DOID%3A10283
+Naproxen	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00788	http://www.disease-ontology.org/term/DOID%3A10283
+Naproxen	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00788	http://www.disease-ontology.org/term/DOID%3A10283
+Naratriptan	migraine			http://www.drugbank.ca/drugs/DB00952	http://www.disease-ontology.org/term/DOID%3A10283
+Nateglinide	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00731	http://www.disease-ontology.org/term/DOID%3A10283
+Nebivolol	hypertension			http://www.drugbank.ca/drugs/DB04861	http://www.disease-ontology.org/term/DOID%3A10283
+Nedocromil	asthma			http://www.drugbank.ca/drugs/DB00716	http://www.disease-ontology.org/term/DOID%3A10283
+Nefazodone	endogenous depression			http://www.drugbank.ca/drugs/DB01149	http://www.disease-ontology.org/term/DOID%3A10283
+Nelarabine	hematologic cancer			http://www.drugbank.ca/drugs/DB01280	http://www.disease-ontology.org/term/DOID%3A10283
+Nelfinavir	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00220	http://www.disease-ontology.org/term/DOID%3A10283
+Nevirapine	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00238	http://www.disease-ontology.org/term/DOID%3A10283
+Niacin	atherosclerosis			http://www.drugbank.ca/drugs/DB00627	http://www.disease-ontology.org/term/DOID%3A10283
+Niacin	coronary artery disease			http://www.drugbank.ca/drugs/DB00627	http://www.disease-ontology.org/term/DOID%3A10283
+Niacin	pancreatitis			http://www.drugbank.ca/drugs/DB00627	http://www.disease-ontology.org/term/DOID%3A10283
+Nicardipine	hypertension			http://www.drugbank.ca/drugs/DB00622	http://www.disease-ontology.org/term/DOID%3A10283
+Nicotine	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB00184	http://www.disease-ontology.org/term/DOID%3A10283
+Nicotine	nicotine dependence			http://www.drugbank.ca/drugs/DB00184	http://www.disease-ontology.org/term/DOID%3A10283
+Nicotine	ulcerative colitis			http://www.drugbank.ca/drugs/DB00184	http://www.disease-ontology.org/term/DOID%3A10283
+Nifedipine	coronary artery disease			http://www.drugbank.ca/drugs/DB01115	http://www.disease-ontology.org/term/DOID%3A10283
+Nifedipine	hypertension			http://www.drugbank.ca/drugs/DB01115	http://www.disease-ontology.org/term/DOID%3A10283
+Nifedipine	systemic scleroderma			http://www.drugbank.ca/drugs/DB01115	http://www.disease-ontology.org/term/DOID%3A10283
+Nilotinib	hematologic cancer			http://www.drugbank.ca/drugs/DB04868	http://www.disease-ontology.org/term/DOID%3A10283
+Nilutamide	prostate cancer			http://www.drugbank.ca/drugs/DB00665	http://www.disease-ontology.org/term/DOID%3A10283
+Nisoldipine	hypertension			http://www.drugbank.ca/drugs/DB00401	http://www.disease-ontology.org/term/DOID%3A10283
+Nitric Oxide	hypertension			http://www.drugbank.ca/drugs/DB00435	http://www.disease-ontology.org/term/DOID%3A10283
+Nitroglycerin	coronary artery disease			http://www.drugbank.ca/drugs/DB00727	http://www.disease-ontology.org/term/DOID%3A10283
+Nitroglycerin	hypertension			http://www.drugbank.ca/drugs/DB00727	http://www.disease-ontology.org/term/DOID%3A10283
+Nitroprusside	hypertension			http://www.drugbank.ca/drugs/DB00325	http://www.disease-ontology.org/term/DOID%3A10283
+Norethindrone	osteoporosis			http://www.drugbank.ca/drugs/DB00717	http://www.disease-ontology.org/term/DOID%3A10283
+Norethindrone	polycystic ovary syndrome			http://www.drugbank.ca/drugs/DB00717	http://www.disease-ontology.org/term/DOID%3A10283
+Nortriptyline	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB00540	http://www.disease-ontology.org/term/DOID%3A10283
+Nortriptyline	endogenous depression			http://www.drugbank.ca/drugs/DB00540	http://www.disease-ontology.org/term/DOID%3A10283
+Nortriptyline	multiple sclerosis			http://www.drugbank.ca/drugs/DB00540	http://www.disease-ontology.org/term/DOID%3A10283
+Nortriptyline	panic disorder			http://www.drugbank.ca/drugs/DB00540	http://www.disease-ontology.org/term/DOID%3A10283
+Octreotide	pancreatic cancer			http://www.drugbank.ca/drugs/DB00104	http://www.disease-ontology.org/term/DOID%3A10283
+Octreotide	pancreatitis			http://www.drugbank.ca/drugs/DB00104	http://www.disease-ontology.org/term/DOID%3A10283
+Octreotide	thymus cancer			http://www.drugbank.ca/drugs/DB00104	http://www.disease-ontology.org/term/DOID%3A10283
+Octreotide	type 1 diabetes mellitus			http://www.drugbank.ca/drugs/DB00104	http://www.disease-ontology.org/term/DOID%3A10283
+Ofloxacin	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB01165	http://www.disease-ontology.org/term/DOID%3A10283
+Olanzapine	Gilles de la Tourette syndrome			http://www.drugbank.ca/drugs/DB00334	http://www.disease-ontology.org/term/DOID%3A10283
+Olanzapine	bipolar disorder			http://www.drugbank.ca/drugs/DB00334	http://www.disease-ontology.org/term/DOID%3A10283
+Olanzapine	panic disorder			http://www.drugbank.ca/drugs/DB00334	http://www.disease-ontology.org/term/DOID%3A10283
+Olanzapine	schizophrenia			http://www.drugbank.ca/drugs/DB00334	http://www.disease-ontology.org/term/DOID%3A10283
+Olmesartan	coronary artery disease			http://www.drugbank.ca/drugs/DB00275	http://www.disease-ontology.org/term/DOID%3A10283
+Olmesartan	hypertension			http://www.drugbank.ca/drugs/DB00275	http://www.disease-ontology.org/term/DOID%3A10283
+Olopatadine	allergic rhinitis			http://www.drugbank.ca/drugs/DB00768	http://www.disease-ontology.org/term/DOID%3A10283
+Olsalazine	ulcerative colitis			http://www.drugbank.ca/drugs/DB01250	http://www.disease-ontology.org/term/DOID%3A10283
+Omeprazole	Barrett's esophagus			http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A10283
+Omeprazole	allergic rhinitis			http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A10283
+Omeprazole	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A10283
+Omeprazole	esophageal cancer			http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A10283
+Omeprazole	kidney cancer			http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A10283
+Omeprazole	prostate cancer			http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A10283
+Omeprazole	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A10283
+Omeprazole	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A10283
+Omeprazole	systemic scleroderma			http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A10283
+Ondansetron	alcohol dependence			http://www.drugbank.ca/drugs/DB00904	http://www.disease-ontology.org/term/DOID%3A10283
+Orciprenaline	asthma			http://www.drugbank.ca/drugs/DB00816	http://www.disease-ontology.org/term/DOID%3A10283
+Orlistat	hypertension			http://www.drugbank.ca/drugs/DB01083	http://www.disease-ontology.org/term/DOID%3A10283
+Orlistat	obesity			http://www.drugbank.ca/drugs/DB01083	http://www.disease-ontology.org/term/DOID%3A10283
+Orlistat	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB01083	http://www.disease-ontology.org/term/DOID%3A10283
+Orphenadrine	migraine			http://www.drugbank.ca/drugs/DB01173	http://www.disease-ontology.org/term/DOID%3A10283
+Oxandrolone	osteoporosis			http://www.drugbank.ca/drugs/DB00621	http://www.disease-ontology.org/term/DOID%3A10283
+Oxaprozin	osteoarthritis			http://www.drugbank.ca/drugs/DB00991	http://www.disease-ontology.org/term/DOID%3A10283
+Oxaprozin	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00991	http://www.disease-ontology.org/term/DOID%3A10283
+Oxcarbazepine	bipolar disorder			http://www.drugbank.ca/drugs/DB00776	http://www.disease-ontology.org/term/DOID%3A10283
+Oxcarbazepine	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00776	http://www.disease-ontology.org/term/DOID%3A10283
+Oxcarbazepine	multiple sclerosis			http://www.drugbank.ca/drugs/DB00776	http://www.disease-ontology.org/term/DOID%3A10283
+Oxtriphylline	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB01303	http://www.disease-ontology.org/term/DOID%3A10283
+Oxymetazoline	allergic rhinitis			http://www.drugbank.ca/drugs/DB00935	http://www.disease-ontology.org/term/DOID%3A10283
+Paclitaxel	breast cancer			http://www.drugbank.ca/drugs/DB01229	http://www.disease-ontology.org/term/DOID%3A10283
+Paclitaxel	kidney cancer			http://www.drugbank.ca/drugs/DB01229	http://www.disease-ontology.org/term/DOID%3A10283
+Paclitaxel	lung cancer			http://www.drugbank.ca/drugs/DB01229	http://www.disease-ontology.org/term/DOID%3A10283
+Paclitaxel	ovarian cancer			http://www.drugbank.ca/drugs/DB01229	http://www.disease-ontology.org/term/DOID%3A10283
+Paliperidone	schizophrenia			http://www.drugbank.ca/drugs/DB01267	http://www.disease-ontology.org/term/DOID%3A10283
+Pamidronate	Paget's disease of bone			http://www.drugbank.ca/drugs/DB00282	http://www.disease-ontology.org/term/DOID%3A10283
+Pamidronate	breast cancer			http://www.drugbank.ca/drugs/DB00282	http://www.disease-ontology.org/term/DOID%3A10283
+Pamidronate	hematologic cancer			http://www.drugbank.ca/drugs/DB00282	http://www.disease-ontology.org/term/DOID%3A10283
+Pamidronate	osteoporosis			http://www.drugbank.ca/drugs/DB00282	http://www.disease-ontology.org/term/DOID%3A10283
+Paricalcitol	chronic kidney failure			http://www.drugbank.ca/drugs/DB00910	http://www.disease-ontology.org/term/DOID%3A10283
+Paroxetine	bipolar disorder			http://www.drugbank.ca/drugs/DB00715	http://www.disease-ontology.org/term/DOID%3A10283
+Paroxetine	endogenous depression			http://www.drugbank.ca/drugs/DB00715	http://www.disease-ontology.org/term/DOID%3A10283
+Paroxetine	panic disorder			http://www.drugbank.ca/drugs/DB00715	http://www.disease-ontology.org/term/DOID%3A10283
+Pazopanib	kidney cancer			http://www.drugbank.ca/drugs/DB06589	http://www.disease-ontology.org/term/DOID%3A10283
+Pemetrexed	lung cancer			http://www.drugbank.ca/drugs/DB00642	http://www.disease-ontology.org/term/DOID%3A10283
+Penbutolol	coronary artery disease			http://www.drugbank.ca/drugs/DB01359	http://www.disease-ontology.org/term/DOID%3A10283
+Penbutolol	hypertension			http://www.drugbank.ca/drugs/DB01359	http://www.disease-ontology.org/term/DOID%3A10283
+Penicillamine	primary biliary cirrhosis			http://www.drugbank.ca/drugs/DB00859	http://www.disease-ontology.org/term/DOID%3A10283
+Penicillamine	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00859	http://www.disease-ontology.org/term/DOID%3A10283
+Penicillin V	periodontitis			http://www.drugbank.ca/drugs/DB00417	http://www.disease-ontology.org/term/DOID%3A10283
+Pentostatin	hematologic cancer			http://www.drugbank.ca/drugs/DB00552	http://www.disease-ontology.org/term/DOID%3A10283
+Pentoxifylline	malaria			http://www.drugbank.ca/drugs/DB00806	http://www.disease-ontology.org/term/DOID%3A10283
+Pentoxifylline	systemic scleroderma			http://www.drugbank.ca/drugs/DB00806	http://www.disease-ontology.org/term/DOID%3A10283
+Pergolide	Gilles de la Tourette syndrome			http://www.drugbank.ca/drugs/DB01186	http://www.disease-ontology.org/term/DOID%3A10283
+Pergolide	Parkinson's disease			http://www.drugbank.ca/drugs/DB01186	http://www.disease-ontology.org/term/DOID%3A10283
+Perindopril	coronary artery disease			http://www.drugbank.ca/drugs/DB00790	http://www.disease-ontology.org/term/DOID%3A10283
+Perindopril	hypertension			http://www.drugbank.ca/drugs/DB00790	http://www.disease-ontology.org/term/DOID%3A10283
+Perphenazine	Gilles de la Tourette syndrome			http://www.drugbank.ca/drugs/DB00850	http://www.disease-ontology.org/term/DOID%3A10283
+Phendimetrazine	obesity			http://www.drugbank.ca/drugs/DB01579	http://www.disease-ontology.org/term/DOID%3A10283
+Phenobarbital	epilepsy syndrome			http://www.drugbank.ca/drugs/DB01174	http://www.disease-ontology.org/term/DOID%3A10283
+Phenobarbital	hypertension			http://www.drugbank.ca/drugs/DB01174	http://www.disease-ontology.org/term/DOID%3A10283
+Phentermine	obesity			http://www.drugbank.ca/drugs/DB00191	http://www.disease-ontology.org/term/DOID%3A10283
+Phentolamine	hypertension			http://www.drugbank.ca/drugs/DB00692	http://www.disease-ontology.org/term/DOID%3A10283
+Phenylephrine	glaucoma			http://www.drugbank.ca/drugs/DB00388	http://www.disease-ontology.org/term/DOID%3A10283
+Phenylpropanolamine	obesity			http://www.drugbank.ca/drugs/DB00397	http://www.disease-ontology.org/term/DOID%3A10283
+Phenytoin	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00252	http://www.disease-ontology.org/term/DOID%3A10283
+Phenytoin	multiple sclerosis			http://www.drugbank.ca/drugs/DB00252	http://www.disease-ontology.org/term/DOID%3A10283
+Physostigmine	glaucoma			http://www.drugbank.ca/drugs/DB00981	http://www.disease-ontology.org/term/DOID%3A10283
+Pilocarpine	glaucoma			http://www.drugbank.ca/drugs/DB01085	http://www.disease-ontology.org/term/DOID%3A10283
+Pilocarpine	head and neck cancer			http://www.drugbank.ca/drugs/DB01085	http://www.disease-ontology.org/term/DOID%3A10283
+Pilocarpine	hypertension			http://www.drugbank.ca/drugs/DB01085	http://www.disease-ontology.org/term/DOID%3A10283
+Pilocarpine	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB01085	http://www.disease-ontology.org/term/DOID%3A10283
+Pimecrolimus	atopic dermatitis			http://www.drugbank.ca/drugs/DB00337	http://www.disease-ontology.org/term/DOID%3A10283
+Pimozide	Gilles de la Tourette syndrome			http://www.drugbank.ca/drugs/DB01100	http://www.disease-ontology.org/term/DOID%3A10283
+Pindolol	hypertension			http://www.drugbank.ca/drugs/DB00960	http://www.disease-ontology.org/term/DOID%3A10283
+Pioglitazone	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB01132	http://www.disease-ontology.org/term/DOID%3A10283
+Pirbuterol	asthma			http://www.drugbank.ca/drugs/DB01291	http://www.disease-ontology.org/term/DOID%3A10283
+Piroxicam	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00554	http://www.disease-ontology.org/term/DOID%3A10283
+Piroxicam	osteoarthritis			http://www.drugbank.ca/drugs/DB00554	http://www.disease-ontology.org/term/DOID%3A10283
+Piroxicam	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00554	http://www.disease-ontology.org/term/DOID%3A10283
+Pitavastatin	coronary artery disease			http://www.drugbank.ca/drugs/DB08860	http://www.disease-ontology.org/term/DOID%3A10283
+Plerixafor	hematologic cancer			http://www.drugbank.ca/drugs/DB06809	http://www.disease-ontology.org/term/DOID%3A10283
+Porfimer	esophageal cancer			http://www.drugbank.ca/drugs/DB00707	http://www.disease-ontology.org/term/DOID%3A10283
+Potassium Chloride	breast cancer			http://www.drugbank.ca/drugs/DB00761	http://www.disease-ontology.org/term/DOID%3A10283
+Potassium Chloride	coronary artery disease			http://www.drugbank.ca/drugs/DB00761	http://www.disease-ontology.org/term/DOID%3A10283
+Potassium Chloride	hypertension			http://www.drugbank.ca/drugs/DB00761	http://www.disease-ontology.org/term/DOID%3A10283
+Pramipexole	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00413	http://www.disease-ontology.org/term/DOID%3A10283
+Pramipexole	Parkinson's disease			http://www.drugbank.ca/drugs/DB00413	http://www.disease-ontology.org/term/DOID%3A10283
+Pramipexole	restless legs syndrome			http://www.drugbank.ca/drugs/DB00413	http://www.disease-ontology.org/term/DOID%3A10283
+Pravastatin	atherosclerosis			http://www.drugbank.ca/drugs/DB00175	http://www.disease-ontology.org/term/DOID%3A10283
+Pravastatin	coronary artery disease			http://www.drugbank.ca/drugs/DB00175	http://www.disease-ontology.org/term/DOID%3A10283
+Pravastatin	prostate cancer			http://www.drugbank.ca/drugs/DB00175	http://www.disease-ontology.org/term/DOID%3A10283
+Prazosin	hypertension			http://www.drugbank.ca/drugs/DB00457	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	allergic rhinitis			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	anemia			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	asthma			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	atopic dermatitis			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	gout			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	hematologic cancer			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	idiopathic pulmonary fibrosis			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	multiple sclerosis			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	psoriasis			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	psoriatic arthritis			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisolone	ulcerative colitis			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	Crohn's disease			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	anemia			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	asthma			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	atopic dermatitis			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	gout			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	hematologic cancer			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	migraine			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	multiple sclerosis			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	osteoarthritis			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	prostate cancer			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	psoriasis			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	psoriatic arthritis			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	systemic scleroderma			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Prednisone	ulcerative colitis			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283
+Pregabalin	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00230	http://www.disease-ontology.org/term/DOID%3A10283
+Pregabalin	multiple sclerosis			http://www.drugbank.ca/drugs/DB00230	http://www.disease-ontology.org/term/DOID%3A10283
+Pregabalin	prostate cancer			http://www.drugbank.ca/drugs/DB00230	http://www.disease-ontology.org/term/DOID%3A10283
+Pregabalin	restless legs syndrome			http://www.drugbank.ca/drugs/DB00230	http://www.disease-ontology.org/term/DOID%3A10283
+Pregabalin	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00230	http://www.disease-ontology.org/term/DOID%3A10283
+Primidone	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00794	http://www.disease-ontology.org/term/DOID%3A10283
+Probenecid	gout			http://www.drugbank.ca/drugs/DB01032	http://www.disease-ontology.org/term/DOID%3A10283
+Procarbazine	brain cancer			http://www.drugbank.ca/drugs/DB01168	http://www.disease-ontology.org/term/DOID%3A10283
+Procarbazine	hematologic cancer			http://www.drugbank.ca/drugs/DB01168	http://www.disease-ontology.org/term/DOID%3A10283
+Procarbazine	lung cancer			http://www.drugbank.ca/drugs/DB01168	http://www.disease-ontology.org/term/DOID%3A10283
+Procarbazine	melanoma			http://www.drugbank.ca/drugs/DB01168	http://www.disease-ontology.org/term/DOID%3A10283
+Procarbazine	skin cancer			http://www.drugbank.ca/drugs/DB01168	http://www.disease-ontology.org/term/DOID%3A10283
+Prochlorperazine	breast cancer			http://www.drugbank.ca/drugs/DB00433	http://www.disease-ontology.org/term/DOID%3A10283
+Procyclidine	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00387	http://www.disease-ontology.org/term/DOID%3A10283
+Procyclidine	Parkinson's disease			http://www.drugbank.ca/drugs/DB00387	http://www.disease-ontology.org/term/DOID%3A10283
+Progesterone	uterine cancer			http://www.drugbank.ca/drugs/DB00396	http://www.disease-ontology.org/term/DOID%3A10283
+Proguanil	malaria			http://www.drugbank.ca/drugs/DB01131	http://www.disease-ontology.org/term/DOID%3A10283
+Propantheline	pancreatitis			http://www.drugbank.ca/drugs/DB00782	http://www.disease-ontology.org/term/DOID%3A10283
+Propofol	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00818	http://www.disease-ontology.org/term/DOID%3A10283
+Propranolol	hypertension			http://www.drugbank.ca/drugs/DB00571	http://www.disease-ontology.org/term/DOID%3A10283
+Propranolol	migraine			http://www.drugbank.ca/drugs/DB00571	http://www.disease-ontology.org/term/DOID%3A10283
+Propylthiouracil	Graves' disease			http://www.drugbank.ca/drugs/DB00550	http://www.disease-ontology.org/term/DOID%3A10283
+Pseudoephedrine	allergic rhinitis			http://www.drugbank.ca/drugs/DB00852	http://www.disease-ontology.org/term/DOID%3A10283
+Pseudoephedrine	asthma			http://www.drugbank.ca/drugs/DB00852	http://www.disease-ontology.org/term/DOID%3A10283
+Pyridoxine	anemia			http://www.drugbank.ca/drugs/DB00165	http://www.disease-ontology.org/term/DOID%3A10283
+Pyrimethamine	malaria			http://www.drugbank.ca/drugs/DB00205	http://www.disease-ontology.org/term/DOID%3A10283
+Quazepam	multiple sclerosis			http://www.drugbank.ca/drugs/DB01589	http://www.disease-ontology.org/term/DOID%3A10283
+Quetiapine	Alzheimer's disease			http://www.drugbank.ca/drugs/DB01224	http://www.disease-ontology.org/term/DOID%3A10283
+Quetiapine	Parkinson's disease			http://www.drugbank.ca/drugs/DB01224	http://www.disease-ontology.org/term/DOID%3A10283
+Quetiapine	autistic disorder			http://www.drugbank.ca/drugs/DB01224	http://www.disease-ontology.org/term/DOID%3A10283
+Quetiapine	bipolar disorder			http://www.drugbank.ca/drugs/DB01224	http://www.disease-ontology.org/term/DOID%3A10283
+Quetiapine	schizophrenia			http://www.drugbank.ca/drugs/DB01224	http://www.disease-ontology.org/term/DOID%3A10283
+Quinapril	hypertension			http://www.drugbank.ca/drugs/DB00881	http://www.disease-ontology.org/term/DOID%3A10283
+Quinidine	malaria			http://www.drugbank.ca/drugs/DB00908	http://www.disease-ontology.org/term/DOID%3A10283
+Quinidine barbiturate	epilepsy syndrome			http://www.drugbank.ca/drugs/DB01346	http://www.disease-ontology.org/term/DOID%3A10283
+Quinidine barbiturate	hypertension			http://www.drugbank.ca/drugs/DB01346	http://www.disease-ontology.org/term/DOID%3A10283
+Quinidine barbiturate	malaria			http://www.drugbank.ca/drugs/DB01346	http://www.disease-ontology.org/term/DOID%3A10283
+Quinine	malaria			http://www.drugbank.ca/drugs/DB00468	http://www.disease-ontology.org/term/DOID%3A10283
+Raloxifene	breast cancer			http://www.drugbank.ca/drugs/DB00481	http://www.disease-ontology.org/term/DOID%3A10283
+Raloxifene	osteoporosis			http://www.drugbank.ca/drugs/DB00481	http://www.disease-ontology.org/term/DOID%3A10283
+Ramelteon	Parkinson's disease			http://www.drugbank.ca/drugs/DB00980	http://www.disease-ontology.org/term/DOID%3A10283
+Ramipril	coronary artery disease			http://www.drugbank.ca/drugs/DB00178	http://www.disease-ontology.org/term/DOID%3A10283
+Ramipril	hypertension			http://www.drugbank.ca/drugs/DB00178	http://www.disease-ontology.org/term/DOID%3A10283
+Ramipril	type 1 diabetes mellitus			http://www.drugbank.ca/drugs/DB00178	http://www.disease-ontology.org/term/DOID%3A10283
+Ramipril	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00178	http://www.disease-ontology.org/term/DOID%3A10283
+Rasagiline	Parkinson's disease			http://www.drugbank.ca/drugs/DB01367	http://www.disease-ontology.org/term/DOID%3A10283
+Repaglinide	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00912	http://www.disease-ontology.org/term/DOID%3A10283
+Reserpine	hypertension			http://www.drugbank.ca/drugs/DB00206	http://www.disease-ontology.org/term/DOID%3A10283
+Rifabutin	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00615	http://www.disease-ontology.org/term/DOID%3A10283
+Rifampicin	leprosy			http://www.drugbank.ca/drugs/DB01045	http://www.disease-ontology.org/term/DOID%3A10283
+Riluzole	amyotrophic lateral sclerosis			http://www.drugbank.ca/drugs/DB00740	http://www.disease-ontology.org/term/DOID%3A10283
+Risedronate	Paget's disease of bone			http://www.drugbank.ca/drugs/DB00884	http://www.disease-ontology.org/term/DOID%3A10283
+Risedronate	breast cancer			http://www.drugbank.ca/drugs/DB00884	http://www.disease-ontology.org/term/DOID%3A10283
+Risedronate	osteoporosis			http://www.drugbank.ca/drugs/DB00884	http://www.disease-ontology.org/term/DOID%3A10283
+Risperidone	Gilles de la Tourette syndrome			http://www.drugbank.ca/drugs/DB00734	http://www.disease-ontology.org/term/DOID%3A10283
+Risperidone	autistic disorder			http://www.drugbank.ca/drugs/DB00734	http://www.disease-ontology.org/term/DOID%3A10283
+Risperidone	bipolar disorder			http://www.drugbank.ca/drugs/DB00734	http://www.disease-ontology.org/term/DOID%3A10283
+Risperidone	conduct disorder			http://www.drugbank.ca/drugs/DB00734	http://www.disease-ontology.org/term/DOID%3A10283
+Risperidone	schizophrenia			http://www.drugbank.ca/drugs/DB00734	http://www.disease-ontology.org/term/DOID%3A10283
+Ritonavir	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00503	http://www.disease-ontology.org/term/DOID%3A10283
+Rivastigmine	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00989	http://www.disease-ontology.org/term/DOID%3A10283
+Rivastigmine	Parkinson's disease			http://www.drugbank.ca/drugs/DB00989	http://www.disease-ontology.org/term/DOID%3A10283
+Rizatriptan	migraine			http://www.drugbank.ca/drugs/DB00953	http://www.disease-ontology.org/term/DOID%3A10283
+Rizatriptan	multiple sclerosis			http://www.drugbank.ca/drugs/DB00953	http://www.disease-ontology.org/term/DOID%3A10283
+Roflumilast	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB01656	http://www.disease-ontology.org/term/DOID%3A10283
+Ropinirole	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00268	http://www.disease-ontology.org/term/DOID%3A10283
+Ropinirole	Parkinson's disease			http://www.drugbank.ca/drugs/DB00268	http://www.disease-ontology.org/term/DOID%3A10283
+Ropinirole	multiple sclerosis			http://www.drugbank.ca/drugs/DB00268	http://www.disease-ontology.org/term/DOID%3A10283
+Ropinirole	restless legs syndrome			http://www.drugbank.ca/drugs/DB00268	http://www.disease-ontology.org/term/DOID%3A10283
+Rosiglitazone	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00412	http://www.disease-ontology.org/term/DOID%3A10283
+Rosuvastatin	atherosclerosis			http://www.drugbank.ca/drugs/DB01098	http://www.disease-ontology.org/term/DOID%3A10283
+Rosuvastatin	coronary artery disease			http://www.drugbank.ca/drugs/DB01098	http://www.disease-ontology.org/term/DOID%3A10283
+Rotigotine	Parkinson's disease			http://www.drugbank.ca/drugs/DB05271	http://www.disease-ontology.org/term/DOID%3A10283
+Rufinamide	epilepsy syndrome			http://www.drugbank.ca/drugs/DB06201	http://www.disease-ontology.org/term/DOID%3A10283
+Ruxolitinib	hematologic cancer			http://www.drugbank.ca/drugs/DB08877	http://www.disease-ontology.org/term/DOID%3A10283
+Salbutamol	allergic rhinitis			http://www.drugbank.ca/drugs/DB01001	http://www.disease-ontology.org/term/DOID%3A10283
+Salbutamol	asthma			http://www.drugbank.ca/drugs/DB01001	http://www.disease-ontology.org/term/DOID%3A10283
+Salbutamol	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB01001	http://www.disease-ontology.org/term/DOID%3A10283
+Salbutamol	hypertension			http://www.drugbank.ca/drugs/DB01001	http://www.disease-ontology.org/term/DOID%3A10283
+Salicylate-sodium	psoriasis			http://www.drugbank.ca/drugs/DB01398	http://www.disease-ontology.org/term/DOID%3A10283
+Salicylic acid	psoriasis			http://www.drugbank.ca/drugs/DB00936	http://www.disease-ontology.org/term/DOID%3A10283
+Salmeterol	asthma			http://www.drugbank.ca/drugs/DB00938	http://www.disease-ontology.org/term/DOID%3A10283
+Salsalate	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB01399	http://www.disease-ontology.org/term/DOID%3A10283
+Saquinavir	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB01232	http://www.disease-ontology.org/term/DOID%3A10283
+Scopolamine	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00747	http://www.disease-ontology.org/term/DOID%3A10283
+Scopolamine	Parkinson's disease			http://www.drugbank.ca/drugs/DB00747	http://www.disease-ontology.org/term/DOID%3A10283
+Selegiline	Alzheimer's disease			http://www.drugbank.ca/drugs/DB01037	http://www.disease-ontology.org/term/DOID%3A10283
+Selegiline	Parkinson's disease			http://www.drugbank.ca/drugs/DB01037	http://www.disease-ontology.org/term/DOID%3A10283
+Selegiline	endogenous depression			http://www.drugbank.ca/drugs/DB01037	http://www.disease-ontology.org/term/DOID%3A10283
+Sertraline	Parkinson's disease			http://www.drugbank.ca/drugs/DB01104	http://www.disease-ontology.org/term/DOID%3A10283
+Sertraline	autistic disorder			http://www.drugbank.ca/drugs/DB01104	http://www.disease-ontology.org/term/DOID%3A10283
+Sertraline	endogenous depression			http://www.drugbank.ca/drugs/DB01104	http://www.disease-ontology.org/term/DOID%3A10283
+Sertraline	panic disorder			http://www.drugbank.ca/drugs/DB01104	http://www.disease-ontology.org/term/DOID%3A10283
+Sertraline	schizophrenia			http://www.drugbank.ca/drugs/DB01104	http://www.disease-ontology.org/term/DOID%3A10283
+Sibutramine	obesity			http://www.drugbank.ca/drugs/DB01105	http://www.disease-ontology.org/term/DOID%3A10283
+Sildenafil	hypertension			http://www.drugbank.ca/drugs/DB00203	http://www.disease-ontology.org/term/DOID%3A10283
+Sildenafil	multiple sclerosis			http://www.drugbank.ca/drugs/DB00203	http://www.disease-ontology.org/term/DOID%3A10283
+Sildenafil	systemic scleroderma			http://www.drugbank.ca/drugs/DB00203	http://www.disease-ontology.org/term/DOID%3A10283
+Sildenafil	type 1 diabetes mellitus			http://www.drugbank.ca/drugs/DB00203	http://www.disease-ontology.org/term/DOID%3A10283
+Simvastatin	atherosclerosis			http://www.drugbank.ca/drugs/DB00641	http://www.disease-ontology.org/term/DOID%3A10283
+Simvastatin	coronary artery disease			http://www.drugbank.ca/drugs/DB00641	http://www.disease-ontology.org/term/DOID%3A10283
+Simvastatin	hypertension			http://www.drugbank.ca/drugs/DB00641	http://www.disease-ontology.org/term/DOID%3A10283
+Simvastatin	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00641	http://www.disease-ontology.org/term/DOID%3A10283
+Sirolimus	prostate cancer			http://www.drugbank.ca/drugs/DB00877	http://www.disease-ontology.org/term/DOID%3A10283
+Sitagliptin	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB01261	http://www.disease-ontology.org/term/DOID%3A10283
+Solifenacin	multiple sclerosis			http://www.drugbank.ca/drugs/DB01591	http://www.disease-ontology.org/term/DOID%3A10283
+Sorafenib	kidney cancer			http://www.drugbank.ca/drugs/DB00398	http://www.disease-ontology.org/term/DOID%3A10283
+Sorafenib	liver cancer			http://www.drugbank.ca/drugs/DB00398	http://www.disease-ontology.org/term/DOID%3A10283
+Sorafenib	thyroid cancer			http://www.drugbank.ca/drugs/DB00398	http://www.disease-ontology.org/term/DOID%3A10283
+Spironolactone	dilated cardiomyopathy			http://www.drugbank.ca/drugs/DB00421	http://www.disease-ontology.org/term/DOID%3A10283
+Spironolactone	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00421	http://www.disease-ontology.org/term/DOID%3A10283
+Spironolactone	hypertension			http://www.drugbank.ca/drugs/DB00421	http://www.disease-ontology.org/term/DOID%3A10283
+Stavudine	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00649	http://www.disease-ontology.org/term/DOID%3A10283
+Streptozocin	hematologic cancer			http://www.drugbank.ca/drugs/DB00428	http://www.disease-ontology.org/term/DOID%3A10283
+Sucralfate	hypertension			http://www.drugbank.ca/drugs/DB00364	http://www.disease-ontology.org/term/DOID%3A10283
+Sulfadiazine	malaria			http://www.drugbank.ca/drugs/DB00359	http://www.disease-ontology.org/term/DOID%3A10283
+Sulfasalazine	Crohn's disease			http://www.drugbank.ca/drugs/DB00795	http://www.disease-ontology.org/term/DOID%3A10283
+Sulfasalazine	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00795	http://www.disease-ontology.org/term/DOID%3A10283
+Sulfasalazine	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00795	http://www.disease-ontology.org/term/DOID%3A10283
+Sulfasalazine	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00795	http://www.disease-ontology.org/term/DOID%3A10283
+Sulfasalazine	ulcerative colitis			http://www.drugbank.ca/drugs/DB00795	http://www.disease-ontology.org/term/DOID%3A10283
+Sulindac	osteoarthritis			http://www.drugbank.ca/drugs/DB00605	http://www.disease-ontology.org/term/DOID%3A10283
+Sumatriptan	migraine			http://www.drugbank.ca/drugs/DB00669	http://www.disease-ontology.org/term/DOID%3A10283
+Sunitinib	kidney cancer			http://www.drugbank.ca/drugs/DB01268	http://www.disease-ontology.org/term/DOID%3A10283
+Sunitinib	pancreatic cancer			http://www.drugbank.ca/drugs/DB01268	http://www.disease-ontology.org/term/DOID%3A10283
+Tacrolimus	atopic dermatitis			http://www.drugbank.ca/drugs/DB00864	http://www.disease-ontology.org/term/DOID%3A10283
+Tadalafil	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB00820	http://www.disease-ontology.org/term/DOID%3A10283
+Tadalafil	hypertension			http://www.drugbank.ca/drugs/DB00820	http://www.disease-ontology.org/term/DOID%3A10283
+Tadalafil	systemic scleroderma			http://www.drugbank.ca/drugs/DB00820	http://www.disease-ontology.org/term/DOID%3A10283
+Tamoxifen	breast cancer			http://www.drugbank.ca/drugs/DB00675	http://www.disease-ontology.org/term/DOID%3A10283
+Tamoxifen	pancreatic cancer			http://www.drugbank.ca/drugs/DB00675	http://www.disease-ontology.org/term/DOID%3A10283
+Tamsulosin	prostate cancer			http://www.drugbank.ca/drugs/DB00706	http://www.disease-ontology.org/term/DOID%3A10283
+Tazarotene	psoriasis			http://www.drugbank.ca/drugs/DB00799	http://www.disease-ontology.org/term/DOID%3A10283
+Telbivudine	hepatitis B			http://www.drugbank.ca/drugs/DB01265	http://www.disease-ontology.org/term/DOID%3A10283
+Telmisartan	coronary artery disease			http://www.drugbank.ca/drugs/DB00966	http://www.disease-ontology.org/term/DOID%3A10283
+Telmisartan	hypertension			http://www.drugbank.ca/drugs/DB00966	http://www.disease-ontology.org/term/DOID%3A10283
+Temozolomide	brain cancer			http://www.drugbank.ca/drugs/DB00853	http://www.disease-ontology.org/term/DOID%3A10283
+Temozolomide	malignant glioma			http://www.drugbank.ca/drugs/DB00853	http://www.disease-ontology.org/term/DOID%3A10283
+Temozolomide	melanoma			http://www.drugbank.ca/drugs/DB00853	http://www.disease-ontology.org/term/DOID%3A10283
+Temozolomide	skin cancer			http://www.drugbank.ca/drugs/DB00853	http://www.disease-ontology.org/term/DOID%3A10283
+Temsirolimus	kidney cancer			http://www.drugbank.ca/drugs/DB06287	http://www.disease-ontology.org/term/DOID%3A10283
+Teniposide	hematologic cancer			http://www.drugbank.ca/drugs/DB00444	http://www.disease-ontology.org/term/DOID%3A10283
+Teniposide	lung cancer			http://www.drugbank.ca/drugs/DB00444	http://www.disease-ontology.org/term/DOID%3A10283
+Teniposide	lymphatic system cancer			http://www.drugbank.ca/drugs/DB00444	http://www.disease-ontology.org/term/DOID%3A10283
+Terazosin	hypertension			http://www.drugbank.ca/drugs/DB01162	http://www.disease-ontology.org/term/DOID%3A10283
+Terbutaline	asthma			http://www.drugbank.ca/drugs/DB00871	http://www.disease-ontology.org/term/DOID%3A10283
+Testosterone	breast cancer			http://www.drugbank.ca/drugs/DB00624	http://www.disease-ontology.org/term/DOID%3A10283
+Testosterone Propionate	breast cancer			http://www.drugbank.ca/drugs/DB01420	http://www.disease-ontology.org/term/DOID%3A10283
+Thalidomide	hematologic cancer			http://www.drugbank.ca/drugs/DB01041	http://www.disease-ontology.org/term/DOID%3A10283
+Thalidomide	leprosy			http://www.drugbank.ca/drugs/DB01041	http://www.disease-ontology.org/term/DOID%3A10283
+Theophylline	asthma			http://www.drugbank.ca/drugs/DB00277	http://www.disease-ontology.org/term/DOID%3A10283
+Thioridazine	schizophrenia			http://www.drugbank.ca/drugs/DB00679	http://www.disease-ontology.org/term/DOID%3A10283
+Thiotepa	breast cancer			http://www.drugbank.ca/drugs/DB04572	http://www.disease-ontology.org/term/DOID%3A10283
+Thiotepa	hematologic cancer			http://www.drugbank.ca/drugs/DB04572	http://www.disease-ontology.org/term/DOID%3A10283
+Thiotepa	sarcoma			http://www.drugbank.ca/drugs/DB04572	http://www.disease-ontology.org/term/DOID%3A10283
+Thiotepa	urinary bladder cancer			http://www.drugbank.ca/drugs/DB04572	http://www.disease-ontology.org/term/DOID%3A10283
+Thiothixene	schizophrenia			http://www.drugbank.ca/drugs/DB01623	http://www.disease-ontology.org/term/DOID%3A10283
+Tiagabine	bipolar disorder			http://www.drugbank.ca/drugs/DB00906	http://www.disease-ontology.org/term/DOID%3A10283
+Tiagabine	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00906	http://www.disease-ontology.org/term/DOID%3A10283
+Ticagrelor	coronary artery disease			http://www.drugbank.ca/drugs/DB08816	http://www.disease-ontology.org/term/DOID%3A10283
+Tiludronate	Paget's disease of bone			http://www.drugbank.ca/drugs/DB01133	http://www.disease-ontology.org/term/DOID%3A10283
+Tiludronate	breast cancer			http://www.drugbank.ca/drugs/DB01133	http://www.disease-ontology.org/term/DOID%3A10283
+Timolol	coronary artery disease			http://www.drugbank.ca/drugs/DB00373	http://www.disease-ontology.org/term/DOID%3A10283
+Timolol	glaucoma			http://www.drugbank.ca/drugs/DB00373	http://www.disease-ontology.org/term/DOID%3A10283
+Timolol	hypertension			http://www.drugbank.ca/drugs/DB00373	http://www.disease-ontology.org/term/DOID%3A10283
+Timolol	migraine			http://www.drugbank.ca/drugs/DB00373	http://www.disease-ontology.org/term/DOID%3A10283
+Tioguanine	hematologic cancer			http://www.drugbank.ca/drugs/DB00352	http://www.disease-ontology.org/term/DOID%3A10283
+Tiotropium	asthma			http://www.drugbank.ca/drugs/DB01409	http://www.disease-ontology.org/term/DOID%3A10283
+Tiotropium	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB01409	http://www.disease-ontology.org/term/DOID%3A10283
+Tirofiban	coronary artery disease			http://www.drugbank.ca/drugs/DB00775	http://www.disease-ontology.org/term/DOID%3A10283
+Tizanidine	migraine			http://www.drugbank.ca/drugs/DB00697	http://www.disease-ontology.org/term/DOID%3A10283
+Tizanidine	multiple sclerosis			http://www.drugbank.ca/drugs/DB00697	http://www.disease-ontology.org/term/DOID%3A10283
+Tizanidine	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00697	http://www.disease-ontology.org/term/DOID%3A10283
+Tolazamide	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00839	http://www.disease-ontology.org/term/DOID%3A10283
+Tolazoline	atherosclerosis			http://www.drugbank.ca/drugs/DB00797	http://www.disease-ontology.org/term/DOID%3A10283
+Tolazoline	hypertension			http://www.drugbank.ca/drugs/DB00797	http://www.disease-ontology.org/term/DOID%3A10283
+Tolazoline	systemic scleroderma			http://www.drugbank.ca/drugs/DB00797	http://www.disease-ontology.org/term/DOID%3A10283
+Tolbutamide	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB01124	http://www.disease-ontology.org/term/DOID%3A10283
+Tolcapone	Parkinson's disease			http://www.drugbank.ca/drugs/DB00323	http://www.disease-ontology.org/term/DOID%3A10283
+Tolmetin	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00500	http://www.disease-ontology.org/term/DOID%3A10283
+Tolmetin	osteoarthritis			http://www.drugbank.ca/drugs/DB00500	http://www.disease-ontology.org/term/DOID%3A10283
+Tolmetin	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00500	http://www.disease-ontology.org/term/DOID%3A10283
+Tolterodine	multiple sclerosis			http://www.drugbank.ca/drugs/DB01036	http://www.disease-ontology.org/term/DOID%3A10283
+Topiramate	bipolar disorder			http://www.drugbank.ca/drugs/DB00273	http://www.disease-ontology.org/term/DOID%3A10283
+Topiramate	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00273	http://www.disease-ontology.org/term/DOID%3A10283
+Topiramate	migraine			http://www.drugbank.ca/drugs/DB00273	http://www.disease-ontology.org/term/DOID%3A10283
+Topiramate	obesity			http://www.drugbank.ca/drugs/DB00273	http://www.disease-ontology.org/term/DOID%3A10283
+Topotecan	cervical cancer			http://www.drugbank.ca/drugs/DB01030	http://www.disease-ontology.org/term/DOID%3A10283
+Topotecan	lung cancer			http://www.drugbank.ca/drugs/DB01030	http://www.disease-ontology.org/term/DOID%3A10283
+Topotecan	ovarian cancer			http://www.drugbank.ca/drugs/DB01030	http://www.disease-ontology.org/term/DOID%3A10283
+Topotecan	peripheral nervous system neoplasm			http://www.drugbank.ca/drugs/DB01030	http://www.disease-ontology.org/term/DOID%3A10283
+Torasemide	chronic kidney failure			http://www.drugbank.ca/drugs/DB00214	http://www.disease-ontology.org/term/DOID%3A10283
+Torasemide	hypertension			http://www.drugbank.ca/drugs/DB00214	http://www.disease-ontology.org/term/DOID%3A10283
+Toremifene	breast cancer			http://www.drugbank.ca/drugs/DB00539	http://www.disease-ontology.org/term/DOID%3A10283
+Tramadol	restless legs syndrome			http://www.drugbank.ca/drugs/DB00193	http://www.disease-ontology.org/term/DOID%3A10283
+Trandolapril	coronary artery disease			http://www.drugbank.ca/drugs/DB00519	http://www.disease-ontology.org/term/DOID%3A10283
+Trandolapril	hypertension			http://www.drugbank.ca/drugs/DB00519	http://www.disease-ontology.org/term/DOID%3A10283
+Travoprost	glaucoma			http://www.drugbank.ca/drugs/DB00287	http://www.disease-ontology.org/term/DOID%3A10283
+Travoprost	hypertension			http://www.drugbank.ca/drugs/DB00287	http://www.disease-ontology.org/term/DOID%3A10283
+Trazodone	bipolar disorder			http://www.drugbank.ca/drugs/DB00656	http://www.disease-ontology.org/term/DOID%3A10283
+Trazodone	endogenous depression			http://www.drugbank.ca/drugs/DB00656	http://www.disease-ontology.org/term/DOID%3A10283
+Trazodone	schizophrenia			http://www.drugbank.ca/drugs/DB00656	http://www.disease-ontology.org/term/DOID%3A10283
+Treprostinil	hypertension			http://www.drugbank.ca/drugs/DB00374	http://www.disease-ontology.org/term/DOID%3A10283
+Treprostinil	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00374	http://www.disease-ontology.org/term/DOID%3A10283
+Tretinoin	hematologic cancer			http://www.drugbank.ca/drugs/DB00755	http://www.disease-ontology.org/term/DOID%3A10283
+Tretinoin	peripheral nervous system neoplasm			http://www.drugbank.ca/drugs/DB00755	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	allergic rhinitis			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	alopecia areata			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	anemia			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	ankylosing spondylitis			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	asthma			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	atopic dermatitis			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	brain cancer			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	hematologic cancer			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	multiple sclerosis			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	psoriasis			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	psoriatic arthritis			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	systemic lupus erythematosus			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamcinolone	ulcerative colitis			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A10283
+Triamterene	hypertension			http://www.drugbank.ca/drugs/DB00384	http://www.disease-ontology.org/term/DOID%3A10283
+Trifluoperazine	schizophrenia			http://www.drugbank.ca/drugs/DB00831	http://www.disease-ontology.org/term/DOID%3A10283
+Trihexyphenidyl	Parkinson's disease			http://www.drugbank.ca/drugs/DB00376	http://www.disease-ontology.org/term/DOID%3A10283
+Trimethadione	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00347	http://www.disease-ontology.org/term/DOID%3A10283
+Trimethoprim	asthma			http://www.drugbank.ca/drugs/DB00440	http://www.disease-ontology.org/term/DOID%3A10283
+Triprolidine	atopic dermatitis			http://www.drugbank.ca/drugs/DB00427	http://www.disease-ontology.org/term/DOID%3A10283
+Trisalicylate-choline	psoriasis			http://www.drugbank.ca/drugs/DB01401	http://www.disease-ontology.org/term/DOID%3A10283
+Trisalicylate-choline	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB01401	http://www.disease-ontology.org/term/DOID%3A10283
+Ursodeoxycholic acid	primary biliary cirrhosis			http://www.drugbank.ca/drugs/DB01586	http://www.disease-ontology.org/term/DOID%3A10283
+Valproic Acid	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00313	http://www.disease-ontology.org/term/DOID%3A10283
+Valproic Acid	bipolar disorder			http://www.drugbank.ca/drugs/DB00313	http://www.disease-ontology.org/term/DOID%3A10283
+Valproic Acid	endogenous depression			http://www.drugbank.ca/drugs/DB00313	http://www.disease-ontology.org/term/DOID%3A10283
+Valproic Acid	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00313	http://www.disease-ontology.org/term/DOID%3A10283
+Valproic Acid	migraine			http://www.drugbank.ca/drugs/DB00313	http://www.disease-ontology.org/term/DOID%3A10283
+Valproic Acid	schizophrenia			http://www.drugbank.ca/drugs/DB00313	http://www.disease-ontology.org/term/DOID%3A10283
+Valrubicin	urinary bladder cancer			http://www.drugbank.ca/drugs/DB00385	http://www.disease-ontology.org/term/DOID%3A10283
+Valsartan	coronary artery disease			http://www.drugbank.ca/drugs/DB00177	http://www.disease-ontology.org/term/DOID%3A10283
+Valsartan	hypertension			http://www.drugbank.ca/drugs/DB00177	http://www.disease-ontology.org/term/DOID%3A10283
+Valsartan	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB00177	http://www.disease-ontology.org/term/DOID%3A10283
+Vandetanib	thyroid cancer			http://www.drugbank.ca/drugs/DB05294	http://www.disease-ontology.org/term/DOID%3A10283
+Varenicline	nicotine dependence			http://www.drugbank.ca/drugs/DB01273	http://www.disease-ontology.org/term/DOID%3A10283
+Varenicline	type 2 diabetes mellitus			http://www.drugbank.ca/drugs/DB01273	http://www.disease-ontology.org/term/DOID%3A10283
+Vemurafenib	melanoma			http://www.drugbank.ca/drugs/DB08881	http://www.disease-ontology.org/term/DOID%3A10283
+Vemurafenib	skin cancer			http://www.drugbank.ca/drugs/DB08881	http://www.disease-ontology.org/term/DOID%3A10283
+Venlafaxine	attention deficit hyperactivity disorder			http://www.drugbank.ca/drugs/DB00285	http://www.disease-ontology.org/term/DOID%3A10283
+Venlafaxine	panic disorder			http://www.drugbank.ca/drugs/DB00285	http://www.disease-ontology.org/term/DOID%3A10283
+Verapamil	hypertension			http://www.drugbank.ca/drugs/DB00661	http://www.disease-ontology.org/term/DOID%3A10283
+Verapamil	migraine			http://www.drugbank.ca/drugs/DB00661	http://www.disease-ontology.org/term/DOID%3A10283
+Vigabatrin	epilepsy syndrome			http://www.drugbank.ca/drugs/DB01080	http://www.disease-ontology.org/term/DOID%3A10283
+Vilazodone	endogenous depression			http://www.drugbank.ca/drugs/DB06684	http://www.disease-ontology.org/term/DOID%3A10283
+Vinblastine	breast cancer			http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A10283
+Vinblastine	germ cell cancer			http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A10283
+Vinblastine	head and neck cancer			http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A10283
+Vinblastine	hematologic cancer			http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A10283
+Vinblastine	kidney cancer			http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A10283
+Vinblastine	lung cancer			http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A10283
+Vinblastine	testicular cancer			http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A10283
+Vincristine	colon cancer			http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A10283
+Vincristine	hematologic cancer			http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A10283
+Vincristine	kidney cancer			http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A10283
+Vincristine	lymphatic system cancer			http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A10283
+Vincristine	muscle cancer			http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A10283
+Vincristine	peripheral nervous system neoplasm			http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A10283
+Vincristine	sarcoma			http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A10283
+Vinorelbine	breast cancer			http://www.drugbank.ca/drugs/DB00361	http://www.disease-ontology.org/term/DOID%3A10283
+Vinorelbine	hematologic cancer			http://www.drugbank.ca/drugs/DB00361	http://www.disease-ontology.org/term/DOID%3A10283
+Vinorelbine	lung cancer			http://www.drugbank.ca/drugs/DB00361	http://www.disease-ontology.org/term/DOID%3A10283
+Vinorelbine	ovarian cancer			http://www.drugbank.ca/drugs/DB00361	http://www.disease-ontology.org/term/DOID%3A10283
+Vismodegib	skin cancer			http://www.drugbank.ca/drugs/DB08828	http://www.disease-ontology.org/term/DOID%3A10283
+Vitamin C	anemia			http://www.drugbank.ca/drugs/DB00126	http://www.disease-ontology.org/term/DOID%3A10283
+Vitamin C	prostate cancer			http://www.drugbank.ca/drugs/DB00126	http://www.disease-ontology.org/term/DOID%3A10283
+Vitamin E	Alzheimer's disease			http://www.drugbank.ca/drugs/DB00163	http://www.disease-ontology.org/term/DOID%3A10283
+Vitamin E	anemia			http://www.drugbank.ca/drugs/DB00163	http://www.disease-ontology.org/term/DOID%3A10283
+Vorinostat	hematologic cancer			http://www.drugbank.ca/drugs/DB02546	http://www.disease-ontology.org/term/DOID%3A10283
+WF10	asthma			http://www.drugbank.ca/drugs/DB05389	http://www.disease-ontology.org/term/DOID%3A10283
+WF10	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB05389	http://www.disease-ontology.org/term/DOID%3A10283
+WF10	hypertension			http://www.drugbank.ca/drugs/DB05389	http://www.disease-ontology.org/term/DOID%3A10283
+WF10	systemic scleroderma			http://www.drugbank.ca/drugs/DB05389	http://www.disease-ontology.org/term/DOID%3A10283
+Zafirlukast	asthma			http://www.drugbank.ca/drugs/DB00549	http://www.disease-ontology.org/term/DOID%3A10283
+Zidovudine	acquired immunodeficiency syndrome			http://www.drugbank.ca/drugs/DB00495	http://www.disease-ontology.org/term/DOID%3A10283
+Zileuton	asthma			http://www.drugbank.ca/drugs/DB00744	http://www.disease-ontology.org/term/DOID%3A10283
+Ziprasidone	Gilles de la Tourette syndrome			http://www.drugbank.ca/drugs/DB00246	http://www.disease-ontology.org/term/DOID%3A10283
+Ziprasidone	bipolar disorder			http://www.drugbank.ca/drugs/DB00246	http://www.disease-ontology.org/term/DOID%3A10283
+Ziprasidone	schizophrenia			http://www.drugbank.ca/drugs/DB00246	http://www.disease-ontology.org/term/DOID%3A10283
+Zoledronate	Paget's disease of bone			http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A10283
+Zoledronate	bone cancer			http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A10283
+Zoledronate	breast cancer			http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A10283
+Zoledronate	hematologic cancer			http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A10283
+Zoledronate	kidney cancer			http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A10283
+Zoledronate	osteoporosis			http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A10283
+Zoledronate	prostate cancer			http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A10283
+Zolmitriptan	migraine			http://www.drugbank.ca/drugs/DB00315	http://www.disease-ontology.org/term/DOID%3A10283
+Zolpidem	Parkinson's disease			http://www.drugbank.ca/drugs/DB00425	http://www.disease-ontology.org/term/DOID%3A10283
+Zolpidem	chronic obstructive pulmonary disease			http://www.drugbank.ca/drugs/DB00425	http://www.disease-ontology.org/term/DOID%3A10283
+Zolpidem	multiple sclerosis			http://www.drugbank.ca/drugs/DB00425	http://www.disease-ontology.org/term/DOID%3A10283
+Zolpidem	rheumatoid arthritis			http://www.drugbank.ca/drugs/DB00425	http://www.disease-ontology.org/term/DOID%3A10283
+Zolpidem	systemic scleroderma			http://www.drugbank.ca/drugs/DB00425	http://www.disease-ontology.org/term/DOID%3A10283
+Zonisamide	epilepsy syndrome			http://www.drugbank.ca/drugs/DB00909	http://www.disease-ontology.org/term/DOID%3A10283
+Zopiclone	multiple sclerosis			http://www.drugbank.ca/drugs/DB01198	http://www.disease-ontology.org/term/DOID%3A10283
+Zopiclone	schizophrenia			http://www.drugbank.ca/drugs/DB01198	http://www.disease-ontology.org/term/DOID%3A10283
