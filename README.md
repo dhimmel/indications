@@ -16,7 +16,7 @@ See [`labeledin`](labeledin) and [this Thinklab discussion](http://thinklab.com/
 
 Also see the [analysis notebook](http://git.dhimmel.com/indications/labeledin/) for visualization.
 
-## MEDI -- an Ensemble MEDication Indication Resource
+## MEDI
 
 See [`medi`](medi) and [this Thinklab discussion](http://thinklab.com/discussion/medi-indications-data-discrepancy-in-resource-specific-counts/31) for parsing the [data](http://knowledgemap.mc.vanderbilt.edu/research/content/MEDI) from:
 
