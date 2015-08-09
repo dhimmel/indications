@@ -38,9 +38,5 @@ See [`./msb-predict`](msb-predict) for parsing data from PREDICT:
 
 ## SIDER
 
-SIDER is not directly included here but may be of interest.
-
-SIDER 4 has been parsed in a [seperate respository](https://github.com/dhimmel/SIDER4) and corresponding [notebook](https://github.com/dhimmel/SIDER4/blob/master/SIDER4.ipynb)
-
-SIDER 2 has been parsed in a [seperate respository](https://github.com/dhimmel/SIDER2) and corresponding [web tutorial](http://git.dhimmel.com/SIDER2/)
+SIDER is not directly included here but may be of interest. SIDER 4 has been parsed in a [seperate respository](https://github.com/dhimmel/SIDER4) and corresponding [notebook](https://github.com/dhimmel/SIDER4/blob/master/SIDER4.ipynb). SIDER 2 has been parsed in a [seperate respository](https://github.com/dhimmel/SIDER2) and corresponding [web tutorial](http://git.dhimmel.com/SIDER2/).
 
