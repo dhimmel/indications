@@ -249,7 +249,7 @@ curation_df <- collapsed_df %>%
     classification = '',
     notes = '',
     drug_url = paste0('http://www.drugbank.ca/drugs/', drugbank_id),
-    disease_url = paste0('http://www.disease-ontology.org/term/', URLencode(doid_id, TRUE))
+    disease_url = paste0('http://www.disease-ontology.org/term/', sub(':', '%3A', doid_id))
   ) %>% dplyr::arrange(drug, disease)
 
 curation_df %>% readr::write_tsv(file.path('data', 'curation.tsv'))
