@@ -64,3 +64,15 @@ Temporary Items
 # LibreOffice locks
 .~lock.*#
 
+### MicrosoftOffice ###
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
