@@ -252,11 +252,11 @@ curation_df <- collapsed_df %>%
     disease_url = paste0('http://www.disease-ontology.org/term/', sub(':', '%3A', doid_id))
   ) %>% dplyr::arrange(drug, disease)
 
-curation_df %>% readr::write_tsv(file.path('data', 'curation.tsv'))
+curation_df %>% readr::write_tsv(file.path('curation', 'template.tsv'))
 
 set.seed(0)
 curation_df %>%
   dplyr::sample_n(50) %>%
   dplyr::arrange(drug, disease) %>%
-  readr::write_tsv(file.path('data', 'curation-subset.tsv'))
+  readr::write_tsv(file.path('curation', 'pilot', 'curation.tsv'))
 ```
