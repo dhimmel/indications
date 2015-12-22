@@ -1,0 +1,6 @@
+splitrows col: column1 on: '\n' quote: '\"'
+split col: column1 on: ',' limit: 5 quote: '\"'
+replace col: * on: '\"' with: '' global: true
+header
+replace col: classification on: `{delim}{end}` with: ''
+replace col: classification on: `Sym` with: 'SYM' global: true
