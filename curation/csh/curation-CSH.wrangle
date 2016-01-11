@@ -4,3 +4,4 @@ replace col: * on: '\"' with: '' global: true
 header
 replace col: classification on: `{delim}{end}` with: ''
 replace col: classification on: `Sym` with: 'SYM' global: true
+delete row: empty([drug])
