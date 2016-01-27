@@ -1,0 +1,1389 @@
+drug	disease	CSH	AJG	PK	CSH_notes	AJG_notes	PK_notes	drug_url	disease_url	tie
+Acarbose	type 2 diabetes mellitus	DM	SYM		 (glucosidase inhibitor)			http://www.drugbank.ca/drugs/DB00284	http://www.disease-ontology.org/term/DOID%3A9352	True
+Acebutolol	hypertension	DM	SYM		 (cardioselective beta blocker			http://www.drugbank.ca/drugs/DB01193	http://www.disease-ontology.org/term/DOID%3A10763	True
+Acetazolamide	epilepsy syndrome	NOT	SYM		hm. Can be used for seizures but not great drug			http://www.drugbank.ca/drugs/DB00819	http://www.disease-ontology.org/term/DOID%3A1826	True
+Acetylsalicylic acid	gout	NOT	SYM		not indicated. Asa can increase risk of gout			http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A13189	True
+Acetylsalicylic acid	osteoarthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A8398	True
+Aciclovir	acquired immunodeficiency syndrome	DM	NOT		newer data shows it may slow diseae progression			http://www.drugbank.ca/drugs/DB00787	http://www.disease-ontology.org/term/DOID%3A635	True
+Acitretin	psoriasis	DM	SYM					http://www.drugbank.ca/drugs/DB00459	http://www.disease-ontology.org/term/DOID%3A8893	True
+Alitretinoin	hematologic cancer	DM	NOT					http://www.drugbank.ca/drugs/DB00523	http://www.disease-ontology.org/term/DOID%3A2531	True
+Alitretinoin	peripheral nervous system neoplasm	DM	NOT					http://www.drugbank.ca/drugs/DB00523	http://www.disease-ontology.org/term/DOID%3A1192	True
+Amantadine	Parkinson's disease	DM	SYM					http://www.drugbank.ca/drugs/DB00915	http://www.disease-ontology.org/term/DOID%3A14330	True
+Amiloride	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00594	http://www.disease-ontology.org/term/DOID%3A10763	True
+Amiodarone	coronary artery disease	NOT	SYM		treats arrthymias			http://www.drugbank.ca/drugs/DB01118	http://www.disease-ontology.org/term/DOID%3A3393	True
+Amiodarone	hypertension	NOT	SYM		treats arrthymias			http://www.drugbank.ca/drugs/DB01118	http://www.disease-ontology.org/term/DOID%3A10763	True
+Amitriptyline	migraine	DM	SYM		 (may decr freq of ha)			http://www.drugbank.ca/drugs/DB00321	http://www.disease-ontology.org/term/DOID%3A6364	True
+Amitriptyline	rheumatoid arthritis	SYM	NOT		SYM or NOT			http://www.drugbank.ca/drugs/DB00321	http://www.disease-ontology.org/term/DOID%3A7148	True
+Amitriptyline	systemic lupus erythematosus	SYM	NOT		SYM or NOT			http://www.drugbank.ca/drugs/DB00321	http://www.disease-ontology.org/term/DOID%3A9074	True
+Amlodipine	coronary artery disease	DM	SYM					http://www.drugbank.ca/drugs/DB00381	http://www.disease-ontology.org/term/DOID%3A3393	True
+Amrinone	dilated cardiomyopathy	SYM	DM					http://www.drugbank.ca/drugs/DB01427	http://www.disease-ontology.org/term/DOID%3A12930	True
+Arformoterol	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB01274	http://www.disease-ontology.org/term/DOID%3A2841	True
+Arformoterol	chronic obstructive pulmonary disease	DM	SYM					http://www.drugbank.ca/drugs/DB01274	http://www.disease-ontology.org/term/DOID%3A3083	True
+Atropine	Crohn's disease	SYM	NOT					http://www.drugbank.ca/drugs/DB00572	http://www.disease-ontology.org/term/DOID%3A8778	True
+Atropine	Parkinson's disease	SYM	NOT					http://www.drugbank.ca/drugs/DB00572	http://www.disease-ontology.org/term/DOID%3A14330	True
+Auranofin	psoriatic arthritis	DM	SYM					http://www.drugbank.ca/drugs/DB00995	http://www.disease-ontology.org/term/DOID%3A9008	True
+Auranofin	rheumatoid arthritis	DM	SYM					http://www.drugbank.ca/drugs/DB00995	http://www.disease-ontology.org/term/DOID%3A7148	True
+Beclomethasone	psoriasis	DM	SYM					http://www.drugbank.ca/drugs/DB00394	http://www.disease-ontology.org/term/DOID%3A8893	True
+Benazepril	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00542	http://www.disease-ontology.org/term/DOID%3A10763	True
+Bepridil	hypertension	NOT	SYM					http://www.drugbank.ca/drugs/DB01244	http://www.disease-ontology.org/term/DOID%3A10763	True
+Betamethasone	ankylosing spondylitis	DM	SYM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A7147	True
+Betamethasone	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A2841	True
+Betamethasone	breast cancer	SYM	NOT			supportive		http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A1612	True
+Betamethasone	hematologic cancer	SYM	NOT					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A2531	True
+Betaxolol	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB00195	http://www.disease-ontology.org/term/DOID%3A1686	True
+Betaxolol	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00195	http://www.disease-ontology.org/term/DOID%3A10763	True
+Bimatoprost	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB00905	http://www.disease-ontology.org/term/DOID%3A1686	True
+Bimatoprost	hypertension	NOT	SYM					http://www.drugbank.ca/drugs/DB00905	http://www.disease-ontology.org/term/DOID%3A10763	True
+Biperiden	Alzheimer's disease	SYM	NOT					http://www.drugbank.ca/drugs/DB00810	http://www.disease-ontology.org/term/DOID%3A10652	True
+Brinzolamide	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB01194	http://www.disease-ontology.org/term/DOID%3A1686	True
+Bromocriptine	type 2 diabetes mellitus	NOT	DM					http://www.drugbank.ca/drugs/DB01200	http://www.disease-ontology.org/term/DOID%3A9352	True
+Budesonide	ulcerative colitis	DM	SYM					http://www.drugbank.ca/drugs/DB01222	http://www.disease-ontology.org/term/DOID%3A8577	True
+Bumetanide	hypertension	SYM	DM					http://www.drugbank.ca/drugs/DB00887	http://www.disease-ontology.org/term/DOID%3A10763	True
+Bupropion	obesity	NOT	DM					http://www.drugbank.ca/drugs/DB01156	http://www.disease-ontology.org/term/DOID%3A9970	True
+Busulfan	colon cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01008	http://www.disease-ontology.org/term/DOID%3A219	True
+Calcitriol	psoriasis	DM	SYM					http://www.drugbank.ca/drugs/DB00136	http://www.disease-ontology.org/term/DOID%3A8893	True
+Calcium Acetate	chronic kidney failure	SYM	NOT			Treats side effect		http://www.drugbank.ca/drugs/DB00258	http://www.disease-ontology.org/term/DOID%3A784	True
+Calcium Acetate	osteoporosis	SYM	DM					http://www.drugbank.ca/drugs/DB00258	http://www.disease-ontology.org/term/DOID%3A11476	True
+Capecitabine	kidney cancer	DM	NOT		case rep, not approved			http://www.drugbank.ca/drugs/DB01101	http://www.disease-ontology.org/term/DOID%3A263	True
+Captopril	systemic scleroderma	DM	SYM		prevents vascualr damage	Helps renal disease in Scleroderma		http://www.drugbank.ca/drugs/DB01197	http://www.disease-ontology.org/term/DOID%3A418	True
+Carbachol	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB00411	http://www.disease-ontology.org/term/DOID%3A1686	True
+Carmustine	skin cancer	DM	NOT			Only for metastatic disease		http://www.drugbank.ca/drugs/DB00262	http://www.disease-ontology.org/term/DOID%3A4159	True
+Carteolol	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB00521	http://www.disease-ontology.org/term/DOID%3A1686	True
+Carteolol	hypertension	NOT	SYM					http://www.drugbank.ca/drugs/DB00521	http://www.disease-ontology.org/term/DOID%3A10763	True
+Carvedilol	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB01136	http://www.disease-ontology.org/term/DOID%3A10763	True
+Celecoxib	colon cancer	SYM	NOT					http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A219	True
+Celecoxib	hematologic cancer	SYM	NOT					http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A2531	True
+Celecoxib	kidney cancer	SYM	NOT					http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A263	True
+Celecoxib	prostate cancer	SYM	NOT					http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A10283	True
+Celecoxib	systemic lupus erythematosus	SYM	NOT					http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A9074	True
+Celecoxib	systemic scleroderma	SYM	NOT					http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A418	True
+Cetirizine	allergic rhinitis	DM	SYM					http://www.drugbank.ca/drugs/DB00341	http://www.disease-ontology.org/term/DOID%3A4481	True
+Chenodeoxycholic acid	primary biliary cirrhosis	SYM	NOT					http://www.drugbank.ca/drugs/DB06777	http://www.disease-ontology.org/term/DOID%3A12236	True
+Chlorpropamide	type 2 diabetes mellitus	NOT	SYM		 no longer recommended due to side effects			http://www.drugbank.ca/drugs/DB00672	http://www.disease-ontology.org/term/DOID%3A9352	True
+Cholecalciferol	chronic kidney failure	SYM	NOT			This is downstream biology intended to help with Vit D metabolism in patients's with renal failure		http://www.drugbank.ca/drugs/DB00169	http://www.disease-ontology.org/term/DOID%3A784	True
+Cholecalciferol	osteoporosis	SYM	DM					http://www.drugbank.ca/drugs/DB00169	http://www.disease-ontology.org/term/DOID%3A11476	True
+Cholecalciferol	psoriasis	DM	NOT					http://www.drugbank.ca/drugs/DB00169	http://www.disease-ontology.org/term/DOID%3A8893	True
+Cholecalciferol	ulcerative colitis	SYM	DM					http://www.drugbank.ca/drugs/DB00169	http://www.disease-ontology.org/term/DOID%3A8577	True
+Choline	osteoarthritis	SYM	NOT					http://www.drugbank.ca/drugs/DB00122	http://www.disease-ontology.org/term/DOID%3A8398	True
+Choline	rheumatoid arthritis	SYM	NOT					http://www.drugbank.ca/drugs/DB00122	http://www.disease-ontology.org/term/DOID%3A7148	True
+Cimetidine	obesity	NOT	DM					http://www.drugbank.ca/drugs/DB00501	http://www.disease-ontology.org/term/DOID%3A9970	True
+Cinacalcet	chronic kidney failure	SYM	NOT			This is to treat hypoparathyroidism associated with renal disease		http://www.drugbank.ca/drugs/DB01012	http://www.disease-ontology.org/term/DOID%3A784	True
+Ciprofloxacin	asthma	SYM	NOT		acute exac			http://www.drugbank.ca/drugs/DB00537	http://www.disease-ontology.org/term/DOID%3A2841	True
+Ciprofloxacin	chronic obstructive pulmonary disease	SYM	NOT					http://www.drugbank.ca/drugs/DB00537	http://www.disease-ontology.org/term/DOID%3A3083	True
+Ciprofloxacin	ulcerative colitis	NOT	DM					http://www.drugbank.ca/drugs/DB00537	http://www.disease-ontology.org/term/DOID%3A8577	True
+Citalopram	alcohol dependence	SYM	DM					http://www.drugbank.ca/drugs/DB00215	http://www.disease-ontology.org/term/DOID%3A0050741	True
+Clomifene	azoospermia	SYM	DM					http://www.drugbank.ca/drugs/DB00882	http://www.disease-ontology.org/term/DOID%3A14227	True
+Clonazepam	autistic disorder	SYM	DM					http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A12849	True
+Clonazepam	bipolar disorder	SYM	NOT					http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A3312	True
+Clonazepam	osteoarthritis	SYM	NOT					http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A8398	True
+Clonidine	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB00575	http://www.disease-ontology.org/term/DOID%3A1686	True
+Clonidine	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00575	http://www.disease-ontology.org/term/DOID%3A10763	True
+Colchicine	gout	SYM	DM		acute flares			http://www.drugbank.ca/drugs/DB01394	http://www.disease-ontology.org/term/DOID%3A13189	True
+Colchicine	systemic scleroderma	NOT	DM					http://www.drugbank.ca/drugs/DB01394	http://www.disease-ontology.org/term/DOID%3A418	True
+Conjugated Estrogens	breast cancer	NOT	DM					http://www.drugbank.ca/drugs/DB00286	http://www.disease-ontology.org/term/DOID%3A1612	True
+Conjugated Estrogens	prostate cancer	NOT	DM		in research			http://www.drugbank.ca/drugs/DB00286	http://www.disease-ontology.org/term/DOID%3A10283	True
+Cromoglicic acid	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB01003	http://www.disease-ontology.org/term/DOID%3A2841	True
+Cyclobenzaprine	ankylosing spondylitis	SYM	NOT					http://www.drugbank.ca/drugs/DB00924	http://www.disease-ontology.org/term/DOID%3A7147	True
+Cyclobenzaprine	migraine	SYM	NOT					http://www.drugbank.ca/drugs/DB00924	http://www.disease-ontology.org/term/DOID%3A6364	True
+Cyclobenzaprine	osteoarthritis	SYM	NOT					http://www.drugbank.ca/drugs/DB00924	http://www.disease-ontology.org/term/DOID%3A8398	True
+Cyclobenzaprine	rheumatoid arthritis	SYM	NOT					http://www.drugbank.ca/drugs/DB00924	http://www.disease-ontology.org/term/DOID%3A7148	True
+Cyclobenzaprine	systemic lupus erythematosus	SYM	NOT					http://www.drugbank.ca/drugs/DB00924	http://www.disease-ontology.org/term/DOID%3A9074	True
+Cyclobenzaprine	systemic scleroderma	SYM	NOT					http://www.drugbank.ca/drugs/DB00924	http://www.disease-ontology.org/term/DOID%3A418	True
+Cyproheptadine	allergic rhinitis	DM	SYM					http://www.drugbank.ca/drugs/DB00434	http://www.disease-ontology.org/term/DOID%3A4481	True
+Cyproheptadine	migraine	SYM	NOT					http://www.drugbank.ca/drugs/DB00434	http://www.disease-ontology.org/term/DOID%3A6364	True
+Cyproheptadine	schizophrenia	SYM	NOT					http://www.drugbank.ca/drugs/DB00434	http://www.disease-ontology.org/term/DOID%3A5419	True
+Cytarabine	colon cancer	NOT	DM					http://www.drugbank.ca/drugs/DB00987	http://www.disease-ontology.org/term/DOID%3A219	True
+Dactinomycin	peripheral nervous system neoplasm	DM	NOT					http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A1192	True
+Dapsone	systemic lupus erythematosus	DM	NOT					http://www.drugbank.ca/drugs/DB00250	http://www.disease-ontology.org/term/DOID%3A9074	True
+Deferiprone	anemia	DM	SYM					http://www.drugbank.ca/drugs/DB08826	http://www.disease-ontology.org/term/DOID%3A2355	True
+Deferoxamine	chronic kidney failure	SYM	NOT			Used to treat side effect		http://www.drugbank.ca/drugs/DB00746	http://www.disease-ontology.org/term/DOID%3A784	True
+Desloratadine	allergic rhinitis	DM	SYM		im having a hard time with allergic rhinitis. Maybe all of these meds are SYM. 			http://www.drugbank.ca/drugs/DB00967	http://www.disease-ontology.org/term/DOID%3A4481	True
+Desogestrel	polycystic ovary syndrome	SYM	DM					http://www.drugbank.ca/drugs/DB00304	http://www.disease-ontology.org/term/DOID%3A11612	True
+Desonide	atopic dermatitis	SYM	DM					http://www.drugbank.ca/drugs/DB01260	http://www.disease-ontology.org/term/DOID%3A3310	True
+Dexamethasone	allergic rhinitis	SYM	DM					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A4481	True
+Dexamethasone	ankylosing spondylitis	SYM	DM					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A7147	True
+Dexamethasone	atopic dermatitis	SYM	DM					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A3310	True
+Dexamethasone	breast cancer	SYM	NOT			Helps with side effects of meds		http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A1612	True
+Dexamethasone	colon cancer	SYM	NOT					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A219	True
+Dexamethasone	hematologic cancer	SYM	NOT					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A2531	True
+Dexamethasone	kidney cancer	SYM	NOT					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A263	True
+Dexamethasone	prostate cancer	SYM	NOT					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10283	True
+Dexrazoxane	breast cancer	NOT	SYM					http://www.drugbank.ca/drugs/DB00380	http://www.disease-ontology.org/term/DOID%3A1612	True
+Dextrothyroxine	Graves' disease	NOT	SYM					http://www.drugbank.ca/drugs/DB00509	http://www.disease-ontology.org/term/DOID%3A12361	True
+Dextrothyroxine	hypothyroidism	NOT	DM					http://www.drugbank.ca/drugs/DB00509	http://www.disease-ontology.org/term/DOID%3A1459	True
+Diclofenamide	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB01144	http://www.disease-ontology.org/term/DOID%3A1686	True
+Diethylpropion	obesity	SYM	DM					http://www.drugbank.ca/drugs/DB00937	http://www.disease-ontology.org/term/DOID%3A9970	True
+Diflunisal	osteoarthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00861	http://www.disease-ontology.org/term/DOID%3A8398	True
+Digoxin	dilated cardiomyopathy	DM	NOT					http://www.drugbank.ca/drugs/DB00390	http://www.disease-ontology.org/term/DOID%3A12930	True
+Diltiazem	coronary artery disease	NOT	SYM					http://www.drugbank.ca/drugs/DB00343	http://www.disease-ontology.org/term/DOID%3A3393	True
+Diltiazem	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00343	http://www.disease-ontology.org/term/DOID%3A10763	True
+Dimenhydrinate	Parkinson's disease	NOT	SYM					http://www.drugbank.ca/drugs/DB00985	http://www.disease-ontology.org/term/DOID%3A14330	True
+Dimenhydrinate	allergic rhinitis	SYM	NOT					http://www.drugbank.ca/drugs/DB00985	http://www.disease-ontology.org/term/DOID%3A4481	True
+Dimenhydrinate	atopic dermatitis	SYM	NOT					http://www.drugbank.ca/drugs/DB00985	http://www.disease-ontology.org/term/DOID%3A3310	True
+Dimenhydrinate	schizophrenia	NOT	SYM					http://www.drugbank.ca/drugs/DB00985	http://www.disease-ontology.org/term/DOID%3A5419	True
+Diphenhydramine	Parkinson's disease	SYM	NOT					http://www.drugbank.ca/drugs/DB01075	http://www.disease-ontology.org/term/DOID%3A14330	True
+Diphenhydramine	schizophrenia	SYM	NOT					http://www.drugbank.ca/drugs/DB01075	http://www.disease-ontology.org/term/DOID%3A5419	True
+Dipivefrin	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB00449	http://www.disease-ontology.org/term/DOID%3A1686	True
+Disulfiram	alcohol dependence	SYM	DM					http://www.drugbank.ca/drugs/DB00822	http://www.disease-ontology.org/term/DOID%3A0050741	True
+Donepezil	Alzheimer's disease	SYM	DM					http://www.drugbank.ca/drugs/DB00843	http://www.disease-ontology.org/term/DOID%3A10652	True
+Dopamine	hypertension	SYM	NOT					http://www.drugbank.ca/drugs/DB00988	http://www.disease-ontology.org/term/DOID%3A10763	True
+Doxazosin	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00590	http://www.disease-ontology.org/term/DOID%3A10763	True
+Doxepin	atopic dermatitis	SYM	DM					http://www.drugbank.ca/drugs/DB01142	http://www.disease-ontology.org/term/DOID%3A3310	True
+Doxorubicin	acquired immunodeficiency syndrome	DM	NOT					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A635	True
+Doxycycline	chronic obstructive pulmonary disease	SYM	NOT		tough decision			http://www.drugbank.ca/drugs/DB00254	http://www.disease-ontology.org/term/DOID%3A3083	True
+Doxycycline	malaria	DM	NOT					http://www.drugbank.ca/drugs/DB00254	http://www.disease-ontology.org/term/DOID%3A12365	True
+Drospirenone	polycystic ovary syndrome	SYM	DM					http://www.drugbank.ca/drugs/DB01395	http://www.disease-ontology.org/term/DOID%3A11612	True
+Echothiophate	glaucoma	DM	SYM		glaucoma is tough too. 			http://www.drugbank.ca/drugs/DB01057	http://www.disease-ontology.org/term/DOID%3A1686	True
+Echothiophate	refractive error	SYM	NOT					http://www.drugbank.ca/drugs/DB01057	http://www.disease-ontology.org/term/DOID%3A9835	True
+Enalapril	coronary artery disease	SYM	DM					http://www.drugbank.ca/drugs/DB00584	http://www.disease-ontology.org/term/DOID%3A3393	True
+Epinephrine	glaucoma	SYM	NOT					http://www.drugbank.ca/drugs/DB00668	http://www.disease-ontology.org/term/DOID%3A1686	True
+Epirubicin	acquired immunodeficiency syndrome	DM	NOT			Usec to treat complicaton of AIDS		http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A635	True
+Epirubicin	peripheral nervous system neoplasm	DM	NOT					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A1192	True
+Eplerenone	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00700	http://www.disease-ontology.org/term/DOID%3A10763	True
+Epoprostenol	systemic scleroderma	NOT	DM		?raynauds 			http://www.drugbank.ca/drugs/DB01240	http://www.disease-ontology.org/term/DOID%3A418	True
+Ergocalciferol	metabolic syndrome X	SYM	DM					http://www.drugbank.ca/drugs/DB00153	http://www.disease-ontology.org/term/DOID%3A14221	True
+Ergocalciferol	osteoporosis	SYM	DM					http://www.drugbank.ca/drugs/DB00153	http://www.disease-ontology.org/term/DOID%3A11476	True
+Ergocalciferol	rheumatoid arthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00153	http://www.disease-ontology.org/term/DOID%3A7148	True
+Esmolol	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00187	http://www.disease-ontology.org/term/DOID%3A10763	True
+Esomeprazole	ankylosing spondylitis	NOT	SYM					http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A7147	True
+Esomeprazole	kidney cancer	NOT	SYM					http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A263	True
+Esomeprazole	prostate cancer	NOT	SYM					http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A10283	True
+Esomeprazole	rheumatoid arthritis	NOT	SYM					http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A7148	True
+Esomeprazole	systemic lupus erythematosus	NOT	SYM		weird, maybe b/c a lot of these diseases rx steroids/ppi combo			http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A9074	True
+Esomeprazole	systemic scleroderma	NOT	SYM					http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A418	True
+Estradiol	breast cancer	DM	NOT			Worsens		http://www.drugbank.ca/drugs/DB00783	http://www.disease-ontology.org/term/DOID%3A1612	True
+Estradiol	coronary artery disease	NOT	DM			worsening		http://www.drugbank.ca/drugs/DB00783	http://www.disease-ontology.org/term/DOID%3A3393	True
+Estradiol	uterine cancer	DM	NOT			worsens disease		http://www.drugbank.ca/drugs/DB00783	http://www.disease-ontology.org/term/DOID%3A363	True
+Estrone	breast cancer	NOT	DM					http://www.drugbank.ca/drugs/DB00655	http://www.disease-ontology.org/term/DOID%3A1612	True
+Estrone	prostate cancer	NOT	DM					http://www.drugbank.ca/drugs/DB00655	http://www.disease-ontology.org/term/DOID%3A10283	True
+Eszopiclone	schizophrenia	SYM	NOT					http://www.drugbank.ca/drugs/DB00402	http://www.disease-ontology.org/term/DOID%3A5419	True
+Ethinyl Estradiol	polycystic ovary syndrome	SYM	DM					http://www.drugbank.ca/drugs/DB00977	http://www.disease-ontology.org/term/DOID%3A11612	True
+Ethinyl Estradiol	prostate cancer	DM	NOT					http://www.drugbank.ca/drugs/DB00977	http://www.disease-ontology.org/term/DOID%3A10283	True
+Etodolac	osteoarthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00749	http://www.disease-ontology.org/term/DOID%3A8398	True
+Etomidate	epilepsy syndrome	SYM	NOT			WORSENS		http://www.drugbank.ca/drugs/DB00292	http://www.disease-ontology.org/term/DOID%3A1826	True
+Etoposide	peripheral nervous system neoplasm	DM	NOT					http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A1192	True
+Felbamate	epilepsy syndrome	SYM	DM					http://www.drugbank.ca/drugs/DB00949	http://www.disease-ontology.org/term/DOID%3A1826	True
+Felodipine	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB01023	http://www.disease-ontology.org/term/DOID%3A10763	True
+Fenoldopam	hypertension	SYM	DM		post-op BP, not long-term			http://www.drugbank.ca/drugs/DB00800	http://www.disease-ontology.org/term/DOID%3A10763	True
+Fenoprofen	osteoarthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00573	http://www.disease-ontology.org/term/DOID%3A8398	True
+Finasteride	prostate cancer	SYM	DM					http://www.drugbank.ca/drugs/DB01216	http://www.disease-ontology.org/term/DOID%3A10283	True
+Fludrocortisone	Parkinson's disease	SYM	NOT					http://www.drugbank.ca/drugs/DB00687	http://www.disease-ontology.org/term/DOID%3A14330	True
+Flunisolide	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB00180	http://www.disease-ontology.org/term/DOID%3A2841	True
+Fluocinolone Acetonide	psoriasis	DM	SYM					http://www.drugbank.ca/drugs/DB00591	http://www.disease-ontology.org/term/DOID%3A8893	True
+Fluocinonide	psoriasis	DM	SYM		DM			http://www.drugbank.ca/drugs/DB01047	http://www.disease-ontology.org/term/DOID%3A8893	True
+Fluoxymesterone	breast cancer	DM	NOT			Old therapy		http://www.drugbank.ca/drugs/DB01185	http://www.disease-ontology.org/term/DOID%3A1612	True
+Flurbiprofen	osteoarthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00712	http://www.disease-ontology.org/term/DOID%3A8398	True
+Formoterol	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB00983	http://www.disease-ontology.org/term/DOID%3A2841	True
+Formoterol	chronic obstructive pulmonary disease	DM	SYM					http://www.drugbank.ca/drugs/DB00983	http://www.disease-ontology.org/term/DOID%3A3083	True
+Furosemide	coronary artery disease	SYM	NOT					http://www.drugbank.ca/drugs/DB00695	http://www.disease-ontology.org/term/DOID%3A3393	True
+Furosemide	dilated cardiomyopathy	DM	SYM					http://www.drugbank.ca/drugs/DB00695	http://www.disease-ontology.org/term/DOID%3A12930	True
+Furosemide	systemic scleroderma	SYM	NOT					http://www.drugbank.ca/drugs/DB00695	http://www.disease-ontology.org/term/DOID%3A418	True
+Gabapentin	Parkinson's disease	SYM	NOT					http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A14330	True
+Gabapentin	rheumatoid arthritis	NOT	SYM					http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A7148	True
+Gabapentin	systemic lupus erythematosus	NOT	SYM					http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A9074	True
+Ganciclovir	acquired immunodeficiency syndrome	DM	NOT			USEED TO TREAT COMPLICATION		http://www.drugbank.ca/drugs/DB01004	http://www.disease-ontology.org/term/DOID%3A635	True
+Gemcitabine	hematologic cancer	DM	NOT					http://www.drugbank.ca/drugs/DB00441	http://www.disease-ontology.org/term/DOID%3A2531	True
+Gemfibrozil	pancreatitis	DM	NOT		if panc is from hyperTG	SIDE EFFECT OF MED		http://www.drugbank.ca/drugs/DB01241	http://www.disease-ontology.org/term/DOID%3A4989	True
+Glucosamine	osteoarthritis	SYM	DM					http://www.drugbank.ca/drugs/DB01296	http://www.disease-ontology.org/term/DOID%3A8398	True
+Haloperidol	Alzheimer's disease	SYM	NOT					http://www.drugbank.ca/drugs/DB00502	http://www.disease-ontology.org/term/DOID%3A10652	True
+Haloperidol	Gilles de la Tourette syndrome	SYM	NOT					http://www.drugbank.ca/drugs/DB00502	http://www.disease-ontology.org/term/DOID%3A11119	True
+Hydralazine	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB01275	http://www.disease-ontology.org/term/DOID%3A10763	True
+Hydrochlorothiazide	hypertension	DM	SYM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00999	http://www.disease-ontology.org/term/DOID%3A10763	True
+Hydrochlorothiazide	nephrolithiasis	DM	NOT			SIDE EFFECT		http://www.drugbank.ca/drugs/DB00999	http://www.disease-ontology.org/term/DOID%3A585	True
+Hydrocortisone	allergic rhinitis	DM	SYM					http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A4481	True
+Hydrocortisone	kidney cancer	SYM	NOT					http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A263	True
+Hydrocortisone	prostate cancer	SYM	NOT					http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A10283	True
+Hydrocortisone	psoriasis	DM	SYM					http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A8893	True
+Hydroxyurea	kidney cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A263	True
+Hydroxyurea	lung cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A1324	True
+Hydroxyurea	melanoma	NOT	DM					http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A1909	True
+Hydroxyurea	ovarian cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A2394	True
+Hydroxyurea	prostate cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A10283	True
+Hydroxyurea	psoriasis	NOT	DM					http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A8893	True
+Hydroxyurea	skin cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A4159	True
+Hydroxyurea	uterine cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A363	True
+Indacaterol	asthma	NOT	DM		not sure if works in asthma			http://www.drugbank.ca/drugs/DB05039	http://www.disease-ontology.org/term/DOID%3A2841	True
+Indapamide	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00808	http://www.disease-ontology.org/term/DOID%3A10763	True
+Indomethacin	osteoarthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00328	http://www.disease-ontology.org/term/DOID%3A8398	True
+Irbesartan	type 2 diabetes mellitus	NOT	SYM					http://www.drugbank.ca/drugs/DB01029	http://www.disease-ontology.org/term/DOID%3A9352	True
+Irinotecan	hematologic cancer	DM	NOT					http://www.drugbank.ca/drugs/DB00762	http://www.disease-ontology.org/term/DOID%3A2531	True
+Isosorbide Dinitrate	hypertension	NOT	SYM					http://www.drugbank.ca/drugs/DB00883	http://www.disease-ontology.org/term/DOID%3A10763	True
+Isotretinoin	peripheral nervous system neoplasm	DM	NOT					http://www.drugbank.ca/drugs/DB00982	http://www.disease-ontology.org/term/DOID%3A1192	True
+Isradipine	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00270	http://www.disease-ontology.org/term/DOID%3A10763	True
+Ketoprofen	osteoarthritis	SYM	DM					http://www.drugbank.ca/drugs/DB01009	http://www.disease-ontology.org/term/DOID%3A8398	True
+Ketotifen	asthma	SYM	DM					http://www.drugbank.ca/drugs/DB00920	http://www.disease-ontology.org/term/DOID%3A2841	True
+L-Carnitine	autistic disorder	SYM	NOT					http://www.drugbank.ca/drugs/DB00583	http://www.disease-ontology.org/term/DOID%3A12849	True
+Latanoprost	hypertension	NOT	SYM					http://www.drugbank.ca/drugs/DB00654	http://www.disease-ontology.org/term/DOID%3A10763	True
+Leucovorin	bone cancer	SYM	DM		an adjuvant med for chemo			http://www.drugbank.ca/drugs/DB00650	http://www.disease-ontology.org/term/DOID%3A184	True
+Leucovorin	colon cancer	SYM	DM					http://www.drugbank.ca/drugs/DB00650	http://www.disease-ontology.org/term/DOID%3A219	True
+Levobunolol	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB01210	http://www.disease-ontology.org/term/DOID%3A1686	True
+Levobunolol	hypertension	NOT	SYM					http://www.drugbank.ca/drugs/DB01210	http://www.disease-ontology.org/term/DOID%3A10763	True
+Levonorgestrel	polycystic ovary syndrome	SYM	DM					http://www.drugbank.ca/drugs/DB00367	http://www.disease-ontology.org/term/DOID%3A11612	True
+Levothyroxine	Graves' disease	NOT	SYM		possibly for hypothyroid grave's	Used to treat effect of thyroid dysfunction but doesn't treat underlying disease		http://www.drugbank.ca/drugs/DB00451	http://www.disease-ontology.org/term/DOID%3A12361	True
+Levothyroxine	thyroid cancer	SYM	NOT			Treats after thyroid removal		http://www.drugbank.ca/drugs/DB00451	http://www.disease-ontology.org/term/DOID%3A1781	True
+Linagliptin	type 2 diabetes mellitus	DM	SYM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB08882	http://www.disease-ontology.org/term/DOID%3A9352	True
+Liothyronine	thyroid cancer	SYM	NOT			Treats side effect of treatment		http://www.drugbank.ca/drugs/DB00279	http://www.disease-ontology.org/term/DOID%3A1781	True
+Liotrix	thyroid cancer	SYM	NOT			Treats side effect of treatment		http://www.drugbank.ca/drugs/DB01583	http://www.disease-ontology.org/term/DOID%3A1781	True
+Lisinopril	systemic scleroderma	NOT	DM					http://www.drugbank.ca/drugs/DB00722	http://www.disease-ontology.org/term/DOID%3A418	True
+Lithium	schizophrenia	SYM	NOT					http://www.drugbank.ca/drugs/DB01356	http://www.disease-ontology.org/term/DOID%3A5419	True
+Lomustine	kidney cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01206	http://www.disease-ontology.org/term/DOID%3A263	True
+Lomustine	skin cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01206	http://www.disease-ontology.org/term/DOID%3A4159	True
+Loratadine	atopic dermatitis	SYM	DM					http://www.drugbank.ca/drugs/DB00455	http://www.disease-ontology.org/term/DOID%3A3310	True
+Loxapine	schizophrenia	SYM	DM			Loaxpine has unique effects on neuronal connections		http://www.drugbank.ca/drugs/DB00408	http://www.disease-ontology.org/term/DOID%3A5419	True
+Mannitol	glaucoma	SYM	NOT		acutely 			http://www.drugbank.ca/drugs/DB00742	http://www.disease-ontology.org/term/DOID%3A1686	True
+Mecamylamine	hypertension	NOT	SYM		not used anymore			http://www.drugbank.ca/drugs/DB00657	http://www.disease-ontology.org/term/DOID%3A10763	True
+Medroxyprogesterone Acetate	uterine cancer	NOT	DM			Adavnaced enodemtrial cancer		http://www.drugbank.ca/drugs/DB00603	http://www.disease-ontology.org/term/DOID%3A363	True
+Melphalan	breast cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A1612	True
+Melphalan	melanoma	NOT	DM					http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A1909	True
+Melphalan	muscle cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A4045	True
+Melphalan	ovarian cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A2394	True
+Melphalan	peripheral nervous system neoplasm	NOT	DM					http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A1192	True
+Melphalan	sarcoma	NOT	DM					http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A1115	True
+Melphalan	skin cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A4159	True
+Metformin	kidney cancer	NOT	DM		Pilot classification: symptomatic; Pilot notes: some studies suggest it may be beneficial but not one from 2013			http://www.drugbank.ca/drugs/DB00331	http://www.disease-ontology.org/term/DOID%3A263	True
+Metformin	liver cancer	NOT	DM					http://www.drugbank.ca/drugs/DB00331	http://www.disease-ontology.org/term/DOID%3A3571	True
+Methamphetamine	obesity	SYM	NOT		tough decision			http://www.drugbank.ca/drugs/DB01577	http://www.disease-ontology.org/term/DOID%3A9970	True
+Methazolamide	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB00703	http://www.disease-ontology.org/term/DOID%3A1686	True
+Methotrexate	multiple sclerosis	DM	NOT					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A2377	True
+Methotrexate	testicular cancer	DM	NOT					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A2998	True
+Methyldopa	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00968	http://www.disease-ontology.org/term/DOID%3A10763	True
+Methylprednisolone	allergic rhinitis	SYM	DM		acute			http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A4481	True
+Methylprednisolone	asthma	SYM	DM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A2841	True
+Methylprednisolone	atopic dermatitis	SYM	DM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A3310	True
+Methylprednisolone	rheumatoid arthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A7148	True
+Methylprednisolone	systemic lupus erythematosus	SYM	DM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A9074	True
+Methylprednisolone	ulcerative colitis	SYM	DM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A8577	True
+Methyltestosterone	breast cancer	DM	NOT			Risk		http://www.drugbank.ca/drugs/DB06710	http://www.disease-ontology.org/term/DOID%3A1612	True
+Metipranolol	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB01214	http://www.disease-ontology.org/term/DOID%3A1686	True
+Metolazone	hypertension	NOT	DM		diuretic			http://www.drugbank.ca/drugs/DB00524	http://www.disease-ontology.org/term/DOID%3A10763	True
+Metoprolol	hypertension	DM	SYM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00264	http://www.disease-ontology.org/term/DOID%3A10763	True
+Metronidazole	Crohn's disease	NOT	DM					http://www.drugbank.ca/drugs/DB00916	http://www.disease-ontology.org/term/DOID%3A8778	True
+Metronidazole	systemic scleroderma	NOT	SYM					http://www.drugbank.ca/drugs/DB00916	http://www.disease-ontology.org/term/DOID%3A418	True
+Miglitol	type 2 diabetes mellitus	DM	SYM					http://www.drugbank.ca/drugs/DB00491	http://www.disease-ontology.org/term/DOID%3A9352	True
+Minoxidil	hypertension	NOT	SYM		not used anymore			http://www.drugbank.ca/drugs/DB00350	http://www.disease-ontology.org/term/DOID%3A10763	True
+Misoprostol	osteoarthritis	NOT	SYM					http://www.drugbank.ca/drugs/DB00929	http://www.disease-ontology.org/term/DOID%3A8398	True
+Mitomycin	glaucoma	NOT	DM		used in glaucoma surg	Post sirgically		http://www.drugbank.ca/drugs/DB00305	http://www.disease-ontology.org/term/DOID%3A1686	True
+Mitoxantrone	breast cancer	DM	NOT					http://www.drugbank.ca/drugs/DB01204	http://www.disease-ontology.org/term/DOID%3A1612	True
+Mitoxantrone	hematologic cancer	DM	NOT					http://www.drugbank.ca/drugs/DB01204	http://www.disease-ontology.org/term/DOID%3A2531	True
+Mitoxantrone	lymphatic system cancer	DM	NOT					http://www.drugbank.ca/drugs/DB01204	http://www.disease-ontology.org/term/DOID%3A0060073	True
+Mitoxantrone	multiple sclerosis	DM	NOT					http://www.drugbank.ca/drugs/DB01204	http://www.disease-ontology.org/term/DOID%3A2377	True
+Mitoxantrone	sarcoma	DM	NOT					http://www.drugbank.ca/drugs/DB01204	http://www.disease-ontology.org/term/DOID%3A1115	True
+Modafinil	attention deficit hyperactivity disorder	SYM	NOT					http://www.drugbank.ca/drugs/DB00745	http://www.disease-ontology.org/term/DOID%3A1094	True
+Mometasone	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB00764	http://www.disease-ontology.org/term/DOID%3A2841	True
+Mometasone	atopic dermatitis	DM	SYM					http://www.drugbank.ca/drugs/DB00764	http://www.disease-ontology.org/term/DOID%3A3310	True
+Mometasone	systemic scleroderma	DM	SYM					http://www.drugbank.ca/drugs/DB00764	http://www.disease-ontology.org/term/DOID%3A418	True
+Monobenzone	vitiligo	SYM	DM					http://www.drugbank.ca/drugs/DB00600	http://www.disease-ontology.org/term/DOID%3A12306	True
+Moxifloxacin	asthma	NOT	SYM					http://www.drugbank.ca/drugs/DB00218	http://www.disease-ontology.org/term/DOID%3A2841	True
+Moxifloxacin	chronic obstructive pulmonary disease	NOT	SYM					http://www.drugbank.ca/drugs/DB00218	http://www.disease-ontology.org/term/DOID%3A3083	True
+Moxifloxacin	hypertension	NOT	SYM					http://www.drugbank.ca/drugs/DB00218	http://www.disease-ontology.org/term/DOID%3A10763	True
+Mupirocin	atopic dermatitis	NOT	DM					http://www.drugbank.ca/drugs/DB00410	http://www.disease-ontology.org/term/DOID%3A3310	True
+Nadolol	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB01203	http://www.disease-ontology.org/term/DOID%3A10763	True
+Naltrexone	alcohol dependence	SYM	DM					http://www.drugbank.ca/drugs/DB00704	http://www.disease-ontology.org/term/DOID%3A0050741	True
+Nateglinide	type 2 diabetes mellitus	DM	SYM					http://www.drugbank.ca/drugs/DB00731	http://www.disease-ontology.org/term/DOID%3A9352	True
+Nedocromil	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB00716	http://www.disease-ontology.org/term/DOID%3A2841	True
+Niacin	atherosclerosis	DM	SYM					http://www.drugbank.ca/drugs/DB00627	http://www.disease-ontology.org/term/DOID%3A1936	True
+Niacin	coronary artery disease	DM	SYM					http://www.drugbank.ca/drugs/DB00627	http://www.disease-ontology.org/term/DOID%3A3393	True
+Niacin	pancreatitis	DM	NOT					http://www.drugbank.ca/drugs/DB00627	http://www.disease-ontology.org/term/DOID%3A4989	True
+Nicotine	nicotine dependence	SYM	NOT					http://www.drugbank.ca/drugs/DB00184	http://www.disease-ontology.org/term/DOID%3A0050742	True
+Nicotine	ulcerative colitis	NOT	DM		in research			http://www.drugbank.ca/drugs/DB00184	http://www.disease-ontology.org/term/DOID%3A8577	True
+Nifedipine	coronary artery disease	DM	SYM		prinzmetals			http://www.drugbank.ca/drugs/DB01115	http://www.disease-ontology.org/term/DOID%3A3393	True
+Nifedipine	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB01115	http://www.disease-ontology.org/term/DOID%3A10763	True
+Nifedipine	systemic scleroderma	NOT	SYM					http://www.drugbank.ca/drugs/DB01115	http://www.disease-ontology.org/term/DOID%3A418	True
+Nisoldipine	hypertension	DM	SYM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00401	http://www.disease-ontology.org/term/DOID%3A10763	True
+Norethindrone	osteoporosis	NOT	DM					http://www.drugbank.ca/drugs/DB00717	http://www.disease-ontology.org/term/DOID%3A11476	True
+Norethindrone	polycystic ovary syndrome	SYM	DM					http://www.drugbank.ca/drugs/DB00717	http://www.disease-ontology.org/term/DOID%3A11612	True
+Octreotide	pancreatic cancer	NOT	SYM		diarrhea from VIPomas			http://www.drugbank.ca/drugs/DB00104	http://www.disease-ontology.org/term/DOID%3A1793	True
+Octreotide	pancreatitis	NOT	SYM					http://www.drugbank.ca/drugs/DB00104	http://www.disease-ontology.org/term/DOID%3A4989	True
+Octreotide	thymus cancer	NOT	DM					http://www.drugbank.ca/drugs/DB00104	http://www.disease-ontology.org/term/DOID%3A3277	True
+Octreotide	type 1 diabetes mellitus	NOT	SYM					http://www.drugbank.ca/drugs/DB00104	http://www.disease-ontology.org/term/DOID%3A9744	True
+Olmesartan	coronary artery disease	NOT	DM					http://www.drugbank.ca/drugs/DB00275	http://www.disease-ontology.org/term/DOID%3A3393	True
+Olopatadine	allergic rhinitis	DM	SYM					http://www.drugbank.ca/drugs/DB00768	http://www.disease-ontology.org/term/DOID%3A4481	True
+Omeprazole	ankylosing spondylitis	NOT	SYM					http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A7147	True
+Ondansetron	alcohol dependence	SYM	NOT					http://www.drugbank.ca/drugs/DB00904	http://www.disease-ontology.org/term/DOID%3A0050741	True
+Orciprenaline	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB00816	http://www.disease-ontology.org/term/DOID%3A2841	True
+Orlistat	hypertension	NOT	DM					http://www.drugbank.ca/drugs/DB01083	http://www.disease-ontology.org/term/DOID%3A10763	True
+Orlistat	type 2 diabetes mellitus	NOT	DM					http://www.drugbank.ca/drugs/DB01083	http://www.disease-ontology.org/term/DOID%3A9352	True
+Oxandrolone	osteoporosis	SYM	DM		Pilot classification: symptomatic; Pilot notes: relieves bone pain			http://www.drugbank.ca/drugs/DB00621	http://www.disease-ontology.org/term/DOID%3A11476	True
+Oxaprozin	osteoarthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00991	http://www.disease-ontology.org/term/DOID%3A8398	True
+Oxymetazoline	allergic rhinitis	SYM	DM					http://www.drugbank.ca/drugs/DB00935	http://www.disease-ontology.org/term/DOID%3A4481	True
+Pamidronate	breast cancer	NOT	SYM					http://www.drugbank.ca/drugs/DB00282	http://www.disease-ontology.org/term/DOID%3A1612	True
+Pamidronate	hematologic cancer	NOT	SYM					http://www.drugbank.ca/drugs/DB00282	http://www.disease-ontology.org/term/DOID%3A2531	True
+Paricalcitol	chronic kidney failure	NOT	SYM		parathy ass't with CKD			http://www.drugbank.ca/drugs/DB00910	http://www.disease-ontology.org/term/DOID%3A784	True
+Penbutolol	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB01359	http://www.disease-ontology.org/term/DOID%3A10763	True
+Penicillamine	primary biliary cirrhosis	DM	NOT					http://www.drugbank.ca/drugs/DB00859	http://www.disease-ontology.org/term/DOID%3A12236	True
+Penicillin V	periodontitis	NOT	DM					http://www.drugbank.ca/drugs/DB00417	http://www.disease-ontology.org/term/DOID%3A824	True
+Pentoxifylline	malaria	NOT	DM			Cerebral malaria		http://www.drugbank.ca/drugs/DB00806	http://www.disease-ontology.org/term/DOID%3A12365	True
+Pergolide	Gilles de la Tourette syndrome	NOT	SYM		w/d from market			http://www.drugbank.ca/drugs/DB01186	http://www.disease-ontology.org/term/DOID%3A11119	True
+Pergolide	Parkinson's disease	NOT	SYM					http://www.drugbank.ca/drugs/DB01186	http://www.disease-ontology.org/term/DOID%3A14330	True
+Perindopril	coronary artery disease	NOT	DM					http://www.drugbank.ca/drugs/DB00790	http://www.disease-ontology.org/term/DOID%3A3393	True
+Phenylpropanolamine	obesity	NOT	DM		inc risk stroke in women			http://www.drugbank.ca/drugs/DB00397	http://www.disease-ontology.org/term/DOID%3A9970	True
+Physostigmine	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB00981	http://www.disease-ontology.org/term/DOID%3A1686	True
+Pilocarpine	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB01085	http://www.disease-ontology.org/term/DOID%3A1686	True
+Pilocarpine	rheumatoid arthritis	NOT	SYM					http://www.drugbank.ca/drugs/DB01085	http://www.disease-ontology.org/term/DOID%3A7148	True
+Pindolol	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00960	http://www.disease-ontology.org/term/DOID%3A10763	True
+Pioglitazone	type 2 diabetes mellitus	NOT	DM					http://www.drugbank.ca/drugs/DB01132	http://www.disease-ontology.org/term/DOID%3A9352	True
+Pirbuterol	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB01291	http://www.disease-ontology.org/term/DOID%3A2841	True
+Piroxicam	ankylosing spondylitis	SYM	DM					http://www.drugbank.ca/drugs/DB00554	http://www.disease-ontology.org/term/DOID%3A7147	True
+Piroxicam	osteoarthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00554	http://www.disease-ontology.org/term/DOID%3A8398	True
+Piroxicam	rheumatoid arthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00554	http://www.disease-ontology.org/term/DOID%3A7148	True
+Plerixafor	hematologic cancer	DM	NOT			Used after HSCT		http://www.drugbank.ca/drugs/DB06809	http://www.disease-ontology.org/term/DOID%3A2531	True
+Pravastatin	prostate cancer	NOT	DM					http://www.drugbank.ca/drugs/DB00175	http://www.disease-ontology.org/term/DOID%3A10283	True
+Prazosin	hypertension	DM	SYM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00457	http://www.disease-ontology.org/term/DOID%3A10763	True
+Prednisolone	allergic rhinitis	SYM	DM					http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A4481	True
+Prednisolone	ankylosing spondylitis	SYM	DM		Pilot classification: symptomatic; Pilot notes:			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A7147	True
+Prednisolone	asthma	SYM	DM					http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A2841	True
+Prednisolone	atopic dermatitis	SYM	DM					http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A3310	True
+Prednisolone	chronic obstructive pulmonary disease	SYM	DM		Pilot classification: ? Disease modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A3083	True
+Prednisolone	gout	SYM	DM					http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A13189	True
+Prednisolone	rheumatoid arthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A7148	True
+Prednisolone	systemic lupus erythematosus	SYM	DM					http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A9074	True
+Prednisone	Crohn's disease	SYM	DM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A8778	True
+Prednisone	anemia	SYM	NOT					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A2355	True
+Prednisone	asthma	SYM	DM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A2841	True
+Prednisone	atopic dermatitis	SYM	DM		Pilot classification: symptomatic; Pilot notes:			http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A3310	True
+Prednisone	chronic obstructive pulmonary disease	SYM	DM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A3083	True
+Prednisone	gout	SYM	DM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A13189	True
+Prednisone	osteoarthritis	SYM	NOT					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A8398	True
+Prednisone	rheumatoid arthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A7148	True
+Prednisone	systemic lupus erythematosus	SYM	DM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A9074	True
+Prednisone	ulcerative colitis	SYM	DM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A8577	True
+Pregabalin	systemic lupus erythematosus	NOT	SYM					http://www.drugbank.ca/drugs/DB00230	http://www.disease-ontology.org/term/DOID%3A9074	True
+Prochlorperazine	breast cancer	NOT	SYM					http://www.drugbank.ca/drugs/DB00433	http://www.disease-ontology.org/term/DOID%3A1612	True
+Progesterone	uterine cancer	NOT	DM					http://www.drugbank.ca/drugs/DB00396	http://www.disease-ontology.org/term/DOID%3A363	True
+Propantheline	pancreatitis	SYM	DM					http://www.drugbank.ca/drugs/DB00782	http://www.disease-ontology.org/term/DOID%3A4989	True
+Propranolol	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00571	http://www.disease-ontology.org/term/DOID%3A10763	True
+Pseudoephedrine	allergic rhinitis	SYM	DM					http://www.drugbank.ca/drugs/DB00852	http://www.disease-ontology.org/term/DOID%3A4481	True
+Quetiapine	Alzheimer's disease	SYM	NOT					http://www.drugbank.ca/drugs/DB01224	http://www.disease-ontology.org/term/DOID%3A10652	True
+Quetiapine	Parkinson's disease	SYM	NOT					http://www.drugbank.ca/drugs/DB01224	http://www.disease-ontology.org/term/DOID%3A14330	True
+Quinapril	hypertension	DM	SYM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00881	http://www.disease-ontology.org/term/DOID%3A10763	True
+Quinidine	malaria	NOT	DM					http://www.drugbank.ca/drugs/DB00908	http://www.disease-ontology.org/term/DOID%3A12365	True
+Quinidine barbiturate	epilepsy syndrome	SYM	NOT					http://www.drugbank.ca/drugs/DB01346	http://www.disease-ontology.org/term/DOID%3A1826	True
+Quinidine barbiturate	malaria	NOT	DM					http://www.drugbank.ca/drugs/DB01346	http://www.disease-ontology.org/term/DOID%3A12365	True
+Ramipril	coronary artery disease	NOT	DM					http://www.drugbank.ca/drugs/DB00178	http://www.disease-ontology.org/term/DOID%3A3393	True
+Repaglinide	type 2 diabetes mellitus	DM	SYM					http://www.drugbank.ca/drugs/DB00912	http://www.disease-ontology.org/term/DOID%3A9352	True
+Reserpine	hypertension	NOT	SYM		rarely used			http://www.drugbank.ca/drugs/DB00206	http://www.disease-ontology.org/term/DOID%3A10763	True
+Rifabutin	acquired immunodeficiency syndrome	NOT	SYM			Complication of HIV infection		http://www.drugbank.ca/drugs/DB00615	http://www.disease-ontology.org/term/DOID%3A635	True
+Riluzole	amyotrophic lateral sclerosis	SYM	DM		or DM?			http://www.drugbank.ca/drugs/DB00740	http://www.disease-ontology.org/term/DOID%3A332	True
+Risedronate	breast cancer	NOT	SYM					http://www.drugbank.ca/drugs/DB00884	http://www.disease-ontology.org/term/DOID%3A1612	True
+Ropinirole	Alzheimer's disease	SYM	NOT					http://www.drugbank.ca/drugs/DB00268	http://www.disease-ontology.org/term/DOID%3A10652	True
+Ropinirole	multiple sclerosis	SYM	NOT					http://www.drugbank.ca/drugs/DB00268	http://www.disease-ontology.org/term/DOID%3A2377	True
+Rosiglitazone	type 2 diabetes mellitus	NOT	DM					http://www.drugbank.ca/drugs/DB00412	http://www.disease-ontology.org/term/DOID%3A9352	True
+Salicylate-sodium	psoriasis	DM	SYM					http://www.drugbank.ca/drugs/DB01398	http://www.disease-ontology.org/term/DOID%3A8893	True
+Salmeterol	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB00938	http://www.disease-ontology.org/term/DOID%3A2841	True
+Selegiline	Alzheimer's disease	NOT	SYM					http://www.drugbank.ca/drugs/DB01037	http://www.disease-ontology.org/term/DOID%3A10652	True
+Sildenafil	hypertension	DM	NOT		pulm htn	NOT FOR ESSENTIal HTN but DM for pulmonary arterial hypertension		http://www.drugbank.ca/drugs/DB00203	http://www.disease-ontology.org/term/DOID%3A10763	True
+Sildenafil	type 1 diabetes mellitus	NOT	DM					http://www.drugbank.ca/drugs/DB00203	http://www.disease-ontology.org/term/DOID%3A9744	True
+Sirolimus	prostate cancer	DM	NOT					http://www.drugbank.ca/drugs/DB00877	http://www.disease-ontology.org/term/DOID%3A10283	True
+Solifenacin	multiple sclerosis	SYM	DM					http://www.drugbank.ca/drugs/DB01591	http://www.disease-ontology.org/term/DOID%3A2377	True
+Spironolactone	dilated cardiomyopathy	SYM	DM		or DM? 			http://www.drugbank.ca/drugs/DB00421	http://www.disease-ontology.org/term/DOID%3A12930	True
+Spironolactone	hypertension	NOT	SYM					http://www.drugbank.ca/drugs/DB00421	http://www.disease-ontology.org/term/DOID%3A10763	True
+Streptozocin	hematologic cancer	NOT	DM					http://www.drugbank.ca/drugs/DB00428	http://www.disease-ontology.org/term/DOID%3A2531	True
+Sulfadiazine	malaria	NOT	SYM		not used anymore	SUPPORTIVE FOR ANTMALARIAL		http://www.drugbank.ca/drugs/DB00359	http://www.disease-ontology.org/term/DOID%3A12365	True
+Tadalafil	chronic obstructive pulmonary disease	NOT	DM					http://www.drugbank.ca/drugs/DB00820	http://www.disease-ontology.org/term/DOID%3A3083	True
+Tadalafil	systemic scleroderma	NOT	SYM					http://www.drugbank.ca/drugs/DB00820	http://www.disease-ontology.org/term/DOID%3A418	True
+Tamoxifen	pancreatic cancer	NOT	DM			Potnetially		http://www.drugbank.ca/drugs/DB00675	http://www.disease-ontology.org/term/DOID%3A1793	True
+Temozolomide	melanoma	NOT	DM		in research	ONLY FOR BRAIN METS		http://www.drugbank.ca/drugs/DB00853	http://www.disease-ontology.org/term/DOID%3A1909	True
+Terazosin	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB01162	http://www.disease-ontology.org/term/DOID%3A10763	True
+Terbutaline	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB00871	http://www.disease-ontology.org/term/DOID%3A2841	True
+Testosterone	breast cancer	NOT	DM					http://www.drugbank.ca/drugs/DB00624	http://www.disease-ontology.org/term/DOID%3A1612	True
+Testosterone Propionate	breast cancer	NOT	DM					http://www.drugbank.ca/drugs/DB01420	http://www.disease-ontology.org/term/DOID%3A1612	True
+Thalidomide	leprosy	NOT	DM					http://www.drugbank.ca/drugs/DB01041	http://www.disease-ontology.org/term/DOID%3A1024	True
+Theophylline	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB00277	http://www.disease-ontology.org/term/DOID%3A2841	True
+Thioridazine	schizophrenia	NOT	SYM		withdrawn due to card arrhy			http://www.drugbank.ca/drugs/DB00679	http://www.disease-ontology.org/term/DOID%3A5419	True
+Tiagabine	bipolar disorder	SYM	NOT		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00906	http://www.disease-ontology.org/term/DOID%3A3312	True
+Tiludronate	breast cancer	NOT	SYM					http://www.drugbank.ca/drugs/DB01133	http://www.disease-ontology.org/term/DOID%3A1612	True
+Timolol	coronary artery disease	NOT	SYM					http://www.drugbank.ca/drugs/DB00373	http://www.disease-ontology.org/term/DOID%3A3393	True
+Timolol	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00373	http://www.disease-ontology.org/term/DOID%3A10763	True
+Tiotropium	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB01409	http://www.disease-ontology.org/term/DOID%3A2841	True
+Tiotropium	chronic obstructive pulmonary disease	DM	SYM					http://www.drugbank.ca/drugs/DB01409	http://www.disease-ontology.org/term/DOID%3A3083	True
+Tizanidine	rheumatoid arthritis	SYM	NOT					http://www.drugbank.ca/drugs/DB00697	http://www.disease-ontology.org/term/DOID%3A7148	True
+Tolazamide	type 2 diabetes mellitus	DM	SYM					http://www.drugbank.ca/drugs/DB00839	http://www.disease-ontology.org/term/DOID%3A9352	True
+Tolazoline	hypertension	NOT	SYM			ACUTE		http://www.drugbank.ca/drugs/DB00797	http://www.disease-ontology.org/term/DOID%3A10763	True
+Tolazoline	systemic scleroderma	SYM	NOT					http://www.drugbank.ca/drugs/DB00797	http://www.disease-ontology.org/term/DOID%3A418	True
+Tolbutamide	type 2 diabetes mellitus	DM	SYM					http://www.drugbank.ca/drugs/DB01124	http://www.disease-ontology.org/term/DOID%3A9352	True
+Tolmetin	ankylosing spondylitis	SYM	DM					http://www.drugbank.ca/drugs/DB00500	http://www.disease-ontology.org/term/DOID%3A7147	True
+Tolmetin	osteoarthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00500	http://www.disease-ontology.org/term/DOID%3A8398	True
+Tolmetin	rheumatoid arthritis	SYM	DM					http://www.drugbank.ca/drugs/DB00500	http://www.disease-ontology.org/term/DOID%3A7148	True
+Tolterodine	multiple sclerosis	SYM	NOT		urinary incon			http://www.drugbank.ca/drugs/DB01036	http://www.disease-ontology.org/term/DOID%3A2377	True
+Torasemide	hypertension	NOT	SYM					http://www.drugbank.ca/drugs/DB00214	http://www.disease-ontology.org/term/DOID%3A10763	True
+Trandolapril	coronary artery disease	NOT	DM					http://www.drugbank.ca/drugs/DB00519	http://www.disease-ontology.org/term/DOID%3A3393	True
+Travoprost	glaucoma	DM	SYM					http://www.drugbank.ca/drugs/DB00287	http://www.disease-ontology.org/term/DOID%3A1686	True
+Trazodone	schizophrenia	SYM	NOT					http://www.drugbank.ca/drugs/DB00656	http://www.disease-ontology.org/term/DOID%3A5419	True
+Treprostinil	hypertension	DM	NOT		pulm htn			http://www.drugbank.ca/drugs/DB00374	http://www.disease-ontology.org/term/DOID%3A10763	True
+Tretinoin	hematologic cancer	DM	NOT					http://www.drugbank.ca/drugs/DB00755	http://www.disease-ontology.org/term/DOID%3A2531	True
+Triamcinolone	allergic rhinitis	DM	NOT					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A4481	True
+Triamcinolone	ankylosing spondylitis	DM	NOT					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A7147	True
+Triamcinolone	asthma	DM	SYM					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A2841	True
+Triamcinolone	brain cancer	SYM	NOT					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A1319	True
+Triamcinolone	psoriasis	DM	SYM					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A8893	True
+Triamcinolone	psoriatic arthritis	DM	SYM		Pilot classification: ? disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A9008	True
+Triamcinolone	rheumatoid arthritis	DM	SYM					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A7148	True
+Triamcinolone	systemic lupus erythematosus	DM	SYM					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A9074	True
+Triamcinolone	ulcerative colitis	DM	NOT					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A8577	True
+Triamterene	hypertension	DM	SYM		diuretic			http://www.drugbank.ca/drugs/DB00384	http://www.disease-ontology.org/term/DOID%3A10763	True
+Valproic Acid	endogenous depression	SYM	NOT					http://www.drugbank.ca/drugs/DB00313	http://www.disease-ontology.org/term/DOID%3A1595	True
+Valproic Acid	epilepsy syndrome	SYM	DM					http://www.drugbank.ca/drugs/DB00313	http://www.disease-ontology.org/term/DOID%3A1826	True
+Valproic Acid	schizophrenia	SYM	NOT					http://www.drugbank.ca/drugs/DB00313	http://www.disease-ontology.org/term/DOID%3A5419	True
+Varenicline	nicotine dependence	SYM	DM					http://www.drugbank.ca/drugs/DB01273	http://www.disease-ontology.org/term/DOID%3A0050742	True
+Verapamil	hypertension	DM	SYM					http://www.drugbank.ca/drugs/DB00661	http://www.disease-ontology.org/term/DOID%3A10763	True
+Vincristine	peripheral nervous system neoplasm	DM	NOT					http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A1192	True
+Vinorelbine	hematologic cancer	NOT	DM					http://www.drugbank.ca/drugs/DB00361	http://www.disease-ontology.org/term/DOID%3A2531	True
+Vinorelbine	ovarian cancer	NOT	DM					http://www.drugbank.ca/drugs/DB00361	http://www.disease-ontology.org/term/DOID%3A2394	True
+Vitamin C	anemia	DM	NOT					http://www.drugbank.ca/drugs/DB00126	http://www.disease-ontology.org/term/DOID%3A2355	True
+Vitamin E	anemia	DM	NOT		vit E def asst hemolytic anemia			http://www.drugbank.ca/drugs/DB00163	http://www.disease-ontology.org/term/DOID%3A2355	True
+WF10	asthma	NOT	DM		in research			http://www.drugbank.ca/drugs/DB05389	http://www.disease-ontology.org/term/DOID%3A2841	True
+WF10	systemic scleroderma	NOT	DM		in research			http://www.drugbank.ca/drugs/DB05389	http://www.disease-ontology.org/term/DOID%3A418	True
+Zileuton	asthma	DM	SYM		Pilot classification: disease-modifying; Pilot notes: oral, inhibitis leukotrienes			http://www.drugbank.ca/drugs/DB00744	http://www.disease-ontology.org/term/DOID%3A2841	True
+Zoledronate	bone cancer	DM	SYM					http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A184	True
+Zoledronate	breast cancer	NOT	SYM			Helps with secondary effects of many cancers		http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A1612	True
+Zoledronate	hematologic cancer	NOT	SYM					http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A2531	True
+Zoledronate	kidney cancer	NOT	SYM					http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A263	True
+Zoledronate	prostate cancer	NOT	SYM					http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A10283	True
+Zolpidem	Parkinson's disease	SYM	NOT					http://www.drugbank.ca/drugs/DB00425	http://www.disease-ontology.org/term/DOID%3A14330	True
+Zolpidem	multiple sclerosis	SYM	NOT					http://www.drugbank.ca/drugs/DB00425	http://www.disease-ontology.org/term/DOID%3A2377	True
+Zopiclone	multiple sclerosis	SYM	NOT		insomnia			http://www.drugbank.ca/drugs/DB01198	http://www.disease-ontology.org/term/DOID%3A2377	True
+Zopiclone	schizophrenia	SYM	NOT					http://www.drugbank.ca/drugs/DB01198	http://www.disease-ontology.org/term/DOID%3A5419	True
+Abacavir	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB01048	http://www.disease-ontology.org/term/DOID%3A635	False
+Abiraterone	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB05812	http://www.disease-ontology.org/term/DOID%3A10283	False
+Acamprosate	alcohol dependence	DM	DM		(works as well as naltrexone)			http://www.drugbank.ca/drugs/DB00659	http://www.disease-ontology.org/term/DOID%3A0050741	False
+Acetaminophen	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00316	http://www.disease-ontology.org/term/DOID%3A6364	False
+Acetaminophen	osteoarthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00316	http://www.disease-ontology.org/term/DOID%3A8398	False
+Acetazolamide	glaucoma	DM	DM					http://www.drugbank.ca/drugs/DB00819	http://www.disease-ontology.org/term/DOID%3A1686	False
+Acetophenazine	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB01063	http://www.disease-ontology.org/term/DOID%3A5419	False
+Acetylcysteine	chronic obstructive pulmonary disease	DM	DM					http://www.drugbank.ca/drugs/DB06151	http://www.disease-ontology.org/term/DOID%3A3083	False
+Acetylsalicylic acid	Kawasaki disease	DM	DM					http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A13378	False
+Acetylsalicylic acid	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A3393	False
+Acetylsalicylic acid	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A10763	False
+Acetylsalicylic acid	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A6364	False
+Acetylsalicylic acid	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A7148	False
+Acetylsalicylic acid	systemic lupus erythematosus	DM	DM		not really confident about this one. 			http://www.drugbank.ca/drugs/DB00945	http://www.disease-ontology.org/term/DOID%3A9074	False
+Adefovir Dipivoxil	hepatitis B	DM	DM					http://www.drugbank.ca/drugs/DB00718	http://www.disease-ontology.org/term/DOID%3A2043	False
+Alendronate	Paget's disease of bone	DM	DM					http://www.drugbank.ca/drugs/DB00630	http://www.disease-ontology.org/term/DOID%3A5408	False
+Alendronate	breast cancer	NOT	NOT		fosamax may lower risk of breast cancer but doesn’t treat it			http://www.drugbank.ca/drugs/DB00630	http://www.disease-ontology.org/term/DOID%3A1612	False
+Alendronate	osteoporosis	DM	DM					http://www.drugbank.ca/drugs/DB00630	http://www.disease-ontology.org/term/DOID%3A11476	False
+Allopurinol	gout	DM	DM					http://www.drugbank.ca/drugs/DB00437	http://www.disease-ontology.org/term/DOID%3A13189	False
+Allopurinol	hematologic cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00437	http://www.disease-ontology.org/term/DOID%3A2531	False
+Almotriptan	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00918	http://www.disease-ontology.org/term/DOID%3A6364	False
+Alprazolam	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00404	http://www.disease-ontology.org/term/DOID%3A594	False
+Alprazolam	systemic scleroderma	SYM	SYM		Pilot classification: symptomatic; Pilot notes:			http://www.drugbank.ca/drugs/DB00404	http://www.disease-ontology.org/term/DOID%3A418	False
+Alprostadil	hypertension	NOT	NOT		can be used for ED			http://www.drugbank.ca/drugs/DB00770	http://www.disease-ontology.org/term/DOID%3A10763	False
+Altretamine	ovarian cancer	DM	DM					http://www.drugbank.ca/drugs/DB00488	http://www.disease-ontology.org/term/DOID%3A2394	False
+Amantadine	multiple sclerosis	SYM	SYM		fatigue in MS			http://www.drugbank.ca/drugs/DB00915	http://www.disease-ontology.org/term/DOID%3A2377	False
+Aminocaproic Acid	anemia	NOT	NOT		give amicar in hemorrhage, not spec for anemia			http://www.drugbank.ca/drugs/DB00513	http://www.disease-ontology.org/term/DOID%3A2355	False
+Aminocaproic Acid	prostate cancer	NOT	NOT		to prevent bleeding after TURP			http://www.drugbank.ca/drugs/DB00513	http://www.disease-ontology.org/term/DOID%3A10283	False
+Aminophylline	asthma	SYM	SYM					http://www.drugbank.ca/drugs/DB01223	http://www.disease-ontology.org/term/DOID%3A2841	False
+Aminophylline	chronic obstructive pulmonary disease	SYM	SYM					http://www.drugbank.ca/drugs/DB01223	http://www.disease-ontology.org/term/DOID%3A3083	False
+Amitriptyline	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB00321	http://www.disease-ontology.org/term/DOID%3A1595	False
+Amitriptyline	multiple sclerosis	SYM	SYM		SYM or NOT			http://www.drugbank.ca/drugs/DB00321	http://www.disease-ontology.org/term/DOID%3A2377	False
+Amlodipine	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00381	http://www.disease-ontology.org/term/DOID%3A10763	False
+Amobarbital	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB01351	http://www.disease-ontology.org/term/DOID%3A1826	False
+Amphetamine	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00182	http://www.disease-ontology.org/term/DOID%3A1094	False
+Amphetamine	narcolepsy	SYM	SYM					http://www.drugbank.ca/drugs/DB00182	http://www.disease-ontology.org/term/DOID%3A8986	False
+Amprenavir	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB00701	http://www.disease-ontology.org/term/DOID%3A635	False
+Anagrelide	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00261	http://www.disease-ontology.org/term/DOID%3A2531	False
+Anastrozole	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB01217	http://www.disease-ontology.org/term/DOID%3A1612	False
+Antipyrine	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB01435	http://www.disease-ontology.org/term/DOID%3A6364	False
+Apomorphine	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00714	http://www.disease-ontology.org/term/DOID%3A14330	False
+Apraclonidine	glaucoma	DM	DM					http://www.drugbank.ca/drugs/DB00964	http://www.disease-ontology.org/term/DOID%3A1686	False
+Aprepitant	breast cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00673	http://www.disease-ontology.org/term/DOID%3A1612	False
+Aprepitant	colon cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00673	http://www.disease-ontology.org/term/DOID%3A219	False
+Aripiprazole	autistic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01238	http://www.disease-ontology.org/term/DOID%3A12849	False
+Aripiprazole	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01238	http://www.disease-ontology.org/term/DOID%3A3312	False
+Aripiprazole	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB01238	http://www.disease-ontology.org/term/DOID%3A1595	False
+Aripiprazole	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB01238	http://www.disease-ontology.org/term/DOID%3A5419	False
+Artemether	malaria	DM	DM					http://www.drugbank.ca/drugs/DB06697	http://www.disease-ontology.org/term/DOID%3A12365	False
+Atomoxetine	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00289	http://www.disease-ontology.org/term/DOID%3A1094	False
+Atomoxetine	autistic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00289	http://www.disease-ontology.org/term/DOID%3A12849	False
+Atorvastatin	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB01076	http://www.disease-ontology.org/term/DOID%3A3393	False
+Atorvastatin	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB01076	http://www.disease-ontology.org/term/DOID%3A10763	False
+Atorvastatin	type 2 diabetes mellitus	NOT	NOT					http://www.drugbank.ca/drugs/DB01076	http://www.disease-ontology.org/term/DOID%3A9352	False
+Atropine	pancreatitis	NOT	NOT					http://www.drugbank.ca/drugs/DB00572	http://www.disease-ontology.org/term/DOID%3A4989	False
+Azathioprine	Crohn's disease	DM	DM					http://www.drugbank.ca/drugs/DB00993	http://www.disease-ontology.org/term/DOID%3A8778	False
+Azathioprine	multiple sclerosis	DM	DM					http://www.drugbank.ca/drugs/DB00993	http://www.disease-ontology.org/term/DOID%3A2377	False
+Azathioprine	rheumatoid arthritis	DM	DM					http://www.drugbank.ca/drugs/DB00993	http://www.disease-ontology.org/term/DOID%3A7148	False
+Azathioprine	systemic lupus erythematosus	DM	DM					http://www.drugbank.ca/drugs/DB00993	http://www.disease-ontology.org/term/DOID%3A9074	False
+Azathioprine	systemic scleroderma	DM	DM					http://www.drugbank.ca/drugs/DB00993	http://www.disease-ontology.org/term/DOID%3A418	False
+Azathioprine	ulcerative colitis	DM	DM					http://www.drugbank.ca/drugs/DB00993	http://www.disease-ontology.org/term/DOID%3A8577	False
+Baclofen	multiple sclerosis	SYM	SYM		Pilot classification: symptomatic; Pilot notes:			http://www.drugbank.ca/drugs/DB00181	http://www.disease-ontology.org/term/DOID%3A2377	False
+Balsalazide	Crohn's disease	DM	DM					http://www.drugbank.ca/drugs/DB01014	http://www.disease-ontology.org/term/DOID%3A8778	False
+Balsalazide	ulcerative colitis	DM	DM					http://www.drugbank.ca/drugs/DB01014	http://www.disease-ontology.org/term/DOID%3A8577	False
+Beclomethasone	asthma	DM	DM					http://www.drugbank.ca/drugs/DB00394	http://www.disease-ontology.org/term/DOID%3A2841	False
+Bendroflumethiazide	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00436	http://www.disease-ontology.org/term/DOID%3A10763	False
+Benzatropine	Alzheimer's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00245	http://www.disease-ontology.org/term/DOID%3A10652	False
+Benzatropine	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00245	http://www.disease-ontology.org/term/DOID%3A14330	False
+Benzatropine	autistic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00245	http://www.disease-ontology.org/term/DOID%3A12849	False
+Benzatropine	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00245	http://www.disease-ontology.org/term/DOID%3A5419	False
+Benzphetamine	obesity	DM	DM					http://www.drugbank.ca/drugs/DB00865	http://www.disease-ontology.org/term/DOID%3A9970	False
+Betamethasone	allergic rhinitis	DM	DM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A4481	False
+Betamethasone	anemia	NOT	NOT					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A2355	False
+Betamethasone	atopic dermatitis	DM	DM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A3310	False
+Betamethasone	brain cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A1319	False
+Betamethasone	colon cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A219	False
+Betamethasone	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10763	False
+Betamethasone	kidney cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A263	False
+Betamethasone	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A2377	False
+Betamethasone	prostate cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A10283	False
+Betamethasone	psoriasis	SYM	SYM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A8893	False
+Betamethasone	psoriatic arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A9008	False
+Betamethasone	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A7148	False
+Betamethasone	systemic lupus erythematosus	SYM	SYM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A9074	False
+Betamethasone	ulcerative colitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00443	http://www.disease-ontology.org/term/DOID%3A8577	False
+Bexarotene	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00307	http://www.disease-ontology.org/term/DOID%3A2531	False
+Bicalutamide	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB01128	http://www.disease-ontology.org/term/DOID%3A10283	False
+Biperiden	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00810	http://www.disease-ontology.org/term/DOID%3A14330	False
+Bismuth Subsalicylate	psoriasis	NOT	NOT					http://www.drugbank.ca/drugs/DB01294	http://www.disease-ontology.org/term/DOID%3A8893	False
+Bleomycin	germ cell cancer	DM	DM					http://www.drugbank.ca/drugs/DB00290	http://www.disease-ontology.org/term/DOID%3A2994	False
+Bleomycin	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00290	http://www.disease-ontology.org/term/DOID%3A2531	False
+Bleomycin	lymphatic system cancer	DM	DM					http://www.drugbank.ca/drugs/DB00290	http://www.disease-ontology.org/term/DOID%3A0060073	False
+Bleomycin	melanoma	DM	DM					http://www.drugbank.ca/drugs/DB00290	http://www.disease-ontology.org/term/DOID%3A1909	False
+Bleomycin	skin cancer	DM	DM					http://www.drugbank.ca/drugs/DB00290	http://www.disease-ontology.org/term/DOID%3A4159	False
+Bleomycin	testicular cancer	DM	DM					http://www.drugbank.ca/drugs/DB00290	http://www.disease-ontology.org/term/DOID%3A2998	False
+Bortezomib	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00188	http://www.disease-ontology.org/term/DOID%3A2531	False
+Bosentan	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00559	http://www.disease-ontology.org/term/DOID%3A10763	False
+Brimonidine	glaucoma	DM	DM					http://www.drugbank.ca/drugs/DB00484	http://www.disease-ontology.org/term/DOID%3A1686	False
+Brimonidine	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB00484	http://www.disease-ontology.org/term/DOID%3A10763	False
+Brinzolamide	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB01194	http://www.disease-ontology.org/term/DOID%3A10763	False
+Bromocriptine	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB01200	http://www.disease-ontology.org/term/DOID%3A14330	False
+Budesonide	asthma	DM	DM					http://www.drugbank.ca/drugs/DB01222	http://www.disease-ontology.org/term/DOID%3A2841	False
+Bumetanide	chronic kidney failure	SYM	SYM					http://www.drugbank.ca/drugs/DB00887	http://www.disease-ontology.org/term/DOID%3A784	False
+Bupropion	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01156	http://www.disease-ontology.org/term/DOID%3A1094	False
+Bupropion	panic disorder	SYM	SYM		Pilot classification: disease-modifying; Pilot notes: if it reduces 'flares' of panic attacks			http://www.drugbank.ca/drugs/DB01156	http://www.disease-ontology.org/term/DOID%3A594	False
+Buspirone	epilepsy syndrome	NOT	NOT					http://www.drugbank.ca/drugs/DB00490	http://www.disease-ontology.org/term/DOID%3A1826	False
+Buspirone	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00490	http://www.disease-ontology.org/term/DOID%3A594	False
+Busulfan	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01008	http://www.disease-ontology.org/term/DOID%3A2531	False
+Butalbital	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00241	http://www.disease-ontology.org/term/DOID%3A6364	False
+Butenafine	psoriasis	NOT	NOT					http://www.drugbank.ca/drugs/DB01091	http://www.disease-ontology.org/term/DOID%3A8893	False
+Cabazitaxel	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB06772	http://www.disease-ontology.org/term/DOID%3A10283	False
+Cabergoline	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00248	http://www.disease-ontology.org/term/DOID%3A14330	False
+Caffeine	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00201	http://www.disease-ontology.org/term/DOID%3A6364	False
+Caffeine	osteoarthritis	NOT	NOT					http://www.drugbank.ca/drugs/DB00201	http://www.disease-ontology.org/term/DOID%3A8398	False
+Calcipotriol	psoriasis	DM	DM					http://www.drugbank.ca/drugs/DB02300	http://www.disease-ontology.org/term/DOID%3A8893	False
+Calcitriol	chronic kidney failure	SYM	SYM					http://www.drugbank.ca/drugs/DB00136	http://www.disease-ontology.org/term/DOID%3A784	False
+Calcitriol	osteoporosis	DM	DM					http://www.drugbank.ca/drugs/DB00136	http://www.disease-ontology.org/term/DOID%3A11476	False
+Candesartan	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00796	http://www.disease-ontology.org/term/DOID%3A10763	False
+Capecitabine	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB01101	http://www.disease-ontology.org/term/DOID%3A1612	False
+Capecitabine	colon cancer	DM	DM					http://www.drugbank.ca/drugs/DB01101	http://www.disease-ontology.org/term/DOID%3A219	False
+Capecitabine	esophageal cancer	DM	DM					http://www.drugbank.ca/drugs/DB01101	http://www.disease-ontology.org/term/DOID%3A5041	False
+Capecitabine	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB01101	http://www.disease-ontology.org/term/DOID%3A10283	False
+Capecitabine	stomach cancer	DM	DM					http://www.drugbank.ca/drugs/DB01101	http://www.disease-ontology.org/term/DOID%3A10534	False
+Captopril	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB01197	http://www.disease-ontology.org/term/DOID%3A3393	False
+Captopril	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB01197	http://www.disease-ontology.org/term/DOID%3A10763	False
+Captopril	rheumatoid arthritis	NOT	NOT		Pilot classification: ?; Pilot notes: some research in rats says this may be helpful in RA			http://www.drugbank.ca/drugs/DB01197	http://www.disease-ontology.org/term/DOID%3A7148	False
+Carbamazepine	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00564	http://www.disease-ontology.org/term/DOID%3A3312	False
+Carbamazepine	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00564	http://www.disease-ontology.org/term/DOID%3A1826	False
+Carbamazepine	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00564	http://www.disease-ontology.org/term/DOID%3A2377	False
+Carbamazepine	restless legs syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00564	http://www.disease-ontology.org/term/DOID%3A0050425	False
+Carbamazepine	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00564	http://www.disease-ontology.org/term/DOID%3A5419	False
+Carbidopa	Alzheimer's disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00190	http://www.disease-ontology.org/term/DOID%3A10652	False
+Carbidopa	Parkinson's disease	SYM	SYM			Not even really symptomatic- helps with pharmacokinetics of levodopa		http://www.drugbank.ca/drugs/DB00190	http://www.disease-ontology.org/term/DOID%3A14330	False
+Carbidopa	restless legs syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00190	http://www.disease-ontology.org/term/DOID%3A0050425	False
+Carboplatin	bone cancer	DM	DM					http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A184	False
+Carboplatin	brain cancer	DM	DM					http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A1319	False
+Carboplatin	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A1612	False
+Carboplatin	esophageal cancer	DM	DM					http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A5041	False
+Carboplatin	ocular cancer	DM	DM					http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A2174	False
+Carboplatin	ovarian cancer	DM	DM					http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A2394	False
+Carboplatin	testicular cancer	DM	DM					http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A2998	False
+Carboplatin	urinary bladder cancer	DM	DM					http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A11054	False
+Carboplatin	uterine cancer	DM	DM					http://www.drugbank.ca/drugs/DB00958	http://www.disease-ontology.org/term/DOID%3A363	False
+Carmustine	brain cancer	DM	DM					http://www.drugbank.ca/drugs/DB00262	http://www.disease-ontology.org/term/DOID%3A1319	False
+Carmustine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00262	http://www.disease-ontology.org/term/DOID%3A2531	False
+Carmustine	lymphatic system cancer	DM	DM					http://www.drugbank.ca/drugs/DB00262	http://www.disease-ontology.org/term/DOID%3A0060073	False
+Carmustine	malignant glioma	DM	DM					http://www.drugbank.ca/drugs/DB00262	http://www.disease-ontology.org/term/DOID%3A3070	False
+Carmustine	melanoma	DM	DM					http://www.drugbank.ca/drugs/DB00262	http://www.disease-ontology.org/term/DOID%3A1909	False
+Cefdinir	allergic rhinitis	NOT	NOT					http://www.drugbank.ca/drugs/DB00535	http://www.disease-ontology.org/term/DOID%3A4481	False
+Cefdinir	asthma	NOT	NOT					http://www.drugbank.ca/drugs/DB00535	http://www.disease-ontology.org/term/DOID%3A2841	False
+Celecoxib	ankylosing spondylitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A7147	False
+Celecoxib	osteoarthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A8398	False
+Celecoxib	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00482	http://www.disease-ontology.org/term/DOID%3A7148	False
+Cephalexin	chronic kidney failure	NOT	NOT			Used to treat complication of chronic dialysis		http://www.drugbank.ca/drugs/DB00567	http://www.disease-ontology.org/term/DOID%3A784	False
+Chlorambucil	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00291	http://www.disease-ontology.org/term/DOID%3A1612	False
+Chlorambucil	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00291	http://www.disease-ontology.org/term/DOID%3A2531	False
+Chlorambucil	ovarian cancer	DM	DM					http://www.drugbank.ca/drugs/DB00291	http://www.disease-ontology.org/term/DOID%3A2394	False
+Chlorambucil	testicular cancer	DM	DM					http://www.drugbank.ca/drugs/DB00291	http://www.disease-ontology.org/term/DOID%3A2998	False
+Chlordiazepoxide	alcohol dependence	SYM	SYM					http://www.drugbank.ca/drugs/DB00475	http://www.disease-ontology.org/term/DOID%3A0050741	False
+Chlorothiazide	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00880	http://www.disease-ontology.org/term/DOID%3A10763	False
+Chlorpromazine	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00477	http://www.disease-ontology.org/term/DOID%3A3312	False
+Chlorpromazine	conduct disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00477	http://www.disease-ontology.org/term/DOID%3A12995	False
+Chlorpromazine	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00477	http://www.disease-ontology.org/term/DOID%3A5419	False
+Chlorthalidone	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00310	http://www.disease-ontology.org/term/DOID%3A10763	False
+Ciclesonide	asthma	DM	DM					http://www.drugbank.ca/drugs/DB01410	http://www.disease-ontology.org/term/DOID%3A2841	False
+Cilostazol	systemic scleroderma	SYM	SYM					http://www.drugbank.ca/drugs/DB01166	http://www.disease-ontology.org/term/DOID%3A418	False
+Ciprofloxacin	prostate cancer	NOT	NOT		in research			http://www.drugbank.ca/drugs/DB00537	http://www.disease-ontology.org/term/DOID%3A10283	False
+Cisplatin	bone cancer	DM	DM					http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A184	False
+Cisplatin	esophageal cancer	DM	DM					http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A5041	False
+Cisplatin	germ cell cancer	DM	DM					http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A2994	False
+Cisplatin	hematologic cancer	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A2531	False
+Cisplatin	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A1324	False
+Cisplatin	peripheral nervous system neoplasm	DM	DM			Neurofibroma only		http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A1192	False
+Cisplatin	testicular cancer	DM	DM					http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A2998	False
+Cisplatin	urinary bladder cancer	DM	DM					http://www.drugbank.ca/drugs/DB00515	http://www.disease-ontology.org/term/DOID%3A11054	False
+Citalopram	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00215	http://www.disease-ontology.org/term/DOID%3A14330	False
+Citalopram	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00215	http://www.disease-ontology.org/term/DOID%3A3312	False
+Citalopram	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB00215	http://www.disease-ontology.org/term/DOID%3A1595	False
+Citalopram	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00215	http://www.disease-ontology.org/term/DOID%3A594	False
+Cladribine	hematologic cancer	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00242	http://www.disease-ontology.org/term/DOID%3A2531	False
+Cladribine	multiple sclerosis	DM	DM		in research			http://www.drugbank.ca/drugs/DB00242	http://www.disease-ontology.org/term/DOID%3A2377	False
+Clindamycin	allergic rhinitis	NOT	NOT					http://www.drugbank.ca/drugs/DB01190	http://www.disease-ontology.org/term/DOID%3A4481	False
+Clindamycin	atopic dermatitis	NOT	NOT		for superimpsoed infections			http://www.drugbank.ca/drugs/DB01190	http://www.disease-ontology.org/term/DOID%3A3310	False
+Clindamycin	malaria	DM	DM					http://www.drugbank.ca/drugs/DB01190	http://www.disease-ontology.org/term/DOID%3A12365	False
+Clobazam	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00349	http://www.disease-ontology.org/term/DOID%3A1826	False
+Clobetasol propionate	psoriasis	DM	DM					http://www.drugbank.ca/drugs/DB01013	http://www.disease-ontology.org/term/DOID%3A8893	False
+Clofarabine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00631	http://www.disease-ontology.org/term/DOID%3A2531	False
+Clomipramine	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01242	http://www.disease-ontology.org/term/DOID%3A594	False
+Clonazepam	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A14330	False
+Clonazepam	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A1826	False
+Clonazepam	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A2377	False
+Clonazepam	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A594	False
+Clonazepam	restless legs syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A0050425	False
+Clonazepam	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB01068	http://www.disease-ontology.org/term/DOID%3A5419	False
+Clonidine	Gilles de la Tourette syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00575	http://www.disease-ontology.org/term/DOID%3A11119	False
+Clonidine	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00575	http://www.disease-ontology.org/term/DOID%3A1094	False
+Clonidine	autistic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00575	http://www.disease-ontology.org/term/DOID%3A12849	False
+Clonidine	restless legs syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00575	http://www.disease-ontology.org/term/DOID%3A0050425	False
+Clopidogrel	atherosclerosis	NOT	NOT			Indicated for complication of atherosclerosis but does not treat underlying condition		http://www.drugbank.ca/drugs/DB00758	http://www.disease-ontology.org/term/DOID%3A1936	False
+Clopidogrel	coronary artery disease	DM	DM		Pilot classification: disease-modifying; Pilot notes: helps to prevent disease worsening			http://www.drugbank.ca/drugs/DB00758	http://www.disease-ontology.org/term/DOID%3A3393	False
+Clopidogrel	hypertension	NOT	NOT			not used to treat HTN		http://www.drugbank.ca/drugs/DB00758	http://www.disease-ontology.org/term/DOID%3A10763	False
+Clopidogrel	kidney cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00758	http://www.disease-ontology.org/term/DOID%3A263	False
+Clozapine	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00363	http://www.disease-ontology.org/term/DOID%3A3312	False
+Clozapine	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00363	http://www.disease-ontology.org/term/DOID%3A5419	False
+Cocaine	dental caries	NOT	NOT		Pilot classification: symptomatic; Pilot notes:	worsens disease		http://www.drugbank.ca/drugs/DB00907	http://www.disease-ontology.org/term/DOID%3A216	False
+Codeine	osteoarthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00318	http://www.disease-ontology.org/term/DOID%3A8398	False
+Colchicine	primary biliary cirrhosis	NOT	NOT					http://www.drugbank.ca/drugs/DB01394	http://www.disease-ontology.org/term/DOID%3A12236	False
+Conjugated Estrogens	osteoporosis	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00286	http://www.disease-ontology.org/term/DOID%3A11476	False
+Crizotinib	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB08865	http://www.disease-ontology.org/term/DOID%3A1324	False
+Cyclosporine	focal segmental glomerulosclerosis	DM	DM					http://www.drugbank.ca/drugs/DB00091	http://www.disease-ontology.org/term/DOID%3A1312	False
+Cyclosporine	psoriasis	DM	DM					http://www.drugbank.ca/drugs/DB00091	http://www.disease-ontology.org/term/DOID%3A8893	False
+Cyclosporine	rheumatoid arthritis	DM	DM					http://www.drugbank.ca/drugs/DB00091	http://www.disease-ontology.org/term/DOID%3A7148	False
+Cyclosporine	systemic lupus erythematosus	DM	DM					http://www.drugbank.ca/drugs/DB00091	http://www.disease-ontology.org/term/DOID%3A9074	False
+Cytarabine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00987	http://www.disease-ontology.org/term/DOID%3A2531	False
+Cytarabine	lymphatic system cancer	DM	DM					http://www.drugbank.ca/drugs/DB00987	http://www.disease-ontology.org/term/DOID%3A0060073	False
+Cytarabine	meningioma	NOT	NOT		in research			http://www.drugbank.ca/drugs/DB00987	http://www.disease-ontology.org/term/DOID%3A3565	False
+Dacarbazine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A2531	False
+Dacarbazine	melanoma	DM	DM					http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A1909	False
+Dacarbazine	muscle cancer	DM	DM					http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A4045	False
+Dacarbazine	pancreatic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A1793	False
+Dacarbazine	peripheral nervous system neoplasm	DM	DM					http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A1192	False
+Dacarbazine	sarcoma	DM	DM					http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A1115	False
+Dacarbazine	skin cancer	DM	DM					http://www.drugbank.ca/drugs/DB00851	http://www.disease-ontology.org/term/DOID%3A4159	False
+Dactinomycin	germ cell cancer	DM	DM					http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A2994	False
+Dactinomycin	kidney cancer	DM	DM					http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A263	False
+Dactinomycin	melanoma	DM	DM					http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A1909	False
+Dactinomycin	muscle cancer	DM	DM					http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A4045	False
+Dactinomycin	ocular cancer	DM	DM					http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A2174	False
+Dactinomycin	sarcoma	DM	DM					http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A1115	False
+Dactinomycin	skin cancer	DM	DM					http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A4159	False
+Dactinomycin	testicular cancer	DM	DM					http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A2998	False
+Dactinomycin	uterine cancer	DM	DM					http://www.drugbank.ca/drugs/DB00970	http://www.disease-ontology.org/term/DOID%3A363	False
+Dalfampridine	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB06637	http://www.disease-ontology.org/term/DOID%3A2377	False
+Dantrolene	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB01219	http://www.disease-ontology.org/term/DOID%3A2377	False
+Dapsone	leprosy	DM	DM					http://www.drugbank.ca/drugs/DB00250	http://www.disease-ontology.org/term/DOID%3A1024	False
+Dapsone	malaria	DM	DM					http://www.drugbank.ca/drugs/DB00250	http://www.disease-ontology.org/term/DOID%3A12365	False
+Dasatinib	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01254	http://www.disease-ontology.org/term/DOID%3A2531	False
+Daunorubicin	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00694	http://www.disease-ontology.org/term/DOID%3A2531	False
+Decitabine	anemia	NOT	NOT					http://www.drugbank.ca/drugs/DB01262	http://www.disease-ontology.org/term/DOID%3A2355	False
+Degarelix	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB06699	http://www.disease-ontology.org/term/DOID%3A10283	False
+Delavirdine	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB00705	http://www.disease-ontology.org/term/DOID%3A635	False
+Desflurane	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB01189	http://www.disease-ontology.org/term/DOID%3A10763	False
+Desipramine	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01151	http://www.disease-ontology.org/term/DOID%3A1094	False
+Dexamethasone	anemia	NOT	NOT					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A2355	False
+Dexamethasone	asthma	SYM	SYM					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A2841	False
+Dexamethasone	brain cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A1319	False
+Dexamethasone	hypertension	NOT	NOT			worsens		http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A10763	False
+Dexamethasone	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A2377	False
+Dexamethasone	psoriasis	SYM	SYM					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A8893	False
+Dexamethasone	psoriatic arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A9008	False
+Dexamethasone	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A7148	False
+Dexamethasone	systemic lupus erythematosus	SYM	SYM					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A9074	False
+Dexamethasone	ulcerative colitis	SYM	SYM					http://www.drugbank.ca/drugs/DB01234	http://www.disease-ontology.org/term/DOID%3A8577	False
+Dextroamphetamine	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01576	http://www.disease-ontology.org/term/DOID%3A1094	False
+Dextroamphetamine	narcolepsy	SYM	SYM		Pilot classification: symptomatic; Pilot notes:			http://www.drugbank.ca/drugs/DB01576	http://www.disease-ontology.org/term/DOID%3A8986	False
+Dextromethorphan	amyotrophic lateral sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00514	http://www.disease-ontology.org/term/DOID%3A332	False
+Dextromethorphan	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00514	http://www.disease-ontology.org/term/DOID%3A2377	False
+Dextrothyroxine	coronary artery disease	NOT	NOT		Pilot classification: disease-modifying; Pilot notes: cholesterol lowering agent; pulled due to cardiac side effects			http://www.drugbank.ca/drugs/DB00509	http://www.disease-ontology.org/term/DOID%3A3393	False
+Dextrothyroxine	thyroid cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00509	http://www.disease-ontology.org/term/DOID%3A1781	False
+Diazepam	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00829	http://www.disease-ontology.org/term/DOID%3A1826	False
+Diazepam	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00829	http://www.disease-ontology.org/term/DOID%3A2377	False
+Diazepam	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00829	http://www.disease-ontology.org/term/DOID%3A594	False
+Diazoxide	hypertension	SYM	SYM		tx of acute htn			http://www.drugbank.ca/drugs/DB01119	http://www.disease-ontology.org/term/DOID%3A10763	False
+Diclofenac	ankylosing spondylitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00586	http://www.disease-ontology.org/term/DOID%3A7147	False
+Diclofenac	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00586	http://www.disease-ontology.org/term/DOID%3A6364	False
+Diclofenac	osteoarthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00586	http://www.disease-ontology.org/term/DOID%3A8398	False
+Diclofenac	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00586	http://www.disease-ontology.org/term/DOID%3A7148	False
+Diclofenac	systemic scleroderma	SYM	SYM					http://www.drugbank.ca/drugs/DB00586	http://www.disease-ontology.org/term/DOID%3A418	False
+Didanosine	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB00900	http://www.disease-ontology.org/term/DOID%3A635	False
+Diflunisal	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00861	http://www.disease-ontology.org/term/DOID%3A7148	False
+Digoxin	coronary artery disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00390	http://www.disease-ontology.org/term/DOID%3A3393	False
+Dihydroergotamine	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00320	http://www.disease-ontology.org/term/DOID%3A6364	False
+Dinoprostone	germ cell cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00917	http://www.disease-ontology.org/term/DOID%3A2994	False
+Dinoprostone	uterine cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00917	http://www.disease-ontology.org/term/DOID%3A363	False
+Diphenhydramine	allergic rhinitis	SYM	SYM					http://www.drugbank.ca/drugs/DB01075	http://www.disease-ontology.org/term/DOID%3A4481	False
+Diphenhydramine	atopic dermatitis	SYM	SYM					http://www.drugbank.ca/drugs/DB01075	http://www.disease-ontology.org/term/DOID%3A3310	False
+Dipivefrin	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB00449	http://www.disease-ontology.org/term/DOID%3A10763	False
+Dipyridamole	coronary artery disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00975	http://www.disease-ontology.org/term/DOID%3A3393	False
+Docetaxel	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A1612	False
+Docetaxel	head and neck cancer	DM	DM					http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A11934	False
+Docetaxel	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A1324	False
+Docetaxel	melanoma	DM	DM					http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A1909	False
+Docetaxel	ovarian cancer	DM	DM					http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A2394	False
+Docetaxel	pancreatic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A1793	False
+Docetaxel	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A10283	False
+Docetaxel	skin cancer	DM	DM					http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A4159	False
+Docetaxel	stomach cancer	DM	DM					http://www.drugbank.ca/drugs/DB01248	http://www.disease-ontology.org/term/DOID%3A10534	False
+Dopamine	coronary artery disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00988	http://www.disease-ontology.org/term/DOID%3A3393	False
+Dorzolamide	glaucoma	DM	DM					http://www.drugbank.ca/drugs/DB00869	http://www.disease-ontology.org/term/DOID%3A1686	False
+Dorzolamide	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB00869	http://www.disease-ontology.org/term/DOID%3A10763	False
+Doxorubicin	bone cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A184	False
+Doxorubicin	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A1612	False
+Doxorubicin	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A2531	False
+Doxorubicin	kidney cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A263	False
+Doxorubicin	liver cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A3571	False
+Doxorubicin	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A1324	False
+Doxorubicin	muscle cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A4045	False
+Doxorubicin	ovarian cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A2394	False
+Doxorubicin	pancreatic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A1793	False
+Doxorubicin	peripheral nervous system neoplasm	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A1192	False
+Doxorubicin	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10283	False
+Doxorubicin	sarcoma	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A1115	False
+Doxorubicin	stomach cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A10534	False
+Doxorubicin	testicular cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A2998	False
+Doxorubicin	thyroid cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A1781	False
+Doxorubicin	urinary bladder cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A11054	False
+Doxorubicin	uterine cancer	DM	DM					http://www.drugbank.ca/drugs/DB00997	http://www.disease-ontology.org/term/DOID%3A363	False
+Duloxetine	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00476	http://www.disease-ontology.org/term/DOID%3A3312	False
+Duloxetine	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB00476	http://www.disease-ontology.org/term/DOID%3A1595	False
+Dyphylline	asthma	SYM	SYM					http://www.drugbank.ca/drugs/DB00651	http://www.disease-ontology.org/term/DOID%3A2841	False
+Efavirenz	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB00625	http://www.disease-ontology.org/term/DOID%3A635	False
+Eletriptan	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00216	http://www.disease-ontology.org/term/DOID%3A6364	False
+Enalapril	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00584	http://www.disease-ontology.org/term/DOID%3A10763	False
+Enalapril	rheumatoid arthritis	NOT	NOT			Potential side effect		http://www.drugbank.ca/drugs/DB00584	http://www.disease-ontology.org/term/DOID%3A7148	False
+Entacapone	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00494	http://www.disease-ontology.org/term/DOID%3A14330	False
+Entecavir	hepatitis B	DM	DM					http://www.drugbank.ca/drugs/DB00442	http://www.disease-ontology.org/term/DOID%3A2043	False
+Ephedrine	allergic rhinitis	SYM	SYM					http://www.drugbank.ca/drugs/DB01364	http://www.disease-ontology.org/term/DOID%3A4481	False
+Ephedrine	asthma	SYM	SYM					http://www.drugbank.ca/drugs/DB01364	http://www.disease-ontology.org/term/DOID%3A2841	False
+Epinephrine	allergic rhinitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00668	http://www.disease-ontology.org/term/DOID%3A4481	False
+Epinephrine	asthma	SYM	SYM					http://www.drugbank.ca/drugs/DB00668	http://www.disease-ontology.org/term/DOID%3A2841	False
+Epirubicin	bone cancer	DM	DM					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A184	False
+Epirubicin	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A1612	False
+Epirubicin	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A2531	False
+Epirubicin	liver cancer	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A3571	False
+Epirubicin	ovarian cancer	DM	DM					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A2394	False
+Epirubicin	pancreatic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A1793	False
+Epirubicin	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10283	False
+Epirubicin	sarcoma	DM	DM					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A1115	False
+Epirubicin	stomach cancer	DM	DM					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A10534	False
+Epirubicin	testicular cancer	DM	DM					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A2998	False
+Epirubicin	thyroid cancer	DM	DM					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A1781	False
+Epirubicin	urinary bladder cancer	DM	DM					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A11054	False
+Epirubicin	uterine cancer	DM	DM					http://www.drugbank.ca/drugs/DB00445	http://www.disease-ontology.org/term/DOID%3A363	False
+Eplerenone	coronary artery disease	DM	DM		DM in pts with CHF to prevent MI			http://www.drugbank.ca/drugs/DB00700	http://www.disease-ontology.org/term/DOID%3A3393	False
+Epoprostenol	atherosclerosis	NOT	NOT					http://www.drugbank.ca/drugs/DB01240	http://www.disease-ontology.org/term/DOID%3A1936	False
+Epoprostenol	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB01240	http://www.disease-ontology.org/term/DOID%3A10763	False
+Eprosartan	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00876	http://www.disease-ontology.org/term/DOID%3A10763	False
+Ergotamine	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00696	http://www.disease-ontology.org/term/DOID%3A6364	False
+Eribulin	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB08871	http://www.disease-ontology.org/term/DOID%3A1612	False
+Erlotinib	kidney cancer	DM	DM					http://www.drugbank.ca/drugs/DB00530	http://www.disease-ontology.org/term/DOID%3A263	False
+Erlotinib	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB00530	http://www.disease-ontology.org/term/DOID%3A1324	False
+Erlotinib	pancreatic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00530	http://www.disease-ontology.org/term/DOID%3A1793	False
+Escitalopram	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB01175	http://www.disease-ontology.org/term/DOID%3A14330	False
+Escitalopram	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01175	http://www.disease-ontology.org/term/DOID%3A3312	False
+Escitalopram	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB01175	http://www.disease-ontology.org/term/DOID%3A1595	False
+Esomeprazole	Barrett's esophagus	DM	DM			preventative		http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A9206	False
+Esomeprazole	allergic rhinitis	NOT	NOT					http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A4481	False
+Esomeprazole	esophageal cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00736	http://www.disease-ontology.org/term/DOID%3A5041	False
+Estradiol	osteoporosis	DM	DM					http://www.drugbank.ca/drugs/DB00783	http://www.disease-ontology.org/term/DOID%3A11476	False
+Estradiol	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB00783	http://www.disease-ontology.org/term/DOID%3A10283	False
+Estradiol valerate/Dienogest	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB08866	http://www.disease-ontology.org/term/DOID%3A1612	False
+Estradiol valerate/Dienogest	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB08866	http://www.disease-ontology.org/term/DOID%3A10283	False
+Estramustine	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB01196	http://www.disease-ontology.org/term/DOID%3A10283	False
+Estropipate	osteoporosis	DM	DM					http://www.drugbank.ca/drugs/DB04574	http://www.disease-ontology.org/term/DOID%3A11476	False
+Eszopiclone	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00402	http://www.disease-ontology.org/term/DOID%3A2377	False
+Ethacrynic acid	chronic kidney failure	SYM	SYM					http://www.drugbank.ca/drugs/DB00903	http://www.disease-ontology.org/term/DOID%3A784	False
+Ethacrynic acid	hypertension	SYM	SYM		loop diuretic			http://www.drugbank.ca/drugs/DB00903	http://www.disease-ontology.org/term/DOID%3A10763	False
+Ethinyl Estradiol	breast cancer	DM	DM		Pilot classification: disease-modifying; Pilot notes: estrogens can stimulate progression of ER+BrCa but high-dose estrogens may suppress their growth			http://www.drugbank.ca/drugs/DB00977	http://www.disease-ontology.org/term/DOID%3A1612	False
+Ethinyl Estradiol	osteoporosis	DM	DM					http://www.drugbank.ca/drugs/DB00977	http://www.disease-ontology.org/term/DOID%3A11476	False
+Etidronic acid	Paget's disease of bone	DM	DM					http://www.drugbank.ca/drugs/DB01077	http://www.disease-ontology.org/term/DOID%3A5408	False
+Etidronic acid	osteoporosis	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB01077	http://www.disease-ontology.org/term/DOID%3A11476	False
+Etoposide	brain cancer	DM	DM					http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A1319	False
+Etoposide	germ cell cancer	DM	DM					http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A2994	False
+Etoposide	hematologic cancer	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A2531	False
+Etoposide	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A1324	False
+Etoposide	muscle cancer	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A4045	False
+Etoposide	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A10283	False
+Etoposide	sarcoma	DM	DM					http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A1115	False
+Etoposide	testicular cancer	DM	DM					http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A2998	False
+Etoposide	urinary bladder cancer	DM	DM					http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A11054	False
+Etoposide	uterine cancer	DM	DM					http://www.drugbank.ca/drugs/DB00773	http://www.disease-ontology.org/term/DOID%3A363	False
+Everolimus	kidney cancer	DM	DM					http://www.drugbank.ca/drugs/DB01590	http://www.disease-ontology.org/term/DOID%3A263	False
+Exemestane	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00990	http://www.disease-ontology.org/term/DOID%3A1612	False
+Ezetimibe	atherosclerosis	DM	DM					http://www.drugbank.ca/drugs/DB00973	http://www.disease-ontology.org/term/DOID%3A1936	False
+Ezetimibe	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB00973	http://www.disease-ontology.org/term/DOID%3A3393	False
+Felbamate	anemia	NOT	NOT			Side effect not treatment		http://www.drugbank.ca/drugs/DB00949	http://www.disease-ontology.org/term/DOID%3A2355	False
+Fenofibrate	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB01039	http://www.disease-ontology.org/term/DOID%3A3393	False
+Fentanyl	lung cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00813	http://www.disease-ontology.org/term/DOID%3A1324	False
+Fentanyl	prostate cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00813	http://www.disease-ontology.org/term/DOID%3A10283	False
+Finasteride	epilepsy syndrome	NOT	NOT			side effect		http://www.drugbank.ca/drugs/DB01216	http://www.disease-ontology.org/term/DOID%3A1826	False
+Fingolimod	multiple sclerosis	DM	DM					http://www.drugbank.ca/drugs/DB08868	http://www.disease-ontology.org/term/DOID%3A2377	False
+Floxuridine	stomach cancer	DM	DM					http://www.drugbank.ca/drugs/DB00322	http://www.disease-ontology.org/term/DOID%3A10534	False
+Fluconazole	acquired immunodeficiency syndrome	NOT	NOT		tough. used for infections ass't with HIV but not HIV itself	Treats secondary infection found in AIDS		http://www.drugbank.ca/drugs/DB00196	http://www.disease-ontology.org/term/DOID%3A635	False
+Fludarabine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01073	http://www.disease-ontology.org/term/DOID%3A2531	False
+Fludarabine	lymphatic system cancer	DM	DM					http://www.drugbank.ca/drugs/DB01073	http://www.disease-ontology.org/term/DOID%3A0060073	False
+Flunisolide	allergic rhinitis	SYM	SYM		Pilot classification: symptomatic; Pilot notes:			http://www.drugbank.ca/drugs/DB00180	http://www.disease-ontology.org/term/DOID%3A4481	False
+Fluocinolone Acetonide	atopic dermatitis	DM	DM					http://www.drugbank.ca/drugs/DB00591	http://www.disease-ontology.org/term/DOID%3A3310	False
+Fluocinonide	atopic dermatitis	DM	DM					http://www.drugbank.ca/drugs/DB01047	http://www.disease-ontology.org/term/DOID%3A3310	False
+Fluorouracil	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A1612	False
+Fluorouracil	colon cancer	DM	DM					http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A219	False
+Fluorouracil	head and neck cancer	DM	DM					http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A11934	False
+Fluorouracil	pancreatic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A1793	False
+Fluorouracil	skin cancer	DM	DM					http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A4159	False
+Fluorouracil	stomach cancer	DM	DM					http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A10534	False
+Fluorouracil	urinary bladder cancer	DM	DM					http://www.drugbank.ca/drugs/DB00544	http://www.disease-ontology.org/term/DOID%3A11054	False
+Fluoxetine	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00472	http://www.disease-ontology.org/term/DOID%3A594	False
+Fluoxetine	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00472	http://www.disease-ontology.org/term/DOID%3A5419	False
+Fluphenazine	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00623	http://www.disease-ontology.org/term/DOID%3A5419	False
+Flutamide	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB00499	http://www.disease-ontology.org/term/DOID%3A10283	False
+Fluticasone Propionate	asthma	SYM	SYM					http://www.drugbank.ca/drugs/DB00588	http://www.disease-ontology.org/term/DOID%3A2841	False
+Fluticasone furoate	asthma	SYM	SYM					http://www.drugbank.ca/drugs/DB08906	http://www.disease-ontology.org/term/DOID%3A2841	False
+Fluvoxamine	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB00176	http://www.disease-ontology.org/term/DOID%3A1595	False
+Fluvoxamine	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00176	http://www.disease-ontology.org/term/DOID%3A594	False
+Folic Acid	Crohn's disease	NOT	NOT		rx for ass't conditions, not that disease itself	Used to overcome side effect of medicine		http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A8778	False
+Folic Acid	alcohol dependence	NOT	NOT			Used to overcome side effect of medicine		http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A0050741	False
+Folic Acid	anemia	DM	DM			Megaloblastic type		http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A2355	False
+Folic Acid	ankylosing spondylitis	NOT	NOT			Used to overcome side effect of medicine		http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A7147	False
+Folic Acid	epilepsy syndrome	NOT	NOT			Used to overcome side effect of medicine		http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A1826	False
+Folic Acid	lung cancer	NOT	NOT			May worsen		http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A1324	False
+Folic Acid	rheumatoid arthritis	NOT	NOT			Used to overcome side effect of medicine		http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A7148	False
+Folic Acid	systemic lupus erythematosus	NOT	NOT			Used to overcome side effect of medicine		http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A9074	False
+Folic Acid	systemic scleroderma	NOT	NOT			Used to overcome side effect of medicine		http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A418	False
+Folic Acid	ulcerative colitis	NOT	NOT			Used to overcome side effect of medicine		http://www.drugbank.ca/drugs/DB00158	http://www.disease-ontology.org/term/DOID%3A8577	False
+Fosinopril	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00492	http://www.disease-ontology.org/term/DOID%3A10763	False
+Fosphenytoin	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB01320	http://www.disease-ontology.org/term/DOID%3A1826	False
+Frovatriptan	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00998	http://www.disease-ontology.org/term/DOID%3A6364	False
+Fulvestrant	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00947	http://www.disease-ontology.org/term/DOID%3A1612	False
+Furosemide	chronic kidney failure	SYM	SYM					http://www.drugbank.ca/drugs/DB00695	http://www.disease-ontology.org/term/DOID%3A784	False
+Furosemide	hypertension	SYM	SYM					http://www.drugbank.ca/drugs/DB00695	http://www.disease-ontology.org/term/DOID%3A10763	False
+Gabapentin	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A3312	False
+Gabapentin	colon cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A219	False
+Gabapentin	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A1826	False
+Gabapentin	kidney cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A263	False
+Gabapentin	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A6364	False
+Gabapentin	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A2377	False
+Gabapentin	restless legs syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00996	http://www.disease-ontology.org/term/DOID%3A0050425	False
+Galantamine	Alzheimer's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00674	http://www.disease-ontology.org/term/DOID%3A10652	False
+Gamma Hydroxybutyric Acid	narcolepsy	SYM	SYM					http://www.drugbank.ca/drugs/DB01440	http://www.disease-ontology.org/term/DOID%3A8986	False
+Gefitinib	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB00317	http://www.disease-ontology.org/term/DOID%3A1324	False
+Gemcitabine	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00441	http://www.disease-ontology.org/term/DOID%3A1612	False
+Gemcitabine	kidney cancer	DM	DM					http://www.drugbank.ca/drugs/DB00441	http://www.disease-ontology.org/term/DOID%3A263	False
+Gemcitabine	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB00441	http://www.disease-ontology.org/term/DOID%3A1324	False
+Gemcitabine	pancreatic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00441	http://www.disease-ontology.org/term/DOID%3A1793	False
+Gemcitabine	urinary bladder cancer	DM	DM					http://www.drugbank.ca/drugs/DB00441	http://www.disease-ontology.org/term/DOID%3A11054	False
+Gemfibrozil	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB01241	http://www.disease-ontology.org/term/DOID%3A3393	False
+Gemfibrozil	sclerosing cholangitis	NOT	NOT			SIDE EFFECT OF MED		http://www.drugbank.ca/drugs/DB01241	http://www.disease-ontology.org/term/DOID%3A14268	False
+Gliclazide	type 2 diabetes mellitus	DM	DM					http://www.drugbank.ca/drugs/DB01120	http://www.disease-ontology.org/term/DOID%3A9352	False
+Glimepiride	type 2 diabetes mellitus	DM	DM					http://www.drugbank.ca/drugs/DB00222	http://www.disease-ontology.org/term/DOID%3A9352	False
+Glipizide	type 2 diabetes mellitus	DM	DM					http://www.drugbank.ca/drugs/DB01067	http://www.disease-ontology.org/term/DOID%3A9352	False
+Glyburide	gestational diabetes	DM	DM					http://www.drugbank.ca/drugs/DB01016	http://www.disease-ontology.org/term/DOID%3A11714	False
+Glyburide	type 2 diabetes mellitus	DM	DM					http://www.drugbank.ca/drugs/DB01016	http://www.disease-ontology.org/term/DOID%3A9352	False
+Goserelin	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00014	http://www.disease-ontology.org/term/DOID%3A1612	False
+Goserelin	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB00014	http://www.disease-ontology.org/term/DOID%3A10283	False
+Guanabenz	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00629	http://www.disease-ontology.org/term/DOID%3A10763	False
+Guanadrel	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00226	http://www.disease-ontology.org/term/DOID%3A10763	False
+Guanethidine	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB01170	http://www.disease-ontology.org/term/DOID%3A10763	False
+Guanfacine	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01018	http://www.disease-ontology.org/term/DOID%3A1094	False
+Guanfacine	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB01018	http://www.disease-ontology.org/term/DOID%3A10763	False
+Haloperidol	conduct disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00502	http://www.disease-ontology.org/term/DOID%3A12995	False
+Haloperidol	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00502	http://www.disease-ontology.org/term/DOID%3A5419	False
+Hydrochlorothiazide	osteoporosis	NOT	NOT			SIDE EFFECT		http://www.drugbank.ca/drugs/DB00999	http://www.disease-ontology.org/term/DOID%3A11476	False
+Hydrocortisone	asthma	SYM	SYM		hm. 			http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A2841	False
+Hydrocortisone	atopic dermatitis	DM	DM					http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A3310	False
+Hydrocortisone	gout	SYM	SYM					http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A13189	False
+Hydrocortisone	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A7148	False
+Hydrocortisone	systemic lupus erythematosus	SYM	SYM					http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A9074	False
+Hydrocortisone	ulcerative colitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00741	http://www.disease-ontology.org/term/DOID%3A8577	False
+Hydroflumethiazide	hypertension	SYM	SYM		diuretic			http://www.drugbank.ca/drugs/DB00774	http://www.disease-ontology.org/term/DOID%3A10763	False
+Hydroxyurea	brain cancer	DM	DM					http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A1319	False
+Hydroxyurea	head and neck cancer	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A11934	False
+Hydroxyurea	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01005	http://www.disease-ontology.org/term/DOID%3A2531	False
+Hyoscyamine	Crohn's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00424	http://www.disease-ontology.org/term/DOID%3A8778	False
+Hyoscyamine	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00424	http://www.disease-ontology.org/term/DOID%3A14330	False
+Hyoscyamine	pancreatitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00424	http://www.disease-ontology.org/term/DOID%3A4989	False
+Ibandronate	osteoporosis	DM	DM					http://www.drugbank.ca/drugs/DB00710	http://www.disease-ontology.org/term/DOID%3A11476	False
+Ibuprofen	osteoarthritis	SYM	SYM		Pilot classification: symptomatic ; Pilot notes:			http://www.drugbank.ca/drugs/DB01050	http://www.disease-ontology.org/term/DOID%3A8398	False
+Idarubicin	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB01177	http://www.disease-ontology.org/term/DOID%3A1612	False
+Idarubicin	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01177	http://www.disease-ontology.org/term/DOID%3A2531	False
+Ifosfamide	germ cell cancer	DM	DM					http://www.drugbank.ca/drugs/DB01181	http://www.disease-ontology.org/term/DOID%3A2994	False
+Ifosfamide	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01181	http://www.disease-ontology.org/term/DOID%3A2531	False
+Ifosfamide	testicular cancer	DM	DM					http://www.drugbank.ca/drugs/DB01181	http://www.disease-ontology.org/term/DOID%3A2998	False
+Iloprost	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB01088	http://www.disease-ontology.org/term/DOID%3A10763	False
+Imatinib	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00619	http://www.disease-ontology.org/term/DOID%3A2531	False
+Imipramine	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00458	http://www.disease-ontology.org/term/DOID%3A1094	False
+Imipramine	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB00458	http://www.disease-ontology.org/term/DOID%3A1595	False
+Imipramine	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00458	http://www.disease-ontology.org/term/DOID%3A594	False
+Imiquimod	skin cancer	DM	DM					http://www.drugbank.ca/drugs/DB00724	http://www.disease-ontology.org/term/DOID%3A4159	False
+Indinavir	acquired immunodeficiency syndrome	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00224	http://www.disease-ontology.org/term/DOID%3A635	False
+Indomethacin	ankylosing spondylitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00328	http://www.disease-ontology.org/term/DOID%3A7147	False
+Indomethacin	gout	SYM	SYM					http://www.drugbank.ca/drugs/DB00328	http://www.disease-ontology.org/term/DOID%3A13189	False
+Indomethacin	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00328	http://www.disease-ontology.org/term/DOID%3A6364	False
+Indomethacin	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00328	http://www.disease-ontology.org/term/DOID%3A7148	False
+Ipratropium bromide	asthma	DM	DM					http://www.drugbank.ca/drugs/DB00332	http://www.disease-ontology.org/term/DOID%3A2841	False
+Irbesartan	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB01029	http://www.disease-ontology.org/term/DOID%3A10763	False
+Irinotecan	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00762	http://www.disease-ontology.org/term/DOID%3A1612	False
+Irinotecan	colon cancer	DM	DM					http://www.drugbank.ca/drugs/DB00762	http://www.disease-ontology.org/term/DOID%3A219	False
+Irinotecan	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB00762	http://www.disease-ontology.org/term/DOID%3A1324	False
+Irinotecan	pancreatic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00762	http://www.disease-ontology.org/term/DOID%3A1793	False
+Irinotecan	stomach cancer	DM	DM					http://www.drugbank.ca/drugs/DB00762	http://www.disease-ontology.org/term/DOID%3A10534	False
+Isocarboxazid	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01247	http://www.disease-ontology.org/term/DOID%3A594	False
+Isoetarine	asthma	SYM	SYM					http://www.drugbank.ca/drugs/DB00221	http://www.disease-ontology.org/term/DOID%3A2841	False
+Isoprenaline	asthma	SYM	SYM					http://www.drugbank.ca/drugs/DB01064	http://www.disease-ontology.org/term/DOID%3A2841	False
+Isosorbide Dinitrate	coronary artery disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00883	http://www.disease-ontology.org/term/DOID%3A3393	False
+Isosorbide Mononitrate	coronary artery disease	SYM	SYM					http://www.drugbank.ca/drugs/DB01020	http://www.disease-ontology.org/term/DOID%3A3393	False
+Isotretinoin	hematologic cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00982	http://www.disease-ontology.org/term/DOID%3A2531	False
+Ixabepilone	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB04845	http://www.disease-ontology.org/term/DOID%3A1612	False
+L-DOPA	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB01235	http://www.disease-ontology.org/term/DOID%3A14330	False
+L-DOPA	restless legs syndrome	SYM	SYM		Pilot classification: symptomatic ; Pilot notes:			http://www.drugbank.ca/drugs/DB01235	http://www.disease-ontology.org/term/DOID%3A0050425	False
+Labetalol	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00598	http://www.disease-ontology.org/term/DOID%3A10763	False
+Lacosamide	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB06218	http://www.disease-ontology.org/term/DOID%3A1826	False
+Lamivudine	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB00709	http://www.disease-ontology.org/term/DOID%3A635	False
+Lamivudine	hepatitis B	DM	DM					http://www.drugbank.ca/drugs/DB00709	http://www.disease-ontology.org/term/DOID%3A2043	False
+Lamotrigine	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00555	http://www.disease-ontology.org/term/DOID%3A3312	False
+Lamotrigine	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00555	http://www.disease-ontology.org/term/DOID%3A1826	False
+Lamotrigine	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00555	http://www.disease-ontology.org/term/DOID%3A5419	False
+Lapatinib	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB01259	http://www.disease-ontology.org/term/DOID%3A1612	False
+Latanoprost	glaucoma	DM	DM					http://www.drugbank.ca/drugs/DB00654	http://www.disease-ontology.org/term/DOID%3A1686	False
+Leflunomide	rheumatoid arthritis	DM	DM					http://www.drugbank.ca/drugs/DB01097	http://www.disease-ontology.org/term/DOID%3A7148	False
+Leflunomide	systemic lupus erythematosus	DM	DM					http://www.drugbank.ca/drugs/DB01097	http://www.disease-ontology.org/term/DOID%3A9074	False
+Leflunomide	systemic scleroderma	DM	DM					http://www.drugbank.ca/drugs/DB01097	http://www.disease-ontology.org/term/DOID%3A418	False
+Lenalidomide	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00480	http://www.disease-ontology.org/term/DOID%3A2531	False
+Letrozole	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB01006	http://www.disease-ontology.org/term/DOID%3A1612	False
+Levetiracetam	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB01202	http://www.disease-ontology.org/term/DOID%3A1826	False
+Levofloxacin	asthma	NOT	NOT			Used to prevent complications		http://www.drugbank.ca/drugs/DB01137	http://www.disease-ontology.org/term/DOID%3A2841	False
+Levofloxacin	chronic obstructive pulmonary disease	NOT	NOT					http://www.drugbank.ca/drugs/DB01137	http://www.disease-ontology.org/term/DOID%3A3083	False
+Levothyroxine	coronary artery disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00451	http://www.disease-ontology.org/term/DOID%3A3393	False
+Levothyroxine	hypothyroidism	DM	DM					http://www.drugbank.ca/drugs/DB00451	http://www.disease-ontology.org/term/DOID%3A1459	False
+Lidocaine	coronary artery disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00281	http://www.disease-ontology.org/term/DOID%3A3393	False
+Lidocaine	osteoarthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00281	http://www.disease-ontology.org/term/DOID%3A8398	False
+Lidocaine	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00281	http://www.disease-ontology.org/term/DOID%3A7148	False
+Lidocaine	systemic scleroderma	SYM	SYM					http://www.drugbank.ca/drugs/DB00281	http://www.disease-ontology.org/term/DOID%3A418	False
+Liothyronine	Graves' disease	NOT	NOT			used after treatment		http://www.drugbank.ca/drugs/DB00279	http://www.disease-ontology.org/term/DOID%3A12361	False
+Liothyronine	hypothyroidism	DM	DM					http://www.drugbank.ca/drugs/DB00279	http://www.disease-ontology.org/term/DOID%3A1459	False
+Liotrix	Graves' disease	NOT	NOT			Treats side effect of treatment		http://www.drugbank.ca/drugs/DB01583	http://www.disease-ontology.org/term/DOID%3A12361	False
+Liotrix	coronary artery disease	NOT	NOT			Treats side effect of treatment		http://www.drugbank.ca/drugs/DB01583	http://www.disease-ontology.org/term/DOID%3A3393	False
+Liotrix	hypothyroidism	DM	DM					http://www.drugbank.ca/drugs/DB01583	http://www.disease-ontology.org/term/DOID%3A1459	False
+Lisdexamfetamine	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01255	http://www.disease-ontology.org/term/DOID%3A1094	False
+Lisinopril	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB00722	http://www.disease-ontology.org/term/DOID%3A3393	False
+Lisinopril	dilated cardiomyopathy	DM	DM					http://www.drugbank.ca/drugs/DB00722	http://www.disease-ontology.org/term/DOID%3A12930	False
+Lisinopril	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00722	http://www.disease-ontology.org/term/DOID%3A10763	False
+Lisinopril	kidney cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00722	http://www.disease-ontology.org/term/DOID%3A263	False
+Lisinopril	systemic lupus erythematosus	NOT	NOT			May cause disease		http://www.drugbank.ca/drugs/DB00722	http://www.disease-ontology.org/term/DOID%3A9074	False
+Lomustine	brain cancer	DM	DM					http://www.drugbank.ca/drugs/DB01206	http://www.disease-ontology.org/term/DOID%3A1319	False
+Lomustine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01206	http://www.disease-ontology.org/term/DOID%3A2531	False
+Lomustine	melanoma	NOT	NOT					http://www.drugbank.ca/drugs/DB01206	http://www.disease-ontology.org/term/DOID%3A1909	False
+Lopinavir	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB01601	http://www.disease-ontology.org/term/DOID%3A635	False
+Loratadine	allergic rhinitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00455	http://www.disease-ontology.org/term/DOID%3A4481	False
+Loratadine	asthma	SYM	SYM					http://www.drugbank.ca/drugs/DB00455	http://www.disease-ontology.org/term/DOID%3A2841	False
+Lorazepam	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00186	http://www.disease-ontology.org/term/DOID%3A594	False
+Losartan	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB00678	http://www.disease-ontology.org/term/DOID%3A3393	False
+Losartan	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00678	http://www.disease-ontology.org/term/DOID%3A10763	False
+Losartan	type 2 diabetes mellitus	NOT	NOT					http://www.drugbank.ca/drugs/DB00678	http://www.disease-ontology.org/term/DOID%3A9352	False
+Lovastatin	atherosclerosis	DM	DM					http://www.drugbank.ca/drugs/DB00227	http://www.disease-ontology.org/term/DOID%3A1936	False
+Lovastatin	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB00227	http://www.disease-ontology.org/term/DOID%3A3393	False
+Lovastatin	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB00227	http://www.disease-ontology.org/term/DOID%3A10763	False
+Magnesium Sulfate	hypertension	NOT	NOT			Only useful in eclampsia		http://www.drugbank.ca/drugs/DB00653	http://www.disease-ontology.org/term/DOID%3A10763	False
+Magnesium salicylate	psoriasis	NOT	NOT					http://www.drugbank.ca/drugs/DB01397	http://www.disease-ontology.org/term/DOID%3A8893	False
+Maprotiline	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00934	http://www.disease-ontology.org/term/DOID%3A594	False
+Mecamylamine	Gilles de la Tourette syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00657	http://www.disease-ontology.org/term/DOID%3A11119	False
+Mechlorethamine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00888	http://www.disease-ontology.org/term/DOID%3A2531	False
+Mechlorethamine	lymphatic system cancer	DM	DM					http://www.drugbank.ca/drugs/DB00888	http://www.disease-ontology.org/term/DOID%3A0060073	False
+Medroxyprogesterone Acetate	breast cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00603	http://www.disease-ontology.org/term/DOID%3A1612	False
+Medroxyprogesterone Acetate	kidney cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00603	http://www.disease-ontology.org/term/DOID%3A263	False
+Medroxyprogesterone Acetate	osteoporosis	NOT	NOT					http://www.drugbank.ca/drugs/DB00603	http://www.disease-ontology.org/term/DOID%3A11476	False
+Megestrol acetate	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00351	http://www.disease-ontology.org/term/DOID%3A1612	False
+Melatonin	kidney cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB01065	http://www.disease-ontology.org/term/DOID%3A263	False
+Melatonin	prostate cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB01065	http://www.disease-ontology.org/term/DOID%3A10283	False
+Meloxicam	ankylosing spondylitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00814	http://www.disease-ontology.org/term/DOID%3A7147	False
+Meloxicam	osteoarthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00814	http://www.disease-ontology.org/term/DOID%3A8398	False
+Meloxicam	rheumatoid arthritis	SYM	SYM		Pilot classification: symptomatic; Pilot notes:			http://www.drugbank.ca/drugs/DB00814	http://www.disease-ontology.org/term/DOID%3A7148	False
+Meloxicam	systemic lupus erythematosus	SYM	SYM					http://www.drugbank.ca/drugs/DB00814	http://www.disease-ontology.org/term/DOID%3A9074	False
+Meloxicam	systemic scleroderma	SYM	SYM					http://www.drugbank.ca/drugs/DB00814	http://www.disease-ontology.org/term/DOID%3A418	False
+Melphalan	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01042	http://www.disease-ontology.org/term/DOID%3A2531	False
+Memantine	Alzheimer's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB01043	http://www.disease-ontology.org/term/DOID%3A10652	False
+Memantine	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB01043	http://www.disease-ontology.org/term/DOID%3A14330	False
+Mercaptopurine	Crohn's disease	DM	DM					http://www.drugbank.ca/drugs/DB01033	http://www.disease-ontology.org/term/DOID%3A8778	False
+Mercaptopurine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01033	http://www.disease-ontology.org/term/DOID%3A2531	False
+Mercaptopurine	ulcerative colitis	DM	DM					http://www.drugbank.ca/drugs/DB01033	http://www.disease-ontology.org/term/DOID%3A8577	False
+Mesalazine	Crohn's disease	DM	DM					http://www.drugbank.ca/drugs/DB00244	http://www.disease-ontology.org/term/DOID%3A8778	False
+Mesalazine	ulcerative colitis	DM	DM					http://www.drugbank.ca/drugs/DB00244	http://www.disease-ontology.org/term/DOID%3A8577	False
+Mesoridazine	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00933	http://www.disease-ontology.org/term/DOID%3A5419	False
+Mestranol	ovarian cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB01357	http://www.disease-ontology.org/term/DOID%3A2394	False
+Metformin	metabolic syndrome X	DM	DM					http://www.drugbank.ca/drugs/DB00331	http://www.disease-ontology.org/term/DOID%3A14221	False
+Metformin	polycystic ovary syndrome	DM	DM					http://www.drugbank.ca/drugs/DB00331	http://www.disease-ontology.org/term/DOID%3A11612	False
+Metformin	prostate cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00331	http://www.disease-ontology.org/term/DOID%3A10283	False
+Metformin	type 2 diabetes mellitus	DM	DM					http://www.drugbank.ca/drugs/DB00331	http://www.disease-ontology.org/term/DOID%3A9352	False
+Methamphetamine	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01577	http://www.disease-ontology.org/term/DOID%3A1094	False
+Methamphetamine	narcolepsy	SYM	SYM					http://www.drugbank.ca/drugs/DB01577	http://www.disease-ontology.org/term/DOID%3A8986	False
+Methimazole	Graves' disease	DM	DM					http://www.drugbank.ca/drugs/DB00763	http://www.disease-ontology.org/term/DOID%3A12361	False
+Methotrexate	ankylosing spondylitis	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A7147	False
+Methotrexate	bone cancer	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A184	False
+Methotrexate	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A1612	False
+Methotrexate	colon cancer	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A219	False
+Methotrexate	esophageal cancer	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A5041	False
+Methotrexate	germ cell cancer	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A2994	False
+Methotrexate	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A2531	False
+Methotrexate	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A1324	False
+Methotrexate	lymphatic system cancer	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A0060073	False
+Methotrexate	muscle cancer	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A4045	False
+Methotrexate	psoriasis	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A8893	False
+Methotrexate	psoriatic arthritis	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A9008	False
+Methotrexate	rheumatoid arthritis	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A7148	False
+Methotrexate	stomach cancer	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A10534	False
+Methotrexate	systemic lupus erythematosus	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A9074	False
+Methotrexate	systemic scleroderma	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A418	False
+Methotrexate	urinary bladder cancer	DM	DM					http://www.drugbank.ca/drugs/DB00563	http://www.disease-ontology.org/term/DOID%3A11054	False
+Methoxsalen	hematologic cancer	DM	DM			Cutaneous Lymphoma		http://www.drugbank.ca/drugs/DB00553	http://www.disease-ontology.org/term/DOID%3A2531	False
+Methoxsalen	psoriasis	DM	DM					http://www.drugbank.ca/drugs/DB00553	http://www.disease-ontology.org/term/DOID%3A8893	False
+Methoxsalen	vitiligo	DM	DM					http://www.drugbank.ca/drugs/DB00553	http://www.disease-ontology.org/term/DOID%3A12306	False
+Methylergometrine	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00353	http://www.disease-ontology.org/term/DOID%3A6364	False
+Methylphenidate	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00422	http://www.disease-ontology.org/term/DOID%3A1094	False
+Methylprednisolone	anemia	SYM	SYM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A2355	False
+Methylprednisolone	ankylosing spondylitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A7147	False
+Methylprednisolone	brain cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A1319	False
+Methylprednisolone	gout	SYM	SYM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A13189	False
+Methylprednisolone	hematologic cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A2531	False
+Methylprednisolone	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A2377	False
+Methylprednisolone	osteoarthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A8398	False
+Methylprednisolone	psoriatic arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00959	http://www.disease-ontology.org/term/DOID%3A9008	False
+Methyltestosterone	osteoporosis	NOT	NOT					http://www.drugbank.ca/drugs/DB06710	http://www.disease-ontology.org/term/DOID%3A11476	False
+Metoclopramide	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB01233	http://www.disease-ontology.org/term/DOID%3A6364	False
+Metoclopramide	prostate cancer	SYM	SYM		Pilot classification: ? Symptomatic; Pilot notes: cant find anything that suggests it is disease modifying			http://www.drugbank.ca/drugs/DB01233	http://www.disease-ontology.org/term/DOID%3A10283	False
+Metoclopramide	systemic scleroderma	SYM	SYM					http://www.drugbank.ca/drugs/DB01233	http://www.disease-ontology.org/term/DOID%3A418	False
+Metyrosine	hypertension	NOT	NOT		pheo	Used for treatment of pheochormocytoma not essential HTN		http://www.drugbank.ca/drugs/DB00765	http://www.disease-ontology.org/term/DOID%3A10763	False
+Midazolam	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00683	http://www.disease-ontology.org/term/DOID%3A1826	False
+Mifepristone	brain cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00834	http://www.disease-ontology.org/term/DOID%3A1319	False
+Mifepristone	meningioma	NOT	NOT					http://www.drugbank.ca/drugs/DB00834	http://www.disease-ontology.org/term/DOID%3A3565	False
+Minocycline	systemic scleroderma	NOT	NOT					http://www.drugbank.ca/drugs/DB01017	http://www.disease-ontology.org/term/DOID%3A418	False
+Minoxidil	epilepsy syndrome	NOT	NOT					http://www.drugbank.ca/drugs/DB00350	http://www.disease-ontology.org/term/DOID%3A1826	False
+Mitomycin	stomach cancer	DM	DM					http://www.drugbank.ca/drugs/DB00305	http://www.disease-ontology.org/term/DOID%3A10534	False
+Mitomycin	urinary bladder cancer	DM	DM					http://www.drugbank.ca/drugs/DB00305	http://www.disease-ontology.org/term/DOID%3A11054	False
+Mitoxantrone	prostate cancer	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB01204	http://www.disease-ontology.org/term/DOID%3A10283	False
+Modafinil	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00745	http://www.disease-ontology.org/term/DOID%3A14330	False
+Modafinil	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00745	http://www.disease-ontology.org/term/DOID%3A2377	False
+Modafinil	narcolepsy	SYM	SYM					http://www.drugbank.ca/drugs/DB00745	http://www.disease-ontology.org/term/DOID%3A8986	False
+Moexipril	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00691	http://www.disease-ontology.org/term/DOID%3A10763	False
+Montelukast	allergic rhinitis	DM	DM					http://www.drugbank.ca/drugs/DB00471	http://www.disease-ontology.org/term/DOID%3A4481	False
+Montelukast	asthma	DM	DM					http://www.drugbank.ca/drugs/DB00471	http://www.disease-ontology.org/term/DOID%3A2841	False
+Montelukast	chronic obstructive pulmonary disease	DM	DM					http://www.drugbank.ca/drugs/DB00471	http://www.disease-ontology.org/term/DOID%3A3083	False
+Morphine	coronary artery disease	SYM	SYM		Pilot classification: symptomatic; Pilot notes:			http://www.drugbank.ca/drugs/DB00295	http://www.disease-ontology.org/term/DOID%3A3393	False
+Mycophenolate mofetil	psoriasis	DM	DM					http://www.drugbank.ca/drugs/DB00688	http://www.disease-ontology.org/term/DOID%3A8893	False
+Mycophenolate mofetil	systemic lupus erythematosus	DM	DM					http://www.drugbank.ca/drugs/DB00688	http://www.disease-ontology.org/term/DOID%3A9074	False
+Mycophenolate mofetil	systemic scleroderma	DM	DM					http://www.drugbank.ca/drugs/DB00688	http://www.disease-ontology.org/term/DOID%3A418	False
+Mycophenolic acid	psoriasis	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB01024	http://www.disease-ontology.org/term/DOID%3A8893	False
+Mycophenolic acid	systemic scleroderma	DM	DM					http://www.drugbank.ca/drugs/DB01024	http://www.disease-ontology.org/term/DOID%3A418	False
+Nabumetone	osteoarthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00461	http://www.disease-ontology.org/term/DOID%3A8398	False
+Nabumetone	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00461	http://www.disease-ontology.org/term/DOID%3A7148	False
+Naftifine	rheumatoid arthritis	NOT	NOT					http://www.drugbank.ca/drugs/DB00735	http://www.disease-ontology.org/term/DOID%3A7148	False
+Naproxen	ankylosing spondylitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00788	http://www.disease-ontology.org/term/DOID%3A7147	False
+Naproxen	gout	SYM	SYM					http://www.drugbank.ca/drugs/DB00788	http://www.disease-ontology.org/term/DOID%3A13189	False
+Naproxen	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00788	http://www.disease-ontology.org/term/DOID%3A6364	False
+Naproxen	osteoarthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00788	http://www.disease-ontology.org/term/DOID%3A8398	False
+Naproxen	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00788	http://www.disease-ontology.org/term/DOID%3A7148	False
+Naproxen	systemic lupus erythematosus	SYM	SYM					http://www.drugbank.ca/drugs/DB00788	http://www.disease-ontology.org/term/DOID%3A9074	False
+Naratriptan	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00952	http://www.disease-ontology.org/term/DOID%3A6364	False
+Nebivolol	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB04861	http://www.disease-ontology.org/term/DOID%3A10763	False
+Nefazodone	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB01149	http://www.disease-ontology.org/term/DOID%3A1595	False
+Nelarabine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01280	http://www.disease-ontology.org/term/DOID%3A2531	False
+Nelfinavir	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB00220	http://www.disease-ontology.org/term/DOID%3A635	False
+Nevirapine	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB00238	http://www.disease-ontology.org/term/DOID%3A635	False
+Nicardipine	hypertension	SYM	SYM		acute			http://www.drugbank.ca/drugs/DB00622	http://www.disease-ontology.org/term/DOID%3A10763	False
+Nicotine	chronic obstructive pulmonary disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00184	http://www.disease-ontology.org/term/DOID%3A3083	False
+Nilotinib	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB04868	http://www.disease-ontology.org/term/DOID%3A2531	False
+Nilutamide	prostate cancer	DM	DM					http://www.drugbank.ca/drugs/DB00665	http://www.disease-ontology.org/term/DOID%3A10283	False
+Nitric Oxide	hypertension	DM	DM		pulm htn			http://www.drugbank.ca/drugs/DB00435	http://www.disease-ontology.org/term/DOID%3A10763	False
+Nitroglycerin	coronary artery disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00727	http://www.disease-ontology.org/term/DOID%3A3393	False
+Nitroglycerin	hypertension	SYM	SYM					http://www.drugbank.ca/drugs/DB00727	http://www.disease-ontology.org/term/DOID%3A10763	False
+Nitroprusside	hypertension	SYM	SYM					http://www.drugbank.ca/drugs/DB00325	http://www.disease-ontology.org/term/DOID%3A10763	False
+Nortriptyline	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00540	http://www.disease-ontology.org/term/DOID%3A1094	False
+Nortriptyline	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB00540	http://www.disease-ontology.org/term/DOID%3A1595	False
+Nortriptyline	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00540	http://www.disease-ontology.org/term/DOID%3A2377	False
+Nortriptyline	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00540	http://www.disease-ontology.org/term/DOID%3A594	False
+Ofloxacin	chronic obstructive pulmonary disease	NOT	NOT			USED TO TREAT COMPLICATION OR PREVENT INFECTION		http://www.drugbank.ca/drugs/DB01165	http://www.disease-ontology.org/term/DOID%3A3083	False
+Olanzapine	Gilles de la Tourette syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00334	http://www.disease-ontology.org/term/DOID%3A11119	False
+Olanzapine	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00334	http://www.disease-ontology.org/term/DOID%3A3312	False
+Olanzapine	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00334	http://www.disease-ontology.org/term/DOID%3A594	False
+Olanzapine	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00334	http://www.disease-ontology.org/term/DOID%3A5419	False
+Olmesartan	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00275	http://www.disease-ontology.org/term/DOID%3A10763	False
+Olsalazine	ulcerative colitis	DM	DM					http://www.drugbank.ca/drugs/DB01250	http://www.disease-ontology.org/term/DOID%3A8577	False
+Omeprazole	Barrett's esophagus	DM	DM					http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A9206	False
+Omeprazole	allergic rhinitis	NOT	NOT					http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A4481	False
+Omeprazole	esophageal cancer	NOT	NOT			Prevents		http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A5041	False
+Omeprazole	kidney cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A263	False
+Omeprazole	prostate cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A10283	False
+Omeprazole	rheumatoid arthritis	NOT	NOT					http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A7148	False
+Omeprazole	systemic lupus erythematosus	NOT	NOT					http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A9074	False
+Omeprazole	systemic scleroderma	SYM	SYM		Pilot classification: ? Symptomatic; Pilot notes: although could be considered disease mod if it protects against esophogeal complications of scleroderma			http://www.drugbank.ca/drugs/DB00338	http://www.disease-ontology.org/term/DOID%3A418	False
+Orlistat	obesity	DM	DM		Pilot classification: disease-modifying; Pilot notes: prevents absorption of fats			http://www.drugbank.ca/drugs/DB01083	http://www.disease-ontology.org/term/DOID%3A9970	False
+Orphenadrine	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB01173	http://www.disease-ontology.org/term/DOID%3A6364	False
+Oxaprozin	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00991	http://www.disease-ontology.org/term/DOID%3A7148	False
+Oxcarbazepine	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00776	http://www.disease-ontology.org/term/DOID%3A3312	False
+Oxcarbazepine	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00776	http://www.disease-ontology.org/term/DOID%3A1826	False
+Oxcarbazepine	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00776	http://www.disease-ontology.org/term/DOID%3A2377	False
+Oxtriphylline	rheumatoid arthritis	NOT	NOT					http://www.drugbank.ca/drugs/DB01303	http://www.disease-ontology.org/term/DOID%3A7148	False
+Paclitaxel	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB01229	http://www.disease-ontology.org/term/DOID%3A1612	False
+Paclitaxel	kidney cancer	DM	DM					http://www.drugbank.ca/drugs/DB01229	http://www.disease-ontology.org/term/DOID%3A263	False
+Paclitaxel	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB01229	http://www.disease-ontology.org/term/DOID%3A1324	False
+Paclitaxel	ovarian cancer	DM	DM					http://www.drugbank.ca/drugs/DB01229	http://www.disease-ontology.org/term/DOID%3A2394	False
+Paliperidone	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB01267	http://www.disease-ontology.org/term/DOID%3A5419	False
+Pamidronate	Paget's disease of bone	DM	DM					http://www.drugbank.ca/drugs/DB00282	http://www.disease-ontology.org/term/DOID%3A5408	False
+Pamidronate	osteoporosis	DM	DM					http://www.drugbank.ca/drugs/DB00282	http://www.disease-ontology.org/term/DOID%3A11476	False
+Paroxetine	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00715	http://www.disease-ontology.org/term/DOID%3A3312	False
+Paroxetine	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB00715	http://www.disease-ontology.org/term/DOID%3A1595	False
+Paroxetine	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00715	http://www.disease-ontology.org/term/DOID%3A594	False
+Pazopanib	kidney cancer	DM	DM					http://www.drugbank.ca/drugs/DB06589	http://www.disease-ontology.org/term/DOID%3A263	False
+Pemetrexed	lung cancer	DM	DM			Mesothelioma		http://www.drugbank.ca/drugs/DB00642	http://www.disease-ontology.org/term/DOID%3A1324	False
+Penbutolol	coronary artery disease	NOT	NOT					http://www.drugbank.ca/drugs/DB01359	http://www.disease-ontology.org/term/DOID%3A3393	False
+Penicillamine	rheumatoid arthritis	DM	DM					http://www.drugbank.ca/drugs/DB00859	http://www.disease-ontology.org/term/DOID%3A7148	False
+Pentostatin	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00552	http://www.disease-ontology.org/term/DOID%3A2531	False
+Pentoxifylline	systemic scleroderma	SYM	SYM					http://www.drugbank.ca/drugs/DB00806	http://www.disease-ontology.org/term/DOID%3A418	False
+Perindopril	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00790	http://www.disease-ontology.org/term/DOID%3A10763	False
+Perphenazine	Gilles de la Tourette syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00850	http://www.disease-ontology.org/term/DOID%3A11119	False
+Phendimetrazine	obesity	DM	DM					http://www.drugbank.ca/drugs/DB01579	http://www.disease-ontology.org/term/DOID%3A9970	False
+Phenobarbital	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB01174	http://www.disease-ontology.org/term/DOID%3A1826	False
+Phenobarbital	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB01174	http://www.disease-ontology.org/term/DOID%3A10763	False
+Phentermine	obesity	DM	DM					http://www.drugbank.ca/drugs/DB00191	http://www.disease-ontology.org/term/DOID%3A9970	False
+Phentolamine	hypertension	SYM	SYM		HTN emerg			http://www.drugbank.ca/drugs/DB00692	http://www.disease-ontology.org/term/DOID%3A10763	False
+Phenylephrine	glaucoma	NOT	NOT			WORSENS NARROW ANGLE		http://www.drugbank.ca/drugs/DB00388	http://www.disease-ontology.org/term/DOID%3A1686	False
+Phenytoin	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00252	http://www.disease-ontology.org/term/DOID%3A1826	False
+Phenytoin	multiple sclerosis	NOT	NOT					http://www.drugbank.ca/drugs/DB00252	http://www.disease-ontology.org/term/DOID%3A2377	False
+Pilocarpine	head and neck cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB01085	http://www.disease-ontology.org/term/DOID%3A11934	False
+Pilocarpine	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB01085	http://www.disease-ontology.org/term/DOID%3A10763	False
+Pimecrolimus	atopic dermatitis	DM	DM					http://www.drugbank.ca/drugs/DB00337	http://www.disease-ontology.org/term/DOID%3A3310	False
+Pimozide	Gilles de la Tourette syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB01100	http://www.disease-ontology.org/term/DOID%3A11119	False
+Pitavastatin	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB08860	http://www.disease-ontology.org/term/DOID%3A3393	False
+Porfimer	esophageal cancer	SYM	SYM		palliative	Used for late stage disease		http://www.drugbank.ca/drugs/DB00707	http://www.disease-ontology.org/term/DOID%3A5041	False
+Potassium Chloride	breast cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00761	http://www.disease-ontology.org/term/DOID%3A1612	False
+Potassium Chloride	coronary artery disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00761	http://www.disease-ontology.org/term/DOID%3A3393	False
+Potassium Chloride	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB00761	http://www.disease-ontology.org/term/DOID%3A10763	False
+Pramipexole	Alzheimer's disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00413	http://www.disease-ontology.org/term/DOID%3A10652	False
+Pramipexole	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00413	http://www.disease-ontology.org/term/DOID%3A14330	False
+Pramipexole	restless legs syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00413	http://www.disease-ontology.org/term/DOID%3A0050425	False
+Pravastatin	atherosclerosis	DM	DM					http://www.drugbank.ca/drugs/DB00175	http://www.disease-ontology.org/term/DOID%3A1936	False
+Pravastatin	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB00175	http://www.disease-ontology.org/term/DOID%3A3393	False
+Prednisolone	anemia	NOT	NOT					http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A2355	False
+Prednisolone	hematologic cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A2531	False
+Prednisolone	idiopathic pulmonary fibrosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A0050156	False
+Prednisolone	multiple sclerosis	SYM	SYM		Pilot classification: symptomatic; Pilot notes:			http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A2377	False
+Prednisolone	psoriasis	SYM	SYM					http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A8893	False
+Prednisolone	psoriatic arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A9008	False
+Prednisolone	ulcerative colitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00860	http://www.disease-ontology.org/term/DOID%3A8577	False
+Prednisone	ankylosing spondylitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A7147	False
+Prednisone	hematologic cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A2531	False
+Prednisone	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A6364	False
+Prednisone	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A2377	False
+Prednisone	prostate cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A10283	False
+Prednisone	psoriasis	SYM	SYM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A8893	False
+Prednisone	psoriatic arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A9008	False
+Prednisone	systemic scleroderma	SYM	SYM					http://www.drugbank.ca/drugs/DB00635	http://www.disease-ontology.org/term/DOID%3A418	False
+Pregabalin	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00230	http://www.disease-ontology.org/term/DOID%3A1826	False
+Pregabalin	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00230	http://www.disease-ontology.org/term/DOID%3A2377	False
+Pregabalin	prostate cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00230	http://www.disease-ontology.org/term/DOID%3A10283	False
+Pregabalin	restless legs syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00230	http://www.disease-ontology.org/term/DOID%3A0050425	False
+Primidone	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00794	http://www.disease-ontology.org/term/DOID%3A1826	False
+Probenecid	gout	DM	DM					http://www.drugbank.ca/drugs/DB01032	http://www.disease-ontology.org/term/DOID%3A13189	False
+Procarbazine	brain cancer	DM	DM					http://www.drugbank.ca/drugs/DB01168	http://www.disease-ontology.org/term/DOID%3A1319	False
+Procarbazine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01168	http://www.disease-ontology.org/term/DOID%3A2531	False
+Procarbazine	lung cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB01168	http://www.disease-ontology.org/term/DOID%3A1324	False
+Procarbazine	melanoma	NOT	NOT					http://www.drugbank.ca/drugs/DB01168	http://www.disease-ontology.org/term/DOID%3A1909	False
+Procarbazine	skin cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB01168	http://www.disease-ontology.org/term/DOID%3A4159	False
+Procyclidine	Alzheimer's disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00387	http://www.disease-ontology.org/term/DOID%3A10652	False
+Procyclidine	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00387	http://www.disease-ontology.org/term/DOID%3A14330	False
+Proguanil	malaria	DM	DM					http://www.drugbank.ca/drugs/DB01131	http://www.disease-ontology.org/term/DOID%3A12365	False
+Propofol	epilepsy syndrome	SYM	SYM		Pilot classification: symptomatic; Pilot notes:			http://www.drugbank.ca/drugs/DB00818	http://www.disease-ontology.org/term/DOID%3A1826	False
+Propranolol	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00571	http://www.disease-ontology.org/term/DOID%3A6364	False
+Propylthiouracil	Graves' disease	DM	DM					http://www.drugbank.ca/drugs/DB00550	http://www.disease-ontology.org/term/DOID%3A12361	False
+Pseudoephedrine	asthma	SYM	SYM					http://www.drugbank.ca/drugs/DB00852	http://www.disease-ontology.org/term/DOID%3A2841	False
+Pyridoxine	anemia	DM	DM		for B6 def anemia	For pyrodoxine responsive anemia		http://www.drugbank.ca/drugs/DB00165	http://www.disease-ontology.org/term/DOID%3A2355	False
+Pyrimethamine	malaria	DM	DM					http://www.drugbank.ca/drugs/DB00205	http://www.disease-ontology.org/term/DOID%3A12365	False
+Quazepam	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB01589	http://www.disease-ontology.org/term/DOID%3A2377	False
+Quetiapine	autistic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01224	http://www.disease-ontology.org/term/DOID%3A12849	False
+Quetiapine	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01224	http://www.disease-ontology.org/term/DOID%3A3312	False
+Quetiapine	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB01224	http://www.disease-ontology.org/term/DOID%3A5419	False
+Quinidine barbiturate	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB01346	http://www.disease-ontology.org/term/DOID%3A10763	False
+Quinine	malaria	DM	DM					http://www.drugbank.ca/drugs/DB00468	http://www.disease-ontology.org/term/DOID%3A12365	False
+Raloxifene	breast cancer	DM	DM			with ER+ postive tumor		http://www.drugbank.ca/drugs/DB00481	http://www.disease-ontology.org/term/DOID%3A1612	False
+Raloxifene	osteoporosis	DM	DM					http://www.drugbank.ca/drugs/DB00481	http://www.disease-ontology.org/term/DOID%3A11476	False
+Ramelteon	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00980	http://www.disease-ontology.org/term/DOID%3A14330	False
+Ramipril	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00178	http://www.disease-ontology.org/term/DOID%3A10763	False
+Ramipril	type 1 diabetes mellitus	NOT	NOT					http://www.drugbank.ca/drugs/DB00178	http://www.disease-ontology.org/term/DOID%3A9744	False
+Ramipril	type 2 diabetes mellitus	NOT	NOT					http://www.drugbank.ca/drugs/DB00178	http://www.disease-ontology.org/term/DOID%3A9352	False
+Rasagiline	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB01367	http://www.disease-ontology.org/term/DOID%3A14330	False
+Rifampicin	leprosy	DM	DM					http://www.drugbank.ca/drugs/DB01045	http://www.disease-ontology.org/term/DOID%3A1024	False
+Risedronate	Paget's disease of bone	DM	DM					http://www.drugbank.ca/drugs/DB00884	http://www.disease-ontology.org/term/DOID%3A5408	False
+Risedronate	osteoporosis	DM	DM					http://www.drugbank.ca/drugs/DB00884	http://www.disease-ontology.org/term/DOID%3A11476	False
+Risperidone	Gilles de la Tourette syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00734	http://www.disease-ontology.org/term/DOID%3A11119	False
+Risperidone	autistic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00734	http://www.disease-ontology.org/term/DOID%3A12849	False
+Risperidone	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00734	http://www.disease-ontology.org/term/DOID%3A3312	False
+Risperidone	conduct disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00734	http://www.disease-ontology.org/term/DOID%3A12995	False
+Risperidone	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00734	http://www.disease-ontology.org/term/DOID%3A5419	False
+Ritonavir	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB00503	http://www.disease-ontology.org/term/DOID%3A635	False
+Rivastigmine	Alzheimer's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00989	http://www.disease-ontology.org/term/DOID%3A10652	False
+Rivastigmine	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00989	http://www.disease-ontology.org/term/DOID%3A14330	False
+Rizatriptan	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00953	http://www.disease-ontology.org/term/DOID%3A6364	False
+Rizatriptan	multiple sclerosis	NOT	NOT					http://www.drugbank.ca/drugs/DB00953	http://www.disease-ontology.org/term/DOID%3A2377	False
+Roflumilast	chronic obstructive pulmonary disease	DM	DM					http://www.drugbank.ca/drugs/DB01656	http://www.disease-ontology.org/term/DOID%3A3083	False
+Ropinirole	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00268	http://www.disease-ontology.org/term/DOID%3A14330	False
+Ropinirole	restless legs syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00268	http://www.disease-ontology.org/term/DOID%3A0050425	False
+Rosuvastatin	atherosclerosis	DM	DM					http://www.drugbank.ca/drugs/DB01098	http://www.disease-ontology.org/term/DOID%3A1936	False
+Rosuvastatin	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB01098	http://www.disease-ontology.org/term/DOID%3A3393	False
+Rotigotine	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB05271	http://www.disease-ontology.org/term/DOID%3A14330	False
+Rufinamide	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB06201	http://www.disease-ontology.org/term/DOID%3A1826	False
+Ruxolitinib	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB08877	http://www.disease-ontology.org/term/DOID%3A2531	False
+Salbutamol	allergic rhinitis	SYM	SYM					http://www.drugbank.ca/drugs/DB01001	http://www.disease-ontology.org/term/DOID%3A4481	False
+Salbutamol	asthma	SYM	SYM					http://www.drugbank.ca/drugs/DB01001	http://www.disease-ontology.org/term/DOID%3A2841	False
+Salbutamol	chronic obstructive pulmonary disease	SYM	SYM					http://www.drugbank.ca/drugs/DB01001	http://www.disease-ontology.org/term/DOID%3A3083	False
+Salbutamol	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB01001	http://www.disease-ontology.org/term/DOID%3A10763	False
+Salicylic acid	psoriasis	DM	DM					http://www.drugbank.ca/drugs/DB00936	http://www.disease-ontology.org/term/DOID%3A8893	False
+Salsalate	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB01399	http://www.disease-ontology.org/term/DOID%3A7148	False
+Saquinavir	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB01232	http://www.disease-ontology.org/term/DOID%3A635	False
+Scopolamine	Alzheimer's disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00747	http://www.disease-ontology.org/term/DOID%3A10652	False
+Scopolamine	Parkinson's disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00747	http://www.disease-ontology.org/term/DOID%3A14330	False
+Selegiline	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB01037	http://www.disease-ontology.org/term/DOID%3A14330	False
+Selegiline	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB01037	http://www.disease-ontology.org/term/DOID%3A1595	False
+Sertraline	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB01104	http://www.disease-ontology.org/term/DOID%3A14330	False
+Sertraline	autistic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01104	http://www.disease-ontology.org/term/DOID%3A12849	False
+Sertraline	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB01104	http://www.disease-ontology.org/term/DOID%3A1595	False
+Sertraline	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB01104	http://www.disease-ontology.org/term/DOID%3A594	False
+Sertraline	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB01104	http://www.disease-ontology.org/term/DOID%3A5419	False
+Sibutramine	obesity	DM	DM		Pilot classification: disease-modifying; Pilot notes: enhances satiety via CNS			http://www.drugbank.ca/drugs/DB01105	http://www.disease-ontology.org/term/DOID%3A9970	False
+Sildenafil	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00203	http://www.disease-ontology.org/term/DOID%3A2377	False
+Sildenafil	systemic scleroderma	SYM	SYM					http://www.drugbank.ca/drugs/DB00203	http://www.disease-ontology.org/term/DOID%3A418	False
+Simvastatin	atherosclerosis	DM	DM					http://www.drugbank.ca/drugs/DB00641	http://www.disease-ontology.org/term/DOID%3A1936	False
+Simvastatin	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB00641	http://www.disease-ontology.org/term/DOID%3A3393	False
+Simvastatin	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB00641	http://www.disease-ontology.org/term/DOID%3A10763	False
+Simvastatin	type 2 diabetes mellitus	NOT	NOT			HOWEVER WORSENS DISEASE OR CREATES RISK OF DISEASE		http://www.drugbank.ca/drugs/DB00641	http://www.disease-ontology.org/term/DOID%3A9352	False
+Sitagliptin	type 2 diabetes mellitus	DM	DM					http://www.drugbank.ca/drugs/DB01261	http://www.disease-ontology.org/term/DOID%3A9352	False
+Sorafenib	kidney cancer	DM	DM					http://www.drugbank.ca/drugs/DB00398	http://www.disease-ontology.org/term/DOID%3A263	False
+Sorafenib	liver cancer	DM	DM					http://www.drugbank.ca/drugs/DB00398	http://www.disease-ontology.org/term/DOID%3A3571	False
+Sorafenib	thyroid cancer	DM	DM					http://www.drugbank.ca/drugs/DB00398	http://www.disease-ontology.org/term/DOID%3A1781	False
+Spironolactone	epilepsy syndrome	NOT	NOT					http://www.drugbank.ca/drugs/DB00421	http://www.disease-ontology.org/term/DOID%3A1826	False
+Stavudine	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB00649	http://www.disease-ontology.org/term/DOID%3A635	False
+Sucralfate	hypertension	NOT	NOT			SIDE EFFECT		http://www.drugbank.ca/drugs/DB00364	http://www.disease-ontology.org/term/DOID%3A10763	False
+Sulfasalazine	Crohn's disease	DM	DM					http://www.drugbank.ca/drugs/DB00795	http://www.disease-ontology.org/term/DOID%3A8778	False
+Sulfasalazine	ankylosing spondylitis	DM	DM					http://www.drugbank.ca/drugs/DB00795	http://www.disease-ontology.org/term/DOID%3A7147	False
+Sulfasalazine	epilepsy syndrome	NOT	NOT					http://www.drugbank.ca/drugs/DB00795	http://www.disease-ontology.org/term/DOID%3A1826	False
+Sulfasalazine	rheumatoid arthritis	DM	DM					http://www.drugbank.ca/drugs/DB00795	http://www.disease-ontology.org/term/DOID%3A7148	False
+Sulfasalazine	ulcerative colitis	DM	DM					http://www.drugbank.ca/drugs/DB00795	http://www.disease-ontology.org/term/DOID%3A8577	False
+Sulindac	osteoarthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB00605	http://www.disease-ontology.org/term/DOID%3A8398	False
+Sumatriptan	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00669	http://www.disease-ontology.org/term/DOID%3A6364	False
+Sunitinib	kidney cancer	DM	DM					http://www.drugbank.ca/drugs/DB01268	http://www.disease-ontology.org/term/DOID%3A263	False
+Sunitinib	pancreatic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01268	http://www.disease-ontology.org/term/DOID%3A1793	False
+Tacrolimus	atopic dermatitis	DM	DM					http://www.drugbank.ca/drugs/DB00864	http://www.disease-ontology.org/term/DOID%3A3310	False
+Tadalafil	hypertension	DM	DM		pulm htn			http://www.drugbank.ca/drugs/DB00820	http://www.disease-ontology.org/term/DOID%3A10763	False
+Tamoxifen	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00675	http://www.disease-ontology.org/term/DOID%3A1612	False
+Tamsulosin	prostate cancer	SYM	SYM					http://www.drugbank.ca/drugs/DB00706	http://www.disease-ontology.org/term/DOID%3A10283	False
+Tazarotene	psoriasis	DM	DM			Plaque psoriasis		http://www.drugbank.ca/drugs/DB00799	http://www.disease-ontology.org/term/DOID%3A8893	False
+Telbivudine	hepatitis B	DM	DM					http://www.drugbank.ca/drugs/DB01265	http://www.disease-ontology.org/term/DOID%3A2043	False
+Telmisartan	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB00966	http://www.disease-ontology.org/term/DOID%3A3393	False
+Telmisartan	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00966	http://www.disease-ontology.org/term/DOID%3A10763	False
+Temozolomide	brain cancer	DM	DM					http://www.drugbank.ca/drugs/DB00853	http://www.disease-ontology.org/term/DOID%3A1319	False
+Temozolomide	malignant glioma	DM	DM					http://www.drugbank.ca/drugs/DB00853	http://www.disease-ontology.org/term/DOID%3A3070	False
+Temozolomide	skin cancer	NOT	NOT		in research			http://www.drugbank.ca/drugs/DB00853	http://www.disease-ontology.org/term/DOID%3A4159	False
+Temsirolimus	kidney cancer	DM	DM					http://www.drugbank.ca/drugs/DB06287	http://www.disease-ontology.org/term/DOID%3A263	False
+Teniposide	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00444	http://www.disease-ontology.org/term/DOID%3A2531	False
+Teniposide	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB00444	http://www.disease-ontology.org/term/DOID%3A1324	False
+Teniposide	lymphatic system cancer	DM	DM					http://www.drugbank.ca/drugs/DB00444	http://www.disease-ontology.org/term/DOID%3A0060073	False
+Thalidomide	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB01041	http://www.disease-ontology.org/term/DOID%3A2531	False
+Thiotepa	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB04572	http://www.disease-ontology.org/term/DOID%3A1612	False
+Thiotepa	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB04572	http://www.disease-ontology.org/term/DOID%3A2531	False
+Thiotepa	sarcoma	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB04572	http://www.disease-ontology.org/term/DOID%3A1115	False
+Thiotepa	urinary bladder cancer	DM	DM					http://www.drugbank.ca/drugs/DB04572	http://www.disease-ontology.org/term/DOID%3A11054	False
+Thiothixene	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB01623	http://www.disease-ontology.org/term/DOID%3A5419	False
+Tiagabine	epilepsy syndrome	NOT	NOT		can induce sz			http://www.drugbank.ca/drugs/DB00906	http://www.disease-ontology.org/term/DOID%3A1826	False
+Ticagrelor	coronary artery disease	DM	DM			ACUTE CORONARY SYNDROME		http://www.drugbank.ca/drugs/DB08816	http://www.disease-ontology.org/term/DOID%3A3393	False
+Tiludronate	Paget's disease of bone	DM	DM					http://www.drugbank.ca/drugs/DB01133	http://www.disease-ontology.org/term/DOID%3A5408	False
+Timolol	glaucoma	DM	DM					http://www.drugbank.ca/drugs/DB00373	http://www.disease-ontology.org/term/DOID%3A1686	False
+Timolol	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00373	http://www.disease-ontology.org/term/DOID%3A6364	False
+Tioguanine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00352	http://www.disease-ontology.org/term/DOID%3A2531	False
+Tirofiban	coronary artery disease	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00775	http://www.disease-ontology.org/term/DOID%3A3393	False
+Tizanidine	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00697	http://www.disease-ontology.org/term/DOID%3A6364	False
+Tizanidine	multiple sclerosis	SYM	SYM					http://www.drugbank.ca/drugs/DB00697	http://www.disease-ontology.org/term/DOID%3A2377	False
+Tolazoline	atherosclerosis	NOT	NOT					http://www.drugbank.ca/drugs/DB00797	http://www.disease-ontology.org/term/DOID%3A1936	False
+Tolcapone	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00323	http://www.disease-ontology.org/term/DOID%3A14330	False
+Topiramate	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00273	http://www.disease-ontology.org/term/DOID%3A3312	False
+Topiramate	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00273	http://www.disease-ontology.org/term/DOID%3A1826	False
+Topiramate	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00273	http://www.disease-ontology.org/term/DOID%3A6364	False
+Topiramate	obesity	DM	DM					http://www.drugbank.ca/drugs/DB00273	http://www.disease-ontology.org/term/DOID%3A9970	False
+Topotecan	cervical cancer	DM	DM					http://www.drugbank.ca/drugs/DB01030	http://www.disease-ontology.org/term/DOID%3A4362	False
+Topotecan	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB01030	http://www.disease-ontology.org/term/DOID%3A1324	False
+Topotecan	ovarian cancer	DM	DM					http://www.drugbank.ca/drugs/DB01030	http://www.disease-ontology.org/term/DOID%3A2394	False
+Topotecan	peripheral nervous system neoplasm	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB01030	http://www.disease-ontology.org/term/DOID%3A1192	False
+Torasemide	chronic kidney failure	SYM	SYM					http://www.drugbank.ca/drugs/DB00214	http://www.disease-ontology.org/term/DOID%3A784	False
+Toremifene	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00539	http://www.disease-ontology.org/term/DOID%3A1612	False
+Tramadol	restless legs syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00193	http://www.disease-ontology.org/term/DOID%3A0050425	False
+Trandolapril	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00519	http://www.disease-ontology.org/term/DOID%3A10763	False
+Travoprost	hypertension	NOT	NOT					http://www.drugbank.ca/drugs/DB00287	http://www.disease-ontology.org/term/DOID%3A10763	False
+Trazodone	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00656	http://www.disease-ontology.org/term/DOID%3A3312	False
+Trazodone	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB00656	http://www.disease-ontology.org/term/DOID%3A1595	False
+Treprostinil	rheumatoid arthritis	NOT	NOT					http://www.drugbank.ca/drugs/DB00374	http://www.disease-ontology.org/term/DOID%3A7148	False
+Tretinoin	peripheral nervous system neoplasm	NOT	NOT					http://www.drugbank.ca/drugs/DB00755	http://www.disease-ontology.org/term/DOID%3A1192	False
+Triamcinolone	alopecia areata	DM	DM					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A986	False
+Triamcinolone	anemia	NOT	NOT					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A2355	False
+Triamcinolone	atopic dermatitis	DM	DM					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A3310	False
+Triamcinolone	epilepsy syndrome	NOT	NOT					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A1826	False
+Triamcinolone	hematologic cancer	NOT	NOT					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A2531	False
+Triamcinolone	multiple sclerosis	NOT	NOT					http://www.drugbank.ca/drugs/DB00620	http://www.disease-ontology.org/term/DOID%3A2377	False
+Trifluoperazine	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00831	http://www.disease-ontology.org/term/DOID%3A5419	False
+Trihexyphenidyl	Parkinson's disease	SYM	SYM					http://www.drugbank.ca/drugs/DB00376	http://www.disease-ontology.org/term/DOID%3A14330	False
+Trimethadione	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00347	http://www.disease-ontology.org/term/DOID%3A1826	False
+Trimethoprim	asthma	NOT	NOT					http://www.drugbank.ca/drugs/DB00440	http://www.disease-ontology.org/term/DOID%3A2841	False
+Triprolidine	atopic dermatitis	SYM	SYM					http://www.drugbank.ca/drugs/DB00427	http://www.disease-ontology.org/term/DOID%3A3310	False
+Trisalicylate-choline	psoriasis	SYM	SYM					http://www.drugbank.ca/drugs/DB01401	http://www.disease-ontology.org/term/DOID%3A8893	False
+Trisalicylate-choline	rheumatoid arthritis	SYM	SYM					http://www.drugbank.ca/drugs/DB01401	http://www.disease-ontology.org/term/DOID%3A7148	False
+Ursodeoxycholic acid	primary biliary cirrhosis	SYM	SYM					http://www.drugbank.ca/drugs/DB01586	http://www.disease-ontology.org/term/DOID%3A12236	False
+Valproic Acid	Alzheimer's disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00313	http://www.disease-ontology.org/term/DOID%3A10652	False
+Valproic Acid	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00313	http://www.disease-ontology.org/term/DOID%3A3312	False
+Valproic Acid	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00313	http://www.disease-ontology.org/term/DOID%3A6364	False
+Valrubicin	urinary bladder cancer	DM	DM					http://www.drugbank.ca/drugs/DB00385	http://www.disease-ontology.org/term/DOID%3A11054	False
+Valsartan	coronary artery disease	DM	DM					http://www.drugbank.ca/drugs/DB00177	http://www.disease-ontology.org/term/DOID%3A3393	False
+Valsartan	hypertension	DM	DM					http://www.drugbank.ca/drugs/DB00177	http://www.disease-ontology.org/term/DOID%3A10763	False
+Valsartan	type 2 diabetes mellitus	NOT	NOT			Used to prevent complication of DM		http://www.drugbank.ca/drugs/DB00177	http://www.disease-ontology.org/term/DOID%3A9352	False
+Vandetanib	thyroid cancer	DM	DM					http://www.drugbank.ca/drugs/DB05294	http://www.disease-ontology.org/term/DOID%3A1781	False
+Varenicline	type 2 diabetes mellitus	NOT	NOT			Worsens disease		http://www.drugbank.ca/drugs/DB01273	http://www.disease-ontology.org/term/DOID%3A9352	False
+Vemurafenib	melanoma	DM	DM					http://www.drugbank.ca/drugs/DB08881	http://www.disease-ontology.org/term/DOID%3A1909	False
+Vemurafenib	skin cancer	DM	DM					http://www.drugbank.ca/drugs/DB08881	http://www.disease-ontology.org/term/DOID%3A4159	False
+Venlafaxine	attention deficit hyperactivity disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00285	http://www.disease-ontology.org/term/DOID%3A1094	False
+Venlafaxine	panic disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00285	http://www.disease-ontology.org/term/DOID%3A594	False
+Verapamil	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00661	http://www.disease-ontology.org/term/DOID%3A6364	False
+Vigabatrin	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB01080	http://www.disease-ontology.org/term/DOID%3A1826	False
+Vilazodone	endogenous depression	SYM	SYM					http://www.drugbank.ca/drugs/DB06684	http://www.disease-ontology.org/term/DOID%3A1595	False
+Vinblastine	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A1612	False
+Vinblastine	germ cell cancer	DM	DM					http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A2994	False
+Vinblastine	head and neck cancer	DM	DM					http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A11934	False
+Vinblastine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A2531	False
+Vinblastine	kidney cancer	DM	DM					http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A263	False
+Vinblastine	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A1324	False
+Vinblastine	testicular cancer	DM	DM					http://www.drugbank.ca/drugs/DB00570	http://www.disease-ontology.org/term/DOID%3A2998	False
+Vincristine	colon cancer	DM	DM					http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A219	False
+Vincristine	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A2531	False
+Vincristine	kidney cancer	DM	DM					http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A263	False
+Vincristine	lymphatic system cancer	DM	DM					http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A0060073	False
+Vincristine	muscle cancer	DM	DM					http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A4045	False
+Vincristine	sarcoma	DM	DM					http://www.drugbank.ca/drugs/DB00541	http://www.disease-ontology.org/term/DOID%3A1115	False
+Vinorelbine	breast cancer	DM	DM					http://www.drugbank.ca/drugs/DB00361	http://www.disease-ontology.org/term/DOID%3A1612	False
+Vinorelbine	lung cancer	DM	DM					http://www.drugbank.ca/drugs/DB00361	http://www.disease-ontology.org/term/DOID%3A1324	False
+Vismodegib	skin cancer	DM	DM					http://www.drugbank.ca/drugs/DB08828	http://www.disease-ontology.org/term/DOID%3A4159	False
+Vitamin C	prostate cancer	DM	DM		Pilot classification: disease-modifying; Pilot notes:			http://www.drugbank.ca/drugs/DB00126	http://www.disease-ontology.org/term/DOID%3A10283	False
+Vitamin E	Alzheimer's disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00163	http://www.disease-ontology.org/term/DOID%3A10652	False
+Vorinostat	hematologic cancer	DM	DM					http://www.drugbank.ca/drugs/DB02546	http://www.disease-ontology.org/term/DOID%3A2531	False
+WF10	chronic obstructive pulmonary disease	NOT	NOT		in research			http://www.drugbank.ca/drugs/DB05389	http://www.disease-ontology.org/term/DOID%3A3083	False
+WF10	hypertension	NOT	NOT		in research			http://www.drugbank.ca/drugs/DB05389	http://www.disease-ontology.org/term/DOID%3A10763	False
+Zafirlukast	asthma	DM	DM					http://www.drugbank.ca/drugs/DB00549	http://www.disease-ontology.org/term/DOID%3A2841	False
+Zidovudine	acquired immunodeficiency syndrome	DM	DM					http://www.drugbank.ca/drugs/DB00495	http://www.disease-ontology.org/term/DOID%3A635	False
+Ziprasidone	Gilles de la Tourette syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00246	http://www.disease-ontology.org/term/DOID%3A11119	False
+Ziprasidone	bipolar disorder	SYM	SYM					http://www.drugbank.ca/drugs/DB00246	http://www.disease-ontology.org/term/DOID%3A3312	False
+Ziprasidone	schizophrenia	SYM	SYM					http://www.drugbank.ca/drugs/DB00246	http://www.disease-ontology.org/term/DOID%3A5419	False
+Zoledronate	Paget's disease of bone	DM	DM					http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A5408	False
+Zoledronate	osteoporosis	DM	DM					http://www.drugbank.ca/drugs/DB00399	http://www.disease-ontology.org/term/DOID%3A11476	False
+Zolmitriptan	migraine	SYM	SYM					http://www.drugbank.ca/drugs/DB00315	http://www.disease-ontology.org/term/DOID%3A6364	False
+Zolpidem	chronic obstructive pulmonary disease	NOT	NOT					http://www.drugbank.ca/drugs/DB00425	http://www.disease-ontology.org/term/DOID%3A3083	False
+Zolpidem	rheumatoid arthritis	NOT	NOT					http://www.drugbank.ca/drugs/DB00425	http://www.disease-ontology.org/term/DOID%3A7148	False
+Zolpidem	systemic scleroderma	NOT	NOT					http://www.drugbank.ca/drugs/DB00425	http://www.disease-ontology.org/term/DOID%3A418	False
+Zonisamide	epilepsy syndrome	SYM	SYM					http://www.drugbank.ca/drugs/DB00909	http://www.disease-ontology.org/term/DOID%3A1826	False
