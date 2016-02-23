@@ -1,0 +1,125 @@
+disease	drug	AJG	CSH	PK	AJG_notes	CSH_notes	PK_notes	doid_id	drugbank_id	majority
+Alzheimer's disease	Galantamine	SYM	SYM	DM			same as donepezil	DOID:10652	DB00674	SYM
+Alzheimer's disease	Memantine	SYM	SYM	DM			"""neuroprotective"", doesn't treat any symptom"	DOID:10652	DB01043	SYM
+Alzheimer's disease	Rivastigmine	SYM	SYM	DM			same as donepezil	DOID:10652	DB00989	SYM
+Parkinson's disease	Citalopram	SYM	SYM	NOT			who treats parkinson's with SSRIs?	DOID:14330	DB00215	SYM
+Parkinson's disease	Escitalopram	SYM	SYM	NOT			who treats parkinson's with SSRIs?	DOID:14330	DB01175	SYM
+Parkinson's disease	Sertraline	SYM	SYM	NOT			who treats parkinson's with SSRIs?	DOID:14330	DB01104	SYM
+allergic rhinitis	Diphenhydramine	SYM	SYM	DM			see note on antihistamines and steroids in allergic rhinitis	DOID:4481	DB01075	SYM
+allergic rhinitis	Flunisolide	SYM	SYM	DM		Pilot classification: symptomatic; Pilot notes:	see note on antihistamines and steroids in allergic rhinitis	DOID:4481	DB00180	SYM
+allergic rhinitis	Loratadine	SYM	SYM	DM			see note on antihistamines and steroids in allergic rhinitis	DOID:4481	DB00455	SYM
+anemia	Folic Acid	DM	DM	NOT	Megaloblastic type			DOID:2355	DB00158	DM
+anemia	Methylprednisolone	SYM	SYM	NOT				DOID:2355	DB00959	SYM
+anemia	Pyridoxine	DM	DM	NOT	For pyrodoxine responsive anemia	for B6 def anemia		DOID:2355	DB00165	DM
+ankylosing spondylitis	Methylprednisolone	SYM	SYM	DM				DOID:7147	DB00959	SYM
+ankylosing spondylitis	Prednisone	SYM	SYM	DM				DOID:7147	DB00635	SYM
+asthma	Aminophylline	SYM	SYM	DM			same as theophylline	DOID:2841	DB01223	SYM
+asthma	Dexamethasone	SYM	SYM	DM			see notes on asthma	DOID:2841	DB01234	SYM
+asthma	Dyphylline	SYM	SYM	DM			same as theophylline	DOID:2841	DB00651	SYM
+asthma	Fluticasone Propionate	SYM	SYM	DM			see notes on asthma	DOID:2841	DB00588	SYM
+asthma	Fluticasone furoate	SYM	SYM	DM			see notes on asthma	DOID:2841	DB08906	SYM
+asthma	Hydrocortisone	SYM	SYM	DM		hm.	see notes on asthma	DOID:2841	DB00741	SYM
+asthma	Isoetarine	SYM	SYM	DM			see notes on asthma	DOID:2841	DB00221	SYM
+asthma	Isoprenaline	SYM	SYM	DM			see notes on asthma	DOID:2841	DB01064	SYM
+asthma	Loratadine	SYM	SYM	DM			see notes on asthma	DOID:2841	DB00455	SYM
+asthma	Salbutamol	SYM	SYM	DM			see notes on asthma	DOID:2841	DB01001	SYM
+atopic dermatitis	Diphenhydramine	SYM	SYM	DM			see notes on atopic dermatitis	DOID:3310	DB01075	SYM
+breast cancer	Estradiol valerate/Dienogest	DM	DM	SYM			it can CAUSE breast cancer but it palliates symptoms in metastatic breast cancer	DOID:1612	DB08866	DM
+breast cancer	Ethinyl Estradiol	DM	DM	SYM		Pilot classification: disease-modifying; Pilot notes: estrogens can stimulate progression of ER+BrCa but high-dose estrogens may suppress their growth	it can CAUSE breast cancer but it palliates symptoms in metastatic breast cancer	DOID:1612	DB00977	DM
+breast cancer	Medroxyprogesterone Acetate	NOT	NOT	SYM			it can CAUSE breast cancer but it palliates symptoms in metastatic breast cancer	DOID:1612	DB00603	NOT
+breast cancer	Megestrol acetate	DM	DM	SYM			it can CAUSE breast cancer but it palliates symptoms in metastatic breast cancer	DOID:1612	DB00351	DM
+chronic obstructive pulmonary disease	Acetylcysteine	DM	DM	SYM			mucolytic, does not affect disease biology	DOID:3083	DB06151	DM
+chronic obstructive pulmonary disease	Aminophylline	SYM	SYM	DM			see notes for COPD	DOID:3083	DB01223	SYM
+chronic obstructive pulmonary disease	Levofloxacin	NOT	NOT	SYM			see notes for COPD	DOID:3083	DB01137	NOT
+chronic obstructive pulmonary disease	Ofloxacin	NOT	NOT	SYM	USED TO TREAT COMPLICATION OR PREVENT INFECTION		similar to doxycycline	DOID:3083	DB01165	NOT
+chronic obstructive pulmonary disease	Salbutamol	SYM	SYM	DM			see notes for COPD	DOID:3083	DB01001	SYM
+coronary artery disease	Digoxin	NOT	NOT	SYM			per assumption 2	DOID:3393	DB00390	NOT
+coronary artery disease	Penbutolol	NOT	NOT	DM			it's a beta blocker, it is not the first line beta-blocker, but all beta-blockers are likely to be DM	DOID:3393	DB01359	NOT
+epilepsy syndrome	Amobarbital	SYM	SYM	DM				DOID:1826	DB01351	SYM
+epilepsy syndrome	Carbamazepine	SYM	SYM	DM				DOID:1826	DB00564	SYM
+epilepsy syndrome	Clobazam	SYM	SYM	DM				DOID:1826	DB00349	SYM
+epilepsy syndrome	Clonazepam	SYM	SYM	DM				DOID:1826	DB01068	SYM
+epilepsy syndrome	Diazepam	SYM	SYM	DM				DOID:1826	DB00829	SYM
+epilepsy syndrome	Fosphenytoin	SYM	SYM	DM				DOID:1826	DB01320	SYM
+epilepsy syndrome	Gabapentin	SYM	SYM	DM				DOID:1826	DB00996	SYM
+epilepsy syndrome	Lacosamide	SYM	SYM	DM				DOID:1826	DB06218	SYM
+epilepsy syndrome	Lamotrigine	SYM	SYM	DM				DOID:1826	DB00555	SYM
+epilepsy syndrome	Levetiracetam	SYM	SYM	DM				DOID:1826	DB01202	SYM
+epilepsy syndrome	Midazolam	SYM	SYM	DM				DOID:1826	DB00683	SYM
+epilepsy syndrome	Oxcarbazepine	SYM	SYM	DM				DOID:1826	DB00776	SYM
+epilepsy syndrome	Phenobarbital	SYM	SYM	DM			amendment 1	DOID:1826	DB01174	SYM
+epilepsy syndrome	Phenytoin	SYM	SYM	DM			amendment 1	DOID:1826	DB00252	SYM
+epilepsy syndrome	Pregabalin	SYM	SYM	DM				DOID:1826	DB00230	SYM
+epilepsy syndrome	Primidone	SYM	SYM	DM				DOID:1826	DB00794	SYM
+epilepsy syndrome	Propofol	SYM	SYM	DM		Pilot classification: symptomatic; Pilot notes:		DOID:1826	DB00818	SYM
+epilepsy syndrome	Rufinamide	SYM	SYM	DM				DOID:1826	DB06201	SYM
+epilepsy syndrome	Topiramate	SYM	SYM	DM				DOID:1826	DB00273	SYM
+epilepsy syndrome	Trimethadione	SYM	SYM	DM				DOID:1826	DB00347	SYM
+epilepsy syndrome	Vigabatrin	SYM	SYM	DM				DOID:1826	DB01080	SYM
+epilepsy syndrome	Zonisamide	SYM	SYM	DM				DOID:1826	DB00909	SYM
+esophageal cancer	Omeprazole	NOT	NOT	SYM	Prevents		should match esomeprazole, agree with AJG note too	DOID:5041	DB00338	NOT
+gout	Hydrocortisone	SYM	SYM	DM			has to match prednisone	DOID:13189	DB00741	SYM
+gout	Indomethacin	SYM	SYM	DM			typically used for acute flares, but also rarely used for chronic disease (amendment 2) and therefore by the same rationalization as allopurinol it should be DM; furthermore -- see link for NSAIDs for gout prophylaxis (http://www.rheumatology.org/Portals/0/Files/Gout_Part_2_ACR-12.pdf)	DOID:13189	DB00328	SYM
+gout	Methylprednisolone	SYM	SYM	DM			has to match prednisone	DOID:13189	DB00959	SYM
+gout	Naproxen	SYM	SYM	DM			typically used for acute flares, but also rarely used for chronic disease (amendment 2) and therefore by the same rationalization as allopurinol it should be DM; furthermore -- see link for NSAIDs for gout prophylaxis (http://www.rheumatology.org/Portals/0/Files/Gout_Part_2_ACR-12.pdf)	DOID:13189	DB00788	SYM
+hematologic cancer	Prednisolone	SYM	SYM	DM			see notes on steroids in cancers	DOID:2531	DB00860	SYM
+hematologic cancer	Prednisone	SYM	SYM	DM			see notes on steroids in cancers	DOID:2531	DB00635	SYM
+hematologic cancer	Triamcinolone	NOT	NOT	DM			see notes on steroids in cancers	DOID:2531	DB00620	NOT
+hypertension	Bosentan	DM	DM	NOT			see notes for pulmonary hypertension drugs in HTN	DOID:10763	DB00559	DM
+hypertension	Ethacrynic acid	SYM	SYM	DM		loop diuretic	see notes for diuretics in HTN	DOID:10763	DB00903	SYM
+hypertension	Furosemide	SYM	SYM	DM			see notes for diuretics in HTN	DOID:10763	DB00695	SYM
+hypertension	Hydroflumethiazide	SYM	SYM	DM		diuretic	see notes for diuretics in HTN	DOID:10763	DB00774	SYM
+hypertension	Iloprost	DM	DM	NOT			see notes for pulmonary hypertension drugs in HTN	DOID:10763	DB01088	DM
+hypertension	Nicardipine	SYM	SYM	DM		acute	It is also used in chronic DM by amendment 1	DOID:10763	DB00622	SYM
+hypertension	Nitric Oxide	DM	DM	NOT		pulm htn	see notes for pulmonary hypertension drugs in HTN	DOID:10763	DB00435	DM
+hypertension	Nitroglycerin	SYM	SYM	NOT			whatever you call it, it has to match isosorbide dinitrate	DOID:10763	DB00727	SYM
+hypertension	Nitroprusside	SYM	SYM	NOT			whatever you call it, it has to match isosorbide dinitrate	DOID:10763	DB00325	SYM
+hypertension	Tadalafil	DM	DM	NOT		pulm htn	see notes for pulmonary hypertension drugs in HTN	DOID:10763	DB00820	DM
+kidney cancer	Omeprazole	NOT	NOT	SYM			should match esomeprazole	DOID:263	DB00338	NOT
+migraine	Gabapentin	SYM	SYM	DM			see notes on migraine	DOID:6364	DB00996	SYM
+migraine	Propranolol	SYM	SYM	DM			see notes on migraine	DOID:6364	DB00571	SYM
+migraine	Timolol	SYM	SYM	DM			see notes on migraine	DOID:6364	DB00373	SYM
+migraine	Topiramate	SYM	SYM	DM			see notes on migraine	DOID:6364	DB00273	SYM
+migraine	Valproic Acid	SYM	SYM	DM			see notes on migraine	DOID:6364	DB00313	SYM
+migraine	Verapamil	SYM	SYM	DM			see notes on migraine	DOID:6364	DB00661	SYM
+multiple sclerosis	Betamethasone	SYM	SYM	DM				DOID:2377	DB00443	SYM
+multiple sclerosis	Dexamethasone	SYM	SYM	DM				DOID:2377	DB01234	SYM
+multiple sclerosis	Methylprednisolone	SYM	SYM	DM				DOID:2377	DB00959	SYM
+multiple sclerosis	Prednisolone	SYM	SYM	DM		Pilot classification: symptomatic; Pilot notes:		DOID:2377	DB00860	SYM
+multiple sclerosis	Prednisone	SYM	SYM	DM				DOID:2377	DB00635	SYM
+multiple sclerosis	Triamcinolone	NOT	NOT	DM				DOID:2377	DB00620	NOT
+pancreatitis	Hyoscyamine	SYM	SYM	DM			same as propantheline	DOID:4989	DB00424	SYM
+peripheral nervous system neoplasm	Tretinoin	NOT	NOT	DM			can treat sarcomas (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4174344/) and per amendment 1	DOID:1192	DB00755	NOT
+primary biliary cirrhosis	Colchicine	NOT	NOT	DM			"admittedly less evidence, but see uptodate ""Overview of the treatment of primary biliary cholangitis (primary biliary cirrhosis)"""	DOID:12236	DB01394	NOT
+primary biliary cirrhosis	Ursodeoxycholic acid	SYM	SYM	DM			"doesn't treat any symptom, only modifies disease, see uptodate ''Overview of the treatment of primary biliary cholangitis (primary biliary cirrhosis)"""	DOID:12236	DB01586	SYM
+prostate cancer	Omeprazole	NOT	NOT	SYM			should match esomeprazole	DOID:10283	DB00338	NOT
+prostate cancer	Prednisone	SYM	SYM	DM				DOID:10283	DB00635	SYM
+psoriasis	Betamethasone	SYM	SYM	DM				DOID:8893	DB00443	SYM
+psoriasis	Dexamethasone	SYM	SYM	DM				DOID:8893	DB01234	SYM
+psoriasis	Magnesium salicylate	NOT	NOT	SYM			should agree with salicylate-sodium (active ingredient is the same)	DOID:8893	DB01397	NOT
+psoriasis	Prednisolone	SYM	SYM	DM				DOID:8893	DB00860	SYM
+psoriasis	Prednisone	SYM	SYM	DM				DOID:8893	DB00635	SYM
+psoriasis	Salicylic acid	DM	DM	SYM			should agree with salicylate-sodium (active ingredient is the same)	DOID:8893	DB00936	DM
+psoriatic arthritis	Betamethasone	SYM	SYM	DM				DOID:9008	DB00443	SYM
+psoriatic arthritis	Dexamethasone	SYM	SYM	DM				DOID:9008	DB01234	SYM
+psoriatic arthritis	Methylprednisolone	SYM	SYM	DM				DOID:9008	DB00959	SYM
+psoriatic arthritis	Prednisolone	SYM	SYM	DM				DOID:9008	DB00860	SYM
+psoriatic arthritis	Prednisone	SYM	SYM	DM				DOID:9008	DB00635	SYM
+rheumatoid arthritis	Betamethasone	SYM	SYM	DM			see notes for rheumatoid arthritis steroids	DOID:7148	DB00443	SYM
+rheumatoid arthritis	Dexamethasone	SYM	SYM	DM			see notes for rheumatoid arthritis steroids	DOID:7148	DB01234	SYM
+rheumatoid arthritis	Hydrocortisone	SYM	SYM	DM			see notes for rheumatoid arthritis steroids	DOID:7148	DB00741	SYM
+skin cancer	Temozolomide	NOT	NOT	DM		in research	melanoma	DOID:4159	DB00853	NOT
+systemic lupus erythematosus	Acetylsalicylic acid	DM	DM	SYM		not really confident about this one.	I think this should agree with other NSAIDs	DOID:9074	DB00945	DM
+systemic lupus erythematosus	Betamethasone	SYM	SYM	DM			see notes for lupus	DOID:9074	DB00443	SYM
+systemic lupus erythematosus	Dexamethasone	SYM	SYM	DM			see notes for lupus	DOID:9074	DB01234	SYM
+systemic lupus erythematosus	Hydrocortisone	SYM	SYM	DM			see notes for lupus	DOID:9074	DB00741	SYM
+systemic scleroderma	Pentoxifylline	SYM	SYM	DM			affects the biology of the disease, thereby easing symptoms	DOID:418	DB00806	SYM
+systemic scleroderma	Prednisone	SYM	SYM	DM				DOID:418	DB00635	SYM
+type 1 diabetes mellitus	Ramipril	NOT	NOT	DM				DOID:9744	DB00178	NOT
+type 2 diabetes mellitus	Losartan	NOT	NOT	DM			ARB, see notes	DOID:9352	DB00678	NOT
+type 2 diabetes mellitus	Ramipril	NOT	NOT	DM			ACEi, see notes	DOID:9352	DB00178	NOT
+type 2 diabetes mellitus	Valsartan	NOT	NOT	DM	Used to prevent complication of DM		ARB, see notes	DOID:9352	DB00177	NOT
+ulcerative colitis	Betamethasone	SYM	SYM	DM				DOID:8577	DB00443	SYM
+ulcerative colitis	Dexamethasone	SYM	SYM	DM				DOID:8577	DB01234	SYM
+ulcerative colitis	Hydrocortisone	SYM	SYM	DM				DOID:8577	DB00741	SYM
+ulcerative colitis	Prednisolone	SYM	SYM	DM				DOID:8577	DB00860	SYM

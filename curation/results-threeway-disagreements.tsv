@@ -1,0 +1,35 @@
+disease	drug	AJG	CSH	PK	AJG_notes	CSH_notes	PK_notes	doid_id	drugbank_id	majority
+allergic rhinitis	Dimenhydrinate	NOT	SYM	DM			"it blocks histamine-H1 just like benadryl. Granted, one would never actually use this in clinic (you would just use benadryl given better efficacy and less side effects), but given the mechanism of action there is ""reasonable evidence of efficacy"""	DOID:4481	DB00985	
+anemia	Deferiprone	SYM	DM	NOT				DOID:2355	DB08826	
+atopic dermatitis	Dimenhydrinate	NOT	SYM	DM			"it blocks histamine-H1 just like benadryl. Granted, one would never actually use this in clinic (you would just use benadryl given better efficacy and less side effects), but given the mechanism of action there is ""reasonable evidence of efficacy"""	DOID:3310	DB00985	
+bone cancer	Leucovorin	DM	SYM	NOT		an adjuvant med for chemo	treats symptoms of chemo, not symptoms of disease	DOID:184	DB00650	
+bone cancer	Zoledronate	SYM	DM	NOT			see note on bisphosphonates in cancer	DOID:184	DB00399	
+breast cancer	Conjugated Estrogens	DM	NOT	SYM			it can CAUSE breast cancer but it palliates symptoms in metastatic breast cancer	DOID:1612	DB00286	
+breast cancer	Estradiol	NOT	DM	SYM	Worsens		it can CAUSE breast cancer but it palliates symptoms in metastatic breast cancer	DOID:1612	DB00783	
+breast cancer	Estrone	DM	NOT	SYM			it can CAUSE breast cancer but it palliates symptoms in metastatic breast cancer	DOID:1612	DB00655	
+breast cancer	Methyltestosterone	NOT	DM	SYM	Risk		it can CAUSE breast cancer but it palliates symptoms in metastatic breast cancer	DOID:1612	DB06710	
+breast cancer	Testosterone	DM	NOT	SYM			in males it can CAUSE breast cancer but it palliates symptoms in metastatic breast cancer	DOID:1612	DB00624	
+breast cancer	Testosterone Propionate	DM	NOT	SYM			in males it can CAUSE breast cancer but it palliates symptoms in metastatic breast cancer	DOID:1612	DB01420	
+colon cancer	Leucovorin	DM	SYM	NOT				DOID:219	DB00650	
+coronary artery disease	Furosemide	NOT	SYM	DM			see notes on coronary artery disease	DOID:3393	DB00695	
+coronary artery disease	Timolol	SYM	NOT	DM			per uptodate	DOID:3393	DB00373	
+dilated cardiomyopathy	Digoxin	NOT	DM	SYM			see uptodate: Overview of the therapy of heart failure with reduced ejection fraction	DOID:12930	DB00390	
+epilepsy syndrome	Acetazolamide	SYM	NOT	DM		hm. Can be used for seizures but not great drug	amendment 2	DOID:1826	DB00819	
+hematologic cancer	Betamethasone	NOT	SYM	DM			see notes on steroids in cancers	DOID:2531	DB00443	
+hematologic cancer	Dexamethasone	NOT	SYM	DM			see notes on steroids in cancers	DOID:2531	DB01234	
+hypertension	Bepridil	SYM	NOT	DM			has antihypertensive effects, see my notes on HTN drugs, also amendment 1	DOID:10763	DB01244	
+hypertension	Mecamylamine	SYM	NOT	DM		not used anymore	by amendment 1	DOID:10763	DB00657	
+hypertension	Minoxidil	SYM	NOT	DM		not used anymore	by amendment 1	DOID:10763	DB00350	
+hypertension	Reserpine	SYM	NOT	DM		rarely used	by amendment 1	DOID:10763	DB00206	
+hypertension	Spironolactone	SYM	NOT	DM			see notes for diuretics in HTN	DOID:10763	DB00421	
+hypertension	Torasemide	SYM	NOT	DM			see notes for diuretics in HTN	DOID:10763	DB00214	
+malaria	Sulfadiazine	SYM	NOT	DM	SUPPORTIVE FOR ANTMALARIAL	not used anymore	amendment 1	DOID:12365	DB00359	
+metabolic syndrome X	Ergocalciferol	DM	SYM	NOT			would you give this med to anyone who has metabolic syndrome X but does not also have vitamin D deficiency?	DOID:14221	DB00153	
+obesity	Methamphetamine	NOT	SYM	DM		tough decision	amendment 1	DOID:9970	DB01577	
+primary biliary cirrhosis	Chenodeoxycholic acid	NOT	SYM	DM			"in trials, see uptodate ""Overview of the treatment of primary biliary cholangitis (primary biliary cirrhosis)"""	DOID:12236	DB06777	
+prostate cancer	Finasteride	DM	SYM	NOT			prevents but doesn't treat it. Not sure what the symptomatic thing CSH refers to, does she mean symptoms of BPH? (and if so isn't that a different disease?)	DOID:10283	DB01216	
+systemic scleroderma	Colchicine	DM	NOT	SYM			for arthralgia, not aware of disease modification	DOID:418	DB01394	
+systemic scleroderma	Epoprostenol	DM	NOT	SYM		?raynauds	not aware of disease modification, agree with CSH comment re: symptom	DOID:418	DB01240	
+type 1 diabetes mellitus	Sildenafil	DM	NOT	SYM			may be DM for DM2 but not for DM1 (http://care.diabetesjournals.org/content/26/2/279.full)	DOID:9744	DB00203	
+type 2 diabetes mellitus	Chlorpropamide	SYM	NOT	DM		no longer recommended due to side effects	by amendment 1	DOID:9352	DB00672	
+type 2 diabetes mellitus	Irbesartan	SYM	NOT	DM			ARB, see notes	DOID:9352	DB01029	
